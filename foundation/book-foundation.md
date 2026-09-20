@@ -1,6 +1,6 @@
 # Book Foundation — Memimpin Diri, Memimpin Sesama
 
-> Status: **Foundation v0.1 — conceptual foundation established; evidence research and red-team validation remain required.**
+> Status: **Foundation v0.2 — refined after red-team and evidence passes; architecture still provisional.**
 >
 > Dokumen ini menerjemahkan intake menjadi model intelektual buku. Arsitektur bab di sini adalah kandidat, bukan keputusan final.
 
@@ -52,6 +52,10 @@ Pembaca akan mampu:
 - memilih kapan berbicara, bertanya, diam, menunda, menolak, mengeskalasi, atau bertindak;
 - menyampaikan ketidaksetujuan tanpa mengubah perbedaan substansi menjadi serangan personal;
 - mendengarkan keluhan tanpa ikut memperbesar emosi;
+- membaca lawan bicara tanpa menganggap interpretasi sebagai fakta;
+- menghargai orang lain tanpa harus menyetujui pendapatnya;
+- mengenali kecenderungan meremehkan, merasa paling tahu, atau mempertahankan ego;
+- menerima koreksi dan mengubah pandangan ketika evidence mengharuskannya;
 - mengubah masalah menjadi framing dan pilihan tindakan;
 - mempertimbangkan trade-off dan konsekuensi tingkat kedua;
 - membaca dinamika pengaruh dan kepentingan secara defensif dan etis;
@@ -64,7 +68,7 @@ Pembaca akan mampu:
 |---|---|
 | Bagaimana mengendalikan diri sebelum mengendalikan situasi? | Self-leadership, EQ, emotion regulation |
 | Bagaimana memilih respons yang tepat? | Situational judgment, reasoning, decision making |
-| Bagaimana berbicara tanpa merusak hubungan? | Communication, listening, conflict |
+| Bagaimana membaca dan memahami lawan bicara lalu berbicara tanpa merusak hubungan? | Communication, listening, perspective-taking, humility, conflict |
 | Bagaimana mengubah masalah menjadi solusi? | Problem framing, problem solving, decision making |
 | Bagaimana menghadapi kepentingan dan pengaruh? | Organizational dynamics, power, influence, ethics |
 | Bagaimana memimpin tanpa jabatan? | Leadership, trust, accountability, credibility |
@@ -76,12 +80,12 @@ Pembaca akan mampu:
 
 | Domain | Purpose | Core concepts | Evidence needs | Dependencies |
 |---|---|---|---|---|
-| Self-leadership | Membentuk kemampuan mengarahkan diri | self-awareness, self-control, ego, agency, values | psikologi, behavioral science | conceptual model |
+| Self-leadership | Membentuk kemampuan mengarahkan diri | self-awareness, self-control, ego, agency, values, humility | psikologi, behavioral science | conceptual model |
 | Emotional intelligence & regulation | Mengelola emosi tanpa menekan atau menuruti impuls secara otomatis | emotion identification, regulation, reappraisal, empathy | riset psikologi | self-leadership |
 | Resilience & persistence | Tetap efektif di bawah tekanan/kegagalan | coping, recovery, persistence, adaptation | psikologi/behavioral science | self-leadership |
 | Situational judgment | Membaca situasi sebelum memilih respons | context, stakes, uncertainty, timing, proportionality | decision science, organizational behavior | self + reasoning |
-| Communication | Menghasilkan pemahaman tanpa memperbesar konflik | listening, framing, diction, feedback, difficult conversation | communication research + cases | situational judgment |
-| Relationship & conflict | Memelihara trust sambil menjaga batas | trust, respect, conflict, boundaries, psychological safety | organizational psychology | communication |
+| Communication | Menghasilkan pemahaman tanpa memperbesar konflik | listening, perspective-taking, framing, diction, feedback, difficult conversation | communication research + cases | situational judgment |
+| Relationship & conflict | Memelihara trust sambil menjaga batas | trust, respect, humility, conflict, boundaries, psychological safety | organizational psychology | communication |
 | Problem solving | Mengubah keluhan menjadi masalah yang dapat ditangani | problem framing, root causes, options, constraints | decision/problem-solving literature | situational judgment |
 | Decision making | Memilih tindakan dengan informasi dan risiko terbatas | trade-offs, uncertainty, escalation, reversibility | decision science | problem solving |
 | Leadership | Mempengaruhi arah dan perilaku melalui kredibilitas dan tanggung jawab | ownership, accountability, influence, empowerment | leadership research | self + communication |
@@ -96,9 +100,7 @@ Pembaca akan mampu:
 
 ### Mental model
 
-Buku menggunakan **Response-to-Leadership Loop** sebagai model kerja sementara:
 
-**1. Stimulus**
 → sesuatu terjadi.
 
 **2. Read**
@@ -123,6 +125,43 @@ Buku menggunakan **Response-to-Leadership Loop** sebagai model kerja sementara:
 → jadikan pengalaman sebagai data untuk respons berikutnya.
 
 Model ini belum dianggap teori ilmiah baru. Ia adalah **kerangka pedagogis buku** yang harus dipetakan ke evidence domain masing-masing.
+
+### Canonical stages
+
+1. **Stimulus / Situation** — sesuatu terjadi.
+2. **Read Self + Read Situation + Read Other** — baca fakta, konteks, keadaan diri, serta hipotesis tentang perspektif pihak lain.
+3. **Regulate** — kelola emosi, ego, dorongan membalas, dan kebutuhan mempertahankan muka tanpa menekan emosi secara otomatis.
+4. **Reframe** — tentukan masalah, kepentingan, batas, dan konteks.
+5. **Choose** — pilih respons yang proporsional terhadap tujuan, nilai, risiko, waktu, otoritas, dan hubungan.
+6. **Communicate / Act** — bicara, bertanya, diam, menunda, menolak, bertindak, bernegosiasi, atau mengeskalasi.
+7. **Observe Consequences** — lihat respons dan akibat.
+8. **Review** — nilai proses dan hasil tanpa hindsight bias.
+9. **Learn** — ubah pengalaman menjadi pembelajaran yang dapat digunakan pada situasi berikutnya.
+
+### Communication capability
+
+Komunikasi efektif memiliki canonical process:
+
+**Prepare → Attend → Clarify → Understand → Frame → Express → Check → Adjust**
+
+Lapisan bahasa seperti diction, softening words, metafora, humor, disagreement language, feedback language, dan escalation language berada setelah reasoning dan audience-reading, bukan menggantikannya.
+
+### Humility & respect capability
+
+Humility dalam buku berarti kemampuan menjaga pandangan diri yang cukup akurat, mengakui keterbatasan pengetahuan/otoritas, menghargai kontribusi orang lain, terbuka terhadap koreksi, dan bersedia memperbarui pandangan.
+
+Humility ≠ rendah diri, pasif, tidak tegas, atau selalu mengalah.
+
+Respect berarti memperlakukan orang dengan martabat dan mengakui kontribusi/legitimate interests tanpa mensyaratkan persetujuan terhadap pendapatnya.
+
+Latihan canonical:
+- pause judgment;
+- find contribution;
+- ask before correcting;
+- learn from unexpected person;
+- receive correction;
+- disagree without diminishing;
+- daily respect audit.
 
 ### Entities
 
@@ -213,6 +252,8 @@ Bab final tidak boleh dibuat hanya berdasarkan jumlah topik. Setiap bab harus me
 |---|---|---|---|---|
 | Memimpin diri | Mengarahkan perhatian, respons, keputusan, dan tindakan diri sesuai tujuan/nilai/konteks | personal behavior | mengendalikan semua keadaan | Part I |
 | Memimpin sesama | Mempengaruhi arah/perilaku orang lain secara bertanggung jawab, dengan atau tanpa otoritas formal | interpersonal/organizational | memerintah orang | Part VI |
+| Humility | Pandangan diri yang cukup akurat, menghargai kontribusi orang lain, terbuka terhadap koreksi dan pembelajaran | self/relationship/leadership | rendah diri atau selalu mengalah | Part I / VI |
+| Respect | Perlakuan yang menjaga martabat dan mengakui kontribusi/legitimate interests tanpa mensyaratkan agreement | relationship/communication | compliance atau menyukai semua orang | Part III |
 | Positive mindset | Orientasi konstruktif yang tetap kompatibel dengan fakta, risiko, dan ketidakpastian | all | positive thinking tanpa kritik |
 | Tegas | Menyatakan posisi/batas/kebutuhan dengan jelas dan proporsional | communication | keras/agresif |
 | Stabil | Mampu mempertahankan kualitas penilaian dan perilaku relatif konsisten di bawah tekanan | self-leadership | tidak memiliki emosi |
@@ -296,7 +337,8 @@ Setiap konsep penting nantinya memiliki canonical home dan cross-reference singk
 
 ## 13. Major Unknowns
 
-- Apakah **Response-to-Leadership Loop** merupakan model pedagogis yang paling sederhana dan kuat, atau perlu dipadatkan.
+- Apakah **Response-to-Leadership Loop** dalam bentuk adaptif merupakan model pedagogis yang paling sederhana dan kuat, atau perlu dipadatkan.
+- Seberapa jauh humility, respect, dan perspective-taking perlu menjadi satu capability cluster atau dipisahkan.
 - Apakah self-leadership, EQ, resilience, dan situational judgment sebaiknya menjadi satu domain atau beberapa domain.
 - Seberapa jauh organizational politics perlu masuk agar bernilai tanpa mengubah karakter buku.
 - Framework problem solving mana yang paling cocok dengan keseluruhan model.
@@ -319,11 +361,13 @@ Setiap konsep penting nantinya memiliki canonical home dan cross-reference singk
 - [x] Quality strategy exists
 - [x] Retrieval strategy exists
 - [x] Major unknowns explicit
-- [ ] Evidence map validated
-- [ ] Conceptual model red-teamed
+- [x] Evidence map v0.2 validated for communication/conflict/leadership domains
+- [x] Conceptual model red-teamed and refined
+- [x] Evidence map v0.3 added for humility/respect/perspective-taking/listening
+
 - [ ] Candidate architecture validated against evidence/dependencies
 - [ ] Chapter briefs approved
 
-**Gate status: FOUNDATION DRAFTED, NOT YET FULLY LOCKED.**
+**Gate status: FOUNDATION REFINED, NOT YET FULLY LOCKED.**
 
-**Next step:** research and validate the conceptual model and knowledge domains before locking the chapter architecture. Chapter drafting remains blocked.
+**Next step:** validate candidate architecture against the refined capabilities and dependencies, then create chapter briefs. Chapter drafting remains blocked until chapter briefs pass review.
