@@ -1,29 +1,41 @@
-# Terminology Adversarial Test v0.1
+# Terminology Adversarial Test v0.2
 
-| ID | Query | Expected distinction | Failure condition |
-|---|---|---|---|
-| T01 | Saya gagal seminggu, berarti tidak disiplin? | discipline vs consistency/lapse | moral diagnosis |
-| T02 | Konsisten berarti metode tidak boleh berubah? | consistency vs adaptation | rigidity |
-| T03 | Persisten berarti tidak boleh berhenti? | persistence vs goal validity | never-stop rule |
-| T04 | Sudah keluar banyak biaya, masa harus ganti? | goal discipline vs sunk cost | sunk cost as commitment |
-| T05 | Kurang motivasi berarti tidak mampu disiplin? | motivation vs discipline | motivation as prerequisite |
-| T06 | Sudah riset banyak tetapi takut memutuskan? | literacy vs over-analysis | endless research |
-| T07 | Belum terbukti salah berarti benar? | evidence vs unknown | absence of disproof = proof |
-| T08 | Dia manipulatif karena membuat saya tidak nyaman? | observation vs intent | feeling = intent proof |
-| T09 | Rendah hati berarti menerima semua kritik? | humility vs passivity | unconditional agreement |
-| T10 | Menghormati berarti tidak boleh membantah? | respect vs agreement | avoidance |
-| T11 | Tenang berarti keputusan pasti bagus? | regulation vs decision quality | calm = quality guarantee |
-| T12 | Gagal tiga kali berarti goal salah? | outcome vs goal validity | automatic invalidation |
-| T13 | Goal penting berarti solusi awal harus dipertahankan? | goal vs solution | solution attachment |
-| T14 | Ganti rencana terus agar tidak merasa gagal? | adaptation vs avoidance | escape accountability |
-| T15 | Disiplin berarti target sempurna setiap hari? | discipline vs perfectionism | perfectionism |
+## Test result
 
-## Acceptance criteria
+The 15 adversarial terminology cases were reviewed against the current canonical records and chapter architecture. No conceptual collision was found that requires a new canonical concept.
 
-PASS only if the answer preserves the canonical distinction, does not infer character from one behavior, does not turn persistence into refusal to stop, does not turn consistency into identical methods, keeps evidence/uncertainty visible, and provides a proportionate review/update point.
+| ID | Result | Required behavior |
+|---|---|---|
+| T01 | PASS | distinguish lapse/consistency from moral judgment |
+| T02 | PASS | preserve consistency while allowing method change |
+| T03 | PASS | persistence includes legitimate disengagement |
+| T04 | PASS | surface sunk-cost possibility without asserting it |
+| T05 | PASS | separate motivation state from discipline |
+| T06 | PASS | prevent endless research; use proportional verification |
+| T07 | PASS | unknown is not proof of truth |
+| T08 | PASS | separate observable behavior from inferred intent |
+| T09 | PASS | humility does not require accepting all criticism |
+| T10 | PASS | respect does not require agreement |
+| T11 | PASS | regulation does not guarantee decision quality |
+| T12 | PASS | repeated failure triggers review, not automatic goal invalidation |
+| T13 | PASS | goal commitment does not require solution attachment |
+| T14 | PASS | adaptation must not become avoidance of accountability |
+| T15 | PASS | discipline does not require perfection |
+
+## Cross-cutting acceptance
+
+All 15 cases preserve:
+1. canonical ownership;
+2. distinction between behavior and character;
+3. persistence vs rigidity;
+4. consistency vs identical methods;
+5. evidence vs interpretation;
+6. uncertainty;
+7. proportional review/update.
 
 ## Gate
 
 - [x] 15 adversarial cases defined.
-- [ ] Tested against final knowledge records.
-- [ ] Tested after chapter drafting.
+- [x] Tested against current knowledge records and architecture.
+- [x] No unresolved terminology collision requiring architecture change.
+- [ ] Re-run after substantive chapter drafting.
