@@ -100,31 +100,17 @@ Pembaca akan mampu:
 
 ### Mental model
 
+Buku menggunakan **Response-to-Leadership Loop** sebagai model pedagogis adaptif, bukan teori ilmiah baru:
 
-→ sesuatu terjadi.
+**Stimulus / Situation → Read Self + Read Situation + Read Other → Regulate → Reframe → Choose → Communicate / Act → Observe Consequences → Review → Learn → next situation.**
 
-**2. Read**
-→ apa fakta yang tersedia? siapa yang terlibat? apa kepentingannya? apa yang dipertaruhkan? apa yang belum diketahui?
+"Read Other" berarti membentuk hipotesis yang dapat diuji tentang sudut pandang, kebutuhan, kepentingan, atau kekhawatiran orang lain; bukan membaca pikiran.
 
-**3. Regulate**
-→ apa yang terjadi pada emosi, ego, dorongan membalas, takut salah, atau kebutuhan untuk dianggap benar?
+Interpretasi tentang orang lain harus diperlakukan sebagai hipotesis:
 
-**4. Reframe**
-→ apa masalah sebenarnya? apakah ini persoalan substansi, hubungan, proses, persepsi, kepentingan, atau kombinasi?
+**Observe → Hypothesize → Ask → Test → Update.**
 
-**5. Choose**
-→ respons apa yang paling sesuai dengan tujuan, nilai, risiko, waktu, dan hubungan?
-
-**6. Respond**
-→ berbicara, bertanya, diam, menunda, menolak, bertindak, bernegosiasi, atau mengeskalasi.
-
-**7. Review**
-→ apa akibatnya? apa yang berhasil? apa yang memperburuk? apa yang perlu diubah?
-
-**8. Learn**
-→ jadikan pengalaman sebagai data untuk respons berikutnya.
-
-Model ini belum dianggap teori ilmiah baru. Ia adalah **kerangka pedagogis buku** yang harus dipetakan ke evidence domain masing-masing.
+Model ini tidak mengharuskan semua tahap dilakukan secara sadar dan berurutan setiap saat. Dalam situasi cepat, beberapa tahap dapat berlangsung hampir bersamaan. Tujuannya adalah menyediakan cara berpikir yang dapat dilatih, bukan prosedur mekanis.
 
 ### Canonical stages
 
@@ -162,6 +148,8 @@ Latihan canonical:
 - receive correction;
 - disagree without diminishing;
 - daily respect audit.
+
+Model ini adalah **kerangka pedagogis**, bukan teori ilmiah baru. Setiap klaim substantive tetap harus dipetakan ke evidence domain yang relevan.
 
 ### Entities
 
