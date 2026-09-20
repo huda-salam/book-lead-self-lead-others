@@ -12,7 +12,7 @@ Kalimatnya mungkin memang tidak menyenangkan. Nada bicaranya mungkin merendahkan
 
 Beberapa detik kemudian kita mempunyai beberapa pilihan: membalas dengan nada yang sama; diam tetapi menyimpan kemarahan; meminta penjelasan; menunda pembicaraan; mengakui bagian yang benar dan menolak bagian yang tidak tepat; atau menggunakan jalur eskalasi yang sesuai.
 
-Peristiwa yang sama tidak menentukan satu respons tunggal.
+Peristiwa yang sama tidak selalu menghasilkan respons yang sama, dan ruang pilihan yang tersedia dapat berbeda menurut konteks.
 
 Namun kalimat “Saya bisa mengendalikan respons saya” juga tidak boleh dipahami terlalu sederhana. Kita tidak mengendalikan semua keadaan, emosi orang lain, keputusan atasan, budaya organisasi, atau konsekuensi tindakan kita. Kemampuan mengatur respons sendiri juga dipengaruhi keadaan, waktu, tekanan, sumber daya, dan kondisi sosial.
 
@@ -52,7 +52,7 @@ Keempatnya dapat terjadi sangat cepat sehingga terasa seperti satu rangkaian oto
 
 Pemisahan ini bukan permainan istilah. Ia memberi ruang untuk berpikir.
 
-Literatur tentang emosi dalam organisasi menggambarkan emosi sebagai rangkaian proses yang melibatkan pemberian makna pada situasi, pengalaman emosional, serta konsekuensinya terhadap perilaku dan kognisi. Proses-proses tersebut juga dapat saling memengaruhi dan diregulasi. Literatur self-regulation di tempat kerja melihat pengaturan diri sebagai proses yang berlangsung dari waktu ke waktu, bukan sekadar satu keputusan sesaat.
+Literatur tentang emosi dalam organisasi menggambarkan emosi sebagai proses yang melibatkan pemberian makna pada situasi, pengalaman emosional, serta konsekuensinya terhadap perilaku dan kognisi. citeturn0search2turn0search9 Literatur self-regulation di tempat kerja juga memandang pengaturan diri sebagai proses yang berlangsung dari waktu ke waktu, dengan tujuan, tuntutan, pengetahuan, dan konteks yang saling berinteraksi. citeturn0search1turn0search13
 
 Karena itu, respons yang matang tidak dimulai dari pertanyaan “Apa yang ingin saya katakan?”, tetapi dari pertanyaan:
 
@@ -72,7 +72,7 @@ Dalam pekerjaan, kita berhadapan dengan keputusan orang lain, struktur kewenanga
 
 Karena itu, **agency** lebih tepat dipahami sebagai ruang untuk memilih dan memengaruhi tindakan dalam kondisi tertentu, bukan kekuasaan total atas hasil.
 
-Riset self-regulation di tempat kerja memandang pengaturan diri sebagai proses untuk mengurangi kesenjangan antara keadaan aktual dan standar atau tujuan sambil menghadapi banyak tujuan, tuntutan, dan keterbatasan. Self-regulation juga bersifat dinamis: orang harus mengelola tuntutan yang bersaing, memilih apa yang dikerjakan, menentukan kapan melakukannya, dan kadang menyesuaikan tujuan yang sedang dikejar.
+**Evidence menunjukkan** bahwa self-regulation di tempat kerja merupakan proses dinamis untuk mengelola kesenjangan terhadap tujuan/standar sambil menghadapi tuntutan dan tujuan yang bersaing. citeturn0search1turn0search13 **Dalam kerangka buku ini**, implikasinya adalah agency lebih berguna dipahami sebagai ruang tindakan yang nyata daripada sebagai kontrol total atas hasil.
 
 Dengan kata lain:
 
@@ -96,7 +96,7 @@ Padahal mungkin masih ada ruang untuk meminta klarifikasi, menyampaikan risiko, 
 
 Ini dapat menghasilkan tekanan, konflik, dan tindakan yang sebenarnya berada di luar otoritas kita.
 
-Orang yang memimpin diri tidak selalu mencari **kontrol maksimum**. Ia mencari **pengaruh yang realistis dan proporsional**.
+**Dalam kerangka buku ini**, orang yang memimpin diri tidak selalu mencari **kontrol maksimum**. Ia mencari **pengaruh yang realistis dan proporsional**.
 
 ## 4. Ruang kendali yang lebih berguna
 
@@ -115,7 +115,7 @@ Namun sebagai alat berpikir, pembagian ini membantu menghindari dua pemborosan:
 1. menghabiskan energi untuk sesuatu yang tidak dapat kita ubah;
 2. menyerahkan sesuatu yang sebenarnya masih dapat kita pengaruhi.
 
-Di sinilah mindset eksekutif mulai relevan, bahkan bagi orang yang belum menjadi eksekutif.
+Di sinilah **mindset eksekutif sebagai lensa latihan buku ini** mulai relevan, bahkan bagi orang yang belum menjadi eksekutif.
 
 Seorang pelaksana dapat bertanya:
 
@@ -129,7 +129,7 @@ Seorang pemimpin organisasi perlu menambahkan:
 
 > “Apa dampaknya terhadap orang lain, sumber daya, prioritas, dan konsekuensi berikutnya?”
 
-Perbedaan ini bukan soal jabatan semata. Ini soal **cakupan perhatian dan tanggung jawab**.
+Perbedaan ini bukan soal jabatan semata. Dalam buku ini, ini digunakan sebagai latihan memperluas **cakupan perhatian dan tanggung jawab**—bukan sebagai klaim bahwa semua eksekutif berpikir dengan pola yang sama.
 
 ## 5. Respons adalah pilihan, tetapi pilihan tidak selalu mudah
 
@@ -149,7 +149,7 @@ Yang lebih realistis adalah kemampuan untuk:
 6. melihat akibatnya;
 7. memperbarui cara bertindak bila diperlukan.
 
-Ini adalah proses pengaturan diri, bukan ujian untuk menjadi manusia tanpa emosi.
+Ini adalah cara praktis buku ini menerjemahkan proses pengaturan diri, bukan klaim bahwa manusia selalu mampu menjalankan seluruh langkah tersebut secara sadar atau sempurna.
 
 ## 6. Dari “ingin membalas” menjadi “ingin menghasilkan sesuatu yang berguna”
 
@@ -220,7 +220,7 @@ Ini bukan pembangkangan.
 
 Ini juga bukan kepatuhan pasif.
 
-Ini adalah **agency di dalam struktur kewenangan**.
+Dalam kerangka buku ini, ini adalah **agency di dalam struktur kewenangan**.
 
 ## 8. Menjadi atasan yang tidak perlu selalu menang
 
@@ -287,7 +287,7 @@ Karena itu:
 
 > **Memilih respons yang baik belum sama dengan mampu menjalankannya.**
 
-Self-regulation berkaitan dengan proses menjaga perilaku tetap terhubung dengan tujuan di tengah tuntutan dan gangguan yang bersaing. Inilah hubungan awal antara SELF.RESPONSE dan SELF.DISCIPLINE.
+**Evidence menunjukkan** bahwa self-regulation berkaitan dengan menjaga perilaku tetap terhubung dengan tujuan di tengah tuntutan dan gangguan yang bersaing. citeturn0search1turn0search13 **Dalam arsitektur buku ini**, hubungan tersebut menjadi jembatan awal antara SELF.RESPONSE dan SELF.DISCIPLINE.
 
 Misalnya kita sudah memutuskan:
 
@@ -302,6 +302,8 @@ Disiplin berarti:
 > **menjalankan standar atau pilihan yang telah kita anggap layak, meskipun dorongan sesaat mengarah ke pilihan lain.**
 
 Namun disiplin juga bukan berarti mempertahankan cara yang sudah jelas tidak bekerja. Bab-bab berikutnya akan membedakan disiplin, konsistensi, persistence, dan kemampuan mengubah metode ketika evidence berubah.
+
+Bagian ini adalah **sintesis pedagogis buku**, bukan klaim bahwa satu definisi disiplin menjelaskan seluruh literatur self-regulation.
 
 ## 11. Pola kegagalan yang perlu dikenali
 
@@ -345,6 +347,8 @@ Catat:
 | Apa dorongan pertama saya? | impulse |
 | Apa yang akhirnya saya lakukan? | respons aktual |
 | Apa yang ingin saya capai? | tujuan |
+| Apa yang sedang saya lindungi atau pertahankan? | kebutuhan, kepentingan, status, atau hal lain yang mungkin sedang saya pertahankan |
+| Informasi apa yang belum saya miliki? | evidence gap |
 | Apa yang sebenarnya berada dalam kendali saya? | control |
 | Apa yang masih dapat saya pengaruhi? | influence |
 | Apa respons alternatif yang tersedia? | options |
@@ -374,6 +378,8 @@ Yang sedang dibangun hanyalah fondasi:
 
 > **Situasi memengaruhi kita, tetapi situasi tidak selalu menentukan seluruh respons kita.**
 
+Ini adalah prinsip kerja buku, bukan klaim bahwa setiap orang memiliki tingkat agency yang sama dalam setiap situasi.
+
 Ruang agency berbeda-beda menurut konteks. Kadang besar, kadang kecil. Kadang kita hanya dapat memilih cara menyampaikan sesuatu. Kadang kita dapat mengubah keputusan. Kadang yang tersedia hanya memilih kapan meminta bantuan atau kapan menggunakan jalur formal.
 
 Memimpin diri berarti belajar mengenali ruang tersebut dengan akurat—tidak melebih-lebihkannya dan tidak menyerahkannya terlalu cepat.
@@ -391,6 +397,8 @@ Jika bab ini harus dipadatkan:
 > **Respons yang baik bukan selalu respons yang paling memuaskan ego. Ia adalah respons yang paling sesuai dengan tujuan, nilai, risiko, konteks, dan batas kewenangan yang relevan.**
 
 > **Dan pilihan yang baik baru menjadi kemampuan ketika dapat dijalankan ketika situasi nyata datang.**
+
+Dalam bab ini, kalimat tersebut adalah prinsip latihan; bukan janji bahwa latihan akan selalu menghasilkan outcome yang diinginkan.
 
 Dari sini kita masuk ke pertanyaan yang lebih sulit:
 
