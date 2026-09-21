@@ -5,6 +5,23 @@
 > **Canonical concept:** READ.PERSPECTIVE
 > **Status:** Draft v0.1
 
+## Mengapa Ini Penting bagi Leader
+
+Leader tidak cukup memahami apa yang dikatakan orang; ia perlu membangun hipotesis yang cukup baik tentang apa yang mungkin dilihat, dipertimbangkan, atau dibatasi oleh orang lain—tanpa mengubah hipotesis menjadi kepastian tentang motif.
+
+::: success Green Note
+**Leader lens:** Perspektif orang lain adalah input untuk memperbaiki pembacaan situasi, bukan perintah untuk menyetujui, mempercayai, atau mengikuti mereka.
+:::
+
+::: info Konteks
+**Canonical concept:** `READ.PERSPECTIVE`. Bab ini memperkuat bagian **Understand** dalam operating loop buku: See → Understand → Decide → Act → Learn.
+:::
+
+## Kapabilitas yang Sedang Dilatih
+
+**Capability:** membangun hipotesis perspektif, mengujinya melalui pertanyaan dan evidence, lalu memperbarui pemahaman tanpa sok tahu atau kehilangan batas akuntabilitas.
+
+
 ## 1. Orang lain bukan teka-teki yang bisa kita pecahkan dari jauh
 
 Kita sering berkata:
