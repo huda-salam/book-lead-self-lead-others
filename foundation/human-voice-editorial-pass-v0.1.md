@@ -89,3 +89,36 @@ dan bukan:
 Natural ≠ slang berlebihan. Natural ≠ menjadi santai tanpa alasan. Natural ≠ menghapus ketelitian.
 
 Targetnya adalah **Bahasa Indonesia profesional yang hidup**: jelas, tenang, sesekali tajam, sesekali ringan, dan tetap bersedia mengatakan “saya belum tahu”.
+
+
+## Implementation status — September 2026
+
+**Status: COMPLETE — Chapters 1–44**
+
+The pass was executed incrementally in small, reviewable commits to reduce change risk.
+
+### Applied across all chapters
+
+- reduced repetitive AI-like transition phrases;
+- reduced excessive “Bukan X, tetapi Y” constructions;
+- reduced repeated meta-language such as “Dalam kerangka buku ini”;
+- reduced fragment-heavy prose where normal sentences are clearer;
+- reduced unnecessary English jargon and restored Indonesian phrasing where natural;
+- increased conversational/narrative phrasing around workplace situations;
+- preserved technical terms when they carry useful precision;
+- preserved canonical concept ownership, evidence notes, source provenance, frameworks, boundaries, and epistemic caveats.
+
+### QA observations
+
+A repository search for several high-risk stylistic signatures returned no matches for:
+
+- “Dalam kerangka buku ini”
+- “Yang Sedang Kita Latih”
+- “Pertanyaan yang lebih penting”
+- “Bukan X, tetapi Y”
+
+The pass intentionally does **not** attempt to make every sentence informal. The target remains professional Indonesian that feels written by an experienced practitioner.
+
+### Release condition
+
+The manuscript now requires a fresh final CI verification after the Chapter 44 voice-pass commit before RC1 is treated as technically re-verified.
