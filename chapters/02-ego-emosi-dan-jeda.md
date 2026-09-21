@@ -8,16 +8,16 @@
 Pemimpin perlu mampu menjaga kualitas penilaiannya ketika status, ego, atau emosi sedang terpicu.
 
 ::: success Green Note
-**Pemimpin lens:** Mengelola emosi bukan berarti menjadi dingin. Tujuannya adalah menjaga agar emosi menjadi informasi tanpa otomatis menjadi komando.
+**Lensa pemimpin:** Mengelola emosi bukan berarti menjadi dingin. Tujuannya adalah menjaga agar emosi menjadi informasi tanpa otomatis menjadi komando.
 :::
 
 ::: info Konteks
-**Canonical concept:** `SELF.EGO_EMOTION`. Dalam arsitektur buku, konsep ini adalah bagian dari pemimpin mindset, bukan tujuan akhir buku.
+**Canonical concept:** `SELF.EGO_EMOTION`. Dalam arsitektur buku, konsep ini adalah bagian dari mindset kepemimpinan, bukan tujuan akhir buku.
 :::
 
 ## Yang Sedang Kita Latih
 
-**Capability:** mengenali apa yang sedang terancam atau dipertahankan, memahami fungsi emosi tanpa otomatis tunduk pada dorongan emosi, lalu menciptakan ruang untuk memilih respons.
+**Fokus latihan:** mengenali apa yang sedang terancam atau dipertahankan, memahami fungsi emosi tanpa otomatis tunduk pada dorongan emosi, lalu menciptakan ruang untuk memilih respons.
 
 ## 1. Kadang yang ingin kita pertahankan bukan masalahnya
 
