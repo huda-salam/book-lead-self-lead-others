@@ -1,22 +1,12 @@
 # Menurunkan Suhu Konflik
 
-> **Leader capability:** Menurunkan eskalasi yang tidak perlu agar orang dapat kembali melihat masalah, tanpa menurunkan standar, menghapus accountability, atau menghindari keputusan.
+> **Yang dilatih:** Menurunkan eskalasi yang tidak perlu agar orang dapat kembali melihat masalah, tanpa menurunkan standar, menghapus accountability, atau menghindari keputusan.
 
 > **Canonical concept:** REL.DESCALATION
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
-Ketika konflik memanas, kemampuan berpikir sering ikut berubah.
-
-Kalimat menjadi lebih pendek.
-
-Nada menjadi lebih tajam.
-
-Orang mulai membela diri.
-
-Informasi yang seharusnya membantu justru terdengar seperti serangan.
-
-Pada titik tertentu, masalah awal bahkan dapat bergeser menjadi:
+Ketika konflik memanas, kemampuan berpikir sering ikut berubah. Kalimat menjadi lebih pendek. Nada menjadi lebih tajam. Orang mulai membela diri. Informasi yang seharusnya membantu justru terdengar seperti serangan. Pada titik tertentu, masalah awal bahkan dapat bergeser menjadi:
 
 > “Siapa yang lebih berkuasa?”
 
@@ -24,15 +14,7 @@ Pada titik tertentu, masalah awal bahkan dapat bergeser menjadi:
 
 > “Siapa yang harus menang?”
 
-Di sinilah de-eskalasi dibutuhkan.
-
-Bukan untuk membuat semua orang sepakat.
-
-Bukan untuk membuat leader terlihat lembut.
-
-Bukan pula untuk menghindari keputusan sulit.
-
-Tujuannya lebih sederhana:
+Di sinilah de-eskalasi dibutuhkan. Bukan untuk membuat semua orang sepakat. Bukan untuk membuat leader terlihat lembut. Bukan pula untuk menghindari keputusan sulit. Tujuannya lebih sederhana:
 
 > **Turunkan suhu yang tidak perlu agar masalah yang perlu diselesaikan kembali terlihat.**
 
@@ -46,7 +28,7 @@ Penelitian tentang conflict management menekankan bahwa pembahasan terbuka, mend
 Chapter 17 membahas cara membaca konflik. Chapter 18 membahas apa yang dapat dilakukan ketika konflik mulai naik suhunya. Boundary dan tindakan formal dibahas lebih lanjut di Chapter 19.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 Leader sedang melatih kemampuan untuk:
 
@@ -63,17 +45,11 @@ Ada kesalahpahaman:
 
 > “Kalau saya menurunkan nada, berarti saya kalah.”
 
-Tidak.
-
-Anda dapat berkata dengan tenang:
+Tidak. Anda dapat berkata dengan tenang:
 
 > “Saya paham ini penting. Justru karena penting, saya ingin kita membahas faktanya satu per satu.”
 
-Anda tidak menyerahkan posisi.
-
-Anda mengubah cara posisi itu dibawa.
-
-De-eskalasi juga bukan berarti:
+Anda tidak menyerahkan posisi. Anda mengubah cara posisi itu dibawa. De-eskalasi juga bukan berarti:
 
 > “Sudahlah, jangan diperpanjang.”
 
@@ -92,17 +68,13 @@ Tanda praktis dapat berupa:
 - orang berhenti menjawab pertanyaan dan mulai menyerang pertanyaan;
 - pihak yang lebih lemah mulai diam karena tidak aman untuk berbicara.
 
-Tidak semua tanda berarti konflik sudah berbahaya.
-
-Tetapi semakin banyak tanda muncul bersamaan, semakin besar alasan untuk mengubah tempo atau format percakapan.
+Tidak semua tanda berarti konflik sudah berbahaya. Tetapi semakin banyak tanda muncul bersamaan, semakin besar alasan untuk mengubah tempo atau format percakapan.
 
 ## 3. Stabilize: hentikan kenaikan suhu
 
 Framework ini adalah **sintesis kerja buku**, bukan protokol intervensi tervalidasi:
 
-**Stabilize → Clarify → Narrow → Reframe → Choose next step**
-
-Langkah pertama:
+**Stabilize → Clarify → Narrow → Reframe → Choose next step** Langkah pertama:
 
 > **Stabilize.**
 
@@ -114,15 +86,11 @@ Atau:
 
 > “Masalahnya penting. Kita tidak perlu menyelesaikannya dalam bentuk pertengkaran.”
 
-Tujuannya bukan memenangkan ketenangan.
-
-Tujuannya menciptakan kondisi agar percakapan kembali dapat diproses.
+Tujuannya bukan memenangkan ketenangan. Tujuannya menciptakan kondisi agar percakapan kembali dapat diproses.
 
 ## 4. Clarify: apa sebenarnya yang sedang diperdebatkan?
 
-Saat panas, orang sering berdebat tentang beberapa hal sekaligus.
-
-Leader dapat mempersempit:
+Saat panas, orang sering berdebat tentang beberapa hal sekaligus. Leader dapat mempersempit:
 
 > “Satu per satu. Apa poin yang paling Anda keberatkan?”
 
@@ -150,9 +118,7 @@ tidak otomatis berarti:
 
 > “Tekanan itu memang disengaja.”
 
-Acknowledge experience.
-
-Then test the claim.
+Acknowledge experience. Then test the claim.
 
 ## 6. Jangan melawan setiap kalimat
 
@@ -164,15 +130,11 @@ Dorongan alami:
 
 > “Tidak selalu. Kapan saya pernah begitu?”
 
-Pertanyaan itu mungkin benar, tetapi dapat membuat percakapan masuk ke sidang bukti tentang kata “selalu”.
-
-Turunkan satu tingkat:
+Pertanyaan itu mungkin benar, tetapi dapat membuat percakapan masuk ke sidang bukti tentang kata “selalu”. Turunkan satu tingkat:
 
 > “Bagian mana dari proses terakhir yang membuat pekerjaan Anda sulit?”
 
-Sekarang percakapan memiliki objek.
-
-Bukan lagi:
+Sekarang percakapan memiliki objek. Bukan lagi:
 
 > “Anda selalu...”
 
@@ -191,9 +153,7 @@ Gunakan dua kolom mental:
 | “Tim Anda selalu menghambat!” | approval belum selesai |
 | “Ini tidak masuk akal!” | dasar keputusan belum jelas |
 
-Jangan abaikan panas.
-
-Tetapi jangan biarkan panas menjadi satu-satunya isi percakapan.
+Jangan abaikan panas. Tetapi jangan biarkan panas menjadi satu-satunya isi percakapan.
 
 ## 8. Reframe: dari tuduhan ke masalah
 
@@ -213,19 +173,13 @@ menjadi:
 
 > “Proses ini membutuhkan lima hari lebih lama dari target. Apa yang menyebabkan perbedaan itu?”
 
-Reframing bukan manipulasi bahasa.
-
-Jika fakta memang menunjukkan kegagalan, tetap sebut kegagalannya.
-
-Yang diubah adalah:
+Reframing bukan manipulasi bahasa. Jika fakta memang menunjukkan kegagalan, tetap sebut kegagalannya. Yang diubah adalah:
 
 **serangan personal → objek yang dapat diperiksa.**
 
 ## 9. Gunakan pertanyaan untuk membuka, bukan menjebak
 
-Pertanyaan dapat menurunkan atau menaikkan suhu.
-
-Bandingkan:
+Pertanyaan dapat menurunkan atau menaikkan suhu. Bandingkan:
 
 > “Kenapa Anda melakukan itu?”
 
@@ -233,17 +187,11 @@ dengan:
 
 > “Apa pertimbangan yang membuat Anda memilih langkah itu?”
 
-Yang kedua memberi ruang bagi informasi.
-
-Tetapi pertanyaan dapat menjadi agresif jika digunakan sebagai jebakan:
+Yang kedua memberi ruang bagi informasi. Tetapi pertanyaan dapat menjadi agresif jika digunakan sebagai jebakan:
 
 > “Jadi sekarang Anda mengakui bahwa Anda salah?”
 
-Tujuannya bukan memahami.
-
-Tujuannya menang.
-
-Leader perlu mengenali perbedaannya.
+Tujuannya bukan memahami. Tujuannya menang. Leader perlu mengenali perbedaannya.
 
 ## 10. Narrow: kecilkan medan konflik
 
@@ -256,23 +204,15 @@ Misalnya:
 1. apakah datanya benar;
 2. siapa yang berwenang mengambil keputusan.
 
-Hal lain dicatat untuk tahap berikutnya.
-
-Narrowing bukan mengabaikan masalah.
-
-Ini mencegah satu percakapan menjadi sepuluh konflik sekaligus.
+Hal lain dicatat untuk tahap berikutnya. Narrowing bukan mengabaikan masalah. Ini mencegah satu percakapan menjadi sepuluh konflik sekaligus.
 
 ## 11. Atur tempo
 
-Tidak semua konflik harus diselesaikan saat itu juga.
-
-Kadang kalimat terbaik:
+Tidak semua konflik harus diselesaikan saat itu juga. Kadang kalimat terbaik:
 
 > “Saya ingin menjawab ini dengan serius. Saya perlu memeriksa datanya dulu. Kita lanjut pukul 14.00.”
 
-Ini **managed delay**, bukan menghindar.
-
-Perbedaannya adalah ada:
+Ini **managed delay**, bukan menghindar. Perbedaannya adalah ada:
 
 - alasan;
 - pekerjaan yang jelas;
@@ -287,11 +227,7 @@ tanpa tindak lanjut dapat menjadi avoidance.
 
 ## 12. Gunakan medium yang tepat
 
-Percakapan langsung berguna untuk masalah yang membutuhkan interaksi cepat.
-
-Tetapi setelah konflik cukup panas, menulis ringkasan dapat membantu.
-
-Contoh:
+Percakapan langsung berguna untuk masalah yang membutuhkan interaksi cepat. Tetapi setelah konflik cukup panas, menulis ringkasan dapat membantu. Contoh:
 
 > “Saya rangkum agar kita tidak berbeda pemahaman: masalah A, data B, keputusan yang diperlukan C.”
 
@@ -299,15 +235,11 @@ Tulisan dapat membantu mengurangi perdebatan tentang:
 
 > “Tadi Anda bilang apa?”
 
-Tetapi jangan gunakan email atau chat sebagai tempat melampiaskan emosi yang sedang tinggi.
-
-Tulis setelah cukup tenang.
+Tetapi jangan gunakan email atau chat sebagai tempat melampiaskan emosi yang sedang tinggi. Tulis setelah cukup tenang.
 
 ## 13. Ketika pihak lain terus menaikkan suhu
 
-De-eskalasi bukan kewajiban untuk terus berada dalam percakapan apa pun.
-
-Leader dapat berkata:
+De-eskalasi bukan kewajiban untuk terus berada dalam percakapan apa pun. Leader dapat berkata:
 
 > “Saya bersedia membahas masalahnya. Saya tidak akan melanjutkan percakapan jika kita saling menghina.”
 
@@ -319,9 +251,7 @@ Ini bukan Chapter 19 secara penuh, tetapi merupakan jembatan menuju boundary.
 
 ## 14. Kapan harus menggunakan pihak ketiga?
 
-Tidak semua konflik harus diselesaikan oleh dua orang yang bertentangan.
-
-Pihak ketiga dapat membantu ketika:
+Tidak semua konflik harus diselesaikan oleh dua orang yang bertentangan. Pihak ketiga dapat membantu ketika:
 
 - hubungan sudah terlalu rusak;
 - kedua pihak tidak dapat lagi mendengar satu sama lain;
@@ -329,17 +259,11 @@ Pihak ketiga dapat membantu ketika:
 - proses membutuhkan mediator;
 - atau ada kepentingan yang sulit dipisahkan dari hubungan personal.
 
-Literatur peacemaking di tempat kerja menunjukkan bahwa bantuan pihak ketiga dapat mencakup dimensi relasional, prosedural, emosional, dan substantif. ([lihat Evidence notes](#evidence-notes))
-
-Pihak ketiga bukan selalu “hakim”.
-
-Kadang tugasnya hanya membantu kedua pihak kembali melihat masalah dengan struktur yang lebih baik.
+Literatur peacemaking di tempat kerja menunjukkan bahwa bantuan pihak ketiga dapat mencakup dimensi relasional, prosedural, emosional, dan substantif. ([lihat Evidence notes](#evidence-notes)) Pihak ketiga bukan selalu “hakim”. Kadang tugasnya hanya membantu kedua pihak kembali melihat masalah dengan struktur yang lebih baik.
 
 ## 15. Jangan mengira semua masalah bisa diredakan dengan percakapan
 
-Ini batas penting.
-
-Jika masalahnya:
+Ini batas penting. Jika masalahnya:
 
 - fraud;
 - ancaman;
@@ -350,11 +274,7 @@ Jika masalahnya:
 - risiko keselamatan;
 - atau penyalahgunaan kewenangan;
 
-jangan menjadikan “ayo kita bicara baik-baik” sebagai satu-satunya mekanisme.
-
-Keselamatan dan mekanisme formal harus didahulukan sesuai konteks.
-
-Dalam konteks workplace violence, penelitian intervensi menunjukkan bahwa pelatihan komunikasi saja memiliki keterbatasan; intervensi yang lebih luas dapat diperlukan. Temuan ini berasal dari konteks layanan kesehatan dan tidak boleh digeneralisasi begitu saja ke semua konflik kantor. ([lihat Evidence notes](#evidence-notes))
+jangan menjadikan “ayo kita bicara baik-baik” sebagai satu-satunya mekanisme. Keselamatan dan mekanisme formal harus didahulukan sesuai konteks. Dalam konteks workplace violence, penelitian intervensi menunjukkan bahwa pelatihan komunikasi saja memiliki keterbatasan; intervensi yang lebih luas dapat diperlukan. Temuan ini berasal dari konteks layanan kesehatan dan tidak boleh digeneralisasi begitu saja ke semua konflik kantor. ([lihat Evidence notes](#evidence-notes))
 
 ::: warning Risiko
 De-eskalasi bukan alasan untuk menunda tindakan ketika ada risiko keselamatan, pelanggaran serius, atau kewajiban formal yang harus segera dijalankan.
@@ -362,9 +282,7 @@ De-eskalasi bukan alasan untuk menunda tindakan ketika ada risiko keselamatan, p
 
 ## 16. Latihan: Turunkan satu tingkat panas
 
-Ambil tiga kalimat yang biasa Anda gunakan ketika kesal.
-
-Contoh:
+Ambil tiga kalimat yang biasa Anda gunakan ketika kesal. Contoh:
 
 > “Anda memang tidak pernah mendengarkan.”
 
@@ -388,29 +306,15 @@ Turunkan satu tingkat:
 
 > “Kalau keputusan ada pada Anda, saya ingin memastikan risikonya sudah kita bahas.”
 
-Latihannya bukan menjadi lebih manis.
-
-Latihannya adalah:
+Latihannya bukan menjadi lebih manis. Latihannya adalah:
 
 > **mengurangi panas tanpa mengurangi informasi.**
 
 ## 17. Setelah suhu turun, jangan lupa masalahnya
 
-Ini jebakan lain.
+Ini jebakan lain. Orang berhasil berdamai. Semua tersenyum. Tetapi masalah belum selesai. De-eskalasi hanya tahap. Setelah suhu turun, kembali ke:
 
-Orang berhasil berdamai.
-
-Semua tersenyum.
-
-Tetapi masalah belum selesai.
-
-De-eskalasi hanya tahap.
-
-Setelah suhu turun, kembali ke:
-
-**Apa masalahnya? → Apa keputusan yang dibutuhkan? → Siapa melakukan apa? → Kapan diperiksa kembali?**
-
-Jika tidak, de-eskalasi berubah menjadi penundaan.
+**Apa masalahnya? → Apa keputusan yang dibutuhkan? → Siapa melakukan apa? → Kapan diperiksa kembali?** Jika tidak, de-eskalasi berubah menjadi penundaan.
 
 ## 18. Green test
 
