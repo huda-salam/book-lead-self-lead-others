@@ -6,13 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Banyak keputusan terlihat bagus:
-
-> pada langkah pertama.
-
-Masalah muncul:
-
-> pada langkah kedua.
+Banyak keputusan memang terlihat bagus pada langkah pertama. Masalahnya sering baru muncul setelah orang dan sistem bereaksi.
 
 Contoh sederhana:
 
@@ -22,7 +16,7 @@ Langkah pertama:
 
 > kontrol meningkat.
 
-Langkah berikutnya mungkin:
+Tetapi langkah berikutnya bisa saja:
 
 > proses melambat.
 
@@ -30,19 +24,13 @@ Lalu:
 
 > orang mencari jalan informal.
 
-Kemudian:
+Lalu:
 
 > visibility formal justru menurun.
 
-Keputusan awal:
+Keputusan awal bisa tetap masuk akal. Yang sering kita lupakan adalah bahwa sistem akan bereaksi.
 
-> masuk akal.
-
-Tetapi:
-
-> sistem bereaksi.
-
-Inilah mengapa pemimpin perlu bertanya:
+Karena itu ada satu pertanyaan yang layak dibiasakan:
 
 > **“Setelah ini terjadi, lalu apa?”**
 
@@ -54,7 +42,7 @@ Inilah mengapa pemimpin perlu bertanya:
 Chapter ini tidak mengajarkan forecasting presisi. Fokusnya adalah reasoning tentang konsekuensi downstream. Strategic choice yang lebih luas dibahas di Chapter 38.
 :::
 
-## Yang Sedang Kita Latih
+## Fokus Bab
 
 - melihat efek langsung;
 - membaca respons orang dan sistem;
@@ -67,7 +55,7 @@ Chapter ini tidak mengajarkan forecasting presisi. Fokusnya adalah reasoning ten
 
 ## 1. First-order effect
 
-Mulai sederhana. Tanyakan:
+Mulailah dari pertanyaan sederhana:
 
 > “Apa yang kemungkinan langsung terjadi jika kita melakukan ini?”
 
@@ -79,15 +67,13 @@ First-order effect:
 
 > lebih banyak kontrol.
 
-Bagus. Tetapi berhenti di sini:
-
-> terlalu cepat.
+Itu baru langkah pertama. Kalau berhenti di sini, kita mungkin terlalu cepat puas.
 
 ## 2. Lalu apa?
 
-Tanyakan:
+Lalu tanyakan:
 
-> “Apa yang mungkin terjadi setelah orang merespons perubahan ini?”
+> “Setelah orang bereaksi terhadap perubahan ini, apa yang mungkin terjadi?”
 
 Contoh:
 
@@ -113,7 +99,7 @@ Tetapi:
 
 ## 3. Orang akan beradaptasi
 
-Sistem bukan benda mati. Jika Anda mengubah:
+Organisasi bukan benda mati. Jika Anda mengubah:
 
 - aturan;
 - incentive;
@@ -133,13 +119,11 @@ Kadang:
 
 > tidak.
 
-Karena itu:
+Jadi jangan hanya bertanya “apa yang akan kita lakukan?”
 
-> jangan hanya bertanya “apa yang akan kita lakukan?”
+Tambahkan satu pertanyaan:
 
-Tanyakan:
-
-> “Apa yang kemungkinan dilakukan orang setelah aturan ini berubah?”
+> “Setelah aturan berubah, apa yang kemungkinan dilakukan orang?”
 
 ## 4. Insentif dapat menghasilkan perilaku yang tidak dimaksudkan
 
@@ -159,23 +143,15 @@ Jumlah naik. Tetapi:
 
 > masalah kompleks menumpuk.
 
-Target:
+Target bisa tercapai, sementara hasil yang sebenarnya kita inginkan belum tentu ikut membaik.
 
-> tercapai.
-
-Outcome:
-
-> belum tentu.
-
-Ini bukan berarti target selalu buruk. Ini menunjukkan:
+Bukan berarti target selalu buruk. Yang perlu kita ingat adalah:
 
 > measurement dapat mengubah behavior.
 
 ## 5. Perhatikan bottleneck baru
 
-Memperbaiki satu titik dapat:
-
-> memindahkan bottleneck.
+Memperbaiki satu titik sering kali hanya memindahkan bottleneck ke tempat lain.
 
 Contoh:
 
@@ -267,19 +243,13 @@ Akibatnya:
 
 > capability dan autonomy tidak tumbuh.
 
-Sekarang keputusan:
-
-> approval tambahan
-
-telah mengubah:
-
-> perilaku organisasi.
+Jadi tambahan approval bukan sekadar menambah satu langkah. Ia juga mengubah cara orang bekerja.
 
 Ini menyambung:
 
 > Chapter 33 dan 36.
 
-## 9. Second-order thinking bukan overthinking
+## 9. Melihat dampak lanjutan bukan berarti harus memikirkan semuanya
 
 Bahaya lainnya:
 
@@ -289,9 +259,7 @@ Setiap keputusan dapat menghasilkan:
 
 > kemungkinan tak terbatas.
 
-Jika semuanya dianalisis:
-
-> tidak ada keputusan.
+Kalau semua kemungkinan harus dianalisis, kita tidak akan pernah selesai mengambil keputusan.
 
 Maka gunakan:
 
@@ -319,9 +287,7 @@ lebih mudah diperbaiki daripada:
 
 > perubahan permanen ke seluruh organisasi.
 
-Reversibility tidak menghilangkan risk. Tetapi:
-
-> dapat mengurangi cost of being wrong.
+Reversibility tidak menghilangkan risiko. Tetapi bisa mengurangi biaya ketika ternyata kita salah.
 
 ## 11. Pre-mortem
 
@@ -333,13 +299,9 @@ Tanyakan:
 
 > “Apa yang mungkin menyebabkan kegagalan?”
 
-Jangan gunakan:
+Jangan gunakan pre-mortem untuk membuktikan bahwa keputusan kita buruk.
 
-> untuk membuktikan keputusan buruk.
-
-Gunakan:
-
-> untuk mencari blind spot.
+Gunakan untuk mencari blind spot yang mungkin belum kita lihat.
 
 Contoh:
 
@@ -358,7 +320,7 @@ Sekarang:
 
 > kita dapat menyiapkan mitigasi.
 
-## 12. Scenario, bukan prophecy
+## 12. Skenario, bukan ramalan
 
 Buat beberapa skenario:
 
@@ -374,13 +336,9 @@ Buat beberapa skenario:
 
 > asumsi utama ternyata salah.
 
-Tujuannya bukan:
+Tujuannya bukan menebak skenario mana yang pasti terjadi.
 
-> menebak mana yang pasti terjadi.
-
-Tujuannya:
-
-> menyiapkan respons.
+Tujuannya menyiapkan respons kalau keadaan bergerak ke arah yang berbeda.
 
 ## 13. Siapa yang menerima manfaat dan biaya?
 
@@ -401,7 +359,7 @@ Tanyakan:
 
 > “Siapa yang punya incentive untuk menyesuaikan perilaku?”
 
-Ini penting terutama dalam:
+Hal ini terutama penting ketika:
 
 > perubahan proses.
 
@@ -493,9 +451,7 @@ Tetapi:
 
 > “Saya sudah memikirkan beberapa konsekuensi material yang masuk akal dan menyiapkan indikator untuk menemukan perubahan.”
 
-Ini:
-
-> lebih realistis.
+Cara pandang yang lebih realistis adalah:
 
 ## 18. Indikator
 
@@ -517,13 +473,7 @@ Monitor:
 - bypass/informal escalation;
 - complaints.
 
-Sekarang:
-
-> keputusan dapat diamati.
-
-Bukan hanya:
-
-> diyakini.
+Dengan begitu keputusan bisa dipantau, bukan sekadar dipercayai.
 
 ## 19. Review trigger
 
@@ -549,7 +499,7 @@ menjadi:
 
 ## 20. Framework: Second-order Loop
 
-Framework berikut adalah **sintesis kerja buku**, bukan taxonomy second-order thinking tervalidasi:
+Framework berikut adalah **sintesis kerja buku**, bukan taxonomy second-order thinking yang tervalidasi:
 
 **Decision → First-order Effect → Adaptation → Second-order Effect → Interaction → Risk/Opportunity → Indicator → Review**
 
@@ -621,17 +571,9 @@ Ambil satu keputusan yang akan dibuat. Tulis:
 
 > Kapan kita cek kembali?
 
-Batasi:
+Batasi cukup dua atau tiga langkah.
 
-> dua atau tiga langkah.
-
-Tujuannya:
-
-> memperluas pandangan,
-
-bukan:
-
-> membuat pohon kemungkinan tanpa akhir.
+Tujuannya memperluas pandangan, bukan membuat pohon kemungkinan yang tidak ada ujungnya.
 
 ## 22. Contoh: menambah target pelayanan
 
@@ -663,13 +605,7 @@ Review trigger:
 
 > jika error naik melewati threshold yang ditetapkan.
 
-Sekarang:
-
-> target tidak hanya memiliki benefit.
-
-Kita juga melihat:
-
-> risk mechanism.
+Sekarang kita tidak hanya melihat manfaat target, tetapi juga mekanisme yang bisa menghasilkan efek samping.
 
 ::: important Prinsip
 **Jangan hanya bertanya “apa yang terjadi jika kita melakukan ini?” Tambahkan satu pertanyaan: “lalu apa yang mungkin dilakukan orang atau sistem setelah itu?”**
