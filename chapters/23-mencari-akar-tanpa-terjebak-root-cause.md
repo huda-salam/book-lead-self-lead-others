@@ -24,7 +24,7 @@ Semua mungkin benar. Tetapi “mungkin benar” berbeda dengan:
 
 > **“kita punya cukup evidence bahwa faktor ini berkontribusi melalui mekanisme tertentu.”**
 
-Leader tidak membutuhkan kepastian palsu. Leader membutuhkan penjelasan sebab yang cukup kuat untuk menentukan tindakan.
+Pemimpin tidak membutuhkan kepastian palsu. Pemimpin membutuhkan penjelasan sebab yang cukup kuat untuk menentukan tindakan.
 
 ::: success Green Note
 **Jangan mencari root cause untuk terlihat analitis. Cari causal explanation yang cukup kuat untuk memperbaiki keadaan.**
@@ -36,7 +36,7 @@ Chapter 21 membingkai masalah. Chapter 22 menjaga hipotesis dan alternatif. Chap
 
 ## Yang Sedang Kita Latih
 
-Leader sedang melatih kemampuan untuk:
+Pemimpin sedang melatih kemampuan untuk:
 
 - membedakan korelasi dari sebab;
 - melihat lebih dari satu faktor;
@@ -205,7 +205,7 @@ Untuk pengguna:
 
 > transaksi membutuhkan waktu terlalu lama.
 
-Semua dapat benar pada level berbeda. Leader perlu bertanya:
+Semua dapat benar pada level berbeda. Pemimpin perlu bertanya:
 
 > **“Kausal explanation ini diperlukan untuk keputusan apa?”**
 
@@ -411,7 +411,7 @@ tidak lagi menjadi penjelasan utama untuk outcome tersebut. Ini bukan berarti ac
 
 ## 18. Jangan memburu kepastian absolut
 
-Leader kadang menunggu:
+Pemimpin kadang menunggu:
 
 > “Kita harus tahu penyebab 100% dulu.”
 
