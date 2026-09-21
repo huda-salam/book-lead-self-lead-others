@@ -1,10 +1,10 @@
 # Ownership dan Kredibilitas
 
-> **Leader capability:** Mampu mengambil tanggung jawab secara proporsional, menepati komitmen, menyampaikan kondisi secara jujur, dan membangun kredibilitas melalui perilaku yang konsisten.
+> **Yang dilatih:** Mampu mengambil tanggung jawab secara proporsional, menepati komitmen, menyampaikan kondisi secara jujur, dan membangun kredibilitas melalui perilaku yang konsisten.
 
 > **Canonical concept:** LEAD.OWNERSHIP_CREDIBILITY
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
 Ada dua kalimat yang sama-sama terdengar seperti leadership.
 
@@ -16,11 +16,7 @@ dan:
 
 Masalahnya:
 
-keduanya bisa benar.
-
-Dan keduanya bisa salah.
-
-Ownership bukan:
+keduanya bisa benar. Dan keduanya bisa salah. Ownership bukan:
 
 > mengambil semua kesalahan.
 
@@ -58,7 +54,7 @@ Kredibilitas dibangun ketika:
 Part VI mengajarkan membaca sistem dan pengaruh. Part VII kembali kepada leader: bagaimana menggunakan pemahaman tersebut dengan ownership, influence, development, dan ketahanan saat tekanan tinggi.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 Chapter ini melatih kemampuan untuk:
 
@@ -72,25 +68,17 @@ Chapter ini melatih kemampuan untuk:
 
 ## 1. Ownership bukan blame
 
-Bayangkan sebuah proyek terlambat.
-
-Leader berkata:
+Bayangkan sebuah proyek terlambat. Leader berkata:
 
 > “Ini salah saya.”
 
-Bagus?
-
-Belum tentu.
-
-Jika penyebabnya:
+Bagus? Belum tentu. Jika penyebabnya:
 
 - dependency eksternal;
 - perubahan aturan;
 - resource yang memang tidak tersedia;
 
-mengambil semua blame mungkin justru membuat diagnosis buruk.
-
-Lebih akurat:
+mengambil semua blame mungkin justru membuat diagnosis buruk. Lebih akurat:
 
 > “Saya bertanggung jawab atas keputusan prioritas dan eskalasi yang terlambat. Dependency eksternal memang juga berkontribusi.”
 
@@ -108,9 +96,7 @@ Gunakan tiga lingkar:
 
 ### Control
 
-Apa yang dapat saya kendalikan langsung?
-
-Misalnya:
+Apa yang dapat saya kendalikan langsung? Misalnya:
 
 - keputusan saya;
 - kata-kata saya;
@@ -119,9 +105,7 @@ Misalnya:
 
 ### Influence
 
-Apa yang dapat saya pengaruhi?
-
-Misalnya:
+Apa yang dapat saya pengaruhi? Misalnya:
 
 - prioritas tim;
 - koordinasi;
@@ -130,9 +114,7 @@ Misalnya:
 
 ### Outside control
 
-Apa yang tidak dapat saya kendalikan?
-
-Misalnya:
+Apa yang tidak dapat saya kendalikan? Misalnya:
 
 - keputusan pihak berwenang;
 - perubahan eksternal;
@@ -152,9 +134,7 @@ Kalimat:
 
 > “Saya akan urus.”
 
-belum berarti ownership.
-
-Ownership menjadi terlihat ketika:
+belum berarti ownership. Ownership menjadi terlihat ketika:
 
 > tindakan berikutnya terjadi.
 
@@ -170,9 +150,7 @@ Jika tidak bisa:
 
 > informasikan sebelum deadline.
 
-Ini sederhana.
-
-Tetapi justru dari pola kecil seperti ini:
+Ini sederhana. Tetapi justru dari pola kecil seperti ini:
 
 > reliability terbentuk.
 
@@ -198,9 +176,7 @@ Akhirnya:
 
 > commitment menumpuk.
 
-Masalahnya bukan niat.
-
-Masalahnya:
+Masalahnya bukan niat. Masalahnya:
 
 > credibility cost.
 
@@ -208,9 +184,7 @@ Lebih baik:
 
 > “Saya bisa selesaikan X hari ini. Untuk Y saya butuh sampai Jumat.”
 
-Kalimat tersebut mungkin terdengar kurang heroik.
-
-Tetapi lebih:
+Kalimat tersebut mungkin terdengar kurang heroik. Tetapi lebih:
 
 > reliable.
 
@@ -232,9 +206,7 @@ Ownership berarti:
 
 > bad news naik sebelum menjadi disaster.
 
-Tidak harus membawa masalah tanpa opsi.
-
-Tetapi setidaknya:
+Tidak harus membawa masalah tanpa opsi. Tetapi setidaknya:
 
 > informasi penting tidak ditahan hanya karena belum memiliki solusi sempurna.
 
@@ -244,17 +216,11 @@ Kalimat:
 
 > “Saya belum lapor karena belum ada solusi.”
 
-sering terdengar bertanggung jawab.
-
-Tetapi pada masalah tertentu justru berbahaya.
-
-Leader dapat berkata:
+sering terdengar bertanggung jawab. Tetapi pada masalah tertentu justru berbahaya. Leader dapat berkata:
 
 > “Ada risiko X. Penyebab sementara Y. Dampak potensial Z. Saya sedang menguji dua opsi. Saya butuh keputusan tentang A.”
 
-Sekarang atasan dapat membantu.
-
-Ini menghubungkan:
+Sekarang atasan dapat membantu. Ini menghubungkan:
 
 > ownership
 
@@ -306,9 +272,7 @@ Coba gunakan:
 
 > “Saya akan verifikasi Z sebelum jam 3.”
 
-Ini bukan bahasa lemah.
-
-Ini:
+Ini bukan bahasa lemah. Ini:
 
 > **epistemic discipline.**
 
@@ -320,11 +284,7 @@ Ada leader yang selalu berkata:
 
 > “Tim saya berhasil.”
 
-Bagus.
-
-Tetapi siapa yang mengerjakan?
-
-Jika kontribusi seseorang penting:
+Bagus. Tetapi siapa yang mengerjakan? Jika kontribusi seseorang penting:
 
 > sebutkan.
 
@@ -332,9 +292,7 @@ Misalnya:
 
 > “Analisis awal dibuat Sari. Tim data membantu validasi. Saya mengambil keputusan implementasinya.”
 
-Ini bukan kehilangan authority.
-
-Justru:
+Ini bukan kehilangan authority. Justru:
 
 > meningkatkan accuracy of attribution.
 
@@ -424,17 +382,11 @@ Respons buruk:
 
 > “Saya memang salah, tetapi…”
 
-Lalu 10 menit pembelaan.
-
-Respons lain:
+Lalu 10 menit pembelaan. Respons lain:
 
 > “Saya salah.”
 
-Lalu tidak ada perubahan.
-
-Keduanya belum cukup.
-
-Ownership yang matang:
+Lalu tidak ada perubahan. Keduanya belum cukup. Ownership yang matang:
 
 > “Saya mengambil keputusan X berdasarkan informasi Y. Setelah melihat Z, keputusan itu ternyata tidak tepat. Saya akan mengubah A dan melakukan B agar pola ini tidak terulang.”
 
@@ -452,9 +404,7 @@ jangan berharap:
 
 > satu kalimat “percayalah kepada saya”
 
-mengembalikannya.
-
-Trust membutuhkan:
+mengembalikannya. Trust membutuhkan:
 
 > behavioral evidence.
 
@@ -533,9 +483,7 @@ Jangan menjawab:
 
 > “Seharusnya benar.”
 
-Jika belum diverifikasi.
-
-Lebih baik:
+Jika belum diverifikasi. Lebih baik:
 
 > “Saya belum bisa memastikan. Angka ini berasal dari sumber X. Saya akan cocokkan dengan sumber Y dan konfirmasi.”
 
@@ -583,39 +531,23 @@ Ini menghasilkan:
 
 > accountability dua arah.
 
-Leader memiliki responsibility.
-
-Tim juga memiliki responsibility.
+Leader memiliki responsibility. Tim juga memiliki responsibility.
 
 ## 20. Latihan: Credibility Ledger
 
 Selama dua minggu, catat:
 
-**Commitment**
+**Commitment** Apa yang saya janjikan?
 
-Apa yang saya janjikan?
+**Delivery** Apakah saya memenuhi?
 
-**Delivery**
+**Deviation** Jika tidak, kapan saya memberi tahu?
 
-Apakah saya memenuhi?
+**Reason** Mengapa berubah?
 
-**Deviation**
+**Repair** Apa yang saya lakukan?
 
-Jika tidak, kapan saya memberi tahu?
-
-**Reason**
-
-Mengapa berubah?
-
-**Repair**
-
-Apa yang saya lakukan?
-
-**Pattern**
-
-Apakah ada pola yang berulang?
-
-Tujuannya bukan:
+**Pattern** Apakah ada pola yang berulang? Tujuannya bukan:
 
 > menghukum diri.
 
@@ -629,9 +561,7 @@ Ada gaya komunikasi:
 
 > “Saya ambil tanggung jawab penuh.”
 
-Terdengar bagus.
-
-Tetapi jika setelah itu:
+Terdengar bagus. Tetapi jika setelah itu:
 
 > tidak ada action,
 
