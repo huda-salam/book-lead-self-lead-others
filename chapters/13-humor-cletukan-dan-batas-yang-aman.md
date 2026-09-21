@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Humor sering muncul ketika orang bekerja bersama: untuk mencairkan suasana, membangun kedekatan, mengurangi ketegangan, atau menyampaikan sesuatu yang sulit secara lebih ringan. Tetapi humor bukan tombol universal untuk membuat suasana lebih baik. Riset organisasi menunjukkan manfaat dan risiko humor bergantung pada bentuk, target, hubungan, konteks, dan bagaimana humor dipersepsikan. Review tentang humor dalam kepemimpinan juga menekankan kompleksitas definisi, variasi gaya humor, fungsi komunikasi, dan pengaruh konteks budaya. ([lihat Evidence notes](#evidence-notes))
+Humor hampir selalu muncul dalam kehidupan kerja: kadang untuk mencairkan suasana, kadang untuk mendekatkan orang, kadang juga untuk menyampaikan hal yang sulit. Masalahnya, humor bukan tombol ajaib yang otomatis membuat suasana menjadi lebih baik. Riset organisasi menunjukkan manfaat dan risiko humor bergantung pada bentuk, target, hubungan, konteks, dan bagaimana humor dipersepsikan. Review tentang humor dalam kepemimpinan juga menekankan kompleksitas definisi, variasi gaya humor, fungsi komunikasi, dan pengaruh konteks budaya. ([lihat Evidence notes](#evidence-notes))
 
 ::: success Green Note
 **Lensa pemimpin:** Humor yang baik bukan humor yang membuat pemimpin terlihat lucu. Humor yang baik membantu tujuan interaksi tanpa membuat orang lain membayar biaya sosial yang tidak perlu.
@@ -34,7 +34,7 @@ Ada perbedaan besar antara:
 
 Literatur humor organisasi memang membedakan bentuk humor dan menemukan bahwa hasilnya tidak seragam. Meta-analysis workplace humor menemukan hubungan positif untuk beberapa bentuk humor, tetapi juga menekankan perlunya membedakan bentuk humor negatif dan konteks penggunaannya. ([lihat Evidence notes](#evidence-notes))
 
-Jadi pertanyaan pertama bukan:
+Jadi pertanyaan awalnya bukan sekadar:
 
 > “Lucu atau tidak?”
 
@@ -44,7 +44,7 @@ Tetapi:
 
 ## 2. Target adalah pembeda penting
 
-Perhatikan perbedaan:
+Coba rasakan bedanya:
 
 > “Servernya juga sedang butuh kopi hari ini.”
 
@@ -52,7 +52,7 @@ dengan:
 
 > “Kamu memang kalau kerja selalu bikin server menangis.”
 
-Yang pertama menertawakan situasi. Yang kedua menjadikan seseorang target. Target bukan satu-satunya faktor, tetapi merupakan pemeriksaan awal yang penting. Humor yang diarahkan kepada kelompok yang memiliki posisi lebih rendah juga tidak sama risikonya dengan humor antarorang yang memiliki posisi relatif setara. Power dapat mengubah makna sebuah cletukan.
+Yang pertama menertawakan situasi. Yang kedua menjadikan seseorang target. Target bukan satu-satunya hal yang perlu dilihat, tetapi ini pemeriksaan awal yang penting. Humor yang diarahkan kepada kelompok yang memiliki posisi lebih rendah juga tidak sama risikonya dengan humor antarorang yang memiliki posisi relatif setara. Power dapat mengubah makna sebuah cletukan.
 
 ## 3. Pemimpin memiliki biaya humor yang berbeda
 
@@ -63,7 +63,7 @@ Ketika seorang pemimpin bercanda, bawahan tidak selalu bebas merespons seperti t
 - merasa tidak punya pilihan;
 - atau belum tahu apakah candaan itu sebenarnya kritik.
 
-Karena itu **tawa bukan bukti bahwa humor diterima dengan baik**. Review kepemimpinan dan humor menempatkan trust, appropriateness, leadership style, personal preference, dan cultural context sebagai faktor yang memengaruhi hubungan humor dengan leadership. ([lihat Evidence notes](#evidence-notes))
+Karena itu, **tawa belum tentu berarti candaan diterima dengan baik**. Review kepemimpinan dan humor menempatkan trust, appropriateness, leadership style, personal preference, dan cultural context sebagai faktor yang memengaruhi hubungan humor dengan leadership. ([lihat Evidence notes](#evidence-notes))
 
 ## 4. Jangan menyamakan “bercanda” dengan “aman”
 
@@ -73,7 +73,7 @@ Kalimat:
 
 tidak menyelesaikan masalah jika orang lain ternyata dipermalukan. Humor memiliki dua sisi. Studi tentang pemimpin humor menemukan bahwa humor afiliatif dapat berkaitan dengan psychological safety dan outcome positif, tetapi bentuk humor agresif dapat membawa outcome negatif. Studi terbaru juga menunjukkan hasil yang lebih kompleks dan bergantung konteks. ([lihat Evidence notes](#evidence-notes))
 
-Karena itu niat tidak cukup. Periksa tiga hal:
+Jadi niat saja tidak cukup. Lihat setidaknya tiga hal:
 
 **Niat → Bentuk → Dampak** Niat baik tidak menjamin bentuknya aman. Bentuk yang terasa ringan bagi pembicara tidak menjamin dampaknya ringan bagi penerima.
 
@@ -241,7 +241,7 @@ Ada situasi yang bukan tempat untuk bercanda:
 
 Dalam situasi seperti ini, kejelasan dapat lebih penting daripada suasana ringan.
 
-**Tidak bercanda juga merupakan pilihan leadership.**
+**Kadang keputusan terbaik justru tidak bercanda.**
 
 ## Red Flags
 
