@@ -6,11 +6,11 @@
 
 ## Mengapa Ini Penting
 
-Salah satu jebakan orang yang rajin:
+Ada jebakan yang sering dialami orang yang rajin:
 
 > semua ingin dikerjakan.
 
-Akibatnya:
+Lalu yang terjadi biasanya:
 
 > daftar tugas bertambah,
 
@@ -24,11 +24,11 @@ tetapi:
 
 > hal yang paling penting belum tentu bergerak.
 
-Management bukan hanya:
+Manajemen bukan cuma soal:
 
 > mengatur agar lebih banyak pekerjaan selesai.
 
-Management juga:
+Ia juga soal:
 
 > **memutuskan pekerjaan mana yang layak dikerjakan.**
 
@@ -40,7 +40,7 @@ Management juga:
 Chapter ini membahas prioritization sebagai capability management. Trade-off keputusan dibahas lebih dalam di Chapter 24; execution di Chapter 25; delegation di Chapter 36; strategic choice di Chapter 38.
 :::
 
-## Yang Sedang Kita Latih
+## Fokus Bab
 
 - memilih;
 - mengatakan tidak;
@@ -52,7 +52,7 @@ Chapter ini membahas prioritization sebagai capability management. Trade-off kep
 
 ## 1. Kapasitas selalu terbatas
 
-Resource organisasi terbatas:
+Sumber daya organisasi terbatas:
 
 - waktu;
 - uang;
@@ -62,7 +62,7 @@ Resource organisasi terbatas:
 - political/organizational bandwidth;
 - dan waktu pimpinan.
 
-Karena itu:
+Jadi:
 
 > ketika semua dikerjakan,
 
@@ -78,9 +78,9 @@ tetapi:
 
 > bukan yang paling penting sekarang.
 
-## 2. Busy bukan berarti productive
+## 2. Sibuk belum tentu berarti maju
 
-Bayangkan dua tim. Tim A:
+Bayangkan dua tim dengan kondisi berbeda. Tim A:
 
 > menyelesaikan 40 aktivitas.
 
@@ -88,67 +88,67 @@ Tim B:
 
 > menyelesaikan 8 aktivitas yang membuka bottleneck utama.
 
-Siapa yang lebih efektif? Kita tidak dapat menjawab hanya dari:
+Tim mana yang lebih efektif? Kita belum bisa menjawab hanya dari:
 
 > jumlah aktivitas.
 
-Pertanyaan yang lebih penting:
+Pertanyaan yang perlu dilihat adalah:
 
 > **outcome apa yang berubah?**
 
-Activity:
+Kegiatan:
 
 > rapat.
 
-Outcome:
+Hasil yang ingin dilihat:
 
 > keputusan dibuat.
 
-Activity:
+Kegiatan:
 
 > laporan.
 
-Outcome:
+Hasil yang ingin dilihat:
 
 > keputusan menggunakan informasi tersebut.
 
-Activity:
+Kegiatan:
 
 > coding.
 
-Outcome:
+Hasil yang ingin dilihat:
 
 > capability atau service yang benar-benar digunakan.
 
-## 3. Prioritas harus terkait objective
+## 3. Prioritas harus kembali ke tujuan
 
-Jangan mulai dari:
+Jangan mulai dari pertanyaan:
 
 > “Apa yang harus kita kerjakan?”
 
-Mulai dari:
+Mulai dari pertanyaan:
 
 > “Apa yang sedang kita coba capai?”
 
-Misalnya objective:
+Misalnya tujuan:
 
 > mengurangi keterlambatan pelayanan.
 
-Maka:
+Kalau begitu,
 
 > memperbaiki bottleneck utama
 
-mungkin lebih prioritas daripada:
+bisa jadi lebih penting sekarang daripada:
 
 > mempercantik dashboard.
 
 Dashboard bisa berguna. Tetapi:
 
-> hubungan dengan objective perlu diuji.
+> hubungannya dengan tujuan tetap perlu diperiksa.
 
-## 4. Urgent bukan otomatis important
+## 4. Mendesak tidak otomatis berarti penting
 
-Sesuatu bisa:
+Sesuatu bisa saja:
 
 > urgent tetapi low impact.
 
@@ -156,7 +156,7 @@ Contoh:
 
 > permintaan kecil dari orang yang paling keras suaranya.
 
-Sebaliknya:
+Sebaliknya,
 
 > pekerjaan penting bisa tidak terasa urgent.
 
@@ -164,7 +164,7 @@ Contoh:
 
 > memperbaiki proses yang setiap bulan menyebabkan masalah.
 
-Pemimpin perlu bertanya:
+Coba tanyakan:
 
 > “Apa yang terjadi jika kita tidak mengerjakan ini minggu ini?”
 
@@ -172,33 +172,31 @@ dan:
 
 > “Apa yang terjadi jika kita terus menunda ini tiga bulan?”
 
-## 5. Jangan membuat 20 prioritas
+## 5. Jangan menjadikan semua hal prioritas utama
 
 Jika ada:
 
 > 20 “prioritas utama”,
 
-maka kata:
+maka kata
 
 > prioritas
 
 kehilangan makna. Tidak ada angka universal tentang berapa banyak prioritas yang ideal. Tetapi secara praktis:
 
-> semakin banyak hal yang diberi status prioritas tertinggi, semakin kecil daya pilihnya.
+> semakin banyak hal diberi status paling tinggi, semakin kecil arti pemilihannya.
 
-Coba:
+Untuk sementara, coba pilih tiga teratas.
 
-> Top 3.
+Setelah itu, lihat:
 
-Lalu:
-
-> apa yang sengaja tidak menjadi Top 3?
+> apa yang sengaja tidak masuk tiga besar?
 
 Pertanyaan kedua sering lebih revealing.
 
 ## 6. Prioritas juga berarti “not now”
 
-Salah satu kalimat management yang penting:
+Satu kalimat yang berguna dalam manajemen:
 
 > **“Bukan tidak penting. Belum sekarang.”**
 
@@ -206,17 +204,15 @@ Contoh:
 
 > “Inisiatif X tetap kita lakukan, tetapi setelah stabilisasi sistem selesai.”
 
-Ini berbeda dari:
+Bedanya dengan kalimat:
 
-> “Tidak usah.”
+> “tidak perlu.”
 
-Prioritas memiliki:
+Prioritas juga menyangkut waktu.
 
-> timing.
+## 7. Kadang prioritas berarti berhenti
 
-## 7. Dan kadang berarti “stop”
-
-Ada pekerjaan yang:
+Ada pekerjaan yang dulu masuk akal, tetapi sekarang:
 
 > dulu masuk akal,
 
@@ -234,15 +230,15 @@ Misalnya:
 - pekerjaan duplikatif;
 - atau ada solusi yang lebih baik.
 
-Melanjutkan hanya karena:
+Kalau satu-satunya alasan untuk lanjut adalah:
 
 > “sudah terlanjur”
 
-adalah jebakan sunk cost. Chapter 22 dan 24 sudah membahas ini.
+kita perlu curiga bahwa sunk cost sedang ikut mengambil keputusan. Chapter 22 dan 24 sudah membahas ini.
 
-## 8. Prioritas tanpa resource bukan prioritas
+## 8. Prioritas tanpa sumber daya hanya menjadi slogan
 
-Pimpinan berkata:
+Pimpinan bisa berkata:
 
 > “Ini sangat prioritas.”
 
@@ -258,15 +254,13 @@ Tetapi:
 
 > tidak ada dependency yang diselesaikan.
 
-Maka tim menerima:
+Tim lalu menerima:
 
-> pesan prioritas,
+> pesan bahwa ini penting,
 
-tetapi:
+sementara kondisi kerja tidak berubah.
 
-> kondisi eksekusi tidak berubah.
-
-Prioritas yang nyata harus tercermin dalam:
+Prioritas yang nyata terlihat dari perubahan pada:
 
 - resource;
 - kalender;
@@ -275,7 +269,7 @@ Prioritas yang nyata harus tercermin dalam:
 - sequencing;
 - dan trade-off.
 
-## 9. Setiap prioritas punya opportunity cost
+## 9. Setiap pilihan punya biaya kesempatan
 
 Jika Anda memilih:
 
@@ -285,9 +279,7 @@ Anda mungkin menunda:
 
 > B.
 
-Itulah:
-
-> opportunity cost.
+Itulah opportunity cost.
 
 Jangan hanya bertanya:
 
@@ -301,9 +293,7 @@ Contoh:
 
 > “Kita percepat migrasi ini. Konsekuensinya, dua enhancement akan mundur dua minggu.”
 
-Sekarang:
-
-> trade-off terlihat.
+Trade-off-nya sekarang terlihat.
 
 ## 10. Jangan menyembunyikan trade-off
 
@@ -319,7 +309,7 @@ Masalahnya:
 
 > trade-off tidak pernah diputuskan.
 
-Lebih sehat:
+Lebih sehat kalau kita mengatakan:
 
 > “Dengan kapasitas sekarang, kita bisa menyelesaikan A dan B. Jika C juga harus masuk, D harus mundur.”
 
@@ -341,9 +331,7 @@ Contoh:
 
 > “Kita fokus stabilisasi minggu ini karena risiko operasional meningkat. Akibatnya, enhancement X mundur satu sprint. Setelah indikator stabil, kita review kembali.”
 
-Jelas. Tidak perlu:
-
-> pidato panjang.
+Cukup jelas. Tidak perlu pidato panjang.
 
 ## 12. Jangan biarkan suara paling keras menentukan prioritas
 
@@ -368,9 +356,9 @@ tidak otomatis membuat semua permintaannya menjadi prioritas tertinggi. Authorit
 - impact;
 - timing.
 
-## 13. Priority churn
+## 13. Perubahan prioritas yang terlalu sering
 
-Bayangkan:
+Bayangkan pola seperti ini:
 
 Senin:
 
@@ -392,15 +380,11 @@ Tim mungkin tetap sibuk. Tetapi:
 
 > context switching meningkat.
 
-Prioritas yang berubah bukan selalu buruk. Dunia memang berubah. Masalahnya adalah:
+Prioritas yang berubah bukan selalu buruk. Dunia memang berubah. Yang menjadi masalah adalah perubahan tanpa alasan yang jelas.
 
-> perubahan tanpa alasan yang jelas.
+Kalau prioritas berubah, jelaskan apa yang berubah dan mengapa.
 
-Ketika prioritas berubah:
-
-> jelaskan trigger-nya.
-
-## 14. Emergency jangan menjadi alasan untuk menghancurkan semua prioritas
+## 14. Keadaan darurat jangan menjadi alasan untuk menghapus semua prioritas lain
 
 Kejadian darurat memang dapat:
 
@@ -410,7 +394,7 @@ Tetapi setelah emergency:
 
 > apa yang dikembalikan?
 
-Jika semua pekerjaan selalu diperlakukan sebagai emergency:
+Kalau semua pekerjaan terus diperlakukan sebagai keadaan darurat:
 
 > tidak ada lagi baseline.
 
@@ -424,9 +408,7 @@ Pemimpin perlu membedakan:
 
 > discretionary.
 
-Bukan untuk membuat klasifikasi sempurna. Tetapi untuk:
-
-> mengurangi kebisingan.
+Tujuannya bukan membuat klasifikasi yang sempurna, melainkan mengurangi kebisingan.
 
 ## 15. “Tidak” yang baik
 
@@ -480,11 +462,9 @@ Bukan berarti:
 
 > hanya satu pekerjaan yang boleh dilakukan.
 
-Ini:
+Ini hanya titik acuan.
 
-> anchor.
-
-## 17. Waspadai pekerjaan yang terasa produktif
+## 17. Waspadai pekerjaan yang memberi rasa “sudah selesai”
 
 Ada pekerjaan yang memberikan:
 
@@ -504,23 +484,21 @@ Semuanya mungkin berguna. Tetapi:
 
 > rasa produktif bukan bukti bahwa objective bergerak.
 
-Periksa:
-
-> output → outcome.
+Lihat perbedaannya: **output → outcome.**
 
 ## 18. Prioritas lintas horizon
 
 Tidak semua pekerjaan menghasilkan manfaat pada horizon yang sama. Ada:
 
-> now.
+> sekarang.
 
 Ada:
 
-> next.
+> berikutnya.
 
 Ada:
 
-> later.
+> nanti.
 
 Contoh:
 
@@ -532,27 +510,21 @@ Contoh:
 
 > mengorbankan semua pekerjaan jangka panjang demi urgensi hari ini.
 
-Sebaliknya:
+Sebaliknya,
 
 > jangan mengorbankan operasi hari ini demi strategi yang belum siap.
 
-Management membutuhkan:
-
-> portfolio perhatian.
+Manajemen perlu menjaga perhatian untuk beberapa horizon sekaligus.
 
 ## 19. Prioritas bukan sekali jadi
 
-Objective dapat berubah. Risk dapat berubah. Resource dapat berubah. Evidence dapat berubah. Karena itu:
+Objective dapat berubah. Risk dapat berubah. Resource dapat berubah. Evidence dapat berubah. Jadi:
 
 > priority review
 
-perlu dilakukan. Bukan:
+perlu dilakukan. Bukan setiap lima menit.
 
-> setiap lima menit.
-
-Tetapi:
-
-> pada cadence dan trigger yang masuk akal.
+Tetapi pada waktu atau kondisi yang memang masuk akal.
 
 Pertanyaan:
 
@@ -560,7 +532,7 @@ Pertanyaan:
 
 ## 20. Framework: Priority Loop
 
-Framework berikut adalah **sintesis kerja buku**, bukan taxonomy prioritization tervalidasi:
+Framework berikut adalah **sintesis kerja buku**, bukan taxonomy prioritization yang tervalidasi:
 
 **Objective → Constraints → Consequences → Prioritize → Allocate → Communicate → Review**
 
@@ -607,9 +579,7 @@ Jangan menganggap kolom ini:
 
 > mesin objektif.
 
-Ia hanya membantu:
-
-> membuat alasan keputusan terlihat.
+Fungsinya hanya membantu alasan keputusan terlihat.
 
 ## 22. Latihan: Stop–Start–Continue
 
@@ -621,13 +591,7 @@ Ambil daftar pekerjaan tim. Tentukan:
 
 **Stop** Apa yang sebaiknya dihentikan? Tambahkan:
 
-**Not now** Apa yang penting tetapi sengaja ditunda? Sering kali:
-
-> “Not now”
-
-lebih sulit daripada:
-
-> “Start.”
+**Not now** Apa yang penting tetapi sengaja ditunda? Sering kali mengatakan **“belum sekarang”** memang lebih sulit daripada mengatakan **“mulai.”**
 
 Karena membutuhkan:
 
@@ -642,7 +606,7 @@ Karena membutuhkan:
 :::
 
 ::: warning Risiko
-Priority churn yang terus-menerus dapat membuat tim kehilangan fokus. Tetapi mempertahankan prioritas lama hanya demi konsistensi juga dapat salah ketika objective, evidence, risk, atau constraints berubah.
+Perubahan prioritas yang terlalu sering yang terus-menerus dapat membuat tim kehilangan fokus. Tetapi mempertahankan prioritas lama hanya demi konsistensi juga dapat salah ketika objective, evidence, risk, atau constraints berubah.
 :::
 
 ::: danger Batas
