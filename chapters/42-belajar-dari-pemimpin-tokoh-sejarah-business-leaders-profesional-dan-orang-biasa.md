@@ -4,7 +4,7 @@
 
 > **Canonical concept:** CASE.HUMAN_EXEMPLARS
 
-Setelah belajar dari Nabi dan Sahabat, kita masuk ke wilayah yang berbeda. Di sini kita mempelajari:
+Setelah membahas Nabi dan para Sahabat, kita masuk ke wilayah yang sifatnya berbeda. Di sini kita bisa belajar dari:
 
 - pemimpin politik dan pemerintahan;
 - tokoh sejarah;
@@ -15,15 +15,15 @@ Setelah belajar dari Nabi dan Sahabat, kita masuk ke wilayah yang berbeda. Di si
 - pengusaha;
 - dan orang biasa.
 
-Tetapi ada satu aturan penting:
+Tetapi ada satu aturan yang perlu dipegang:
 
-> **orang yang berhasil bukan otomatis sumber kebenaran.**
+> ****Orang yang berhasil bukan otomatis sumber kebenaran.****
 
-Demikian pula:
+Sebaliknya,
 
 > orang yang gagal bukan otomatis tidak punya sesuatu untuk diajarkan.
 
-Yang kita cari bukan:
+Jadi pertanyaannya bukan:
 
 > “Siapa yang harus saya tiru?”
 
@@ -39,9 +39,9 @@ Melainkan:
 Chapter 40 memberi metode membaca kasus. Chapter 41 menerapkannya pada teladan Islam. Chapter 42 menggunakan metode yang sama untuk manusia dan organisasi di luar konteks tersebut.
 :::
 
-## 1. Hero bukan metode belajar
+## 1. Mengagumi tokoh bukan metode belajar
 
-Kita mudah tertarik pada cerita:
+Kita mudah tertarik pada cerita seperti:
 
 > “Ia membangun perusahaan dari nol.”
 
@@ -57,7 +57,7 @@ Lalu:
 
 > “Itulah rahasia keberhasilannya.”
 
-Masalahnya:
+Masalahnya sederhana: cerita hanya memperlihatkan sebagian gambar.
 
 kita melihat:
 
@@ -76,9 +76,7 @@ Tetapi tidak selalu melihat:
 - kondisi industri;
 - dan keputusan yang ternyata tidak berpengaruh besar.
 
-Cerita sukses sering memiliki:
-
-> **survivorship bias.**
+Cerita sukses juga rentan terhadap **survivorship bias**.
 
 Yang kita lihat adalah:
 
@@ -88,11 +86,9 @@ Kita tidak otomatis melihat:
 
 > orang yang melakukan behavior serupa tetapi tidak berhasil.
 
-Maka:
+Karena itu, **success story lebih baik diperlakukan sebagai bahan investigasi daripada bukti kausal otomatis.**
 
-> **success story adalah bahan investigasi, bukan bukti kausal otomatis.**
-
-## 2. Outcome bukan bukti bahwa semua behavior-nya benar
+## 2. Hasil bukan bukti bahwa semua perilakunya benar
 
 Bayangkan seorang entrepreneur berhasil besar. Ia berkata:
 
@@ -112,9 +108,7 @@ Kita harus memisahkan:
 
 > tidur empat jam menyebabkan keberhasilan.
 
-Yang ketiga:
-
-> belum otomatis terbukti.
+Kesimpulan ketiga belum otomatis terbukti.
 
 Bisa saja ada:
 
@@ -131,7 +125,7 @@ Karena itu:
 
 > **jangan mengubah korelasi cerita menjadi resep.**
 
-## 3. Behavior lebih berguna daripada slogan
+## 3. Perilaku lebih berguna daripada slogan
 
 Kalimat:
 
@@ -185,7 +179,7 @@ sering:
 
 > menyembunyikan mekanisme.
 
-## 4. Context sebelum admiration
+## 4. Lihat konteks sebelum kagum
 
 Behavior yang baik di satu konteks:
 
@@ -213,7 +207,7 @@ berbeda dari:
 
 > keputusan yang menyangkut keselamatan, hukum, atau anggaran publik.
 
-Maka jangan belajar:
+Jadi jangan mengambil pelajaran sesederhana:
 
 > “pemimpin hebat mengambil keputusan cepat.”
 
@@ -221,7 +215,7 @@ Belajar:
 
 > **kapan kecepatan menjadi nilai dan kapan kecepatan menjadi risiko?**
 
-## 5. Mechanism, bukan aura
+## 5. Cari mekanisme, bukan aura
 
 Ambil contoh:
 
@@ -231,7 +225,7 @@ Jangan langsung menyimpulkan:
 
 > “Karena itu ia menjadi pemimpin hebat.”
 
-Cari mekanisme:
+Cari mekanismenya:
 
 > direct customer contact
 
@@ -247,7 +241,7 @@ Tetapi ada boundary:
 
 > organisasi dapat kehilangan struktur data.
 
-Jadi lesson-nya bukan:
+Jadi pelajarannya bukan:
 
 > “Temui pelanggan setiap hari.”
 
@@ -315,15 +309,13 @@ Tidak.
 
 > **competence is domain-specific.**
 
-Bahkan dalam domain yang sama:
-
-> kemampuan tidak berarti selalu benar.
+Bahkan dalam domain yang sama, kemampuan tidak berarti seseorang selalu benar.
 
 Maka:
 
 > reputasi harus meningkatkan perhatian kita terhadap evidence, bukan menggantikan evidence.
 
-## 8. Tokoh sejarah juga bukan karakter sederhana
+## 8. Tokoh sejarah juga tidak sesederhana cerita tentang pahlawan dan penjahat
 
 Kita sering membaca sejarah sebagai:
 
@@ -340,19 +332,15 @@ Padahal manusia dan institusi lebih kompleks. Untuk tokoh sejarah, tanyakan:
 - apa interpretasi sejarawan?
 - apa yang masih diperdebatkan?
 
-Jangan menyimpulkan:
-
-> “Dia orang baik.”
-
-Dari satu tindakan. Lebih berguna:
+Jangan menyimpulkan “dia orang baik” hanya dari satu tindakan. Lebih berguna:
 
 > **“Dalam episode ini, ia memilih X ketika menghadapi Y, dengan informasi dan constraint Z.”**
 
 Itu lebih dapat dianalisis.
 
-## 9. Business pemimpin: jangan belajar dari quote
+## 9. Dari business leader, jangan hanya belajar dari quote
 
-Quote sangat mudah dibagikan:
+Quote memang mudah dibagikan:
 
 > “Take risks.”
 
@@ -360,7 +348,7 @@ Quote sangat mudah dibagikan:
 
 > “Customer first.”
 
-Masalahnya:
+Masalahnya sederhana: cerita hanya memperlihatkan sebagian gambar.
 
 > hampir semua slogan dapat terdengar benar.
 
@@ -390,7 +378,7 @@ Tetapi bisa juga disalahgunakan menjadi:
 
 Keduanya sangat berbeda.
 
-## 10. Profesional: expertise juga punya boundary
+## 10. Keahlian juga punya batas
 
 Kita dapat belajar dari:
 
@@ -418,11 +406,11 @@ Seorang ahli teknis dapat sangat baik membaca sistem. Itu tidak otomatis membuat
 
 > atau kebijakan publik.
 
-Belajar secara sehat berarti:
+Belajar dengan sehat berarti:
 
 > **meminjam reasoning yang relevan, bukan menyerahkan judgment kita kepada reputasi orang lain.**
 
-## 11. Orang biasa juga dapat menjadi exemplar
+## 11. Orang biasa juga bisa menjadi teladan
 
 Ini penting. Jika kita hanya belajar dari:
 
@@ -446,15 +434,11 @@ kita dapat membangun bias bahwa leadership hanya terjadi pada posisi tinggi. Pad
 
 > pedagang kecil yang mengubah cara kerja setelah pelanggan memberi feedback.
 
-Leadership sering terlihat:
-
-> bukan ketika seseorang memiliki kuasa,
-
-tetapi ketika:
+Leadership juga terlihat dalam hal-hal yang jauh lebih biasa: ketika seseorang
 
 > **seseorang memilih behavior yang bertanggung jawab ketika pilihan yang lebih mudah tersedia.**
 
-## 12. Jangan romanticize adversity
+## 12. Jangan meromantisasi kesulitan
 
 Cerita:
 
@@ -473,11 +457,7 @@ Tidak sesederhana itu. Kesulitan dapat:
 - mengurangi pilihan;
 - atau sekadar menjadi hambatan.
 
-Jadi jangan membuat:
-
-> suffering → success
-
-sebagai hukum. Tanyakan:
+Jangan menjadikan **suffering → success** sebagai hukum. Tanyakan:
 
 > Apa yang sebenarnya dilakukan orang tersebut terhadap kondisi itu?
 
@@ -487,9 +467,9 @@ sebagai hukum. Tanyakan:
 
 > Apa yang tidak terlihat dalam cerita?
 
-## 13. Success does not prove the method
+## 13. Keberhasilan tidak otomatis membuktikan metodenya
 
-Ini salah satu prinsip utama chapter ini. Jika:
+Ini salah satu prinsip utama bab ini. Jika:
 
 > A melakukan X → berhasil.
 
@@ -670,9 +650,7 @@ Kapan lesson mungkin tidak berlaku?
 
 ### Transfer
 
-Apa yang dapat kita adaptasi ke konteks sendiri? Perhatikan:
-
-> **transfer datang paling akhir.**
+Apa yang dapat kita adaptasi ke konteks sendiri? Perhatikan: **transfer datang paling akhir.**
 
 Bukan:
 
@@ -753,9 +731,7 @@ Jika tidak cukup:
 
 > tulis “unknown”.
 
-Itu bukan kegagalan. Itu:
-
-> **literacy discipline.**
+Itu bukan kegagalan. Justru itu bagian dari **literacy discipline**.
 
 ## 21. Latihan: belajar tanpa meniru
 
@@ -777,17 +753,11 @@ Kemudian:
 
 > cari satu bukti yang dapat membantah asumsi Anda.
 
-Tujuannya bukan:
-
-> menjatuhkan tokoh.
-
-Tujuannya:
-
-> **mengurangi halo effect.**
+Tujuannya bukan menjatuhkan tokoh, tetapi mengurangi **halo effect**.
 
 ## 22. Dari exemplar ke behavior
 
-Pada akhirnya, jangan pulang dengan:
+Jadi jangan menutup bab ini dengan:
 
 > “Saya ingin menjadi seperti dia.”
 
@@ -809,13 +779,7 @@ Misalnya:
 
 > meminta perspektif orang yang berbeda.
 
-Behavior:
-
-> dapat dilatih.
-
-Identitas:
-
-> jauh lebih sulit diverifikasi.
+Perilaku bisa dilatih. Identitas jauh lebih sulit dibuktikan dan mudah berubah menjadi citra.
 
 ## 23. Pertanyaan transfer
 
@@ -830,13 +794,7 @@ Sebelum mengadopsi sebuah lesson:
 7. Apa versi kecil yang dapat diuji?
 8. Bagaimana saya akan tahu jika tidak bekerja?
 
-Baru:
-
-> **adapt.**
-
-Bukan:
-
-> copy.
+Baru setelah itu kita **adaptasikan**, bukan menyalin mentah-mentah.
 
 ::: important Prinsip
 **Jangan meniru hasil. Pelajari mekanisme yang mungkin menghasilkan hasil, uji evidence-nya, lalu adaptasikan dengan boundary yang jelas.**
@@ -851,7 +809,7 @@ Success stories rentan terhadap survivorship bias, halo effect, hindsight, selec
 :::
 
 ::: danger Batas
-Tokoh publik, business pemimpin, profesional, dan orang biasa tetap manusia dengan domain kompetensi dan keterbatasan. Tidak ada kewajiban untuk mengadopsi seluruh pandangan seseorang hanya karena satu behavior-nya layak dipelajari.
+Tokoh publik, business pemimpin, profesional, dan orang biasa tetap manusia dengan domain kompetensi dan keterbatasan. Tidak ada alasan untuk mengadopsi seluruh pandangan seseorang hanya karena satu perilakunya layak dipelajari.
 :::
 
 ## Evidence notes
