@@ -42,7 +42,7 @@ Tetapi:
 
 > sistem bereaksi.
 
-Inilah mengapa leader perlu bertanya:
+Inilah mengapa pemimpin perlu bertanya:
 
 > **“Setelah ini terjadi, lalu apa?”**
 
@@ -245,7 +245,7 @@ Misalnya:
 
 > antrean meningkat → capacity ditambah → antrean turun.
 
-Tidak semua sistem harus digambar seperti diagram. Tetapi leader perlu belajar bertanya:
+Tidak semua sistem harus digambar seperti diagram. Tetapi pemimpin perlu belajar bertanya:
 
 > “Apakah efek ini akan berhenti, membesar, atau memantul balik?”
 
@@ -253,7 +253,7 @@ Tidak semua sistem harus digambar seperti diagram. Tetapi leader perlu belajar b
 
 Ini sering terlewat. Misalnya:
 
-> leader selalu menjadi approval terakhir.
+> pemimpin selalu menjadi approval terakhir.
 
 Awalnya:
 
@@ -261,7 +261,7 @@ Awalnya:
 
 Lama-lama:
 
-> semua orang belajar menunggu leader.
+> semua orang belajar menunggu pemimpin.
 
 Akibatnya:
 
