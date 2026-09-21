@@ -1,11 +1,11 @@
 # Fakta, Tafsir, dan Cerita di Kepala
 
-> **Yang dilatih:** Leadership judgment dimulai dari kemampuan membedakan apa yang diketahui, apa yang ditafsirkan, dan apa yang masih perlu diverifikasi.
+> **Yang dilatih:** Penilaian yang baik dimulai dari hal yang sederhana: membedakan apa yang benar-benar kita tahu dari apa yang baru kita simpulkan.
 
 > **Canonical concept:** READ.OBSERVATION  
 > **Related concept:** LITERACY.DISCIPLINE  
 
-## 1. Kita jarang bereaksi hanya terhadap fakta
+## 1. Kita jarang bereaksi hanya terhadap apa yang benar-benar terjadi
 
 Seseorang berkata:
 
@@ -19,11 +19,11 @@ Lalu muncul emosi: tegang, khawatir, defensif. Kemudian kita masuk ke pertemuan 
 
 > **Kita sering merespons bukan hanya terhadap apa yang terjadi, tetapi juga terhadap arti yang kita berikan kepada apa yang terjadi.**
 
-Bab ini tidak meminta kita menjadi mesin yang hanya percaya pada data. Ia mengajarkan satu disiplin sederhana:
+Kita tentu tidak bisa menjalani hidup hanya dengan angka dan catatan. Tetapi ada satu kebiasaan yang sangat membantu:
 
 > **Pisahkan apa yang teramati dari apa yang kita tafsirkan, lalu tandai apa yang belum kita ketahui.**
 
-## 2. Empat lapisan yang sering tercampur
+## 2. Empat hal yang mudah tercampur
 
 ### 1. Observasi
 
@@ -57,7 +57,7 @@ Empat lapisan ini tidak sama. Kesalahan sering terjadi ketika tafsir diperlakuka
 
 ## 3. “Saya tahu” sering sebenarnya berarti “saya menyimpulkan”
 
-Perhatikan:
+Perhatikan bagaimana kalimatnya berubah:
 
 > “Dia tidak menghargai saya.”
 
@@ -69,13 +69,13 @@ Perhatikan:
 
 > “Dia memang manipulatif.”
 
-Kalimat-kalimat ini mungkin benar. Tetapi masing-masing mengandung tingkat inferensi yang berbeda. Pertanyaan pertama bukan:
+Kalimat-kalimat ini mungkin benar. Tetapi masing-masing mengandung tingkat inferensi yang berbeda. Pertanyaan pertama sebaiknya bukan:
 
 > “Apakah saya benar?”
 
-Pertanyaan pertama:
+Mulailah dengan bertanya:
 
-> **“Bagian mana yang sebenarnya saya lihat, dan bagian mana yang saya simpulkan?”**
+> **“Bagian mana yang benar-benar saya lihat, dan bagian mana yang baru saya simpulkan?”**
 
 Contoh:
 
@@ -103,11 +103,11 @@ Sekarang kita memiliki ruang untuk bertanya.
 
 ## 4. Tafsir bukan musuh
 
-Ada kesalahan baru jika kita berpikir:
+Tetapi ada jebakan lain. Kita bisa saja sampai pada kesimpulan bahwa:
 
 > “Kalau tafsir berbahaya, berarti kita harus menghilangkan semua tafsir.”
 
-Tidak mungkin. Manusia harus menafsirkan situasi untuk bertindak. Masalahnya bukan memiliki interpretasi. Masalahnya adalah:
+Tidak mungkin. Manusia harus menafsirkan situasi untuk bertindak. Masalahnya bukan karena kita menafsirkan. Manusia memang harus menafsirkan untuk bertindak. Masalahnya muncul ketika kita lupa bahwa yang kita punya baru interpretasi.
 
 > **melupakan bahwa interpretasi adalah interpretasi.**
 
@@ -139,19 +139,19 @@ Kemudian:
 
 > “Orang seperti dia memang tidak bisa dipercaya.”
 
-Perhatikan pergerakannya:
+Lihat bagaimana satu kalimat bisa berkembang:
 
-**pesan belum dibalas → mengabaikan → tidak menghargai → tidak dapat dipercaya.** Setiap langkah menambah inferensi. Semakin jauh kita bergerak dari observasi, semakin penting evidence tambahan. Bukan berarti kesimpulan terakhir pasti salah.
+**pesan belum dibalas → mengabaikan → tidak menghargai → tidak dapat dipercaya.** Setiap langkah menambah inferensi. Semakin jauh kita bergerak dari observasi, semakin banyak bukti yang kita perlukan. Bukan berarti kesimpulan terakhir pasti salah.
 
 Tetapi **beban pembuktiannya semakin besar**.
 
 ## 6. Literacy discipline
 
-Di sinilah konsep LITERACY.DISCIPLINE bekerja. Prinsipnya:
+Di sinilah disiplin literasi menjadi penting. Prinsipnya:
 
 > **Kekuatan kesimpulan tidak boleh lebih besar daripada kualitas, cakupan, dan kebaruan pengetahuan yang mendukungnya.**
 
-Ada tiga pertanyaan:
+Tiga hal perlu diperiksa:
 
 ### Quality
 
@@ -181,13 +181,11 @@ Setelah belajar membedakan fakta dan tafsir, ada jebakan berikutnya:
 
 Tidak. Misalnya seseorang terlambat datang. Kita belum tahu alasannya. Tetapi beberapa penjelasan mungkin lebih masuk akal daripada yang lain berdasarkan konteks. Jika sebelumnya ia memberi tahu bahwa kendaraannya bermasalah, penjelasan itu memiliki dasar lebih kuat daripada teori bahwa ia sengaja ingin mempermalukan kita.
 
-Jadi:
+Jadi, **ketidakpastian tidak berarti semua penjelasan sama masuk akalnya.**
 
-> **uncertainty ≠ equal plausibility.**
+Disiplin literasi bukan melarang kita menyimpulkan. Ia hanya meminta **tingkat keyakinan kita sebanding dengan bukti yang tersedia**.
 
-Literacy discipline bukan menghapus kesimpulan. Ia membuat **tingkat keyakinan proporsional terhadap evidence**.
-
-## 8. Evidence bukan hanya “ada sumber”
+## 8. Bukti bukan sekadar “ada link”
 
 Sebuah link tidak otomatis membuat sebuah klaim benar. Kita perlu bertanya:
 
@@ -200,7 +198,7 @@ Sebuah link tidak otomatis membuat sebuah klaim benar. Kita perlu bertanya:
 - Apakah ada penjelasan alternatif?
 - Seberapa langsung evidence mendukung klaim?
 
-Ini terutama penting ketika kita menggunakan internet. Misalnya:
+Hal ini terasa semakin penting ketika kita membaca informasi di internet. Misalnya, sebuah artikel mengatakan:
 
 > “Sebuah artikel mengatakan metode X efektif.”
 
@@ -218,9 +216,9 @@ Pertanyaan berikutnya:
 
 > Apakah hasilnya causal atau hanya correlational?
 
-Literacy discipline mencegah kita mengubah **“saya menemukan informasi”** menjadi **“saya sudah memiliki dasar yang cukup untuk mengambil kesimpulan.”**
+Disiplin ini mencegah kita menyamakan **“saya menemukan informasi”** dengan **“saya sudah punya dasar yang cukup untuk menyimpulkan.”**
 
-## 9. Informasi yang hilang juga merupakan informasi
+## 9. Yang belum kita ketahui juga perlu dicatat
 
 Misalnya:
 
@@ -258,15 +256,15 @@ Sekarang kita memiliki sesuatu yang dapat diperiksa. Kemudian:
 
 > “Mengapa?”
 
-Baru kita mencari penjelasan. Perubahan ini tampak kecil. Tetapi ia mengubah konflik dari:
+Baru kita mencari penjelasan. Perubahannya kecil, tetapi dampaknya bisa besar. Konflik yang semula terdengar seperti:
 
 > **serangan terhadap karakter**
 
-menjadi:
+dapat berubah menjadi:
 
-> **masalah yang dapat diperiksa.**
+> **masalah yang bisa diperiksa bersama.**
 
-## 11. Dalam organisasi, label mudah menjadi senjata
+## 11. Di organisasi, label terhadap orang mudah sekali berubah menjadi senjata
 
 Kata-kata seperti:
 
@@ -291,11 +289,11 @@ Pertanyaan yang lebih berguna:
 - Apakah tujuan kedua pihak sebenarnya berbeda?
 - Apa evidence bahwa ia menolak kerja sama, bukan menolak cara tertentu?
 
-Ini tidak berarti kita harus membela orang tersebut. Kita sedang memastikan bahwa tindakan kita tidak dibangun di atas diagnosis yang belum diperiksa.
+Kita tidak sedang diminta membela orang itu. Kita hanya ingin memastikan bahwa tindakan kita tidak berdiri di atas label yang belum diperiksa.
 
 ## 12. Alternative explanation
 
-Salah satu latihan paling berguna adalah mencari minimal satu penjelasan alternatif. Bukan sepuluh. Satu atau dua sudah cukup untuk memaksa pikiran keluar dari jalur tunggal. Contoh:
+Salah satu latihan paling berguna adalah mencari setidaknya satu penjelasan lain. Tidak perlu sepuluh. Satu atau dua sudah cukup untuk memaksa pikiran keluar dari jalur tunggal. Contoh:
 
 > “Dia tidak membalas karena mengabaikan saya.”
 
@@ -315,7 +313,7 @@ Kemudian:
 
 > **Apa informasi yang membedakan hipotesis-hipotesis tersebut?**
 
-Alternative explanation bukan latihan untuk membuat semua cerita sama-sama benar. Ia adalah cara mencari **informasi pembeda**.
+Mencari alternatif bukan berarti semua cerita dianggap sama benarnya. Tujuannya mencari **informasi yang bisa membedakan cerita-cerita tersebut**.
 
 ## 13. Dari interpretasi ke pertanyaan
 
@@ -343,11 +341,11 @@ coba:
 
 > “Saya belum tahu posisi beliau. Apa yang sudah disampaikan sebelumnya?”
 
-Pertanyaan yang baik tidak selalu menghasilkan jawaban yang kita sukai. Tetapi ia memberi kesempatan kepada realitas untuk **mengoreksi cerita di kepala kita**.
+Pertanyaan yang baik belum tentu menghasilkan jawaban yang kita sukai. Tetapi setidaknya ia memberi kesempatan kepada kenyataan untuk **mengoreksi cerita di kepala kita**.
 
 ## 14. Ketika evidence bertentangan dengan cerita
 
-Kita sudah percaya:
+Misalnya sejak awal kita sudah percaya:
 
 > “Dia tidak menghargai saya.”
 
@@ -355,11 +353,11 @@ Lalu ternyata:
 
 > dia sebenarnya sedang menghadapi masalah lain dan sudah memberi tahu rekan lain.
 
-Apa yang harus dilakukan? Bukan:
+Lalu apa yang dilakukan? Bukan:
 
 > “Saya bodoh karena salah.”
 
-Tetapi:
+Lebih berguna untuk berkata:
 
 > **“Model saya perlu diperbarui.”**
 
@@ -397,7 +395,7 @@ Apa tindakan yang proporsional sekarang? Latihan ini adalah **alat belajar buku*
 
 ## 16. Latihan: Turunkan satu tingkat kepastian
 
-Cari kalimat yang terlalu pasti.
+Cari satu kalimat yang terdengar terlalu pasti.
 
 > “Dia sengaja melakukan itu.”
 
@@ -413,11 +411,11 @@ Jika evidence lemah:
 
 > “Saya belum tahu apakah itu disengaja.”
 
-Perubahan bahasa ini bukan sekadar sopan. Ia mengubah hubungan kita dengan ketidakpastian.
+Perubahan kecil pada bahasa membuat ketidakpastian menjadi lebih terlihat—dan itu membantu kita berpikir lebih jernih.
 
 ## 17. Jangan terjebak analisis tanpa akhir
 
-Literacy discipline memiliki sisi gelap. Orang dapat terus:
+Disiplin literasi juga punya jebakan. Orang dapat terus:
 
 - mencari sumber;
 - mencari alternatif;
@@ -428,9 +426,7 @@ tetapi tidak pernah mengambil keputusan. Itu bukan disiplin literasi. Itu dapat 
 
 > **Apa keputusan yang perlu dibuat dengan informasi yang tersedia sekarang?**
 
-Tidak semua ketidakpastian harus dihilangkan. Keputusan yang baik sering berarti:
-
-> **bertindak dengan ketidakpastian yang diketahui dan dikelola.**
+Kita tidak harus menghilangkan seluruh ketidakpastian sebelum bertindak. Dalam banyak keputusan, yang realistis adalah **bertindak sambil memahami ketidakpastian yang masih tersisa**.
 
 ## 18. Prinsip kerja bab ini
 
@@ -446,11 +442,11 @@ Tidak semua ketidakpastian harus dihilangkan. Keputusan yang baik sering berarti
 
 > **Literacy discipline bukan mencari kepastian sempurna; ia menjaga agar tingkat keyakinan tidak melampaui dasar pengetahuan.**
 
-Dan satu pertanyaan yang layak dibawa ke banyak situasi:
+Kalau hanya satu pertanyaan yang ingin dibawa dari bab ini:
 
 > **“Apa yang saya ketahui, apa yang saya simpulkan, dan apa yang belum saya ketahui?”**
 
-Itu adalah salah satu rem paling sederhana terhadap cerita yang terlalu cepat menjadi “kebenaran”.
+Pertanyaan itu sederhana, tetapi bisa menjadi rem ketika cerita di kepala mulai terasa seperti kebenaran.
 
 ## Red Flags
 
