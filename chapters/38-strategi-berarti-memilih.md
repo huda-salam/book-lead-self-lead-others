@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Banyak organisasi memiliki:
+Banyak organisasi punya:
 
 > visi.
 
@@ -18,9 +18,7 @@ Banyak organisasi memiliki:
 
 > roadmap.
 
-Tetapi belum tentu memiliki:
-
-> strategi yang jelas.
+Tetapi belum tentu jelas pilihan strategisnya.
 
 Mengapa? Karena strategi bukan sekadar:
 
@@ -38,7 +36,7 @@ Strategi juga menjawab:
 Chapter 24 membahas trade-off pada keputusan. Chapter 35 membahas prioritas operasional. Chapter 37 membahas konsekuensi lanjutan. Chapter 38 mengintegrasikan semuanya pada level arah strategis.
 :::
 
-## Yang Sedang Kita Latih
+## Fokus Bab
 
 - membaca situasi;
 - menentukan objective;
@@ -63,11 +61,11 @@ Karena mungkin:
 
 > resource tidak cukup.
 
-Strategi dimulai ketika kita bertanya:
+Strategi mulai terlihat ketika kita berani bertanya:
 
 > “Mana yang menjadi posisi utama kita?”
 
-Kemudian:
+Lalu:
 
 > “Apa yang harus kita lakukan berbeda untuk mencapainya?”
 
@@ -85,11 +83,11 @@ Contoh:
 
 > pelayanan lambat.
 
-Itu observation. Kemudian:
+Itu observation. Lalu:
 
 > bottleneck utama ada di approval.
 
-Itu diagnosis sementara. Kemudian:
+Itu diagnosis sementara. Lalu:
 
 > jika bottleneck tersebut tidak berubah, peningkatan staffing di front office mungkin hanya memindahkan antrean.
 
@@ -97,15 +95,9 @@ Sekarang:
 
 > kita mulai memahami system.
 
-Strategi yang baik:
+Strategi yang baik berangkat dari diagnosis yang cukup, bukan dari slogan yang terdengar bagus.
 
-> berangkat dari diagnosis yang cukup.
-
-Bukan:
-
-> slogan.
-
-## 3. Objective bukan strategy
+## 3. Tujuan bukan strategi
 
 Objective:
 
@@ -115,13 +107,7 @@ Strategy:
 
 > “Memusatkan perbaikan pada tiga titik layanan dengan volume tertinggi dan mengurangi handoff yang tidak memberi nilai.”
 
-Objective mengatakan:
-
-> ke mana.
-
-Strategy menjelaskan:
-
-> pilihan untuk bergerak ke sana.
+Tujuan menunjukkan ke mana kita ingin pergi. Strategi menjelaskan pilihan bagaimana kita akan bergerak ke sana.
 
 ## 4. Strategic choice membutuhkan trade-off
 
@@ -141,9 +127,7 @@ Mungkin:
 
 > variasi layanan berkurang.
 
-Tidak ada:
-
-> pilihan tanpa konsekuensi.
+Setiap pilihan membawa konsekuensi.
 
 Karena itu jangan bertanya:
 
@@ -153,7 +137,7 @@ Tanyakan:
 
 > **“Bagus untuk objective apa, dalam konteks apa, dengan trade-off apa?”**
 
-## 5. “Kita lakukan semuanya” bukan strategi
+## 5. ““Kita lakukan semuanya”” bukan strategi
 
 Bayangkan daftar:
 
@@ -170,19 +154,13 @@ Semuanya mungkin masuk akal. Tetapi:
 
 > semuanya membutuhkan resource.
 
-Jika semua menjadi:
-
-> top priority,
-
-maka:
-
-> pilihan belum terjadi.
+Kalau semuanya dianggap prioritas utama, sebenarnya kita belum sungguh-sungguh memilih.
 
 Strategi memaksa:
 
 > sequencing.
 
-## 6. What not to do
+## 6. Apa yang sengaja tidak kita lakukan
 
 Bagian yang sering hilang:
 
@@ -192,13 +170,9 @@ Contoh:
 
 > “Untuk dua tahun ke depan, kita tidak mengejar ekspansi wilayah. Resource diarahkan ke konsolidasi operasi dan kualitas layanan.”
 
-Ini bukan:
+Menyebut apa yang tidak dikerjakan bukan berarti kehilangan ambisi.
 
-> kehilangan ambisi.
-
-Ini:
-
-> boundary.
+Itu adalah batas pilihan.
 
 Tanpa boundary:
 
@@ -224,7 +198,7 @@ Maka:
 
 > strategy belum mengubah sistem.
 
-Strategi yang nyata terlihat dalam:
+Strategi yang nyata akan terlihat pada perubahan di:
 
 - resource;
 - capability;
@@ -234,11 +208,9 @@ Strategi yang nyata terlihat dalam:
 - attention;
 - leadership time.
 
-## 8. Strategic coherence
+## 8. Koherensi strategi
 
-Pilihan harus:
-
-> saling mendukung.
+Pilihan strategis perlu saling mendukung.
 
 Misalnya:
 
@@ -264,7 +236,7 @@ Jika ya:
 
 > strategic tension perlu diselesaikan.
 
-## 9. Jangan menyalin strategi orang lain
+## 9. Jangan menyalin strategi orang lain mentah-mentah
 
 Strategi perusahaan lain:
 
@@ -286,13 +258,7 @@ Karena:
 
 > timing berbeda.
 
-Yang dapat dipelajari adalah:
-
-> mechanism.
-
-Bukan:
-
-> bentuk permukaannya.
+Yang lebih berguna untuk dipelajari adalah **cara kerjanya**, bukan sekadar bentuk permukaannya.
 
 ## 10. Pilihan strategis memiliki horizon
 
@@ -320,7 +286,7 @@ Horizon harus sesuai:
 
 > sifat keputusan.
 
-## 11. Strategy under uncertainty
+## 11. Strategi di tengah ketidakpastian
 
 Kita sering ingin:
 
@@ -330,13 +296,9 @@ Padahal strategi dibuat:
 
 > sebelum semua informasi tersedia.
 
-Maka:
+Jadi strategi bukan prediction.
 
-> strategi bukan prediction.
-
-Ia adalah:
-
-> commitment berdasarkan diagnosis dan asumsi yang saat ini dianggap cukup kuat.
+Ia adalah komitmen berdasarkan diagnosis dan asumsi yang saat ini kita anggap cukup masuk akal.
 
 Karena itu:
 
@@ -372,7 +334,7 @@ Sekarang:
 
 > strategy memiliki learning mechanism.
 
-## 13. Strategy needs a theory of action
+## 13. Strategi perlu logika tindakan
 
 Sederhanakan:
 
@@ -382,9 +344,7 @@ Contoh:
 
 > Jika kita mengurangi handoff dari lima menjadi dua, maka cycle time turun karena waktu tunggu antar-unit berkurang.
 
-Sekarang:
-
-> strategi memiliki logic.
+Sekarang pilihan strategis punya logika yang bisa diperiksa.
 
 Jika setelah implementasi:
 
@@ -500,7 +460,7 @@ Bukan:
 
 > setiap detail rencana.
 
-## 18. Strategy versus plan
+## 18. Strategi dan rencana itu berbeda
 
 **Strategy**
 
@@ -540,13 +500,7 @@ Strategy:
 
 > “Selama dua tahun, kita memusatkan capability pada reliability dan standardization.”
 
-Priority adalah:
-
-> allocation pada horizon lebih pendek.
-
-Strategy:
-
-> pola pilihan pada horizon yang lebih luas.
+Prioritas adalah alokasi perhatian dan sumber daya pada horizon yang lebih pendek. Strategi adalah pola pilihan yang lebih luas dan lebih tahan lama.
 
 Keduanya:
 
@@ -554,7 +508,7 @@ Keduanya:
 
 ## 20. Framework: Strategic Choice Loop
 
-Framework berikut adalah **sintesis kerja buku**, bukan taxonomy strategi tervalidasi:
+Framework berikut adalah **sintesis kerja buku**, bukan taxonomy strategi yang tervalidasi:
 
 **Diagnosis → Objective → Choice Set → Trade-offs → Coherence → Resource Commitment → Execution Logic → Assumptions → Review/Adapt**
 
@@ -660,9 +614,7 @@ Tanyakan:
 
 > Bagaimana kita tahu strategi bekerja?
 
-Jika pertanyaan tersebut tidak dapat dijawab:
-
-> mungkin kita baru memiliki slogan.
+Kalau pertanyaan-pertanyaan itu tidak bisa dijawab, mungkin yang kita punya baru slogan.
 
 ::: important Prinsip
 **Strategi bukan tentang memilih semua hal yang baik. Strategi adalah memilih kombinasi tindakan dan capability yang dianggap paling koheren untuk objective tertentu—dan menerima apa yang tidak dapat sekaligus dioptimalkan.**
@@ -689,5 +641,5 @@ Strategi tetap harus tunduk pada hukum, governance, ethical boundaries, dan kewe
 - Strategy-as-choice and competitive strategy literature.
 - Research on strategic positioning, trade-offs, and activity systems.
 - Resource-based and capability perspectives.
-- Strategy under uncertainty and adaptive strategy literature.
+- Strategi di tengah ketidakpastian and adaptive strategy literature.
 - Research on implementation coherence and resource allocation.
