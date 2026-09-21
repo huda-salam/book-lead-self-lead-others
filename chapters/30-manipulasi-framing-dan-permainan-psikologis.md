@@ -1,18 +1,16 @@
 # Manipulasi, Framing, dan Permainan Psikologis
 
-> **Leader capability:** Mampu mengenali tekanan, framing, informasi yang tidak lengkap, dan pola pengaruh yang dapat mengganggu kualitas keputusan—tanpa menjadi paranoid dan tanpa menggunakan manipulasi sebagai alat kepemimpinan.
+> **Yang dilatih:** Mampu mengenali tekanan, framing, informasi yang tidak lengkap, dan pola pengaruh yang dapat mengganggu kualitas keputusan—tanpa menjadi paranoid dan tanpa menggunakan manipulasi sebagai alat kepemimpinan.
 
 > **Canonical concept:** ORG.DEFENSE
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
 Ada kalanya seseorang berkata:
 
 > “Ini kesempatan terakhir. Kalau sekarang tidak setuju, semuanya akan terlambat.”
 
-Mungkin benar.
-
-Mungkin juga:
+Mungkin benar. Mungkin juga:
 
 > urgency sedang digunakan untuk membuat Anda berhenti bertanya.
 
@@ -20,9 +18,7 @@ Ada kalanya seseorang berkata:
 
 > “Semua orang sudah setuju.”
 
-Mungkin benar.
-
-Mungkin juga:
+Mungkin benar. Mungkin juga:
 
 > tidak semua orang pernah ditanya.
 
@@ -30,9 +26,7 @@ Ada kalanya seseorang berkata:
 
 > “Anda sendiri yang bilang begitu minggu lalu.”
 
-Mungkin benar.
-
-Mungkin juga:
+Mungkin benar. Mungkin juga:
 
 > konteksnya berbeda.
 
@@ -40,9 +34,7 @@ Leader membutuhkan kemampuan untuk membedakan:
 
 > **persuasion, framing, pressure, dan manipulation.**
 
-Bukan agar menjadi curiga kepada semua orang.
-
-Tetapi agar:
+Bukan agar menjadi curiga kepada semua orang. Tetapi agar:
 
 > **agency tidak hilang hanya karena situasi dibuat terasa mendesak, personal, atau membingungkan.**
 
@@ -54,7 +46,7 @@ Tetapi agar:
 Chapter 28 membahas power dan influence. Chapter 29 membahas konflik kepentingan. Chapter 30 menutup Part VI dengan kemampuan defensif: bagaimana tetap berpikir jernih ketika influence mulai mengganggu agency atau kualitas keputusan.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 Leader sedang melatih kemampuan untuk:
 
@@ -69,9 +61,7 @@ Leader sedang melatih kemampuan untuk:
 
 ## 1. Framing tidak otomatis manipulasi
 
-Setiap komunikasi menggunakan framing.
-
-Ketika Anda berkata:
+Setiap komunikasi menggunakan framing. Ketika Anda berkata:
 
 > “Biaya proyek ini Rp500 juta.”
 
@@ -87,9 +77,7 @@ Anda memilih:
 
 > unit waktu.
 
-Keduanya dapat benar.
-
-Masalah muncul ketika framing:
+Keduanya dapat benar. Masalah muncul ketika framing:
 
 > membuat informasi penting hilang,
 
@@ -127,9 +115,7 @@ misalnya melalui:
 - exploitation of vulnerability;
 - manufactured pressure.
 
-Namun jangan mencari satu “kalimat manipulatif”.
-
-Konteks sangat penting.
+Namun jangan mencari satu “kalimat manipulatif”. Konteks sangat penting.
 
 ## 3. Sinyal tekanan
 
@@ -183,9 +169,7 @@ Pertanyaan:
 
 > apa claim utama dan evidence terpenting?
 
-Sinyal bukan bukti.
-
-Ia adalah:
+Sinyal bukan bukti. Ia adalah:
 
 > **reason untuk memeriksa.**
 
@@ -205,9 +189,7 @@ Ketika percakapan menjadi panas, pisahkan:
 
 > “Timnya tidak kompeten.”
 
-Tiga hal ini tidak sama.
-
-Evidence dapat mendukung:
+Tiga hal ini tidak sama. Evidence dapat mendukung:
 
 > concern.
 
@@ -223,9 +205,7 @@ Ketika seseorang mengatakan:
 
 > “Semua orang tahu ini bermasalah.”
 
-Jangan langsung melawan.
-
-Tanyakan:
+Jangan langsung melawan. Tanyakan:
 
 > “Masalah yang mana?”
 
@@ -255,9 +235,7 @@ Cari:
 - catatan keputusan;
 - evidence yang dapat diverifikasi.
 
-Bukan karena semua orang tidak dapat dipercaya.
-
-Tetapi karena:
+Bukan karena semua orang tidak dapat dipercaya. Tetapi karena:
 
 > **single-source information creates avoidable risk.**
 
@@ -289,9 +267,7 @@ Important:
 
 > memiliki konsekuensi penting.
 
-Keduanya tidak identik.
-
-Orang dapat menggunakan:
+Keduanya tidak identik. Orang dapat menggunakan:
 
 > urgency
 
@@ -303,9 +279,7 @@ Respons sederhana:
 
 > “Saya paham waktunya terbatas. Sebelum memutuskan, saya ingin memastikan dua hal: X dan Y.”
 
-Itu bukan menghambat.
-
-Itu:
+Itu bukan menghambat. Itu:
 
 > menjaga decision quality.
 
@@ -335,19 +309,13 @@ Pertanyaan:
 
 > “Apakah memang hanya ada dua opsi?”
 
-Tidak selalu.
-
-Tetapi jangan juga membuat alternatif hanya untuk menghindari keputusan.
+Tidak selalu. Tetapi jangan juga membuat alternatif hanya untuk menghindari keputusan.
 
 ## 10. Social pressure
 
 > “Semua pimpinan sudah setuju.”
 
-Jangan langsung percaya.
-
-Jangan juga langsung menuduh bohong.
-
-Tanyakan:
+Jangan langsung percaya. Jangan juga langsung menuduh bohong. Tanyakan:
 
 > “Siapa yang sudah memberikan approval?”
 
@@ -371,9 +339,7 @@ Seseorang berkata:
 
 > “Saya sudah 20 tahun di bidang ini.”
 
-Pengalaman relevan.
-
-Tetapi:
+Pengalaman relevan. Tetapi:
 
 > pengalaman ≠ bukti otomatis bahwa claim tertentu benar.
 
@@ -399,9 +365,7 @@ menjadi:
 
 > “Kalau Anda tidak setuju, saya kecewa.”
 
-Perasaan orang tersebut mungkin genuine.
-
-Tetapi perasaan:
+Perasaan orang tersebut mungkin genuine. Tetapi perasaan:
 
 > tidak otomatis menyelesaikan substantive question.
 
@@ -419,11 +383,7 @@ Istilah:
 
 > “gaslighting”
 
-sangat populer.
-
-Tetapi jangan menjadikannya label untuk setiap disagreement.
-
-Lebih aman mulai dari:
+sangat populer. Tetapi jangan menjadikannya label untuk setiap disagreement. Lebih aman mulai dari:
 
 > perilaku yang dapat diamati.
 
@@ -540,21 +500,13 @@ Respons:
 
 > “Saya menghargai kepercayaan kita. Untuk dokumen ini saya tetap perlu memeriksa X dan Y.”
 
-Sederhana.
-
-Tidak agresif.
-
-Tidak defensif.
-
-Tetapi:
+Sederhana. Tidak agresif. Tidak defensif. Tetapi:
 
 > boundary tetap ada.
 
 ## 17. Contoh: “Semua orang tahu dia bermasalah”
 
-Jangan ikut menyebarkan label.
-
-Tanyakan:
+Jangan ikut menyebarkan label. Tanyakan:
 
 > “Masalah perilaku yang mana?”
 
@@ -598,9 +550,7 @@ Jika melibatkan:
 
 > atau risiko hukum,
 
-maka pertanyaan menjadi berbeda.
-
-Respons dapat:
+maka pertanyaan menjadi berbeda. Respons dapat:
 
 > “Siap. Untuk memastikan tidak ada risiko X, saya perlu konfirmasi satu hal sebelum menjalankan.”
 
@@ -618,9 +568,7 @@ Literacy mengatakan:
 
 > “Saya belum tahu. Mari periksa.”
 
-Ini perbedaan besar.
-
-Leader yang terlalu naif:
+Ini perbedaan besar. Leader yang terlalu naif:
 
 > mudah dipengaruhi.
 
@@ -650,9 +598,7 @@ Eskalasi:
 
 ## 20. Kapan berhenti berdiskusi?
 
-Tidak semua situasi perlu terus dibahas.
-
-Jika ada:
+Tidak semua situasi perlu terus dibahas. Jika ada:
 
 - ancaman;
 - retaliation;
@@ -698,11 +644,7 @@ Setelah percakapan penting, tanyakan:
 
 **Apakah saya mengubah keputusan karena evidence atau karena pressure?**
 
-**Apa yang perlu diverifikasi?**
-
-Latihan ini bukan untuk membuat Anda curiga.
-
-Tujuannya:
+**Apa yang perlu diverifikasi?** Latihan ini bukan untuk membuat Anda curiga. Tujuannya:
 
 > mengetahui apakah keputusan Anda tetap milik Anda.
 
@@ -724,15 +666,11 @@ Dan akhirnya:
 
 > defensive literacy.
 
-Urutannya penting.
-
-Karena jika Anda langsung belajar:
+Urutannya penting. Karena jika Anda langsung belajar:
 
 > “politik organisasi,”
 
-tanpa memahami sistem,
-
-Anda mudah menjadi:
+tanpa memahami sistem, Anda mudah menjadi:
 
 > sinis.
 
