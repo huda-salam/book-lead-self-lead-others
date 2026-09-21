@@ -1,16 +1,12 @@
 # Memilih Solusi dan Mengakui Trade-off
 
-> **Leader capability:** Memilih di antara beberapa opsi dengan memahami apa yang diperoleh, apa yang dikorbankan, risiko apa yang diterima, dan mengapa pilihan tersebut layak dijalankan.
+> **Yang dilatih:** Memilih di antara beberapa opsi dengan memahami apa yang diperoleh, apa yang dikorbankan, risiko apa yang diterima, dan mengapa pilihan tersebut layak dijalankan.
 
 > **Canonical concept:** DECISION.TRADEOFF
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
-Setelah menganalisis masalah, leader tetap harus memilih.
-
-Di sinilah banyak diskusi menjadi tidak nyaman.
-
-Karena memilih berarti:
+Setelah menganalisis masalah, leader tetap harus memilih. Di sinilah banyak diskusi menjadi tidak nyaman. Karena memilih berarti:
 
 > **mengatakan ya kepada sesuatu dan mengatakan tidak kepada sesuatu yang lain.**
 
@@ -25,9 +21,7 @@ Kita ingin:
 - terkendali;
 - dan disukai semua orang.
 
-Sering kali kita tidak bisa mendapatkan semuanya sekaligus.
-
-Maka pertanyaan leader bukan:
+Sering kali kita tidak bisa mendapatkan semuanya sekaligus. Maka pertanyaan leader bukan:
 
 > “Mana solusi yang sempurna?”
 
@@ -43,7 +37,7 @@ Tetapi:
 Chapter 22 menjaga agar kita tidak jatuh cinta pada solusi pertama. Chapter 23 membantu memahami sebab. Chapter 24 mulai memilih. Chapter 25 akan membahas bagaimana pilihan tersebut diterjemahkan menjadi eksekusi.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 Leader sedang melatih kemampuan untuk:
 
@@ -99,11 +93,7 @@ Misalnya:
 
 **Objective B:** meminimalkan risiko kesalahan.
 
-**Objective C:** menjaga biaya.
-
-Ketiga tujuan dapat menghasilkan pilihan berbeda.
-
-Karena itu “best solution” tanpa objective sebenarnya tidak lengkap.
+**Objective C:** menjaga biaya. Ketiga tujuan dapat menghasilkan pilihan berbeda. Karena itu “best solution” tanpa objective sebenarnya tidak lengkap.
 
 ## 3. Constraint bukan preference
 
@@ -111,17 +101,11 @@ Contoh:
 
 > “Anggaran maksimal Rp500 juta.”
 
-Jika itu batas yang benar-benar mengikat, opsi di atas angka tersebut gugur.
-
-Berbeda dengan:
+Jika itu batas yang benar-benar mengikat, opsi di atas angka tersebut gugur. Berbeda dengan:
 
 > “Saya lebih suka solusi yang murah.”
 
-Yang kedua adalah preference.
-
-Keduanya jangan dicampur.
-
-Leader perlu bertanya:
+Yang kedua adalah preference. Keduanya jangan dicampur. Leader perlu bertanya:
 
 > “Mana yang benar-benar tidak bisa dilanggar?”
 
@@ -140,9 +124,7 @@ Untuk keputusan penting, tuliskan misalnya:
 | Sustainability | Apakah dapat dipertahankan? |
 | Compliance | Apakah sesuai aturan? |
 
-Tidak semua keputusan membutuhkan semua kriteria.
-
-Gunakan yang relevan.
+Tidak semua keputusan membutuhkan semua kriteria. Gunakan yang relevan.
 
 ## 5. Jangan terjebak angka palsu
 
@@ -154,15 +136,11 @@ Misalnya:
 | B | 7 | 6 | 8 |
 | C | 6 | 5 | 7 |
 
-Kelihatannya ilmiah.
-
-Tetapi:
+Kelihatannya ilmiah. Tetapi:
 
 > angka 8 dan 7 berasal dari mana?
 
-Jika datanya lemah, skor dapat menciptakan ilusi objektivitas.
-
-Lebih baik berkata:
+Jika datanya lemah, skor dapat menciptakan ilusi objektivitas. Lebih baik berkata:
 
 > “A paling mahal, tetapi memberikan kontrol lebih tinggi.”
 
@@ -188,9 +166,7 @@ Dan juga:
 
 ## 7. Tanyakan siapa yang menanggung biaya
 
-Sebuah pilihan dapat terlihat murah bagi organisasi tetapi mahal bagi kelompok tertentu.
-
-Contoh:
+Sebuah pilihan dapat terlihat murah bagi organisasi tetapi mahal bagi kelompok tertentu. Contoh:
 
 > sistem baru menghemat biaya organisasi.
 
@@ -198,9 +174,7 @@ Tetapi:
 
 > pekerjaan manual berpindah ke 20 pegawai.
 
-Total biaya mungkin tidak benar-benar turun.
-
-Karena itu tanyakan:
+Total biaya mungkin tidak benar-benar turun. Karena itu tanyakan:
 
 - siapa menerima manfaat;
 - siapa menanggung biaya;
@@ -226,9 +200,7 @@ Leader perlu bertanya:
 
 > “Jika salah, siapa yang terkena dampaknya?”
 
-Bukan untuk membuat semua orang takut.
-
-Untuk membuat keputusan lebih realistis.
+Bukan untuk membuat semua orang takut. Untuk membuat keputusan lebih realistis.
 
 ## 9. Uncertainty bukan berarti tidak bisa memilih
 
@@ -248,9 +220,7 @@ Tanyakan:
 - apakah dapat diuji;
 - apakah keputusan dapat dibalik.
 
-Sekarang ketidakpastian menjadi bagian dari keputusan.
-
-Bukan alasan untuk berhenti.
+Sekarang ketidakpastian menjadi bagian dari keputusan. Bukan alasan untuk berhenti.
 
 ## 10. Gunakan scenario sederhana
 
@@ -266,9 +236,7 @@ Apa yang paling masuk akal berdasarkan informasi saat ini?
 
 ### Bad case
 
-Apa yang terjadi jika asumsi penting gagal?
-
-Kemudian:
+Apa yang terjadi jika asumsi penting gagal? Kemudian:
 
 > “Apa yang akan kita lakukan jika bad case terjadi?”
 
@@ -280,33 +248,23 @@ Keputusan:
 
 > “Kita coba format baru selama satu bulan.”
 
-relatif mudah dibalik.
-
-Keputusan:
+relatif mudah dibalik. Keputusan:
 
 > “Kita tanda tangan kontrak lima tahun.”
 
-jauh lebih sulit dibalik.
-
-Semakin sulit dibalik:
+jauh lebih sulit dibalik. Semakin sulit dibalik:
 
 > semakin besar alasan untuk memeriksa evidence, assumptions, risks, dan alternatives.
 
-Bukan aturan matematis.
-
-Tetapi prinsip praktis.
+Bukan aturan matematis. Tetapi prinsip praktis.
 
 ## 12. Option value
 
-Kadang opsi yang sedikit kurang optimal sekarang lebih berharga karena menjaga pilihan masa depan.
-
-Contoh:
+Kadang opsi yang sedikit kurang optimal sekarang lebih berharga karena menjaga pilihan masa depan. Contoh:
 
 > memilih arsitektur yang memungkinkan migrasi bertahap.
 
-Mungkin bukan yang paling murah hari ini.
-
-Tetapi memberikan:
+Mungkin bukan yang paling murah hari ini. Tetapi memberikan:
 
 > flexibility.
 
@@ -332,9 +290,7 @@ Misalnya:
 
 > “Kita ingin cepat, jadi kontrol wajib kita hilangkan.”
 
-Jika kontrol tersebut memang wajib, itu bukan trade-off yang sah.
-
-Yang dapat dipilih mungkin:
+Jika kontrol tersebut memang wajib, itu bukan trade-off yang sah. Yang dapat dipilih mungkin:
 
 > bagaimana memenuhi kontrol tersebut dengan proses yang lebih efisien.
 
@@ -350,9 +306,7 @@ Tetapi berbeda dalam prioritas:
 
 > “Saya lebih memilih speed.”
 
-Ini bukan otomatis salah satu pihak tidak rasional.
-
-Mereka mungkin memiliki:
+Ini bukan otomatis salah satu pihak tidak rasional. Mereka mungkin memiliki:
 
 > **weighting berbeda terhadap objective.**
 
@@ -402,51 +356,47 @@ Kapan keputusan perlu diperiksa kembali?
 
 ## 16. Decision Card
 
-**Objective:**  
+**Objective:**
 Apa tujuan utama?
 
-**Non-negotiables:**  
+**Non-negotiables:**
 Apa batas yang tidak boleh dilanggar?
 
-**Alternatives:**  
+**Alternatives:**
 Apa pilihan realistis?
 
-**Criteria:**  
+**Criteria:**
 Apa yang paling penting?
 
-**Trade-offs:**  
+**Trade-offs:**
 Apa yang harus dikorbankan?
 
-**Risk:**  
+**Risk:**
 Apa downside utama?
 
-**Uncertainty:**  
+**Uncertainty:**
 Apa yang belum diketahui?
 
-**Distribution:**  
+**Distribution:**
 Siapa menerima manfaat dan siapa menanggung biaya?
 
-**Reversibility:**  
+**Reversibility:**
 Seberapa mudah dibalik?
 
-**Choice:**  
+**Choice:**
 Apa yang dipilih?
 
-**Why:**  
+**Why:**
 Mengapa?
 
-**Review trigger:**  
+**Review trigger:**
 Apa yang akan membuat kita mengevaluasi kembali?
 
 ## 17. Contoh: cepat atau aman?
 
-Misalnya proses dapat dipercepat dengan mengurangi satu tahap pemeriksaan.
+Misalnya proses dapat dipercepat dengan mengurangi satu tahap pemeriksaan. Pilihan:
 
-Pilihan:
-
-**A — hilangkan pemeriksaan**
-
-Benefit:
+**A — hilangkan pemeriksaan** Benefit:
 
 > lebih cepat.
 
@@ -454,9 +404,7 @@ Downside:
 
 > risiko kesalahan meningkat.
 
-**B — pertahankan pemeriksaan**
-
-Benefit:
+**B — pertahankan pemeriksaan** Benefit:
 
 > kontrol tetap.
 
@@ -464,9 +412,7 @@ Downside:
 
 > waktu lebih lama.
 
-**C — risk-based checking**
-
-Benefit:
+**C — risk-based checking** Benefit:
 
 > sebagian transaksi cepat, transaksi berisiko tetap diperiksa.
 
@@ -474,9 +420,7 @@ Downside:
 
 > desain kriterianya lebih kompleks.
 
-Sekarang diskusi lebih matang.
-
-Bukan:
+Sekarang diskusi lebih matang. Bukan:
 
 > “Saya pro kecepatan.”
 
@@ -496,23 +440,17 @@ Leader kadang berkata:
 
 > “Kita semua sepakat.”
 
-padahal tidak.
-
-Lebih sehat:
+padahal tidak. Lebih sehat:
 
 > “Kita sepakat pada tujuan. Kita berbeda pada prioritas antara speed dan control. Setelah mempertimbangkan risiko, saya memutuskan X.”
 
-Perbedaan tidak harus disamarkan.
-
-Yang dibutuhkan adalah:
+Perbedaan tidak harus disamarkan. Yang dibutuhkan adalah:
 
 > **decision clarity.**
 
 ## 19. Setelah memilih, catat apa yang sengaja tidak dioptimalkan
 
-Ini latihan yang sangat berguna.
-
-Tulis:
+Ini latihan yang sangat berguna. Tulis:
 
 > “Dengan memilih X, kita memprioritaskan A dan menerima konsekuensi B.”
 
@@ -526,9 +464,7 @@ Kalimat ini membantu organisasi memahami:
 
 ## 20. Latihan: Trade-off Statement
 
-Ambil satu keputusan nyata.
-
-Lengkapi:
+Ambil satu keputusan nyata. Lengkapi:
 
 > “Kita memilih ______ karena memprioritaskan ______.”
 
