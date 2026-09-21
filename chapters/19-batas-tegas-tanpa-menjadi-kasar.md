@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Ada dua kegagalan yang sering muncul ketika seorang leader harus menetapkan batas. Yang pertama:
+Ada dua kegagalan yang sering muncul ketika seorang pemimpin harus menetapkan batas. Yang pertama:
 
 > terlalu keras.
 
@@ -14,7 +14,7 @@ Masalahnya disampaikan dengan intimidasi, penghinaan, atau ancaman. Yang kedua:
 
 > terlalu kabur.
 
-Leader ingin menjaga hubungan sehingga standar tidak pernah benar-benar disebutkan. Keduanya memiliki biaya. Leader perlu mampu mengatakan:
+Pemimpin ingin menjaga hubungan sehingga standar tidak pernah benar-benar disebutkan. Keduanya memiliki biaya. Pemimpin perlu mampu mengatakan:
 
 > “Tidak.”
 
@@ -38,7 +38,7 @@ Chapter 18 membahas menurunkan suhu konflik. Chapter 19 membahas apa yang dilaku
 
 ## Yang Sedang Kita Latih
 
-Leader sedang melatih kemampuan untuk:
+Pemimpin sedang melatih kemampuan untuk:
 
 - membedakan preferensi dari standar;
 - menyatakan batas tanpa agresi;
@@ -88,13 +88,13 @@ Ini memiliki dasar yang lebih kuat.
 
 > “Proses ini wajib melalui verifikasi.”
 
-Ini bukan sekadar selera leader.
+Ini bukan sekadar selera pemimpin.
 
 ### Kewajiban hukum atau keselamatan
 
 > “Langkah ini tidak boleh dilakukan karena melanggar ketentuan yang berlaku.”
 
-Ini memiliki dasar yang berbeda lagi. Leader perlu hati-hati agar tidak mengubah:
+Ini memiliki dasar yang berbeda lagi. Pemimpin perlu hati-hati agar tidak mengubah:
 
 > “Saya tidak suka”
 
@@ -194,7 +194,7 @@ dengan:
 
 > “Jika batas waktu kembali terlewati tanpa pemberitahuan, pekerjaan akan masuk ke siklus berikutnya sesuai prosedur.”
 
-Yang kedua dapat diprediksi. Yang pertama personal. Leader sebaiknya tidak menjanjikan konsekuensi yang sebenarnya tidak memiliki kewenangan untuk dijalankan. Jangan mengancam sesuatu yang tidak akan dilakukan.
+Yang kedua dapat diprediksi. Yang pertama personal. Pemimpin sebaiknya tidak menjanjikan konsekuensi yang sebenarnya tidak memiliki kewenangan untuk dijalankan. Jangan mengancam sesuatu yang tidak akan dilakukan.
 
 ## 7. Jangan langsung menghukum sebelum memahami penyebab
 
@@ -222,7 +222,7 @@ Ada orang yang bangga:
 
 > “Saya memang orangnya keras.”
 
-Itu bukan bukti kepemimpinan. Leader tidak dibayar untuk terlihat keras. Leader dibutuhkan untuk membuat standar dan keputusan menjadi jelas. Kadang bentuk yang tepat adalah keras. Kadang cukup singkat. Kadang justru perlu percakapan panjang.
+Itu bukan bukti kepemimpinan. Pemimpin tidak dibayar untuk terlihat keras. Pemimpin dibutuhkan untuk membuat standar dan keputusan menjadi jelas. Kadang bentuk yang tepat adalah keras. Kadang cukup singkat. Kadang justru perlu percakapan panjang.
 
 Pertanyaan yang lebih baik:
 
@@ -267,7 +267,7 @@ Ini dapat memperbesar masalah dari accountability menjadi humiliation.
 
 ### Ekstrem kedua: tidak mengatakan apa-apa
 
-Leader mungkin berpikir:
+Pemimpin mungkin berpikir:
 
 > “Saya tidak mau merusak hubungan.”
 
@@ -348,7 +348,7 @@ jika Anda tahu Anda tidak akan melakukan apa pun.
 
 ## 16. Batas yang konsisten lebih kredibel daripada batas yang keras
 
-Orang belajar bukan hanya dari apa yang leader katakan. Mereka belajar dari:
+Orang belajar bukan hanya dari apa yang pemimpin katakan. Mereka belajar dari:
 
 > apa yang terjadi setelah batas dilanggar.
 
@@ -394,7 +394,7 @@ Untuk:
 - pelanggaran hukum;
 - atau penyalahgunaan kewenangan;
 
-leader tidak perlu mengubah semuanya menjadi negosiasi interpersonal. Gunakan:
+pemimpin tidak perlu mengubah semuanya menjadi negosiasi interpersonal. Gunakan:
 
 **dokumentasi → mekanisme formal → eskalasi → keputusan** sesuai kewenangan dan aturan.
 
@@ -437,7 +437,7 @@ Tujuannya bukan membuat kalimat lebih lembut. Tujuannya membuat:
 > **standar lebih jelas, serangan personal lebih sedikit, dan tindakan lebih dapat dipertanggungjawabkan.**
 
 ::: success Green Note
-**Carry forward:** Batas yang baik tidak membuat orang takut kepada leader. Batas membuat orang memahami ruang tindakan, standar, dan konsekuensi dengan lebih jelas.
+**Carry forward:** Batas yang baik tidak membuat orang takut kepada pemimpin. Batas membuat orang memahami ruang tindakan, standar, dan konsekuensi dengan lebih jelas.
 :::
 
 ## Evidence notes
