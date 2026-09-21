@@ -24,7 +24,7 @@ Tanpa memiliki:
 
 Chapter 28 sudah membahas power dan influence sebagai realitas organisasi. Chapter ini bergerak satu langkah berbeda:
 
-> **bagaimana leader menggunakan influence secara konstruktif.**
+> **bagaimana pemimpin menggunakan influence secara konstruktif.**
 
 Karena banyak pekerjaan leadership tidak dapat dilakukan dengan:
 
@@ -64,7 +64,7 @@ Chapter 31 membangun credibility. Chapter 32 menggunakan credibility tersebut un
 
 ## Yang Sedang Kita Latih
 
-Leader sedang melatih kemampuan untuk:
+Pemimpin sedang melatih kemampuan untuk:
 
 - memahami stakeholder;
 - menemukan kepentingan;
@@ -175,7 +175,7 @@ Ini menghubungkan Chapter 8 dan Chapter 28.
 
 ## 5. Interest bukan obstacle
 
-Leader sering melihat:
+Pemimpin sering melihat:
 
 > “Kepentingan saya adalah objective. Kepentingan mereka adalah hambatan.”
 
@@ -223,7 +223,7 @@ Sekarang orang dapat:
 
 Bukan hanya:
 
-> percaya kepada leader.
+> percaya kepada pemimpin.
 
 ## 7. Jangan gunakan evidence sebagai senjata
 
@@ -245,7 +245,7 @@ Lebih baik:
 
 ## 8. Ask, jangan hanya tell
 
-Salah satu kesalahan leader:
+Salah satu kesalahan pemimpin:
 
 > terlalu cepat menjelaskan.
 
@@ -265,7 +265,7 @@ Tetapi bertanya bukan berarti:
 
 > semua keputusan harus dikembalikan kepada stakeholder.
 
-Leader tetap harus:
+Pemimpin tetap harus:
 
 > decide.
 
@@ -277,11 +277,11 @@ Konsultasi tidak berarti:
 
 Misalnya:
 
-> leader meminta masukan dari lima unit.
+> pemimpin meminta masukan dari lima unit.
 
 Setelah itu:
 
-> leader tetap mengambil keputusan sesuai authority.
+> pemimpin tetap mengambil keputusan sesuai authority.
 
 Ini perlu dijelaskan sejak awal:
 
@@ -687,6 +687,6 @@ Jangan menggunakan hubungan pribadi, informasi sensitif, ketergantungan, rasa ta
 ## Evidence notes
 
 - Leadership influence, employee voice, participation, persuasion, and negotiation literature.
-- Research on leader credibility, trust, and influence.
+- Research on pemimpin credibility, trust, and influence.
 - Research on consultation and participation in decision making.
 - Power/influence foundations from Chapter 28.
