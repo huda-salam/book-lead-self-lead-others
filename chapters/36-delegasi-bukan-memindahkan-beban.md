@@ -22,19 +22,19 @@ Yang kedua menghasilkan:
 
 > abandonment.
 
-Delegasi yang sehat berada di antara keduanya:
+Delegasi yang sehat berada di antara dua ekstrem itu:
 
-> **beri ownership tanpa meninggalkan orangnya.**
+> **beri ownership tanpa lepas tangan.**
 
 ::: success Green Note
-**Delegasi bukan cara memindahkan beban dari meja pemimpin ke meja orang lain. Delegasi adalah cara memindahkan pekerjaan dan authority dengan kondisi yang membuat pekerjaan dapat dipertanggungjawabkan.**
+**Delegasi bukan sekadar memindahkan tumpukan pekerjaan dari meja pemimpin ke meja orang lain. Delegasi adalah cara memindahkan pekerjaan dan authority dengan kondisi yang membuat pekerjaan dapat dipertanggungjawabkan.**
 :::
 
 ::: info Konteks
 Chapter 33 membahas development. Chapter 35 membahas apa yang perlu diprioritaskan. Chapter 36 membahas mekanisme delegasi. Pengembangan capability dapat menjadi manfaat delegasi, tetapi delegasi tidak selalu bertujuan development.
 :::
 
-## Yang Sedang Kita Latih
+## Fokus Bab
 
 - memilih apa yang didelegasikan;
 - menentukan kepada siapa;
@@ -67,7 +67,7 @@ Delegasi membutuhkan:
 
 > context.
 
-## 2. Delegate outcome, bukan hanya activity
+## 2. Delegasikan hasil, bukan hanya pekerjaan
 
 Bandingkan:
 
@@ -77,11 +77,11 @@ dengan:
 
 > “Siapkan ringkasan yang memungkinkan kita menentukan tiga area dengan risiko tertinggi. Gunakan data sampai tanggal X dan jelaskan asumsi yang belum terverifikasi.”
 
-Yang kedua memberikan:
+Yang kedua memberi:
 
 > purpose.
 
-Orang dapat menggunakan:
+Orang jadi punya ruang untuk menggunakan:
 
 > judgment.
 
@@ -89,7 +89,7 @@ Bukan sekadar:
 
 > mengikuti checklist.
 
-## 3. Authority harus mengikuti responsibility
+## 3. Kewenangan harus mengikuti tanggung jawab
 
 Ini prinsip penting. Jangan memberi:
 
@@ -133,9 +133,9 @@ Batas adalah:
 
 > governance.
 
-## 5. Tidak semua hal harus didelegasikan
+## 5. Tidak semua hal memang bisa didelegasikan
 
-Beberapa hal memang lebih tepat tetap pada pemimpin:
+Ada hal-hal yang memang sebaiknya tetap diputuskan pemimpin, misalnya:
 
 - keputusan yang secara formal hanya dapat dibuat oleh role tertentu;
 - informasi yang sangat sensitif;
@@ -143,7 +143,7 @@ Beberapa hal memang lebih tepat tetap pada pemimpin:
 - keputusan strategis tertentu;
 - kondisi ketika capability belum memadai dan stakes terlalu tinggi.
 
-Tetapi hati-hati:
+Tetapi hati-hati dengan satu hal:
 
 > “Saya tidak bisa mendelegasikan ini”
 
@@ -151,7 +151,7 @@ kadang berarti:
 
 > “Saya tidak mau melepaskan kontrol.”
 
-Uji:
+Coba bedakan:
 
 > Apakah memang tidak bisa?
 
@@ -191,13 +191,13 @@ kepada orang yang paling mampu. Yang kedua dapat menciptakan:
 
 > single point of failure.
 
-## 7. Delegation level tidak harus binary
+## 7. Delegasi tidak harus hitam-putih
 
 Delegasi bukan:
 
 > saya → sepenuhnya dia.
 
-Ada spektrum.
+Ada tingkatannya.
 
 **Level 1**
 
@@ -219,9 +219,7 @@ Ada spektrum.
 
 > “Own the outcome dalam area tersebut.”
 
-Ini bukan taxonomy universal. Ini:
-
-> alat untuk menentukan tingkat authority.
+Ini bukan taxonomy universal. Ini hanya alat untuk menentukan seberapa jauh kewenangan perlu diberikan.
 
 ## 8. Checkpoint bukan micromanagement
 
@@ -229,7 +227,7 @@ Pemimpin kadang takut:
 
 > “Kalau saya check, nanti dibilang micromanage.”
 
-Tidak. Micromanagement bukan sekadar:
+Tidak. Micromanagement bukan berarti setiap checkpoint adalah masalah.
 
 > melakukan checkpoint.
 
@@ -243,7 +241,7 @@ Masalahnya adalah ketika pemimpin:
 
 > atau tidak memberi ruang judgment.
 
-Checkpoint yang sehat bertanya:
+Checkpoint yang sehat lebih menanyakan:
 
 > “Apakah kita masih on track?”
 
@@ -477,7 +475,7 @@ Trust bukan:
 
 > “Saya percaya Anda 100%.”
 
-Trust yang matang:
+Trust yang matang lebih dekat dengan:
 
 > “Saya memahami capability Anda, batas risikonya, dan kondisi yang membuat saya dapat memberi Anda authority.”
 
@@ -485,7 +483,7 @@ Itulah:
 
 > calibrated trust.
 
-Karena itu:
+Jadi:
 
 > trust tidak menggantikan control.
 
@@ -517,11 +515,9 @@ Kemudian:
 
 > lepaskan yang memang dapat dilepas.
 
-Ini menjaga:
+Dengan begitu bandwidth pemimpin tetap terjaga.
 
-> bandwidth pemimpin.
-
-## 19. Delegation failure bukan selalu people problem
+## 19. Delegasi yang gagal belum tentu masalah orang
 
 Jika delegasi gagal, jangan langsung:
 
@@ -538,13 +534,11 @@ Periksa:
 - deadline tidak realistis?
 - pemimpin terlalu sering mengubah arah?
 
-Gunakan:
-
-> diagnosis sebelum judgment.
+Jadi lakukan **diagnosis sebelum judgment.**
 
 ## 20. Framework: Delegation Loop
 
-Framework berikut adalah **sintesis kerja buku**, bukan taxonomy delegation tervalidasi:
+Framework berikut adalah **sintesis kerja buku**, bukan taxonomy delegation yang tervalidasi:
 
 **Select → Define Outcome → Assign Authority → Set Guardrails → Resource → Checkpoint → Support → Review → Adjust**
 
@@ -620,9 +614,7 @@ Sebelum mendelegasikan, isi:
 
 > Bagaimana kita tahu pekerjaan berhasil?
 
-Sederhana. Tetapi mengurangi:
-
-> ambiguity.
+Sederhana, tetapi cukup untuk mengurangi ambiguitas.
 
 ## 22. Latihan: Stop Taking Back the Work
 
@@ -640,17 +632,13 @@ atau:
 
 > “Karena hasilnya tidak persis seperti cara saya?”
 
-Jika kedua:
+Kalau yang terjadi justru yang kedua:
 
-> mungkin masalahnya bukan kualitas.
+> mungkin masalahnya bukan kualitas pekerjaan.
 
-Mungkin:
+Bisa jadi itu hanya **preferensi pribadi**.
 
-> preference.
-
-Dan preference bukan selalu:
-
-> standard.
+Preferensi pribadi tidak otomatis menjadi standar.
 
 ::: important Prinsip
 **Delegasikan authority yang cukup untuk menjalankan responsibility. Jika tidak, Anda mungkin sedang memberikan beban tanpa memberikan kemampuan untuk bertindak.**
