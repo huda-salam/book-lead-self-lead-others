@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Ada dua kalimat yang sama-sama terdengar seperti leadership.
+Ada dua kalimat yang sering terdengar seperti sikap bertanggung jawab:
 
 > “Ini salah saya.”
 
@@ -14,11 +14,7 @@ dan:
 
 > “Ini bukan salah saya.”
 
-Masalahnya:
-
-keduanya bisa benar. Dan keduanya bisa salah. Ownership bukan:
-
-> mengambil semua kesalahan.
+Masalahnya, dua-duanya bisa benar dan dua-duanya juga bisa keliru. Ownership bukan berarti mengambil semua kesalahan.
 
 Ownership adalah kemampuan membedakan:
 
@@ -38,11 +34,9 @@ Sementara kredibilitas bukan:
 
 > terlihat yakin,
 
-atau:
+atau selalu punya jawaban.
 
-> selalu punya jawaban.
-
-Kredibilitas dibangun ketika:
+Kredibilitas tumbuh ketika:
 
 > **ucapan, keputusan, tindakan, dan follow-through cukup konsisten untuk dapat dipercaya.**
 
@@ -54,9 +48,9 @@ Kredibilitas dibangun ketika:
 Part VI mengajarkan membaca sistem dan pengaruh. Part VII kembali kepada pemimpin: bagaimana menggunakan pemahaman tersebut dengan ownership, influence, development, dan ketahanan saat tekanan tinggi.
 :::
 
-## Yang Sedang Kita Latih
+## Fokus Bab
 
-Chapter ini melatih kemampuan untuk:
+Yang perlu dilatih adalah:
 
 - mengambil tanggung jawab secara proporsional;
 - membuat commitment yang realistis;
@@ -72,7 +66,7 @@ Bayangkan sebuah proyek terlambat. Pemimpin berkata:
 
 > “Ini salah saya.”
 
-Bagus? Belum tentu. Jika penyebabnya:
+Kedengarannya baik. Tetapi belum tentu tepat. Jika penyebabnya:
 
 - dependency eksternal;
 - perubahan aturan;
@@ -82,13 +76,7 @@ mengambil semua blame mungkin justru membuat diagnosis buruk. Lebih akurat:
 
 > “Saya bertanggung jawab atas keputusan prioritas dan eskalasi yang terlambat. Dependency eksternal memang juga berkontribusi.”
 
-Itulah:
-
-> **accurate ownership.**
-
-Bukan:
-
-> total blame.
+Itulah **accurate ownership**: mengambil bagian yang memang menjadi tanggung jawab kita, tanpa mengambil atau membuang tanggung jawab secara berlebihan.
 
 ## 2. Lingkar tanggung jawab
 
@@ -120,11 +108,7 @@ Apa yang tidak dapat saya kendalikan? Misalnya:
 - perubahan eksternal;
 - kejadian tak terduga.
 
-Pemimpin tetap dapat:
-
-> merespons outside control,
-
-tetapi tidak harus:
+Hal-hal di luar kendali kita tetap perlu direspons. Tetapi kita tidak harus:
 
 > mengklaim sebagai penyebab atau pemilik seluruh outcome.
 
@@ -150,7 +134,7 @@ Jika tidak bisa:
 
 > informasikan sebelum deadline.
 
-Ini sederhana. Tetapi justru dari pola kecil seperti ini:
+Sederhana, tetapi dari kebiasaan seperti inilah:
 
 > reliability terbentuk.
 
@@ -176,11 +160,11 @@ Akhirnya:
 
 > commitment menumpuk.
 
-Masalahnya bukan niat. Masalahnya:
+Niat baik saja belum cukup. Masalahnya:
 
 > credibility cost.
 
-Lebih baik:
+Lebih baik mengatakan:
 
 > “Saya bisa selesaikan X hari ini. Untuk Y saya butuh sampai Jumat.”
 
@@ -188,7 +172,7 @@ Kalimat tersebut mungkin terdengar kurang heroik. Tetapi lebih:
 
 > reliable.
 
-## 5. Bad news adalah bagian dari ownership
+## 5. Membawa kabar buruk juga bagian dari ownership
 
 Ada pemimpin yang baru menyampaikan masalah ketika:
 
@@ -206,7 +190,7 @@ Ownership berarti:
 
 > bad news naik sebelum menjadi disaster.
 
-Tidak harus membawa masalah tanpa opsi. Tetapi setidaknya:
+Tidak berarti setiap masalah harus datang dengan solusi lengkap. Yang penting:
 
 > informasi penting tidak ditahan hanya karena belum memiliki solusi sempurna.
 
@@ -234,13 +218,7 @@ Orang yang sangat yakin dapat:
 
 > tetap salah.
 
-Orang yang mengatakan:
-
-> “Saya belum tahu”
-
-dapat:
-
-> tetap credible.
+Orang yang berani berkata “saya belum tahu” tetap bisa kredibel.
 
 Kalimat:
 
@@ -272,13 +250,13 @@ Coba gunakan:
 
 > “Saya akan verifikasi Z sebelum jam 3.”
 
-Ini bukan bahasa lemah. Ini:
+Ini bukan bahasa yang lemah. Ini:
 
 > **epistemic discipline.**
 
 Dan konsisten dengan Chapter 5 dan 7.
 
-## 9. Credit harus akurat
+## 9. Credit juga perlu akurat
 
 Ada pemimpin yang selalu berkata:
 
@@ -292,11 +270,11 @@ Misalnya:
 
 > “Analisis awal dibuat Sari. Tim data membantu validasi. Saya mengambil keputusan implementasinya.”
 
-Ini bukan kehilangan authority. Justru:
+Itu bukan berarti kehilangan kewenangan. Justru:
 
 > meningkatkan accuracy of attribution.
 
-## 10. Accountability juga harus akurat
+## 10. Accountability juga perlu akurat
 
 Jangan mengambil credit untuk:
 
@@ -322,7 +300,7 @@ pemimpin perlu melihat:
 
 > kontribusinya sendiri terhadap masalah.
 
-## 11. Consistency bukan berarti tidak pernah berubah
+## 11. Konsisten bukan berarti tidak pernah berubah
 
 Pemimpin yang selalu mengubah pendapat:
 
@@ -457,11 +435,11 @@ Apakah pola perilaku saya cukup konsisten untuk dapat dipercaya?
 
 ## 16. Contoh: proyek terlambat
 
-Kalimat defensif:
+Respons defensif:
 
 > “Tim lain belum kirim data.”
 
-Kalimat ownership:
+Respons yang lebih ber-ownership:
 
 > “Data dari tim lain terlambat dua hari. Tetapi saya juga terlambat mengeskalasi dependency tersebut. Saya akan memperbaiki checkpoint dan memberi update besok.”
 
@@ -483,17 +461,13 @@ Jangan menjawab:
 
 > “Seharusnya benar.”
 
-Jika belum diverifikasi. Lebih baik:
+Jika belum diverifikasi. Lebih baik mengatakan:
 
 > “Saya belum bisa memastikan. Angka ini berasal dari sumber X. Saya akan cocokkan dengan sumber Y dan konfirmasi.”
 
-Anda mungkin terlihat:
+Mungkin sekilas terdengar seperti kita kurang tahu.
 
-> kurang tahu.
-
-Tetapi sebenarnya sedang membangun:
-
-> epistemic trust.
+Tetapi kita sedang membangun **kepercayaan yang berbasis kejujuran terhadap apa yang kita ketahui**.
 
 ## 18. Ownership kepada atasan
 
@@ -509,13 +483,11 @@ Contoh:
 
 > “Realisasi turun 8%. Dampaknya terhadap target triwulan mulai signifikan. Saya sudah cek dua penyebab utama dan memperbaiki satu proses. Saya membutuhkan keputusan terkait resource X. Jika disetujui hari ini, saya targetkan pilot minggu depan.”
 
-Sekarang atasan dapat:
+Dengan begitu atasan dapat:
 
 > membantu mengambil keputusan,
 
-bukan:
-
-> menebak masalahnya.
+bukan menebak-nebak masalahnya.
 
 ## 19. Ownership kepada tim
 
@@ -523,7 +495,7 @@ Jangan:
 
 > “Pokoknya harus selesai.”
 
-Lebih baik:
+Lebih baik mengatakan:
 
 > “Targetnya Jumat. Saya akan bantu menyelesaikan dependency X. Kalau ada risiko terhadap deadline, sampaikan paling lambat Kamis siang.”
 
@@ -555,7 +527,7 @@ Tujuannya:
 
 > melihat apakah kata-kata dan tindakan Anda benar-benar selaras.
 
-## 21. Jangan perform ownership
+## 21. Jangan terlalu sibuk “memperagakan” ownership
 
 Ada gaya komunikasi:
 
@@ -569,13 +541,7 @@ ownership hanya menjadi:
 
 > performance language.
 
-Pemimpin tidak perlu terlalu sering mengatakan:
-
-> “Saya bertanggung jawab.”
-
-Lebih kuat menunjukkan:
-
-> apa yang dilakukan.
+Pemimpin tidak perlu terlalu sering mengatakan “saya bertanggung jawab”. Tunjukkan lewat apa yang dilakukan.
 
 ::: important Prinsip
 **Ownership yang paling kuat sering tidak terdengar seperti deklarasi. Ia terlihat dari apa yang dilakukan ketika keadaan menjadi tidak nyaman.**
