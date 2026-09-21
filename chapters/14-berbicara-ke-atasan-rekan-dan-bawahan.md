@@ -6,9 +6,9 @@
 
 ## Mengapa Ini Penting
 
-Kalimat yang sama tidak selalu bekerja dengan cara yang sama pada orang yang berbeda. Berbicara kepada atasan dapat memiliki risiko karena ada perbedaan kewenangan dan ketergantungan. Berbicara kepada rekan membutuhkan koordinasi tanpa selalu memiliki otoritas langsung. Berbicara kepada bawahan membawa tanggung jawab tambahan: kejelasan instruksi, ruang bertanya, dan penggunaan kewenangan secara proporsional.
+Kalimat yang sama belum tentu bekerja dengan cara yang sama pada orang yang berbeda. Saat berbicara kepada atasan, ada kewenangan dan ketergantungan yang ikut bermain. Kepada rekan, persoalannya lebih banyak pada koordinasi. Kepada bawahan, kewenangan kita sendiri menjadi bagian dari persoalan. Berbicara kepada rekan membutuhkan koordinasi tanpa selalu memiliki otoritas langsung. Berbicara kepada bawahan membawa tanggung jawab tambahan: kejelasan instruksi, ruang bertanya, dan penggunaan kewenangan secara proporsional.
 
-Riset tentang employee voice menunjukkan bahwa hierarki, power, status, dan konteks memengaruhi keputusan orang untuk berbicara serta bagaimana pesan diterima. Karena itu komunikasi organisasi tidak cukup dipahami sebagai soal “gaya bicara pribadi”. ([lihat Evidence notes](#evidence-notes))
+Penelitian tentang employee voice menunjukkan bahwa hierarki, status, dan konteks ikut memengaruhi kapan orang berani berbicara dan bagaimana ucapannya diterima. Karena itu komunikasi organisasi tidak cukup dipahami sebagai soal “gaya bicara pribadi”. ([lihat Evidence notes](#evidence-notes))
 
 ::: success Green Note
 **Lensa kepemimpinan:** Beradaptasi dengan audiens bukan berarti menjadi orang berbeda untuk setiap orang. Yang berubah terutama cara menyampaikan; standar terhadap fakta, alasan, dan tanggung jawab tetap dijaga.
@@ -20,7 +20,7 @@ Bab ini bukan panduan menjilat atasan, memerintah bawahan, atau memenangkan poli
 
 ## Yang Sedang Kita Latih
 
-Yang dilatih adalah kemampuan membaca:
+Yang perlu kita baca sebelum mengirim pesan adalah:
 
 - siapa penerima pesan;
 - apa tujuan komunikasi;
@@ -29,7 +29,7 @@ Yang dilatih adalah kemampuan membaca:
 - apa risikonya jika pesan salah dipahami;
 - dan seberapa langsung pesan perlu disampaikan.
 
-## 1. Audiens mengubah konteks, bukan kebenaran
+## 1. Audiens mengubah cara menyampaikan, bukan kebenaran yang harus dibawa
 
 Misalnya Anda menemukan angka laporan yang tidak cocok. Kepada bawahan, Anda mungkin berkata:
 
@@ -45,13 +45,13 @@ Kepada atasan:
 
 Tiga kalimat berbeda. Tetapi ketiganya dapat membawa standar yang sama:
 
-**jelaskan fakta → nyatakan yang belum diketahui → tentukan tindakan berikutnya.** Adaptasi audiens bukan lisensi untuk mengubah fakta agar nyaman bagi penerima.
+**jelaskan fakta → nyatakan yang belum diketahui → tentukan tindakan berikutnya.** Kita boleh menyesuaikan cara bicara, tetapi bukan mengubah fakta supaya terdengar nyaman.
 
 ## 2. Berbicara kepada atasan: hormat tanpa kehilangan judgment
 
-Dalam organisasi hierarkis, orang dapat memiliki alasan untuk berhati-hati ketika berbicara ke atas. Literatur voice menunjukkan bahwa hierarchy, power, dan status dapat memengaruhi risiko yang dirasakan dan perilaku speak-up. ([lihat Evidence notes](#evidence-notes))
+Di organisasi yang hierarkis, menyampaikan kabar buruk atau keberatan kepada atasan memang bisa terasa lebih berisiko. Literatur voice menunjukkan bahwa hierarchy, power, dan status dapat memengaruhi risiko yang dirasakan dan perilaku speak-up. ([lihat Evidence notes](#evidence-notes))
 
-Karena itu ada dua ekstrem yang perlu dihindari.
+Di sini ada dua jebakan yang umum.
 
 ### Ekstrem pertama: terlalu takut
 
@@ -83,11 +83,11 @@ Coba:
 
 > “Ada tiga hambatan: A, B, dan C. A sudah saya tangani. Untuk B saya punya dua opsi. Untuk C saya membutuhkan keputusan Bapak karena kewenangannya berada di level tersebut.”
 
-Ini mengubah komunikasi dari **memindahkan beban** menjadi **membantu pengambilan keputusan**. Bukan berarti setiap masalah harus sudah selesai sebelum dibawa ke atasan. Jika risikonya tinggi atau kewenangan Anda tidak cukup, eskalasi lebih awal dapat lebih tepat.
+Dengan format seperti ini, kita tidak sekadar memindahkan masalah ke atas; kita membantu atasan melihat keputusan apa yang memang perlu diambil. Masalah tidak harus sudah selesai sebelum dibawa ke atasan. Jika risikonya tinggi atau kewenangan Anda tidak cukup, eskalasi lebih awal dapat lebih tepat.
 
 ## 4. Jangan menyamakan atasan dengan penonton yang harus diyakinkan
 
-Ada kecenderungan komunikasi ke atas berubah menjadi pertunjukan:
+Komunikasi ke atas juga bisa berubah menjadi semacam pertunjukan:
 
 - terlalu banyak jargon;
 - hanya membawa kabar baik;
@@ -95,13 +95,13 @@ Ada kecenderungan komunikasi ke atas berubah menjadi pertunjukan:
 - membesar-besarkan keberhasilan;
 - atau menyusun informasi agar keputusan tertentu terlihat seolah-olah satu-satunya pilihan.
 
-Ini berbahaya karena pemimpin membutuhkan informasi untuk mengambil keputusan, bukan presentasi yang selalu membuatnya terlihat benar. Lebih sehat:
+Ini berbahaya karena pemimpin membutuhkan informasi untuk mengambil keputusan, bukan presentasi yang selalu membuatnya terlihat benar. Biasanya lebih membantu kalau yang dibawa adalah:
 
 **Fakta → Interpretasi sementara → Risiko → Opsi → Keputusan yang dibutuhkan.**
 
 ## 5. Berbicara kepada rekan: tanpa otoritas bukan berarti tanpa pengaruh
 
-Rekan kerja sering berada pada posisi yang tidak sepenuhnya hierarkis. Anda mungkin membutuhkan bantuannya tetapi tidak memiliki kewenangan memerintah. Kalimat:
+Dengan rekan, kita sering tidak punya kewenangan langsung. Yang kita punya adalah kebutuhan untuk berkoordinasi dan kemampuan memengaruhi. Anda mungkin membutuhkan bantuannya tetapi tidak memiliki kewenangan memerintah. Kalimat:
 
 > “Tolong kerjakan sekarang.”
 
@@ -113,11 +113,11 @@ Namun jika ada kewajiban formal, deadline, atau tanggung jawab lintas-unit yang 
 
 > “Sesuai jadwal yang sudah disepakati, data ini dibutuhkan hari ini. Kalau ada kendala, beri tahu saya sebelum pukul 15.00 supaya kita bisa menyesuaikan.”
 
-Bahasa kolaboratif bukan berarti selalu lunak.
+Bahasa kolaboratif tidak sama dengan bahasa yang selalu lunak.
 
 ## 6. Berbicara kepada bawahan: jelas tanpa merendahkan
 
-Ketika memiliki kewenangan, pemimpin dapat jatuh pada kesalahan lain: terlalu banyak menjelaskan seolah-olah bawahan harus memahami semuanya sebelum bertindak. Untuk instruksi sederhana, gunakan struktur:
+Ketika sudah punya kewenangan, ada jebakan lain: instruksi menjadi terlalu panjang, terlalu banyak alasan, tetapi apa yang sebenarnya harus dikerjakan justru tidak jelas. Untuk instruksi sederhana, gunakan struktur:
 
 **Apa → Mengapa → Kapan → Standar → Ruang bertanya** Contoh:
 
@@ -127,11 +127,11 @@ Instruksi menjadi lebih jelas tanpa perlu meninggikan suara.
 
 ## 7. Bawahan tidak membutuhkan pemimpin yang selalu benar
 
-Supervisor-subordinate communication dapat menciptakan kondisi di mana bawahan enggan berbeda pendapat atau memilih diam. ([lihat Evidence notes](#evidence-notes)) Karena itu sesekali pemimpin perlu secara eksplisit membuka ruang koreksi:
+Hubungan atasan-bawahan dapat membuat orang memilih diam, bahkan ketika sebenarnya punya keberatan. ([lihat Evidence notes](#evidence-notes)) Karena itu sesekali pemimpin perlu secara eksplisit membuka ruang koreksi:
 
 > “Saya ingin Anda cek asumsi saya. Kalau ada data yang menunjukkan saya keliru, sampaikan.”
 
-Tetapi membuka ruang bukan berarti semua pendapat harus diterima. Respons yang sehat terhadap koreksi:
+Membuka ruang bicara tentu bukan berarti semua usulan harus diterima. Respons yang sehat terhadap koreksi:
 
 > “Saya belum setuju dengan kesimpulannya, tetapi saya ingin memahami datanya.”
 
@@ -147,7 +147,7 @@ Kalimat seperti:
 
 > “Dia memang orangnya susah diajak bicara.”
 
-sering terlalu cepat. Turunkan satu tingkat:
+sering terlalu cepat. Coba turunkan satu tingkat dari label itu:
 
 - Pada situasi apa?
 - Pesan apa yang disampaikan?
@@ -162,7 +162,7 @@ Baru setelah itu kita dapat membangun hipotesis tentang pola. Ini meneruskan dis
 
 ## 9. Sampaikan berita buruk lebih cepat daripada cerita pembenaran
 
-Jika ada masalah yang material, jangan menunggu sampai Anda memiliki cerita yang sempurna. Contoh kepada atasan:
+Kalau ada masalah yang cukup penting, jangan menunggu sampai ceritanya sudah sempurna. Contoh kepada atasan:
 
 > “Ada kemungkinan target ini tidak tercapai. Saat ini penyebab yang paling mungkin A, tetapi masih saya verifikasi. Saya ingin menyampaikan risikonya sekarang agar kita punya waktu memilih tindakan.”
 
@@ -170,7 +170,7 @@ Kepada bawahan:
 
 > “Target berubah karena kondisi X. Saya tahu perubahan ini tidak nyaman. Berikut yang berubah, berikut yang tetap, dan berikut dukungan yang bisa saya berikan.”
 
-Kejujuran tidak berarti menumpahkan semua ketidakpastian tanpa struktur.
+Jujur juga bukan berarti menumpahkan semua ketidakpastian sekaligus tanpa arah.
 
 ## 10. Pilih medium sesuai risiko
 
@@ -182,7 +182,7 @@ Tidak semua pesan harus melalui rapat. Pertimbangkan:
 - **tatap muka** untuk isu sensitif atau percakapan yang membutuhkan dialog;
 - **dokumen** untuk keputusan, alasan, dan jejak yang perlu dirujuk kembali.
 
-Ini bukan aturan absolut. Tujuannya adalah mengurangi risiko salah tafsir dan memastikan tingkat dokumentasi sesuai kebutuhan.
+Ini bukan aturan mutlak. Yang dicari adalah medium yang cukup untuk mengurangi salah tafsir dan memberi jejak ketika memang diperlukan.
 
 ## 11. Framework kerja: Audience → Objective → Authority → Risk → Information → Delivery → Confirmation
 
@@ -207,7 +207,7 @@ Apa yang diketahui, belum diketahui, dan perlu diverifikasi?
 Medium, tingkat detail, urutan, dan pilihan kata apa yang paling sesuai?
 
 ### Confirmation
-Bagaimana memastikan kedua pihak memahami hal yang sama? Tujuannya bukan membuat komunikasi menjadi mekanis. Framework ini hanya memaksa kita berhenti sejenak sebelum berbicara.
+Bagaimana memastikan kedua pihak memahami hal yang sama? Framework ini bukan untuk membuat komunikasi terasa seperti mengisi formulir. Framework ini hanya memaksa kita berhenti sejenak sebelum berbicara.
 
 ## 12. Latihan: satu pesan, tiga audiens
 
@@ -229,11 +229,11 @@ Sekarang tulis tiga versi.
 
 > “Tolong cocokkan sumber A dan B sampai pukul 14.00. Kalau selisihnya belum bisa dijelaskan, jangan dipaksakan; tandai bagian yang bermasalah dan laporkan.”
 
-Isi dasarnya sama. Yang berubah adalah **tanggung jawab, kewenangan, dan bentuk tindakan**.
+Isi dasarnya sama. Yang berubah adalah **siapa yang perlu melakukan apa, seberapa jauh kewenangannya, dan tindakan berikutnya**.
 
 ## 13. Ketika komunikasi tidak cukup
 
-Tidak semua masalah selesai dengan memilih kata yang lebih baik. Jika masalahnya adalah:
+Tidak semua persoalan akan selesai hanya karena kita menemukan kalimat yang lebih bagus. Jika masalahnya adalah:
 
 - kewenangan tidak jelas;
 - data tidak tersedia;
@@ -254,7 +254,7 @@ Adaptasi terhadap audiens tidak boleh berubah menjadi manipulasi: menyembunyikan
 :::
 
 ::: success Green Note
-**Carry forward:** Pemimpin yang matang tidak berbicara kepada semua orang dengan cara yang sama. Ia juga tidak berbicara berbeda demi menyenangkan semua orang. Ia menyesuaikan cara agar pesan lebih tepat, sambil menjaga integritas isi dan tanggung jawab.
+**Carry forward:** Pemimpin yang matang tidak memakai satu gaya bicara untuk semua orang. Tetapi ia juga tidak mengganti isi pesan hanya untuk menyenangkan penerima. Ia menyesuaikan cara agar pesan lebih tepat, sambil menjaga integritas isi dan tanggung jawab.
 :::
 
 ## Evidence notes
