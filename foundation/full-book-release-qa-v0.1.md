@@ -107,7 +107,7 @@ No architecture-level collision requiring chapter removal or restructuring was i
 
 ### PASS WITH REVISIONS
 
-Some repetition is intentional because the book teaches a reusable operating discipline. In particular:
+Some repetition is intentional because the book teaches a reusable operating discipline. A full Human Voice Pass has now been completed across Chapters 1–44. In particular:
 
 - evidence vs story;
 - outcome vs decision quality;
@@ -238,8 +238,8 @@ This QA does not declare the manuscript typo-free or publication-ready. The edit
 - [x] Full runtime-citation sweep across all 44 chapter files — no `turn*search*`, `cite`, TODO, or `to be added` markers remain. Citation references that originated from unavailable retrieval markers were normalized to the chapter's Evidence notes.
 - [ ] Cross-reference spot-check
 - [ ] Visual callout consistency pass
-- [x] CI VitePress build
-- [x] GitHub Actions build PASS
+- [x] CI VitePress build (pre-voice-pass baseline)
+- [ ] GitHub Actions build on latest post-voice-pass commit
 - [ ] Public site smoke test
 - [x] Final editorial red-team v0.1 — architecture/boundary + runtime-marker sweep
 - [ ] Release tag / version
