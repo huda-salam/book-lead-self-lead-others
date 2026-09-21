@@ -1,24 +1,22 @@
 # Humor, Cletukan, dan Batas yang Aman
 
-> **Leader capability:** Menggunakan humor secara sadar—bukan untuk menjadi orang paling lucu—dengan mempertimbangkan tujuan, relasi, power, timing, dan risiko sosial.
+> **Yang dilatih:** Menggunakan humor secara sadar—bukan untuk menjadi orang paling lucu—dengan mempertimbangkan tujuan, relasi, power, timing, dan risiko sosial.
 
 > **Canonical concept:** COMM.HUMOR
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
-Humor sering muncul ketika orang bekerja bersama: untuk mencairkan suasana, membangun kedekatan, mengurangi ketegangan, atau menyampaikan sesuatu yang sulit secara lebih ringan.
-
-Tetapi humor bukan tombol universal untuk membuat suasana lebih baik. Riset organisasi menunjukkan manfaat dan risiko humor bergantung pada bentuk, target, hubungan, konteks, dan bagaimana humor dipersepsikan. Review tentang humor dalam kepemimpinan juga menekankan kompleksitas definisi, variasi gaya humor, fungsi komunikasi, dan pengaruh konteks budaya. ([lihat Evidence notes](#evidence-notes))
+Humor sering muncul ketika orang bekerja bersama: untuk mencairkan suasana, membangun kedekatan, mengurangi ketegangan, atau menyampaikan sesuatu yang sulit secara lebih ringan. Tetapi humor bukan tombol universal untuk membuat suasana lebih baik. Riset organisasi menunjukkan manfaat dan risiko humor bergantung pada bentuk, target, hubungan, konteks, dan bagaimana humor dipersepsikan. Review tentang humor dalam kepemimpinan juga menekankan kompleksitas definisi, variasi gaya humor, fungsi komunikasi, dan pengaruh konteks budaya. ([lihat Evidence notes](#evidence-notes))
 
 ::: success Green Note
-**Leader lens:** Humor yang baik bukan humor yang membuat leader terlihat lucu. Humor yang baik membantu tujuan interaksi tanpa membuat orang lain membayar biaya sosial yang tidak perlu.
+**Lensa pemimpin:** Humor yang baik bukan humor yang membuat leader terlihat lucu. Humor yang baik membantu tujuan interaksi tanpa membuat orang lain membayar biaya sosial yang tidak perlu.
 :::
 
 ::: info Konteks
 Bab ini tidak mengajarkan teknik menjadi komedian. Fokusnya adalah judgment: kapan humor membantu, kapan netral, kapan berisiko, dan kapan sebaiknya tidak digunakan.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 **Capability:** membaca target humor, power, timing, dan kemungkinan dampaknya sebelum melempar cletukan—serta mampu berhenti ketika humor tidak lagi membantu.
 
@@ -54,26 +52,18 @@ dengan:
 
 > “Kamu memang kalau kerja selalu bikin server menangis.”
 
-Yang pertama menertawakan situasi. Yang kedua menjadikan seseorang target.
-
-Target bukan satu-satunya faktor, tetapi merupakan pemeriksaan awal yang penting.
-
-Humor yang diarahkan kepada kelompok yang memiliki posisi lebih rendah juga tidak sama risikonya dengan humor antarorang yang memiliki posisi relatif setara. Power dapat mengubah makna sebuah cletukan.
+Yang pertama menertawakan situasi. Yang kedua menjadikan seseorang target. Target bukan satu-satunya faktor, tetapi merupakan pemeriksaan awal yang penting. Humor yang diarahkan kepada kelompok yang memiliki posisi lebih rendah juga tidak sama risikonya dengan humor antarorang yang memiliki posisi relatif setara. Power dapat mengubah makna sebuah cletukan.
 
 ## 3. Leader memiliki biaya humor yang berbeda
 
-Ketika seorang leader bercanda, bawahan tidak selalu bebas merespons seperti teman sebaya.
-
-Orang mungkin tertawa karena:
+Ketika seorang leader bercanda, bawahan tidak selalu bebas merespons seperti teman sebaya. Orang mungkin tertawa karena:
 - benar-benar lucu;
 - ingin menjaga hubungan;
 - tidak ingin terlihat sensitif;
 - merasa tidak punya pilihan;
 - atau belum tahu apakah candaan itu sebenarnya kritik.
 
-Karena itu **tawa bukan bukti bahwa humor diterima dengan baik**.
-
-Review kepemimpinan dan humor menempatkan trust, appropriateness, leadership style, personal preference, dan cultural context sebagai faktor yang memengaruhi hubungan humor dengan leadership. ([lihat Evidence notes](#evidence-notes))
+Karena itu **tawa bukan bukti bahwa humor diterima dengan baik**. Review kepemimpinan dan humor menempatkan trust, appropriateness, leadership style, personal preference, dan cultural context sebagai faktor yang memengaruhi hubungan humor dengan leadership. ([lihat Evidence notes](#evidence-notes))
 
 ## 4. Jangan menyamakan “bercanda” dengan “aman”
 
@@ -81,17 +71,11 @@ Kalimat:
 
 > “Kan cuma bercanda.”
 
-tidak menyelesaikan masalah jika orang lain ternyata dipermalukan.
+tidak menyelesaikan masalah jika orang lain ternyata dipermalukan. Humor memiliki dua sisi. Studi tentang leader humor menemukan bahwa humor afiliatif dapat berkaitan dengan psychological safety dan outcome positif, tetapi bentuk humor agresif dapat membawa outcome negatif. Studi terbaru juga menunjukkan hasil yang lebih kompleks dan bergantung konteks. ([lihat Evidence notes](#evidence-notes))
 
-Humor memiliki dua sisi. Studi tentang leader humor menemukan bahwa humor afiliatif dapat berkaitan dengan psychological safety dan outcome positif, tetapi bentuk humor agresif dapat membawa outcome negatif. Studi terbaru juga menunjukkan hasil yang lebih kompleks dan bergantung konteks. ([lihat Evidence notes](#evidence-notes))
+Karena itu niat tidak cukup. Periksa tiga hal:
 
-Karena itu niat tidak cukup.
-
-Periksa tiga hal:
-
-**Niat → Bentuk → Dampak**
-
-Niat baik tidak menjamin bentuknya aman. Bentuk yang terasa ringan bagi pembicara tidak menjamin dampaknya ringan bagi penerima.
+**Niat → Bentuk → Dampak** Niat baik tidak menjamin bentuknya aman. Bentuk yang terasa ringan bagi pembicara tidak menjamin dampaknya ringan bagi penerima.
 
 ## 5. Self-deprecating humor juga punya batas
 
@@ -101,9 +85,7 @@ Tetapi jangan mengubahnya menjadi resep:
 
 > “Kalau ingin dekat dengan bawahan, sering-sering merendahkan diri.”
 
-Itu terlalu jauh.
-
-Self-deprecating humor dapat menjadi masalah jika:
+Itu terlalu jauh. Self-deprecating humor dapat menjadi masalah jika:
 - leader merendahkan kompetensinya secara berulang;
 - orang lain kemudian tidak tahu kapan harus serius;
 - humor dipakai untuk menghindari accountability;
@@ -117,11 +99,7 @@ Contoh:
 
 > “Kalau laporan ini terlambat lagi, mungkin kita perlu mengirimnya lewat merpati pos.”
 
-Bisa terasa ringan dalam situasi tertentu.
-
-Tetapi jika sebenarnya ada masalah kepatuhan yang serius, humor justru dapat mengaburkan tingkat keseriusan.
-
-Untuk masalah penting, katakan substansinya dengan jelas:
+Bisa terasa ringan dalam situasi tertentu. Tetapi jika sebenarnya ada masalah kepatuhan yang serius, humor justru dapat mengaburkan tingkat keseriusan. Untuk masalah penting, katakan substansinya dengan jelas:
 
 > “Tenggat ini harus dipenuhi. Kalau ada hambatan, sampaikan sebelum tenggat agar kita bisa mengambil tindakan.”
 
@@ -129,9 +107,7 @@ Baru setelah substansi jelas, humor—jika memang tepat—boleh menjadi lapisan 
 
 ## 7. Cletukan di grup lebih berisiko daripada yang terasa
 
-Dalam percakapan privat, sebuah candaan memiliki konteks.
-
-Di grup, cletukan:
+Dalam percakapan privat, sebuah candaan memiliki konteks. Di grup, cletukan:
 - punya audiens lebih banyak;
 - dapat dibaca ulang;
 - dapat ditafsirkan tanpa intonasi;
@@ -156,9 +132,7 @@ Red flags yang perlu diperiksa:
 - relasi personal;
 - atau informasi yang diketahui karena posisi kepemimpinan.
 
-Humor semacam itu dapat menciptakan biaya yang jauh lebih besar daripada manfaat cletukannya.
-
-Meta-analysis workplace incivility menunjukkan bahwa incivility memiliki berbagai konsekuensi sosial, afektif, kesehatan, dan perilaku, dengan moderator yang membuat efeknya bergantung konteks. ([lihat Evidence notes](#evidence-notes))
+Humor semacam itu dapat menciptakan biaya yang jauh lebih besar daripada manfaat cletukannya. Meta-analysis workplace incivility menunjukkan bahwa incivility memiliki berbagai konsekuensi sosial, afektif, kesehatan, dan perilaku, dengan moderator yang membuat efeknya bergantung konteks. ([lihat Evidence notes](#evidence-notes))
 
 Tidak setiap candaan adalah incivility. Poinnya lebih sederhana: jangan menggunakan humor sebagai alasan untuk mengabaikan risiko penghinaan atau perlakuan tidak hormat.
 
@@ -168,9 +142,7 @@ Ada situasi di mana leader ingin mengoreksi tetapi menggunakan candaan:
 
 > “Wah, hebat. Sekali lagi kita berhasil membuat deadline jadi target yang fleksibel.”
 
-Jika orang memahami bahwa itu kritik, mungkin pesan tersampaikan.
-
-Tetapi jika masalahnya serius, bentuk ini memiliki risiko:
+Jika orang memahami bahwa itu kritik, mungkin pesan tersampaikan. Tetapi jika masalahnya serius, bentuk ini memiliki risiko:
 - orang tidak tahu apakah leader sungguh-sungguh;
 - kritik berubah menjadi sindiran;
 - masalah substansi bergeser menjadi rasa malu;
@@ -180,11 +152,7 @@ Jika feedback penting, gunakan bahasa yang jelas. Humor tidak perlu menjadi kamu
 
 ## 10. Humor aman bukan berarti humor steril
 
-Kita tidak perlu membuat tempat kerja menjadi ruang tanpa canda.
-
-Humor situasional, permainan kata, cerita ringan, atau menertawakan pengalaman bersama dapat menjadi bagian normal dari hubungan kerja.
-
-Bahkan meta-analysis terhadap humor positif di tempat kerja menemukan hubungan dengan beberapa outcome seperti kepuasan, kohesi, coping, dan performa; tetapi literatur juga menekankan perlunya kehati-hatian terhadap humor negatif dan isu seperti humor yang merendahkan. ([lihat Evidence notes](#evidence-notes))
+Kita tidak perlu membuat tempat kerja menjadi ruang tanpa canda. Humor situasional, permainan kata, cerita ringan, atau menertawakan pengalaman bersama dapat menjadi bagian normal dari hubungan kerja. Bahkan meta-analysis terhadap humor positif di tempat kerja menemukan hubungan dengan beberapa outcome seperti kepuasan, kohesi, coping, dan performa; tetapi literatur juga menekankan perlunya kehati-hatian terhadap humor negatif dan isu seperti humor yang merendahkan. ([lihat Evidence notes](#evidence-notes))
 
 Jadi targetnya bukan:
 
@@ -204,9 +172,7 @@ Gunakan pemeriksaan singkat:
 4. **Audience** — siapa saja yang mendengar/membaca?
 5. **Cost** — jika candaan gagal, siapa yang menanggung akibatnya?
 
-Jika jawabannya mengkhawatirkan, tidak ada kewajiban untuk membuat candaan.
-
-Diam bukan kegagalan humor.
+Jika jawabannya mengkhawatirkan, tidak ada kewajiban untuk membuat candaan. Diam bukan kegagalan humor.
 
 ## 12. Jika candaan tidak diterima
 
@@ -242,15 +208,11 @@ Jika gagal, apa yang hilang?
 Kepercayaan? Martabat? Kejelasan? Fokus? Kredibilitas?
 
 ### Choice
-Bercanda, ubah bentuk humor, tunda, atau tidak menggunakan humor.
-
-Tujuan model bukan menghitung skor. Tujuannya memaksa leader melakukan pemeriksaan sebelum bertindak.
+Bercanda, ubah bentuk humor, tunda, atau tidak menggunakan humor. Tujuan model bukan menghitung skor. Tujuannya memaksa leader melakukan pemeriksaan sebelum bertindak.
 
 ## 14. Latihan: ganti cletukan dengan fungsi
 
-Ambil satu cletukan yang biasa Anda gunakan.
-
-Tanyakan:
+Ambil satu cletukan yang biasa Anda gunakan. Tanyakan:
 
 > “Saya sebenarnya ingin melakukan apa?”
 
