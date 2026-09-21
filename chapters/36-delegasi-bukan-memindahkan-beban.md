@@ -1,14 +1,12 @@
 # Delegasi Bukan Memindahkan Beban
 
-> **Management capability:** Memindahkan pekerjaan dan authority yang tepat kepada orang lain dengan outcome, batas, resource, checkpoint, dan accountability yang jelas.
+> **Yang dilatih:** Memindahkan pekerjaan dan authority yang tepat kepada orang lain dengan outcome, batas, resource, checkpoint, dan accountability yang jelas.
 
 > **Canonical concept:** MGMT.DELEGATION
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
-Ada dua kesalahan delegasi yang sangat umum.
-
-Pertama:
+Ada dua kesalahan delegasi yang sangat umum. Pertama:
 
 > “Saya kerjakan sendiri. Lebih cepat.”
 
@@ -36,7 +34,7 @@ Delegasi yang sehat berada di antara keduanya:
 Chapter 33 membahas development. Chapter 35 membahas apa yang perlu diprioritaskan. Chapter 36 membahas mekanisme delegasi. Pengembangan capability dapat menjadi manfaat delegasi, tetapi delegasi tidak selalu bertujuan development.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 - memilih apa yang didelegasikan;
 - menentukan kepada siapa;
@@ -53,9 +51,7 @@ Kalimat:
 
 > “Tolong buat laporan ini.”
 
-belum tentu delegasi yang baik.
-
-Orang belum tahu:
+belum tentu delegasi yang baik. Orang belum tahu:
 
 > untuk apa?
 
@@ -95,9 +91,7 @@ Bukan sekadar:
 
 ## 3. Authority harus mengikuti responsibility
 
-Ini prinsip penting.
-
-Jangan memberi:
+Ini prinsip penting. Jangan memberi:
 
 > responsibility besar
 
@@ -113,9 +107,7 @@ tetapi:
 
 > semua keputusan kecil harus menunggu approval leader.
 
-Itu bukan empowerment.
-
-Itu:
+Itu bukan empowerment. Itu:
 
 > responsibility without authority.
 
@@ -191,15 +183,11 @@ Jangan selalu memberikan:
 
 > pekerjaan paling mudah
 
-kepada orang yang dianggap paling junior.
-
-Dan jangan selalu memberikan:
+kepada orang yang dianggap paling junior. Dan jangan selalu memberikan:
 
 > semua pekerjaan sulit
 
-kepada orang yang paling mampu.
-
-Yang kedua dapat menciptakan:
+kepada orang yang paling mampu. Yang kedua dapat menciptakan:
 
 > single point of failure.
 
@@ -231,9 +219,7 @@ Ada spektrum.
 
 > “Own the outcome dalam area tersebut.”
 
-Ini bukan taxonomy universal.
-
-Ini:
+Ini bukan taxonomy universal. Ini:
 
 > alat untuk menentukan tingkat authority.
 
@@ -243,9 +229,7 @@ Leader kadang takut:
 
 > “Kalau saya check, nanti dibilang micromanage.”
 
-Tidak.
-
-Micromanagement bukan sekadar:
+Tidak. Micromanagement bukan sekadar:
 
 > melakukan checkpoint.
 
@@ -471,9 +455,7 @@ Setelah selesai:
 
 > review.
 
-Ini bukan hanya pekerjaan yang selesai.
-
-Orang juga belajar:
+Ini bukan hanya pekerjaan yang selesai. Orang juga belajar:
 
 > stakeholder management,
 
@@ -638,9 +620,7 @@ Sebelum mendelegasikan, isi:
 
 > Bagaimana kita tahu pekerjaan berhasil?
 
-Sederhana.
-
-Tetapi mengurangi:
+Sederhana. Tetapi mengurangi:
 
 > ambiguity.
 
