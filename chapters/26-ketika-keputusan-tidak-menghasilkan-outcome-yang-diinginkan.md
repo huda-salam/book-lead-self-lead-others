@@ -26,7 +26,7 @@ Review bukan sidang untuk mencari orang yang salah. Review adalah proses untuk m
 - dan apa yang perlu dilakukan berikutnya.
 
 ::: success Green Note
-**Leader tidak hanya bertanggung jawab atas keputusan. Leader juga bertanggung jawab untuk belajar dari konsekuensinya.**
+**Pemimpin tidak hanya bertanggung jawab atas keputusan. Pemimpin juga bertanggung jawab untuk belajar dari konsekuensinya.**
 :::
 
 ::: info Konteks
@@ -286,7 +286,7 @@ Mungkin benar. Tetapi pertanyaan berikutnya:
 
 > “Mengapa execution tidak berjalan?”
 
-Jika instruction sulit dipahami, resource tidak tersedia, atau dependency tidak diselesaikan, masalahnya lebih luas. Leader perlu bersedia bertanya:
+Jika instruction sulit dipahami, resource tidak tersedia, atau dependency tidak diselesaikan, masalahnya lebih luas. Pemimpin perlu bersedia bertanya:
 
 > “Apa bagian dari sistem keputusan saya yang ikut menyebabkan masalah?”
 
@@ -473,7 +473,7 @@ Itu lebih dapat dilatih.
 
 ## 18. Dari kegagalan menuju operating learning
 
-Leader yang baik bukan orang yang:
+Pemimpin yang baik bukan orang yang:
 
 > tidak pernah salah memilih.
 
@@ -498,7 +498,7 @@ Review tidak menggantikan investigasi formal. Untuk keselamatan, fraud, pelangga
 :::
 
 ::: success Green Note
-**Carry forward:** Setelah outcome terjadi, leader tidak berhenti pada “berhasil atau gagal”. Leader bertanya: “Apa yang sekarang kita tahu, apa yang berubah, dan bagaimana pengetahuan itu mengubah tindakan berikutnya?”
+**Carry forward:** Setelah outcome terjadi, pemimpin tidak berhenti pada “berhasil atau gagal”. Pemimpin bertanya: “Apa yang sekarang kita tahu, apa yang berubah, dan bagaimana pengetahuan itu mengubah tindakan berikutnya?”
 :::
 
 ## Penutup Part V
