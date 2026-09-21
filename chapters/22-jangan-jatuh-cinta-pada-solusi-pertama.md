@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Begitu seseorang mengusulkan solusi yang terlihat bagus, percakapan sering berubah. Awalnya:
+Begitu ada solusi yang terdengar menarik, percakapan sering langsung bergeser. Awalnya:
 
 > “Apa sebenarnya masalahnya?”
 
@@ -14,7 +14,7 @@ Beberapa menit kemudian:
 
 > “Bagaimana kita menerapkan solusi ini?”
 
-Tanpa sadar, pertanyaan berubah dari:
+Tanpa sadar, pertanyaan kita berubah dari:
 
 > **“Apa yang paling tepat?”**
 
@@ -22,9 +22,9 @@ menjadi:
 
 > **“Bagaimana membuat pilihan saya berhasil?”**
 
-Itulah jebakan yang ingin dibahas dalam chapter ini. Solusi pertama tidak selalu buruk. Bahkan sering kali solusi pertama muncul karena pengalaman dan intuisi. Masalahnya bukan memiliki ide. Masalahnya adalah:
+Itulah jebakan utama bab ini. Solusi pertama tidak selalu buruk. Bahkan sering kali solusi pertama muncul karena pengalaman dan intuisi. Memiliki ide bukan masalah. Masalahnya muncul ketika:
 
-> **berhenti menguji setelah menemukan ide yang kita sukai.**
+> **kita berhenti menguji begitu menemukan ide yang kita sukai.**
 
 ::: success Green Note
 **Persist pada tujuan. Jangan otomatis persist pada metode.**
@@ -36,7 +36,7 @@ Chapter 21 membahas problem framing. Chapter 22 membahas bagaimana menjaga ruang
 
 ## Yang Sedang Kita Latih
 
-Pemimpin sedang melatih kemampuan untuk:
+Yang sedang dilatih adalah:
 
 - memperlakukan solusi sebagai hipotesis kerja;
 - mencari alternatif secara proporsional;
@@ -44,13 +44,13 @@ Pemimpin sedang melatih kemampuan untuk:
 - melakukan eksperimen kecil jika memungkinkan;
 - dan mengetahui kapan harus berhenti mencari lalu berkomitmen.
 
-## 1. Solusi pertama sering terasa benar karena sudah tersedia
+## 1. Solusi pertama sering terasa benar karena sudah akrab
 
 Misalnya:
 
 > “Kinerja turun. Kita perlu training.”
 
-Training adalah solusi yang familiar. Tetapi kinerja bisa turun karena:
+Training adalah solusi yang mudah muncul di kepala karena sudah familiar. Tetapi kinerja bisa turun karena:
 
 - instruksi tidak jelas;
 - sistem lambat;
@@ -73,7 +73,7 @@ Itu evidence tentang **problem**. Lalu kita berkata:
 
 > “Tambahkan satu orang.”
 
-Itu hipotesis tentang **solution**. Evidence pertama tidak otomatis membuktikan evidence kedua. Perlu jembatan:
+Itu hipotesis tentang **solution**. Bukti tentang masalah tidak otomatis membuktikan bahwa solusi tersebut tepat. Perlu jembatan:
 
 > Mengapa tambahan orang diperkirakan mengurangi keterlambatan?
 
@@ -87,17 +87,17 @@ Contoh:
 
 > “Jika kita mengotomasi rekonsiliasi, waktu pemeriksaan akan turun karena pekerjaan pencocokan manual berkurang.”
 
-Sekarang solusi memiliki:
+Sekarang usulannya punya bentuk yang lebih jelas:
 
 - tindakan;
 - outcome yang diharapkan;
 - mekanisme.
 
-Ketiganya dapat diuji.
+Ketiganya bisa diuji.
 
 ## 4. Tanya: apa yang harus benar agar solusi ini berhasil?
 
-Ini pertanyaan sederhana tetapi kuat. Misalnya solusi:
+Ini pertanyaan yang sederhana, tetapi sering sangat membantu. Misalnya solusi:
 
 > “Kita gunakan aplikasi baru.”
 
@@ -114,7 +114,7 @@ Jika salah satu asumsi utama salah, solusi dapat gagal walaupun aplikasinya bagu
 
 ## 5. Buat alternative set kecil
 
-Tidak perlu menghasilkan 20 alternatif. Untuk masalah penting, mulai dari tiga atau empat kelas pilihan:
+Kita tidak perlu membuat dua puluh alternatif. Untuk masalah penting, mulai dari tiga atau empat kelas pilihan:
 
 1. **Improve** — perbaiki cara sekarang.
 2. **Simplify** — hilangkan langkah yang tidak perlu.
@@ -122,7 +122,7 @@ Tidak perlu menghasilkan 20 alternatif. Untuk masalah penting, mulai dari tiga a
 4. **Change capacity** — tambah/ubah sumber daya.
 5. **Change policy/process** — ubah aturan atau alur.
 
-Tidak semua kategori harus digunakan. Tujuannya:
+Tidak semua kategori harus digunakan. Tujuannya sederhana:
 
 > jangan biarkan solusi pertama menjadi satu-satunya dunia yang terlihat.
 
@@ -134,7 +134,7 @@ Jangan membuat:
 - aplikasi B;
 - aplikasi C;
 
-jika semuanya sebenarnya solusi yang sama. Cari perbedaan mekanisme. Contoh:
+jika semuanya sebenarnya solusi yang sama. Yang dicari adalah perbedaan cara kerja, bukan sekadar nama yang berbeda. Contoh:
 
 Masalah:
 
@@ -152,11 +152,11 @@ Sekarang pilihan benar-benar berbeda.
 
 ## 7. Cari apa yang dapat membuktikan Anda salah
 
-Pemimpin yang sudah menyukai solusi biasanya mencari:
+Begitu kita sudah suka pada sebuah solusi, kita cenderung mencari:
 
 > “Apa yang mendukung pilihan saya?”
 
-Tambahkan:
+Tambahkan satu pertanyaan lagi:
 
 > **“Apa yang akan membuat saya mengubah pikiran?”**
 
@@ -186,7 +186,7 @@ Kemudian:
 - constraint;
 - atau sekadar preferensi?
 
-Kritik adalah input. Bukan otomatis veto.
+Kritik adalah input. Belum tentu veto.
 
 ## 9. Uji asumsi terbesar, bukan semua asumsi
 
@@ -198,7 +198,7 @@ Misalnya solusi membutuhkan integrasi sistem. Jika integrasi ternyata tidak mung
 
 ## 10. Pilot sebelum komitmen besar
 
-Jika keputusan dapat dibuat bertahap, gunakan:
+Kalau keputusan bisa dicoba bertahap, manfaatkan:
 
 - pilot;
 - sandbox;
@@ -214,7 +214,7 @@ Tetapi jangan memaksakan pilot ketika:
 - risiko terlalu tinggi;
 - atau keputusan memang tidak reversibel.
 
-Pilot adalah alat belajar. Bukan ritual.
+Pilot adalah alat belajar, bukan ritual yang harus selalu dilakukan.
 
 ## 11. Reversibility matters
 
@@ -226,7 +226,7 @@ dengan:
 
 > membeli sistem lima tahun.
 
-Keduanya bukan keputusan dengan risiko yang sama. Jika keputusan mudah dibalik, kita dapat belajar lebih cepat. Jika sulit dibalik, kualitas analisis awal menjadi lebih penting. Ini melanjutkan Response Card di Chapter 9:
+Risikonya jelas tidak sama. Jika keputusan mudah dibalik, kita dapat belajar lebih cepat. Jika sulit dibalik, kualitas analisis awal menjadi lebih penting. Ini melanjutkan gagasan tentang reversibility di Chapter 9:
 
 > **Reversibility** memengaruhi cara kita merespons.
 
@@ -254,7 +254,7 @@ Ini salah satu konsep penting buku.
 
 > “Saya harus membuat solusi saya ini berhasil.”
 
-Keduanya terlihat seperti persistence. Tetapi arahnya berbeda. Goal discipline membuka kemungkinan:
+Dari luar, keduanya sama-sama terlihat seperti persistence. Tetapi arahnya berbeda. Goal discipline membuka kemungkinan:
 
 > metode A → gagal → metode B.
 
@@ -262,11 +262,11 @@ Solution attachment membuat:
 
 > metode A → gagal → cari alasan → tambah investasi → pertahankan A.
 
-Disiplin seharusnya menjaga tujuan. Bukan ego terhadap metode.
+Yang perlu dipertahankan adalah tujuan, bukan ego terhadap metode.
 
 ## 14. Jangan membuat analisis menjadi alasan untuk tidak memutuskan
 
-Kebalikan dari solution attachment adalah:
+Kebalikan dari keterikatan pada solusi adalah jebakan yang lain:
 
 > analysis paralysis.
 
@@ -280,7 +280,7 @@ Selalu. Padahal:
 - risiko sudah dapat dikelola;
 - informasi tambahan tidak akan banyak mengubah pilihan.
 
-Maka gunakan pertanyaan:
+Jadi tanyakan:
 
 > **“Informasi apa yang paling mungkin mengubah keputusan kita?”**
 
@@ -389,7 +389,7 @@ Kemudian tanyakan:
 
 > “Mana yang paling mungkin mengubah bottleneck dengan risiko yang dapat diterima?”
 
-Sekarang percakapan lebih baik. Bukan:
+Percakapannya pun berubah. Bukan lagi:
 
 > “Tambah orang atau tidak?”
 
@@ -411,7 +411,7 @@ Kemudian:
 
 > “Evidence yang paling mungkin membuat saya berubah pikiran adalah...”
 
-Ini bukan latihan merendahkan keyakinan. Ini latihan menjaga hubungan antara:
+Ini bukan latihan untuk merendahkan keyakinan sendiri. Ini latihan menjaga hubungan antara:
 
 **confidence ↔ evidence.**
 
@@ -426,7 +426,7 @@ Berhenti ketika:
 - keputusan masih dapat direvisi jika diperlukan;
 - dan tambahan informasi kemungkinan kecil mengubah pilihan.
 
-Tidak ada keputusan yang membutuhkan kepastian 100%. Yang dibutuhkan adalah:
+Hampir tidak ada keputusan nyata yang menunggu kepastian 100%. Yang kita perlukan adalah:
 
 > **cukup informasi untuk tingkat risiko yang dihadapi.**
 
@@ -439,7 +439,7 @@ Jangan mempertahankan solusi hanya karena Anda yang mengusulkannya. Dan jangan m
 :::
 
 ::: success Green Note
-**Carry forward:** Pemimpin yang kuat bukan orang yang selalu menemukan solusi pertama yang benar. Ia mampu menemukan, menguji, meninggalkan, memperbaiki, dan memilih solusi berdasarkan apa yang dipelajari.
+**Carry forward:** Pemimpin yang kuat bukan orang yang selalu benar sejak ide pertama. Ia mampu menemukan, menguji, meninggalkan, memperbaiki, dan memilih solusi berdasarkan apa yang dipelajari.
 :::
 
 ## Evidence notes
