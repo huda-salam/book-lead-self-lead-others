@@ -1,14 +1,12 @@
 # Membuat Orang Lain Bertumbuh
 
-> **Leader capability:** Meningkatkan kemampuan, judgment, dan ownership orang lain melalui challenge, dukungan, feedback, praktik, refleksi, dan peningkatan autonomy yang bertahap.
+> **Yang dilatih:** Meningkatkan kemampuan, judgment, dan ownership orang lain melalui challenge, dukungan, feedback, praktik, refleksi, dan peningkatan autonomy yang bertahap.
 
 > **Canonical concept:** LEAD.DEVELOPMENT
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
-Ada leader yang sangat kompeten.
-
-Semua masalah:
+Ada leader yang sangat kompeten. Semua masalah:
 
 > datang kepadanya.
 
@@ -48,7 +46,7 @@ Tetapi:
 Chapter 32 membahas influence. Chapter 33 bergerak dari “membuat orang bergerak” ke “membuat orang semakin mampu”. Delegasi sebagai mekanisme manajemen yang lebih spesifik akan dibahas di Chapter 36.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 Leader sedang melatih kemampuan untuk:
 
@@ -63,9 +61,7 @@ Leader sedang melatih kemampuan untuk:
 
 ## 1. Development bukan training saja
 
-Training dapat berguna.
-
-Tetapi seseorang tidak otomatis menjadi lebih mampu hanya karena:
+Training dapat berguna. Tetapi seseorang tidak otomatis menjadi lebih mampu hanya karena:
 
 > mengikuti pelatihan.
 
@@ -106,9 +102,7 @@ Leader langsung:
 
 > “Begini.”
 
-Cepat.
-
-Tetapi jika dilakukan terus:
+Cepat. Tetapi jika dilakukan terus:
 
 > staf belajar menunggu jawaban.
 
@@ -138,9 +132,7 @@ Tujuannya:
 
 ## 3. Tetapi jangan selalu bertanya
 
-Ini juga penting.
-
-Ada leader yang belajar coaching lalu semua dijawab:
+Ini juga penting. Ada leader yang belajar coaching lalu semua dijawab:
 
 > “Menurut kamu bagaimana?”
 
@@ -196,11 +188,7 @@ Tetapi ini:
 
 > bukan formula universal.
 
-Kebutuhan orang berbeda.
-
-Tugas berbeda.
-
-Risiko berbeda.
+Kebutuhan orang berbeda. Tugas berbeda. Risiko berbeda.
 
 ## 5. Match challenge dengan capability
 
@@ -258,11 +246,7 @@ Ada filosofi:
 
 > “Biar dia salah sendiri.”
 
-Kadang benar.
-
-Tetapi tidak selalu.
-
-Jika kesalahan dapat menyebabkan:
+Kadang benar. Tetapi tidak selalu. Jika kesalahan dapat menyebabkan:
 
 > kerugian besar,
 
@@ -326,9 +310,7 @@ atau:
 
 > “Saya salah.”
 
-tanpa otomatis kehilangan dignity.
-
-Tetapi:
+tanpa otomatis kehilangan dignity. Tetapi:
 
 > safety tidak menghapus accountability.
 
@@ -348,15 +330,11 @@ Development:
 
 > meningkatkan capability orang tersebut.
 
-Keduanya dapat berjalan bersama.
-
-Contoh:
+Keduanya dapat berjalan bersama. Contoh:
 
 > Anda memberi seseorang tanggung jawab membuat laporan.
 
-Itu delegasi.
-
-Kemudian Anda:
+Itu delegasi. Kemudian Anda:
 
 > memberi guardrail,
 
@@ -366,15 +344,11 @@ Kemudian Anda:
 
 > dan secara bertahap mengurangi bantuan.
 
-Itu development.
-
-Chapter 36 akan membahas delegation lebih detail.
+Itu development. Chapter 36 akan membahas delegation lebih detail.
 
 ## 11. Jangan mengambil alih terlalu cepat
 
-Seorang bawahan sedang mengerjakan sesuatu.
-
-Hasilnya:
+Seorang bawahan sedang mengerjakan sesuatu. Hasilnya:
 
 > belum sempurna.
 
@@ -402,9 +376,7 @@ Tentu jika:
 
 > atau kesalahan sudah melewati threshold,
 
-leader mungkin memang perlu mengambil alih.
-
-Development bukan:
+leader mungkin memang perlu mengambil alih. Development bukan:
 
 > dogma anti-intervensi.
 
@@ -450,9 +422,7 @@ Judgment:
 
 > “Saya tahu kapan prosedur itu berlaku, kapan tidak, dan kapan harus bertanya.”
 
-Leader membutuhkan keduanya.
-
-Karena dunia nyata:
+Leader membutuhkan keduanya. Karena dunia nyata:
 
 > tidak selalu cocok dengan SOP sempurna.
 
@@ -493,9 +463,7 @@ Jangan berkata:
 
 > “Kamu harus lebih proaktif.”
 
-Terlalu abstrak.
-
-Definisikan:
+Terlalu abstrak. Definisikan:
 
 > “Untuk rapat berikutnya, saya ingin Anda datang dengan minimal dua opsi dan satu rekomendasi.”
 
@@ -507,9 +475,7 @@ Setelah itu:
 
 > review.
 
-Apakah behavior meningkat?
-
-Apa yang masih sulit?
+Apakah behavior meningkat? Apa yang masih sulit?
 
 ## 16. Framework: Development Loop
 
@@ -557,27 +523,15 @@ Jangan langsung:
 
 Buat progression:
 
-**Level 1**
+**Level 1** Staf mengamati.
 
-Staf mengamati.
+**Level 2** Staf membuka rapat.
 
-**Level 2**
+**Level 3** Staf memimpin agenda.
 
-Staf membuka rapat.
+**Level 4** Staf menangani disagreement.
 
-**Level 3**
-
-Staf memimpin agenda.
-
-**Level 4**
-
-Staf menangani disagreement.
-
-**Level 5**
-
-Staf membuat decision summary dan follow-up.
-
-Leader berpindah dari:
+**Level 5** Staf membuat decision summary dan follow-up. Leader berpindah dari:
 
 > direct
 
@@ -595,9 +549,7 @@ Seseorang selalu bertanya:
 
 > “Saya harus bagaimana?”
 
-Leader dapat mengubah pola.
-
-Daripada menjawab:
+Leader dapat mengubah pola. Daripada menjawab:
 
 > “Lakukan A.”
 
@@ -649,9 +601,7 @@ Bisa:
 
 > “Saya paham. Kita lakukan bersama sekali. Setelah itu Anda yang memimpin.”
 
-Support tetap ada.
-
-Challenge juga ada.
+Support tetap ada. Challenge juga ada.
 
 ## 20. Beri credit untuk growth
 
@@ -679,9 +629,7 @@ Tujuan development bukan:
 
 > “Supaya pekerjaan saya lebih ringan.”
 
-Itu mungkin salah satu manfaat.
-
-Tetapi orang yang berkembang juga perlu:
+Itu mungkin salah satu manfaat. Tetapi orang yang berkembang juga perlu:
 
 > autonomy,
 
@@ -699,39 +647,21 @@ Development bukan:
 
 Untuk satu anggota tim, tulis:
 
-**Capability target**
+**Capability target** Apa yang ingin meningkat?
 
-Apa yang ingin meningkat?
+**Current level** Apa yang sudah bisa?
 
-**Current level**
+**Stretch** Apa tugas satu tingkat lebih sulit?
 
-Apa yang sudah bisa?
+**Guardrails** Apa yang tidak boleh dilanggar?
 
-**Stretch**
+**Support** Bantuan apa yang saya berikan?
 
-Apa tugas satu tingkat lebih sulit?
+**Feedback** Kapan kita review?
 
-**Guardrails**
+**Autonomy** Apa yang akan dia putuskan sendiri?
 
-Apa yang tidak boleh dilanggar?
-
-**Support**
-
-Bantuan apa yang saya berikan?
-
-**Feedback**
-
-Kapan kita review?
-
-**Autonomy**
-
-Apa yang akan dia putuskan sendiri?
-
-**Next level**
-
-Apa tanda capability meningkat?
-
-Ini membuat:
+**Next level** Apa tanda capability meningkat? Ini membuat:
 
 > development menjadi observable.
 
