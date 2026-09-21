@@ -1,7 +1,23 @@
-# 01 — Siapa yang Sebenarnya Mengendalikan Respons Saya?
+# Memimpin Diri Dimulai dari Cara Merespons
+
+> **Leader capability:** Kemampuan yang dilatih bukan sekadar menahan reaksi. Leader perlu mengenali ruang pengaruhnya, memahami apa yang sedang terjadi, lalu memilih tindakan yang paling sesuai dengan tujuan, konteks, risiko, dan kewenangan.
 
 > **Canonical concept:** SELF.RESPONSE  
-> **Capability:** membedakan apa yang terjadi dari bagaimana diri merespons, lalu menjalankan respons yang dipilih secara sadar dan proporsional.  
+## Mengapa Ini Penting bagi Leader
+
+Kemampuan yang dilatih bukan sekadar menahan reaksi. Leader perlu mengenali ruang pengaruhnya, memahami apa yang sedang terjadi, lalu memilih tindakan yang paling sesuai dengan tujuan, konteks, risiko, dan kewenangan.
+
+::: success Green Note
+**Leader lens:** Respons adalah salah satu capability leadership. Ia penting karena kualitas keputusan sering terlihat ketika tekanan datang, tetapi ia bukan keseluruhan kepemimpinan.
+:::
+
+::: info Konteks
+**Canonical concept:** `SELF.RESPONSE`. Dalam arsitektur buku, konsep ini adalah bagian dari leader mindset, bukan tujuan akhir buku.
+:::
+
+## Kapabilitas yang Sedang Dilatih
+
+**Capability:** membedakan apa yang terjadi dari bagaimana diri merespons, lalu menjalankan respons yang dipilih secara sadar dan proporsional.  
 > **Status:** Draft v0.1
 
 ## 1. Ketika sesuatu terjadi, siapa yang sebenarnya sedang mengendalikan saya?
@@ -405,6 +421,16 @@ Dari sini kita masuk ke pertanyaan yang lebih sulit:
 **Ketika kita tahu harus merespons dengan baik, mengapa ego dan emosi sering membuat kita melakukan sebaliknya?**
 
 Itulah wilayah bab berikutnya.
+
+## Red Flags
+
+::: warning Risiko
+Jangan mengubah capability ini menjadi aturan absolut. Leadership selalu membutuhkan penyesuaian terhadap konteks, stakes, authority, evidence, dan dampak terhadap pihak lain.
+:::
+
+::: success Green Note
+**Carry forward:** capability ini harus membantu pembaca melihat situasi lebih jernih, memilih dengan lebih baik, bertindak dengan ownership, lalu belajar dari konsekuensinya.
+:::
 
 ## Evidence notes
 
