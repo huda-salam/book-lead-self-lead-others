@@ -379,15 +379,25 @@ Pertanyaan:
 
 Jika seluruh bab ini diringkas menjadi satu mekanisme:
 
-**Saya memiliki model tentang dunia.** ↓
+**Saya memiliki model tentang dunia.**
 
-**Saya menerima informasi baru.** ↓
+↓
 
-**Informasi itu mungkin bertentangan dengan model saya.** ↓
+**Saya menerima informasi baru.**
 
-**Saya menahan dorongan untuk langsung mempertahankan model.** ↓
+↓
 
-**Saya memeriksa evidence.** ↓
+**Informasi itu mungkin bertentangan dengan model saya.**
+
+↓
+
+**Saya menahan dorongan untuk langsung mempertahankan model.**
+
+↓
+
+**Saya memeriksa evidence.**
+
+↓
 
 **Saya mempertahankan, memperbaiki, atau mengganti bagian model yang perlu diperbarui.** Itulah humility yang ingin dilatih buku ini. Bukan:
 
