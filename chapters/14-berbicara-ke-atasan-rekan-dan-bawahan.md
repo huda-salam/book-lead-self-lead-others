@@ -20,7 +20,7 @@ Bab ini bukan panduan menjilat atasan, memerintah bawahan, atau memenangkan poli
 
 ## Yang Sedang Kita Latih
 
-Leader sedang melatih kemampuan membaca:
+Pemimpin sedang melatih kemampuan membaca:
 
 - siapa penerima pesan;
 - apa tujuan komunikasi;
@@ -95,7 +95,7 @@ Ada kecenderungan komunikasi ke atas berubah menjadi pertunjukan:
 - membesar-besarkan keberhasilan;
 - atau menyusun informasi agar keputusan tertentu terlihat seolah-olah satu-satunya pilihan.
 
-Ini berbahaya karena leader membutuhkan informasi untuk mengambil keputusan, bukan presentasi yang selalu membuatnya terlihat benar. Lebih sehat:
+Ini berbahaya karena pemimpin membutuhkan informasi untuk mengambil keputusan, bukan presentasi yang selalu membuatnya terlihat benar. Lebih sehat:
 
 **Fakta → Interpretasi sementara → Risiko → Opsi → Keputusan yang dibutuhkan.**
 
@@ -117,7 +117,7 @@ Bahasa kolaboratif bukan berarti selalu lunak.
 
 ## 6. Berbicara kepada bawahan: jelas tanpa merendahkan
 
-Ketika memiliki kewenangan, leader dapat jatuh pada kesalahan lain: terlalu banyak menjelaskan seolah-olah bawahan harus memahami semuanya sebelum bertindak. Untuk instruksi sederhana, gunakan struktur:
+Ketika memiliki kewenangan, pemimpin dapat jatuh pada kesalahan lain: terlalu banyak menjelaskan seolah-olah bawahan harus memahami semuanya sebelum bertindak. Untuk instruksi sederhana, gunakan struktur:
 
 **Apa → Mengapa → Kapan → Standar → Ruang bertanya** Contoh:
 
@@ -125,9 +125,9 @@ Ketika memiliki kewenangan, leader dapat jatuh pada kesalahan lain: terlalu bany
 
 Instruksi menjadi lebih jelas tanpa perlu meninggikan suara.
 
-## 7. Bawahan tidak membutuhkan leader yang selalu benar
+## 7. Bawahan tidak membutuhkan pemimpin yang selalu benar
 
-Supervisor-subordinate communication dapat menciptakan kondisi di mana bawahan enggan berbeda pendapat atau memilih diam. ([lihat Evidence notes](#evidence-notes)) Karena itu sesekali leader perlu secara eksplisit membuka ruang koreksi:
+Supervisor-subordinate communication dapat menciptakan kondisi di mana bawahan enggan berbeda pendapat atau memilih diam. ([lihat Evidence notes](#evidence-notes)) Karena itu sesekali pemimpin perlu secara eksplisit membuka ruang koreksi:
 
 > “Saya ingin Anda cek asumsi saya. Kalau ada data yang menunjukkan saya keliru, sampaikan.”
 
@@ -243,7 +243,7 @@ Tidak semua masalah selesai dengan memilih kata yang lebih baik. Jika masalahnya
 - pelanggaran aturan;
 - keputusan memang harus dibuat oleh level tertentu;
 
-maka memperhalus bahasa tidak menyelesaikan masalah struktural. Leader perlu tahu kapan harus berpindah dari **komunikasi** ke **keputusan, eskalasi, negosiasi, perubahan proses, atau penegakan aturan**.
+maka memperhalus bahasa tidak menyelesaikan masalah struktural. Pemimpin perlu tahu kapan harus berpindah dari **komunikasi** ke **keputusan, eskalasi, negosiasi, perubahan proses, atau penegakan aturan**.
 
 ::: warning Risiko
 Jangan menggunakan “komunikasi yang baik” sebagai alasan untuk menghindari masalah kewenangan, kapasitas, aturan, atau keputusan.
@@ -254,7 +254,7 @@ Adaptasi terhadap audiens tidak boleh berubah menjadi manipulasi: menyembunyikan
 :::
 
 ::: success Green Note
-**Carry forward:** Leader yang matang tidak berbicara kepada semua orang dengan cara yang sama. Ia juga tidak berbicara berbeda demi menyenangkan semua orang. Ia menyesuaikan cara agar pesan lebih tepat, sambil menjaga integritas isi dan tanggung jawab.
+**Carry forward:** Pemimpin yang matang tidak berbicara kepada semua orang dengan cara yang sama. Ia juga tidak berbicara berbeda demi menyenangkan semua orang. Ia menyesuaikan cara agar pesan lebih tepat, sambil menjaga integritas isi dan tanggung jawab.
 :::
 
 ## Evidence notes
@@ -262,6 +262,6 @@ Adaptasi terhadap audiens tidak boleh berubah menjadi manipulasi: menyembunyikan
 - Pfrombeck, Levin, Rucker & Galinsky (2022), *The Hierarchy of Voice Framework: The Dynamic Relationship Between Employee Voice and Social Hierarchy*.
 - Chamberlin, Newton & LePine (2017), *A Meta-Analysis of Voice and Its Promotive and Prohibitive Forms*.
 - Bisel, Messersmith & Kelley (2012), *Supervisor-Subordinate Communication: Hierarchical Mum Effect Meets Organizational Learning*.
-- Rong, Sui & Jiang (2022), *The effects of leader power and status on employees’ voice behavior*.
+- Rong, Sui & Jiang (2022), *The effects of pemimpin power and status on employees’ voice behavior*.
 - Kumar (2017), *Subordinate-Superior Upward Communication: Power, Politics, and Political Skill*.
 - Detert & Burris (2007), *Leadership Behavior and Employee Voice: Is the Door Really Open?*
