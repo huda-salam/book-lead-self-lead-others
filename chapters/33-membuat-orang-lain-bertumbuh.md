@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Ada leader yang sangat kompeten. Semua masalah:
+Ada pemimpin yang sangat kompeten. Semua masalah:
 
 > datang kepadanya.
 
@@ -26,7 +26,7 @@ Dalam jangka panjang:
 
 > organisasi menjadi tergantung.
 
-Leader tersebut menjadi:
+Pemimpin tersebut menjadi:
 
 > bottleneck.
 
@@ -39,7 +39,7 @@ Tetapi:
 > **“Apakah setelah bekerja bersama saya, orang lain menjadi lebih mampu?”**
 
 ::: success Green Note
-**Leadership yang matang tidak hanya menghasilkan output hari ini. Ia meningkatkan kapasitas organisasi untuk menghasilkan output besok tanpa selalu bergantung pada leader.**
+**Leadership yang matang tidak hanya menghasilkan output hari ini. Ia meningkatkan kapasitas organisasi untuk menghasilkan output besok tanpa selalu bergantung pada pemimpin.**
 :::
 
 ::: info Konteks
@@ -48,7 +48,7 @@ Chapter 32 membahas influence. Chapter 33 bergerak dari “membuat orang bergera
 
 ## Yang Sedang Kita Latih
 
-Leader sedang melatih kemampuan untuk:
+Pemimpin sedang melatih kemampuan untuk:
 
 - membaca level capability;
 - memberi challenge yang sesuai;
@@ -98,7 +98,7 @@ Seorang staf datang:
 
 > “Pak, bagaimana sebaiknya?”
 
-Leader langsung:
+Pemimpin langsung:
 
 > “Begini.”
 
@@ -118,7 +118,7 @@ Kemudian:
 
 > “Kalau Anda yang memutuskan, apa yang Anda pilih?”
 
-Baru setelah itu leader dapat menambahkan:
+Baru setelah itu pemimpin dapat menambahkan:
 
 > perspektif yang belum terlihat.
 
@@ -132,7 +132,7 @@ Tujuannya:
 
 ## 3. Tetapi jangan selalu bertanya
 
-Ini juga penting. Ada leader yang belajar coaching lalu semua dijawab:
+Ini juga penting. Ada pemimpin yang belajar coaching lalu semua dijawab:
 
 > “Menurut kamu bagaimana?”
 
@@ -148,7 +148,7 @@ Coaching bukan:
 
 > menolak memberi jawaban.
 
-Leader perlu membaca:
+Pemimpin perlu membaca:
 
 > capability + urgency + stakes.
 
@@ -200,7 +200,7 @@ Orang berpengalaman:
 
 > mungkin membutuhkan problem yang lebih kompleks.
 
-Kesalahan leader:
+Kesalahan pemimpin:
 
 > memberi challenge yang sama kepada semua orang.
 
@@ -254,7 +254,7 @@ Kadang benar. Tetapi tidak selalu. Jika kesalahan dapat menyebabkan:
 
 > pelanggaran hukum,
 
-maka leader perlu:
+maka pemimpin perlu:
 
 > supervision lebih ketat.
 
@@ -302,7 +302,7 @@ orang belajar:
 
 > menyembunyikan kesalahan.
 
-Leader perlu membuat ruang di mana seseorang dapat berkata:
+Pemimpin perlu membuat ruang di mana seseorang dapat berkata:
 
 > “Saya belum tahu.”
 
@@ -352,13 +352,13 @@ Seorang bawahan sedang mengerjakan sesuatu. Hasilnya:
 
 > belum sempurna.
 
-Leader berpikir:
+Pemimpin berpikir:
 
 > “Biar saya saja.”
 
 Jika sering terjadi:
 
-> orang belajar bahwa kualitas hanya tercapai jika leader mengambil alih.
+> orang belajar bahwa kualitas hanya tercapai jika pemimpin mengambil alih.
 
 Lebih baik:
 
@@ -376,7 +376,7 @@ Tentu jika:
 
 > atau kesalahan sudah melewati threshold,
 
-leader mungkin memang perlu mengambil alih. Development bukan:
+pemimpin mungkin memang perlu mengambil alih. Development bukan:
 
 > dogma anti-intervensi.
 
@@ -384,7 +384,7 @@ leader mungkin memang perlu mengambil alih. Development bukan:
 
 Pada awal:
 
-> leader banyak membantu.
+> pemimpin banyak membantu.
 
 Kemudian:
 
@@ -396,7 +396,7 @@ Kemudian:
 
 Akhirnya:
 
-> orang dapat mengelola area tersebut tanpa leader.
+> orang dapat mengelola area tersebut tanpa pemimpin.
 
 Itulah:
 
@@ -422,7 +422,7 @@ Judgment:
 
 > “Saya tahu kapan prosedur itu berlaku, kapan tidak, dan kapan harus bertanya.”
 
-Leader membutuhkan keduanya. Karena dunia nyata:
+Pemimpin membutuhkan keduanya. Karena dunia nyata:
 
 > tidak selalu cocok dengan SOP sempurna.
 
@@ -437,7 +437,7 @@ Development yang matang melatih:
 
 ## 14. Beri ruang untuk mengatakan “tidak tahu”
 
-Jika leader hanya menghargai:
+Jika pemimpin hanya menghargai:
 
 > jawaban cepat,
 
@@ -531,7 +531,7 @@ Buat progression:
 
 **Level 4** Staf menangani disagreement.
 
-**Level 5** Staf membuat decision summary dan follow-up. Leader berpindah dari:
+**Level 5** Staf membuat decision summary dan follow-up. Pemimpin berpindah dari:
 
 > direct
 
@@ -549,7 +549,7 @@ Seseorang selalu bertanya:
 
 > “Saya harus bagaimana?”
 
-Leader dapat mengubah pola. Daripada menjawab:
+Pemimpin dapat mengubah pola. Daripada menjawab:
 
 > “Lakukan A.”
 
@@ -593,7 +593,7 @@ Orang mungkin berkata:
 
 > “Saya belum yakin.”
 
-Respons leader bukan selalu:
+Respons pemimpin bukan selalu:
 
 > “Tidak apa-apa, biar saya.”
 
@@ -623,7 +623,7 @@ Recognition membantu orang melihat:
 
 Tetapi jangan menggunakan pujian kosong sebagai pengganti feedback.
 
-## 21. Jangan mengembangkan orang hanya untuk kepentingan leader
+## 21. Jangan mengembangkan orang hanya untuk kepentingan pemimpin
 
 Tujuan development bukan:
 
@@ -666,7 +666,7 @@ Untuk satu anggota tim, tulis:
 > development menjadi observable.
 
 ::: important Prinsip
-**Jika semua masalah harus kembali kepada leader, organisasi sedang membangun ketergantungan—bukan kapasitas.**
+**Jika semua masalah harus kembali kepada pemimpin, organisasi sedang membangun ketergantungan—bukan kapasitas.**
 :::
 
 ::: warning Risiko
@@ -674,7 +674,7 @@ Jangan menyebut semua kesalahan sebagai “kesempatan belajar”. Pada pekerjaan
 :::
 
 ::: danger Batas
-Development tidak boleh menjadi alasan untuk menahan seseorang dalam pekerjaan tanpa dukungan, memberi beban di luar kapasitas secara terus-menerus, atau menghindari tanggung jawab leader untuk menyediakan resource dan keputusan yang diperlukan.
+Development tidak boleh menjadi alasan untuk menahan seseorang dalam pekerjaan tanpa dukungan, memberi beban di luar kapasitas secara terus-menerus, atau menghindari tanggung jawab pemimpin untuk menyediakan resource dan keputusan yang diperlukan.
 :::
 
 ::: success Green Note
