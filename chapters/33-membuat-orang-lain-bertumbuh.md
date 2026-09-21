@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Ada pemimpin yang sangat kompeten. Semua masalah:
+Ada pemimpin yang memang sangat mampu. Akibatnya, hampir semua masalah akhirnya:
 
 > datang kepadanya.
 
@@ -18,11 +18,11 @@ Semua pekerjaan sulit:
 
 > ia ambil alih.
 
-Dalam jangka pendek:
+Untuk sementara:
 
 > organisasi mungkin terlihat aman.
 
-Dalam jangka panjang:
+Tetapi kalau berlangsung lama:
 
 > organisasi menjadi tergantung.
 
@@ -30,7 +30,7 @@ Pemimpin tersebut menjadi:
 
 > bottleneck.
 
-Maka salah satu pertanyaan leadership yang lebih penting bukan:
+Karena itu ada pertanyaan yang lebih penting daripada:
 
 > “Seberapa hebat saya menyelesaikan masalah?”
 
@@ -39,7 +39,7 @@ Tetapi:
 > **“Apakah setelah bekerja bersama saya, orang lain menjadi lebih mampu?”**
 
 ::: success Green Note
-**Leadership yang matang tidak hanya menghasilkan output hari ini. Ia meningkatkan kapasitas organisasi untuk menghasilkan output besok tanpa selalu bergantung pada pemimpin.**
+**Leadership yang matang tidak hanya menghasilkan output hari ini. Ia juga membangun kemampuan agar organisasi tidak harus selalu bergantung pada dirinya.**
 :::
 
 ::: info Konteks
@@ -48,7 +48,7 @@ Chapter 32 membahas influence. Chapter 33 bergerak dari “membuat orang bergera
 
 ## Yang Sedang Kita Latih
 
-Pemimpin sedang melatih kemampuan untuk:
+Yang kita perlukan saat itu adalah:
 
 - membaca level capability;
 - memberi challenge yang sesuai;
@@ -59,13 +59,13 @@ Pemimpin sedang melatih kemampuan untuk:
 - meningkatkan autonomy;
 - dan mengurangi dependency.
 
-## 1. Development bukan training saja
+## 1. Bertumbuh bukan hanya soal training
 
-Training dapat berguna. Tetapi seseorang tidak otomatis menjadi lebih mampu hanya karena:
+Training tentu berguna. Tetapi seseorang tidak otomatis menjadi lebih mampu hanya karena:
 
 > mengikuti pelatihan.
 
-Capability tumbuh ketika orang:
+Tetapi kemampuan biasanya tumbuh ketika orang:
 
 > mencoba,
 
@@ -81,7 +81,7 @@ dan akhirnya:
 
 > mampu mengambil keputusan sendiri.
 
-Karena itu development dapat terjadi melalui:
+Karena itu, perkembangan bisa datang dari:
 
 - pekerjaan nyata;
 - proyek;
@@ -102,7 +102,7 @@ Pemimpin langsung:
 
 > “Begini.”
 
-Cepat. Tetapi jika dilakukan terus:
+Cepat dan terasa efisien. Tetapi kalau terus dilakukan:
 
 > staf belajar menunggu jawaban.
 
@@ -122,9 +122,7 @@ Baru setelah itu pemimpin dapat menambahkan:
 
 > perspektif yang belum terlihat.
 
-Tujuannya bukan:
-
-> membuat orang kesulitan.
+Tujuannya bukan sengaja membuat orang kesulitan.
 
 Tujuannya:
 
@@ -144,9 +142,7 @@ Atau:
 
 > orang memang belum memiliki informasi yang dibutuhkan.
 
-Coaching bukan:
-
-> menolak memberi jawaban.
+Coaching juga bukan alasan untuk selalu menolak memberi jawaban.
 
 Pemimpin perlu membaca:
 
@@ -184,11 +180,9 @@ Bayangkan dua sumbu:
 
 > dapat menjadi lingkungan belajar yang kuat jika sesuai capability dan stakes.
 
-Tetapi ini:
+Tetapi ini tetap bukan formula universal.
 
-> bukan formula universal.
-
-Kebutuhan orang berbeda. Tugas berbeda. Risiko berbeda.
+Kebutuhan orang, tugas, dan risikonya berbeda-beda.
 
 ## 5. Match challenge dengan capability
 
@@ -236,13 +230,11 @@ Contoh:
 
 > “Anda boleh memilih metode. Tetapi anggaran maksimal X, compliance Y wajib dipenuhi, dan jika risiko Z muncul, eskalasi.”
 
-Sekarang:
+Dengan begitu kita mendapatkan **autonomy + safety**.
 
-> autonomy + safety.
+## 7. Jangan membuat orang belajar dengan biaya kesalahan yang tidak perlu
 
-## 7. Jangan membuat orang belajar dengan cara yang terlalu mahal
-
-Ada filosofi:
+Ada nasihat yang terdengar sederhana:
 
 > “Biar dia salah sendiri.”
 
@@ -258,13 +250,11 @@ maka pemimpin perlu:
 
 > supervision lebih ketat.
 
-Development harus mempertimbangkan:
-
-> **cost of failure.**
+Pengembangan perlu mempertimbangkan **cost of failure**.
 
 ## 8. Feedback adalah bahan bakar development
 
-Feedback yang baik menjawab:
+Feedback yang baik membantu menjawab:
 
 > apa yang terjadi?
 
@@ -274,13 +264,7 @@ Feedback yang baik menjawab:
 
 > apa yang perlu diubah?
 
-Jangan hanya:
-
-> “Bagus.”
-
-atau:
-
-> “Kurang bagus.”
+“Bagus” atau “kurang bagus” saja biasanya belum cukup.
 
 Contoh:
 
@@ -320,7 +304,7 @@ Jika kesalahan berulang karena:
 
 maka conversation perlu berubah.
 
-## 10. Delegasi berbeda dari development
+## 10. Delegasi tidak sama dengan development
 
 Delegasi:
 
@@ -334,7 +318,7 @@ Keduanya dapat berjalan bersama. Contoh:
 
 > Anda memberi seseorang tanggung jawab membuat laporan.
 
-Itu delegasi. Kemudian Anda:
+Itu delegasi. Belum tentu development. Kemudian Anda:
 
 > memberi guardrail,
 
@@ -344,7 +328,7 @@ Itu delegasi. Kemudian Anda:
 
 > dan secara bertahap mengurangi bantuan.
 
-Itu development. Chapter 36 akan membahas delegation lebih detail.
+Development baru mulai terlihat ketika orangnya mendapat kesempatan belajar, feedback, dan tanggung jawab yang meningkat. Chapter 36 akan membahas delegation lebih detail.
 
 ## 11. Jangan mengambil alih terlalu cepat
 
@@ -356,11 +340,11 @@ Pemimpin berpikir:
 
 > “Biar saya saja.”
 
-Jika sering terjadi:
+Kalau ini terlalu sering terjadi:
 
 > orang belajar bahwa kualitas hanya tercapai jika pemimpin mengambil alih.
 
-Lebih baik:
+Coba tahan sedikit:
 
 > “Bagian mana yang menurut Anda masih lemah?”
 
@@ -368,7 +352,7 @@ Lebih baik:
 
 > “Kapan Anda kembali dengan versi berikutnya?”
 
-Tentu jika:
+Tetapi kalau:
 
 > deadline kritis,
 
@@ -376,9 +360,7 @@ Tentu jika:
 
 > atau kesalahan sudah melewati threshold,
 
-pemimpin mungkin memang perlu mengambil alih. Development bukan:
-
-> dogma anti-intervensi.
+pemimpin mungkin memang perlu mengambil alih. Development bukan dogma untuk tidak pernah ikut campur.
 
 ## 12. Ownership harus berpindah
 
@@ -394,7 +376,7 @@ Kemudian:
 
 > orang mulai mengantisipasi masalah.
 
-Akhirnya:
+Kalau setiap hari terasa seperti itu:
 
 > orang dapat mengelola area tersebut tanpa pemimpin.
 
@@ -402,17 +384,13 @@ Itulah:
 
 > development.
 
-Jika setelah satu tahun:
+Kalau setelah berbulan-bulan:
 
 > semua tetap harus bertanya kepada Anda,
 
-mungkin Anda sedang:
+mungkin tanpa sadar kita justru sedang membangun ketergantungan, bukan kemampuan.
 
-> menciptakan dependency,
-
-bukan mengembangkan orang.
-
-## 13. Develop judgment, bukan hanya skill
+## 13. Kembangkan judgment, bukan hanya skill
 
 Skill:
 
@@ -437,7 +415,7 @@ Development yang matang melatih:
 
 ## 14. Beri ruang untuk mengatakan “tidak tahu”
 
-Jika pemimpin hanya menghargai:
+Kalau yang dihargai pemimpin hanya:
 
 > jawaban cepat,
 
@@ -457,19 +435,17 @@ Ini juga membangun:
 
 > epistemic discipline.
 
-## 15. Development membutuhkan expectation yang jelas
+## 15. Perkembangan membutuhkan ekspektasi yang jelas
 
 Jangan berkata:
 
 > “Kamu harus lebih proaktif.”
 
-Terlalu abstrak. Definisikan:
+Terlalu abstrak untuk dilatih. Definisikan:
 
 > “Untuk rapat berikutnya, saya ingin Anda datang dengan minimal dua opsi dan satu rekomendasi.”
 
-Sekarang:
-
-> behavior dapat diamati.
+Sekarang perilakunya bisa diamati dan dibahas.
 
 Setelah itu:
 
@@ -479,7 +455,7 @@ Apakah behavior meningkat? Apa yang masih sulit?
 
 ## 16. Framework: Development Loop
 
-Framework berikut adalah **sintesis kerja buku**, bukan taxonomy development tervalidasi:
+Framework berikut adalah **sintesis kerja buku**, bukan taxonomy development yang tervalidasi:
 
 **Diagnose → Set Challenge → Clarify Guardrails → Practice → Feedback → Reflect → Increase Autonomy → Review**
 
@@ -523,15 +499,15 @@ Jangan langsung:
 
 Buat progression:
 
-**Level 1** Staf mengamati.
+**Tahap 1** Staf mengamati.
 
-**Level 2** Staf membuka rapat.
+**Tahap 2** Staf membuka rapat.
 
-**Level 3** Staf memimpin agenda.
+**Tahap 3** Staf memimpin agenda.
 
-**Level 4** Staf menangani disagreement.
+**Tahap 4** Staf menangani disagreement.
 
-**Level 5** Staf membuat decision summary dan follow-up. Pemimpin berpindah dari:
+**Tahap 5** Staf membuat decision summary dan follow-up. Pemimpin berpindah dari:
 
 > direct
 
@@ -573,21 +549,17 @@ Kemudian:
 
 > “Mengapa?”
 
-Lama-kelamaan:
-
-> pertanyaan berubah dari “apa yang harus saya lakukan?”
+Lama-lama pertanyaannya berubah dari “apa yang harus saya lakukan?”
 
 menjadi:
 
 > “Saya memilih A karena X. Apakah Anda melihat risiko yang belum saya lihat?”
 
-Itulah perubahan capability.
+Di situlah perubahan kemampuan mulai terlihat.
 
 ## 19. Development bukan berarti selalu nyaman
 
-Pertumbuhan sering membutuhkan:
-
-> stretch.
+Pertumbuhan sering membutuhkan sedikit dorongan keluar dari zona nyaman.
 
 Orang mungkin berkata:
 
@@ -601,7 +573,7 @@ Bisa:
 
 > “Saya paham. Kita lakukan bersama sekali. Setelah itu Anda yang memimpin.”
 
-Support tetap ada. Challenge juga ada.
+Dukungan tetap ada, tetapi tantangannya ikut naik.
 
 ## 20. Beri credit untuk growth
 
@@ -617,9 +589,7 @@ Lebih spesifik:
 
 > “Dulu Anda selalu menunggu arahan. Sekarang Anda datang dengan dua opsi dan rekomendasi. Itu perubahan penting.”
 
-Recognition membantu orang melihat:
-
-> capability yang sudah tumbuh.
+Pengakuan yang spesifik membantu orang melihat kemampuan yang sudah berkembang.
 
 Tetapi jangan menggunakan pujian kosong sebagai pengganti feedback.
 
