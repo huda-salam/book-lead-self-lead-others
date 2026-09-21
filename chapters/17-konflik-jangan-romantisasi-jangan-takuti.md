@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Ada dua mitos yang sama-sama berbahaya. Mitos pertama:
+Ada dua anggapan yang sering kita dengar, dan keduanya terlalu sederhana. Mitos pertama:
 
 > “Konflik itu buruk. Pemimpin harus membuat semua orang akur.”
 
@@ -14,9 +14,9 @@ Mitos kedua:
 
 > “Konflik itu sehat. Kalau tim tidak berdebat berarti tidak ada inovasi.”
 
-Keduanya terlalu sederhana. Literatur organisasi membedakan beberapa bentuk konflik dan menunjukkan bahwa hubungan konflik dengan hasil kerja bergantung pada jenis dan konteksnya. Task conflict, relationship conflict, dan process conflict tidak boleh diperlakukan sebagai satu fenomena. ([lihat Evidence notes](#evidence-notes))
+Keduanya bisa menyesatkan kalau dipakai sebagai aturan umum. Literatur organisasi membedakan beberapa bentuk konflik dan menunjukkan bahwa hubungan konflik dengan hasil kerja bergantung pada jenis dan konteksnya. Task conflict, relationship conflict, dan process conflict tidak boleh diperlakukan sebagai satu fenomena. ([lihat Evidence notes](#evidence-notes))
 
-Pemimpin tidak membutuhkan organisasi tanpa konflik. Pemimpin membutuhkan kemampuan untuk mengetahui:
+Pemimpin tidak perlu mengejar organisasi yang sama sekali bebas konflik. Yang lebih penting adalah mampu mengenali:
 
 > **Konflik macam apa yang sedang terjadi, apa yang dipertaruhkan, dan apa yang harus dilakukan?**
 
@@ -30,7 +30,7 @@ Bab ini adalah bab membaca konflik. Teknik menurunkan eskalasi dibahas lebih khu
 
 ## Yang Sedang Kita Latih
 
-Pemimpin sedang melatih kemampuan untuk:
+Yang sedang dilatih adalah kemampuan untuk:
 
 - membedakan ketidaksetujuan dari konflik relasional;
 - melihat konflik sebagai sistem, bukan hanya pertengkaran;
@@ -38,7 +38,7 @@ Pemimpin sedang melatih kemampuan untuk:
 - memisahkan fakta dari tuduhan motif;
 - dan memilih respons berdasarkan risiko, bukan berdasarkan siapa yang paling keras.
 
-## 1. Konflik bukan sekadar dua orang yang bertengkar
+## 1. Konflik tidak selalu berbentuk pertengkaran
 
 Bayangkan dua unit saling menyalahkan karena pekerjaan terlambat. Unit A:
 
@@ -48,7 +48,7 @@ Unit B:
 
 > “Unit A selalu mengubah permintaan mendadak.”
 
-Jika pemimpin hanya melihat siapa yang lebih emosional, ia kehilangan masalah sebenarnya. Mungkin ada:
+Kalau pemimpin hanya memperhatikan siapa yang paling keras, persoalan sebenarnya bisa terlewat. Mungkin ada:
 
 - target yang bertentangan;
 - proses approval yang terlalu panjang;
@@ -61,7 +61,7 @@ Konflik interpersonal kadang merupakan gejala konflik sistem.
 
 ## 2. Bedakan apa yang berbeda
 
-Salah satu cara paling berguna adalah bertanya:
+Salah satu pertanyaan yang paling membantu adalah:
 
 > **“Sebenarnya apa yang tidak disepakati?”**
 
@@ -130,7 +130,7 @@ Tetapi:
 
 > “Saya tidak setuju unit saya yang harus menanggung tambahan dua orang.”
 
-Tidak ada masalah fakta. Masalahnya distribusi biaya dan manfaat. Menyuruh kedua pihak “komunikasi yang lebih baik” tidak otomatis menyelesaikannya.
+Faktanya bisa sama-sama diterima. Yang berbeda adalah siapa menanggung biaya dan siapa menikmati manfaat. Menyuruh kedua pihak “komunikasi yang lebih baik” tidak otomatis menyelesaikannya.
 
 ## 4. Task conflict tidak otomatis produktif
 
@@ -140,14 +140,14 @@ Ada anggapan:
 
 Tidak selalu. Meta-analysis dan penelitian konflik menunjukkan bahwa hasil task conflict sangat bergantung konteks dan cara konflik diekspresikan. Relationship conflict cenderung lebih konsisten berhubungan dengan hasil negatif, tetapi task conflict juga tidak dapat dianggap otomatis menguntungkan. ([lihat Evidence notes](#evidence-notes))
 
-Perbedaan pendapat menjadi berguna jika membantu:
+Perbedaan pendapat bisa berguna kalau ia membantu kita:
 
 - menemukan informasi yang hilang;
 - menguji asumsi;
 - menemukan risiko;
 - atau memperbaiki keputusan.
 
-Tetapi jika berubah menjadi:
+Tetapi begitu berubah menjadi:
 
 > “Saya harus membuktikan Anda salah,”
 
@@ -171,7 +171,7 @@ Tetapi:
 
 > “Siapa yang dianggap layak?”
 
-Relationship conflict dapat membuat percakapan menjadi jauh lebih sulit karena hampir setiap pernyataan dapat dibaca sebagai serangan personal. Karena itu jangan buru-buru memberi label:
+Konflik relasional biasanya membuat percakapan jauh lebih sulit karena hampir setiap pernyataan dapat dibaca sebagai serangan personal. Karena itu jangan buru-buru memberi label:
 
 > “Mereka memang tidak cocok.”
 
@@ -190,7 +190,7 @@ Mungkin sebenarnya:
 - prioritas berubah setiap hari;
 - atau orang tersebut tidak memiliki akses yang dibutuhkan.
 
-Jika sistem membuat pekerjaan sulit, menyebut orangnya lambat tidak menyelesaikan masalah. Sebaliknya, jangan pula menggunakan “masalah sistem” untuk menghapus accountability ketika proses sebenarnya sudah jelas. Pertanyaan:
+Kalau sistem memang membuat pekerjaan sulit, menyebut orangnya lambat tidak akan memperbaiki keadaan. Sebaliknya, jangan pula menggunakan “masalah sistem” untuk menghapus accountability ketika proses sebenarnya sudah jelas. Pertanyaan:
 
 > “Bagian mana berasal dari sistem, dan bagian mana berasal dari pilihan atau eksekusi individu?”
 
@@ -204,7 +204,7 @@ Dalam konflik, kita mudah berkata:
 
 > “Mereka memang tidak suka kita.”
 
-Mungkin benar. Tetapi mungkin juga tidak. Kembali ke Chapter 8:
+Mungkin benar. Tetapi mungkin juga tidak. Kembali ke disiplin Chapter 8:
 
 **Observe → Hypothesize → Ask → Test → Update.** Pemimpin tidak harus naif. Ia hanya perlu membedakan:
 
@@ -268,7 +268,7 @@ Mungkin perlu data. Mungkin perlu mediator. Mungkin perlu keputusan. Mungkin per
 
 ## 11. Konflik dan kekuasaan
 
-Power membuat konflik tidak selalu simetris. Orang dengan kewenangan lebih besar dapat mengakhiri konflik dengan satu instruksi. Tetapi itu tidak selalu berarti masalah selesai. Kadang instruksi hanya menghentikan perdebatan sementara, sementara masalah substantif tetap ada.
+Kekuasaan membuat konflik jarang benar-benar simetris. Orang dengan kewenangan lebih besar dapat mengakhiri konflik dengan satu instruksi. Tetapi itu tidak selalu berarti masalah selesai. Kadang instruksi hanya menghentikan perdebatan sementara, sementara masalah substantif tetap ada.
 
 Sebaliknya, orang dengan kewenangan lebih rendah mungkin tidak dapat memaksa keputusan tetapi memiliki informasi penting. Karena itu pemimpin perlu bertanya:
 
@@ -291,7 +291,7 @@ Ada konflik yang dapat dinegosiasikan. Ada juga yang memiliki batas nyata. Conto
 - fraud;
 - atau keputusan kewenangan.
 
-Dalam kasus seperti ini, “cari titik tengah” dapat menjadi saran yang buruk. Tidak semua hal memiliki kompromi yang aman. Pemimpin perlu dapat berkata:
+Dalam keadaan seperti ini, “cari titik tengah” justru bisa menjadi saran yang buruk. Tidak semua hal memiliki kompromi yang aman. Pemimpin perlu dapat berkata:
 
 > “Bagian ini bukan ruang kompromi. Yang dapat kita diskusikan adalah bagaimana memenuhi standar tersebut.”
 
@@ -306,7 +306,7 @@ Konflik kadang menunjukkan:
 - distribusi risiko yang tidak adil;
 - atau keputusan yang belum jelas.
 
-Karena itu pertanyaan pertama pemimpin tidak harus:
+Maka pertanyaan pertama pemimpin tidak harus:
 
 > “Bagaimana menghentikan konflik?”
 
@@ -314,11 +314,11 @@ Bisa:
 
 > **“Apa yang sedang diberitahukan konflik ini kepada kita?”**
 
-Tetapi jangan romantisasi konflik sampai menganggap konflik harus dipelihara agar organisasi belajar. Tujuannya adalah memperoleh informasi dengan biaya yang proporsional.
+Tetapi jangan romantisasi konflik sampai menganggap konflik harus dipelihara agar organisasi belajar. Yang dicari adalah informasi yang berguna dengan biaya konflik yang tetap masuk akal.
 
 ## 14. Framework kerja: membaca konflik sebelum merespons
 
-Framework ini adalah **sintesis kerja buku**, bukan taxonomy konflik tervalidasi.
+Framework ini adalah **sintesis kerja buku**, bukan taxonomy konflik yang tervalidasi.
 
 **What differs? → Why? → Stakes → Evidence → Negotiable? → Decision/Boundary? → Proportionate response**
 
@@ -370,7 +370,7 @@ Siapa dapat memutuskan?
 Apa yang belum diketahui?
 
 **Ruang gerak:**
-Apa yang bisa dinegosiasikan? Latihan ini mengubah konflik dari cerita personal menjadi objek analisis.
+Apa yang bisa dinegosiasikan? Latihan ini membantu menggeser konflik dari cerita personal menjadi masalah yang bisa diperiksa.
 
 ## 16. Ketika konflik memang membutuhkan tindakan
 
@@ -397,7 +397,7 @@ Jangan menggunakan konsep “konflik produktif” untuk membenarkan penghinaan, 
 :::
 
 ::: success Green Note
-**Carry forward:** Pemimpin tidak perlu takut pada perbedaan. Tetapi ia juga tidak perlu mencari konflik untuk terlihat berani. Baca apa yang berbeda, mengapa berbeda, apa yang dipertaruhkan, lalu pilih respons yang proporsional.
+**Carry forward:** Pemimpin tidak perlu takut pada perbedaan pendapat. Tetapi ia juga tidak perlu mencari konflik untuk terlihat berani. Baca apa yang berbeda, mengapa berbeda, apa yang dipertaruhkan, lalu pilih respons yang proporsional.
 :::
 
 ## Evidence notes
