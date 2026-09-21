@@ -10,7 +10,7 @@ Leader tidak hanya menyampaikan informasi. Cara sebuah pesan disusun ikut memben
 
 Namun jangan membuat klaim terlalu jauh: tidak ada satu formula kalimat yang otomatis menghasilkan respons tertentu. Efek komunikasi dipengaruhi konteks, hubungan, power, timing, medium, history, dan substansi.
 
-Literatur tentang leader communication menunjukkan bahwa komunikasi merupakan domain penting dalam perilaku kepemimpinan, sementara riset tentang bahasa dan power menunjukkan bahwa posisi hierarkis ikut membentuk bagaimana bahasa digunakan dalam interaksi. citeturn0search4turn0search17
+Literatur tentang leader communication menunjukkan bahwa komunikasi merupakan domain penting dalam perilaku kepemimpinan, sementara riset tentang bahasa dan power menunjukkan bahwa posisi hierarkis ikut membentuk bagaimana bahasa digunakan dalam interaksi. ([lihat Evidence notes](#evidence-notes))
 
 ::: success Green Note
 **Leader lens:** Tujuan bahasa bukan membuat semua orang nyaman. Tujuannya adalah membuat percakapan cukup aman untuk berpikir dan cukup tegas untuk menghasilkan kejelasan serta tindakan.
@@ -40,7 +40,7 @@ Kalimat pertama membawa percakapan ke wilayah identitas dan pola karakter. Kalim
 
 Ini bukan berarti kalimat kedua selalu efektif. Jika masalahnya memang pola kinerja yang berulang, leader tetap perlu membahas pola tersebut. Bedanya, pembahasan dapat dimulai dari bukti dan dampak, bukan label.
 
-Riset mengenai ekspresi konflik menempatkan directness dan oppositional intensity sebagai dimensi yang dapat memengaruhi dinamika eskalasi dan de-eskalasi. citeturn0search10
+Riset mengenai ekspresi konflik menempatkan directness dan oppositional intensity sebagai dimensi yang dapat memengaruhi dinamika eskalasi dan de-eskalasi. ([lihat Evidence notes](#evidence-notes))
 
 ## 2. Turunkan suhu, jangan turunkan standar
 
@@ -101,7 +101,7 @@ Bandingkan:
 
 Yang kedua masih dapat terasa tidak nyaman. Tetapi ia memberi orang ruang untuk menanggapi fakta dan memperbaiki perilaku.
 
-Ini penting karena defensiveness di tempat kerja bukan hanya persoalan individu. Review 2026 tentang defensiveness menggambarkan fenomena ini pada level psikologis, perilaku, sosial-kognitif, dan organisasi, termasuk ketika pemimpin menolak feedback atau tim mengalihkan accountability. citeturn0search11
+Ini penting karena defensiveness di tempat kerja bukan hanya persoalan individu. Review 2026 tentang defensiveness menggambarkan fenomena ini pada level psikologis, perilaku, sosial-kognitif, dan organisasi, termasuk ketika pemimpin menolak feedback atau tim mengalihkan accountability. ([lihat Evidence notes](#evidence-notes))
 
 Karena itu kita sebaiknya tidak menggunakan label “dia defensif” sebagai diagnosis. Periksa perilakunya:
 
@@ -204,7 +204,7 @@ Jika evidence memang kuat, kita dapat berbicara tegas. Jika evidence terbatas, b
 
 Kalimat yang sama dapat memiliki dampak berbeda ketika diucapkan oleh atasan dan bawahan.
 
-Riset Morand menunjukkan bahwa perilaku linguistik terkait politeness sensitif terhadap distribusi formal authority dalam organisasi. citeturn0search17turn0search3
+Riset Morand menunjukkan bahwa perilaku linguistik terkait politeness sensitif terhadap distribusi formal authority dalam organisasi. ([lihat Evidence notes](#evidence-notes))
 
 Karena itu leader perlu bertanya:
 
@@ -224,7 +224,7 @@ Psychological safety sering disalahpahami sebagai suasana di mana semua orang ha
 
 Lebih berguna melihatnya sebagai kondisi yang memungkinkan orang menyampaikan informasi, pertanyaan, kekhawatiran, atau kesalahan tanpa harus mengantisipasi penghinaan atau konsekuensi interpersonal yang tidak semestinya.
 
-Meta-analysis Frazier et al. mencakup 136 sampel independen, lebih dari 22.000 individu, dan hampir 5.000 kelompok, menunjukkan bahwa psychological safety merupakan konstruk yang relevan dalam kehidupan organisasi. citeturn0search15
+Meta-analysis Frazier et al. mencakup 136 sampel independen, lebih dari 22.000 individu, dan hampir 5.000 kelompok, menunjukkan bahwa psychological safety merupakan konstruk yang relevan dalam kehidupan organisasi. ([lihat Evidence notes](#evidence-notes))
 
 Tetapi psychological safety bukan:
 
@@ -255,7 +255,7 @@ Jika maksud sebenarnya adalah:
 
 maka terlalu banyak lapisan dapat membuat pesan kehilangan arah.
 
-Politeness dapat membantu mengelola hubungan, tetapi bukan alasan untuk menghilangkan kejelasan. Literatur tentang politeness dan konflik menunjukkan bahwa bentuk penyampaian perlu dibaca bersama tujuan, konteks, power, dan dinamika konflik. citeturn0search1turn0search9
+Politeness dapat membantu mengelola hubungan, tetapi bukan alasan untuk menghilangkan kejelasan. Literatur tentang politeness dan konflik menunjukkan bahwa bentuk penyampaian perlu dibaca bersama tujuan, konteks, power, dan dinamika konflik. ([lihat Evidence notes](#evidence-notes))
 
 Prinsip praktis:
 
