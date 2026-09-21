@@ -8,16 +8,16 @@
 Timing adalah bagian dari judgment. Pemimpin tidak hanya memilih apa yang dikatakan, tetapi juga kapan harus menjawab, bertanya, menunda, atau bertindak.
 
 ::: success Green Note
-**Pemimpin lens:** Pause bukan pasif. Pause adalah memberi cukup ruang untuk memastikan respons sesuai dengan stakes dan urgensi yang sebenarnya.
+**Lensa pemimpin:** Pause bukan pasif. Pause adalah memberi cukup ruang untuk memastikan respons sesuai dengan stakes dan urgensi yang sebenarnya.
 :::
 
 ::: info Konteks
-**Canonical concept:** `READ.PAUSE`. Dalam arsitektur buku, konsep ini adalah bagian dari pemimpin mindset, bukan tujuan akhir buku.
+**Canonical concept:** `READ.PAUSE`. Dalam arsitektur buku, konsep ini adalah bagian dari mindset kepemimpinan, bukan tujuan akhir buku.
 :::
 
 ## Yang Sedang Kita Latih
 
-**Capability:** mengatur jeda respons berdasarkan stakes, risiko, waktu, dan kebutuhan informasi sebelum berbicara atau bertindak.
+**Fokus latihan:** mengatur jeda respons berdasarkan stakes, risiko, waktu, dan kebutuhan informasi sebelum berbicara atau bertindak.
 > 
 
 ## 1. Respons cepat tidak selalu respons baik
