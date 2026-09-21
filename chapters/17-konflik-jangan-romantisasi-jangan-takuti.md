@@ -18,7 +18,7 @@ Mitos kedua:
 
 Keduanya terlalu sederhana.
 
-Literatur organisasi membedakan beberapa bentuk konflik dan menunjukkan bahwa hubungan konflik dengan hasil kerja bergantung pada jenis dan konteksnya. Task conflict, relationship conflict, dan process conflict tidak boleh diperlakukan sebagai satu fenomena. citeturn0search0turn0search2
+Literatur organisasi membedakan beberapa bentuk konflik dan menunjukkan bahwa hubungan konflik dengan hasil kerja bergantung pada jenis dan konteksnya. Task conflict, relationship conflict, dan process conflict tidak boleh diperlakukan sebagai satu fenomena. ([lihat Evidence notes](#evidence-notes))
 
 Leader tidak membutuhkan organisasi tanpa konflik.
 
@@ -156,7 +156,7 @@ Ada anggapan:
 
 Tidak selalu.
 
-Meta-analysis dan penelitian konflik menunjukkan bahwa hasil task conflict sangat bergantung konteks dan cara konflik diekspresikan. Relationship conflict cenderung lebih konsisten berhubungan dengan hasil negatif, tetapi task conflict juga tidak dapat dianggap otomatis menguntungkan. citeturn0search2turn0search4
+Meta-analysis dan penelitian konflik menunjukkan bahwa hasil task conflict sangat bergantung konteks dan cara konflik diekspresikan. Relationship conflict cenderung lebih konsisten berhubungan dengan hasil negatif, tetapi task conflict juga tidak dapat dianggap otomatis menguntungkan. ([lihat Evidence notes](#evidence-notes))
 
 Perbedaan pendapat menjadi berguna jika membantu:
 
