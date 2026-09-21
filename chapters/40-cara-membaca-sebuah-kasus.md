@@ -1,10 +1,10 @@
 # Cara Membaca Sebuah Kasus
 
-> **Reasoning capability:** Membaca sebuah kejadian sebagai bahan belajar tanpa terburu-buru menghakimi orang, menyederhanakan sebab, atau menyalin solusi yang bekerja di tempat lain.
+> **Yang dilatih:** Membaca sebuah kejadian sebagai bahan belajar tanpa terburu-buru menghakimi orang, menyederhanakan sebab, atau menyalin solusi yang bekerja di tempat lain.
 
 > **Canonical concept:** CASE.REASONING
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
 Kita sering belajar dari cerita:
 
@@ -44,7 +44,7 @@ Ia adalah:
 Chapter 40 adalah metode membaca kasus untuk Chapter 41–43. Framework ini mengintegrasikan kemampuan yang telah dibangun sejak Part I–VIII.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 - membaca timeline;
 - memisahkan fakta dan tafsir;
@@ -159,9 +159,7 @@ atau:
 
 > decision authority tidak jelas.
 
-Jangan menghapus interpretation.
-
-Tetapi:
+Jangan menghapus interpretation. Tetapi:
 
 > labeli sebagai interpretation.
 
@@ -255,9 +253,7 @@ Bukan:
 
 ## 8. Reconstruct information at the time
 
-Ini sangat penting.
-
-Misalnya sekarang kita tahu:
+Ini sangat penting. Misalnya sekarang kita tahu:
 
 > proyek gagal.
 
@@ -281,27 +277,17 @@ Ini adalah:
 
 Empat kemungkinan sederhana:
 
-**Good decision → good outcome**
+**Good decision → good outcome** Bagus.
 
-Bagus.
-
-**Good decision → bad outcome**
-
-Bisa terjadi karena:
+**Good decision → bad outcome** Bisa terjadi karena:
 
 > uncertainty.
 
-**Bad decision → good outcome**
-
-Bisa terjadi karena:
+**Bad decision → good outcome** Bisa terjadi karena:
 
 > keberuntungan.
 
-**Bad decision → bad outcome**
-
-Perlu diperiksa.
-
-Matriks ini:
+**Bad decision → bad outcome** Perlu diperiksa. Matriks ini:
 
 > bukan alat scoring.
 
@@ -344,9 +330,7 @@ Cerita:
 
 > “Karena leader terlalu keras, tim berhenti bicara.”
 
-Mungkin.
-
-Tetapi cari:
+Mungkin. Tetapi cari:
 
 > mechanism.
 
@@ -398,9 +382,7 @@ Mudah berkata:
 
 > “Leader toxic.”
 
-Terlalu cepat.
-
-Kita perlu tahu:
+Terlalu cepat. Kita perlu tahu:
 
 - apa yang dikatakan;
 - dalam konteks apa;
@@ -673,9 +655,7 @@ Gunakan format:
 
 ## 22. Latihan: Jangan buru-buru menjawab
 
-Ambil kasus pendek.
-
-Tulis tiga kolom:
+Ambil kasus pendek. Tulis tiga kolom:
 
 | Saya tahu | Saya menduga | Saya belum tahu |
 |---|---|---|
@@ -689,9 +669,7 @@ Baru:
 
 > buat recommendation.
 
-Urutan ini penting.
-
-Karena jika recommendation dibuat terlalu awal:
+Urutan ini penting. Karena jika recommendation dibuat terlalu awal:
 
 > analysis sering hanya menjadi pembenaran.
 
