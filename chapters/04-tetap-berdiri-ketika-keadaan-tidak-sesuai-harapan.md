@@ -1,15 +1,15 @@
 # Tetap Berdiri Ketika Keadaan Tidak Sesuai Harapan
 
-> **Yang dilatih:** Pemimpin membutuhkan ketahanan yang memungkinkan tujuan tetap dijaga sambil metode, prioritas, atau asumsi diperbarui ketika realitas berubah.
+> **Yang dilatih:** tetap bergerak ketika keadaan berubah, sambil tahu kapan harus bertahan, mengubah cara, atau melepaskan tujuan yang memang sudah tidak layak.
 
 > **Canonical concept:** SELF.RESILIENCE  
 > **Related canonical concepts:** SELF.DISCIPLINE, SELF.CONSISTENCY, SELF.PERSISTENCE, DECISION.GOAL_DISCIPLINE  
 
 ## 1. Masalahnya sering bukan mulai
 
-Ada orang yang sangat kuat ketika memulai. Target ditulis. Rencana dibuat. Semangat tinggi. Hari-hari pertama berjalan cepat. Lalu sesuatu terjadi. Pekerjaan mulai membosankan. Hasil tidak segera terlihat. Ada kritik. Metode pertama ternyata tidak bekerja.
+Banyak hal terasa mudah ketika baru dimulai. Target jelas, rencana masih segar, dan semangat biasanya tinggi. Lalu pekerjaan memasuki bagian yang kurang menyenangkan. Pekerjaan mulai membosankan. Hasil tidak segera terlihat. Ada kritik. Metode pertama ternyata tidak bekerja.
 
-Kesibukan lain muncul. Energi turun. Kemudian muncul pola:
+Kesibukan lain datang, energi turun, dan perlahan muncul pola yang mungkin kita kenal:
 
 **ngotot di awal → lemas di tengah → mulai menghindar → putus → mencari alasan setelahnya.** Pola ini mudah diberi label:
 
@@ -26,7 +26,7 @@ Tetapi label itu terlalu cepat. Bisa jadi masalahnya memang disiplin. Bisa juga:
 - goal memang sudah tidak valid;
 - atau kita sebenarnya sedang mempertahankan solusi yang gagal karena terlalu terikat pada usaha yang sudah dikeluarkan.
 
-Karena itu, resilience yang ingin dilatih buku ini bukan sekadar **bertahan lebih keras**. Pertanyaannya:
+Jadi, resilience yang ingin dilatih buku ini bukan sekadar **bertahan lebih keras**. Pertanyaannya:
 
 > **Apa yang harus tetap dipertahankan, apa yang harus diperbaiki, dan apa yang sudah waktunya dilepaskan?**
 
@@ -34,19 +34,17 @@ Karena itu, resilience yang ingin dilatih buku ini bukan sekadar **bertahan lebi
 
 ## 2. Resilience bukan tidak pernah jatuh
 
-Resilience sering terdengar seperti:
+Resilience sering diterjemahkan menjadi kalimat sederhana:
 
 > “Saya tidak boleh menyerah.”
 
-Itu terlalu sederhana. Dalam literatur self-regulation, persistence dan timely disengagement justru dipandang sebagai kemampuan yang dapat saling melengkapi. Seseorang perlu dapat terus mengejar tujuan ketika tujuan tersebut masih layak, tetapi juga mampu mengubah arah atau melepaskan tujuan ketika kondisi menuntutnya. ([lihat Catatan evidence](#evidence-notes))
+Kalimat itu terlalu sederhana untuk dipakai sebagai aturan. Dalam penelitian yang dirujuk di bab ini self-regulation, persistence dan timely disengagement justru dipandang sebagai kemampuan yang dapat saling melengkapi. Seseorang perlu dapat terus mengejar tujuan ketika tujuan tersebut masih layak, tetapi juga mampu mengubah arah atau melepaskan tujuan ketika kondisi menuntutnya. ([lihat Catatan bukti](#bukti-notes))
 
-Review tentang dynamic self-regulation juga memandang regulasi diri sebagai proses dinamis: orang harus mengelola tuntutan yang bersaing, memilih dan mengurutkan tujuan/tugas, serta melakukan penyesuaian. ([lihat Catatan evidence](#evidence-notes))
+Review tentang dynamic self-regulation juga memandang regulasi diri sebagai proses dinamis: orang harus mengelola tuntutan yang bersaing, memilih dan mengurutkan tujuan/tugas, serta melakukan penyesuaian. ([lihat Catatan bukti](#bukti-notes))
 
-Maka:
+Maka dua hal perlu sama-sama kita ingat:
 
 > **Berhenti tidak otomatis berarti gagal.**
-
-Dan:
 
 > **Terus berjalan tidak otomatis berarti kuat.**
 
@@ -56,7 +54,7 @@ Kadang berhenti adalah penghindaran. Kadang berhenti adalah keputusan yang masuk
 
 ## 3. Goal dan method harus dipisahkan
 
-Ini salah satu prinsip penting buku:
+Salah satu gagasan kunci bab ini adalah:
 
 > **Persist on the goal; adapt the method.**
 
@@ -78,7 +76,7 @@ Setelah beberapa hari, kita kelelahan dan progres buruk. Ada dua respons.
 
 > “Goal masih valid. Metodenya tidak.”
 
-Lalu kita mengubah metode:
+Maka yang diubah bukan tujuannya, melainkan caranya:
 
 - membagi pekerjaan;
 - membuat checkpoint;
@@ -87,25 +85,25 @@ Lalu kita mengubah metode:
 - memperbaiki sumber data;
 - mengubah urutan pekerjaan.
 
-Respons B bukan kurang committed. Justru ia menunjukkan **goal discipline**. Kita setia kepada tujuan, bukan kepada ego yang melekat pada metode pertama.
+Respons B bukan berarti kita kurang sungguh-sungguh. Justru kita sedang menjaga **goal discipline**: setia pada tujuan, bukan pada ego yang sudah terlanjur melekat pada cara pertama.
 
 ---
 
 ## 4. Discipline bukan kekerasan terhadap diri
 
-Self-control dalam literatur psikologi dipahami sebagai penyelarasan pikiran, perasaan, dan tindakan dengan tujuan yang bernilai meskipun ada alternatif yang lebih menarik dalam jangka pendek. ([lihat Catatan evidence](#evidence-notes)) Definisi tersebut membantu memperbaiki gambaran tentang disiplin.
+Dalam literatur psikologi, self-control dipahami sebagai penyelarasan pikiran, perasaan, dan tindakan dengan tujuan yang bernilai meskipun ada alternatif yang lebih menarik dalam jangka pendek. ([lihat Catatan bukti](#bukti-notes)) Definisi ini membantu kita melihat bahwa disiplin tidak sama dengan menyiksa diri.
 
 Disiplin bukan:
 
 > “Saya harus memaksa diri apa pun yang terjadi.”
 
-Disiplin lebih dekat dengan:
+Lebih dekatnya, disiplin berarti:
 
 > **“Saya menjalankan standar atau tindakan yang sudah saya pilih karena tujuan tersebut memang penting.”**
 
-Tetapi ada satu tambahan penting. Jika evidence menunjukkan bahwa tindakan tersebut tidak lagi tepat, disiplin tidak berarti menolak evidence. Maka prinsip buku:
+Tetapi ada satu tambahan penting. Jika bukti menunjukkan bahwa tindakan tersebut tidak lagi tepat, disiplin tidak berarti menolak bukti. Maka prinsip buku:
 
-> **Disiplin pada prinsip dan tujuan; fleksibel pada metode; ketat pada evidence.**
+> **Disiplin pada prinsip dan tujuan; fleksibel pada metode; ketat pada bukti.**
 
 ---
 
@@ -117,9 +115,9 @@ Bayangkan seseorang berolahraga. Senin sampai Jumat ia melakukan latihan yang sa
 
 Itu bukan satu-satunya bentuk konsistensi. Konsistensi dapat berarti:
 
-> **tetap menjalankan komitmen terhadap tujuan sambil mengubah cara ketika evidence atau kondisi menuntutnya.**
+> **tetap menjalankan komitmen terhadap tujuan sambil mengubah cara ketika bukti atau kondisi menuntutnya.**
 
-Karena itu:
+Jadi:
 
 **konsisten ≠ metode selalu sama.** Contoh:
 
@@ -135,13 +133,13 @@ Metode:
 - minggu keempat memperbaiki struktur;
 - bulan berikutnya mengerjakan proyek nyata.
 
-Metode berubah. Arah tetap.
+Caranya boleh berubah. Arah tidak harus ikut hilang.
 
 ---
 
 ## 6. Persistence juga bukan keras kepala
 
-Keras kepala biasanya mempertahankan keputusan karena sudah terlanjur memilihnya. Persistence mempertahankan pursuit terhadap tujuan yang masih valid sambil tetap terbuka terhadap informasi baru. Perbedaannya dapat diringkas:
+Keras kepala cenderung mempertahankan keputusan karena sudah terlanjur memilihnya. Persistence berbeda: tujuan tetap dikejar selama memang masih layak, tetapi cara dan asumsi boleh diperiksa ulang. Perbedaannya dapat diringkas:
 
 | Persistence | Rigidity |
 |---|---|
@@ -151,13 +149,13 @@ Keras kepala biasanya mempertahankan keputusan karena sudah terlanjur memilihnya
 | menilai ulang kondisi | mengabaikan kondisi |
 | dapat berhenti secara terencana | berhenti hanya setelah kelelahan atau gagal total |
 
-Tabel ini adalah **working distinction** buku, bukan skala psikologis tervalidasi.
+Tabel ini adalah **pembedaan kerja** buku, bukan skala psikologis tervalidasi.
 
 ---
 
 ## 7. Kenapa kita sering kuat di awal lalu lemas?
 
-Tidak selalu karena kurang kemauan. Awal sebuah proyek sering memiliki:
+Belum tentu karena kurang kemauan. Awal sebuah proyek sering memiliki:
 
 - novelty;
 - excitement;
@@ -174,7 +172,7 @@ Setelah beberapa waktu:
 - kesalahan mulai terlihat;
 - biaya mempertahankan komitmen menjadi lebih nyata.
 
-Self-regulation di dunia nyata memang bersifat dinamis dan harus berhadapan dengan multiple goals serta competing demands. ([lihat Catatan evidence](#evidence-notes)) Maka strategi yang hanya bergantung pada:
+Self-regulation di dunia nyata memang bersifat dinamis dan harus berhadapan dengan multiple goals serta competing demands. ([lihat Catatan bukti](#bukti-notes)) Karena itu, strategi yang hanya mengandalkan:
 
 > “Saya harus tetap semangat.”
 
@@ -184,7 +182,7 @@ akan rapuh. Kita membutuhkan sistem yang tetap berjalan ketika semangat tidak se
 
 ## 8. Minimum viable continuation
 
-Salah satu cara melawan pola “putus total” adalah menetapkan **minimum viable continuation**. Bukan:
+Salah satu cara memutus pola “sekalian berhenti” adalah menentukan **minimum viable continuation**: tindakan kecil yang masih menjaga kita tetap terhubung dengan tujuan. Bukan:
 
 > “Kalau tidak bisa maksimal, tidak usah.”
 
@@ -214,13 +212,13 @@ Ketika benar-benar tidak memungkinkan:
 
 > menetapkan checkpoint berikutnya dan memastikan pekerjaan tidak hilang dari sistem.
 
-Ini bukan aturan universal. Ini adalah **desain praktik** untuk menghindari lapse kecil berubah menjadi abandonment total. Evidence tentang habit formation menunjukkan bahwa perilaku berulang dan konteks dapat membantu maintenance, tetapi studi yang ada memiliki keterbatasan dan variasi waktu pembentukan kebiasaan sangat besar. Karena itu buku ini tidak menggunakan mitos seperti “habit pasti terbentuk dalam 21 hari.” ([lihat Catatan evidence](#evidence-notes))
+Ini bukan aturan universal. Ini adalah **desain praktik** untuk menghindari lapse kecil berubah menjadi abandonment total. Evidence tentang habit formation menunjukkan bahwa perilaku berulang dan konteks dapat membantu maintenance, tetapi studi yang ada memiliki keterbatasan dan variasi waktu pembentukan kebiasaan sangat besar. Karena itu buku ini tidak menggunakan mitos seperti “habit pasti terbentuk dalam 21 hari.” ([lihat Catatan bukti](#bukti-notes))
 
 ---
 
 ## 9. Lapse bukan otomatis relapse
 
-Satu hari gagal bukan berarti seluruh sistem gagal. Satu minggu tertinggal tidak otomatis berarti goal harus dibuang. Dalam literatur maintenance, lapse dan relapse memiliki dinamika yang lebih kompleks daripada satu kejadian tunggal. Review prospektif menunjukkan bahwa maintenance perilaku memang sulit dan memiliki banyak predictor. ([lihat Catatan evidence](#evidence-notes))
+Satu hari gagal bukan berarti seluruh sistem gagal. Satu minggu tertinggal tidak otomatis berarti goal harus dibuang. Dalam penelitian yang dirujuk di bab ini maintenance, lapse dan relapse memiliki dinamika yang lebih kompleks daripada satu kejadian tunggal. Review prospektif menunjukkan bahwa maintenance perilaku memang sulit dan memiliki banyak predictor. ([lihat Catatan bukti](#bukti-notes))
 
 Karena itu kita perlu membedakan:
 
@@ -248,7 +246,7 @@ Ada pola yang juga perlu diwaspadai:
 
 > gagal → merasa bersalah → membuat target baru yang sangat besar → semangat → gagal lagi.
 
-Ini bukan recovery. Ini restart yang terlalu mahal. Recovery yang lebih sederhana:
+Ini bukan recovery. Ini hanya restart yang terlalu mahal. Recovery yang lebih sederhana:
 
 1. **Akui keadaan tanpa menghukum diri.**
 2. **Periksa apakah goal masih valid.**
@@ -258,7 +256,7 @@ Ini bukan recovery. Ini restart yang terlalu mahal. Recovery yang lebih sederhan
 6. **Buat checkpoint dekat.**
 7. **Review metode, bukan hanya menyalahkan kemauan.**
 
-Pertanyaan penting:
+Pertanyaan yang lebih berguna:
 
 > “Apa yang membuat saya berhenti?”
 
@@ -270,7 +268,7 @@ Bukan hanya:
 
 ## 11. Empat jenis kegagalan
 
-Ketika sebuah goal tidak tercapai, jangan langsung menyimpulkan:
+Ketika sebuah tujuan tidak tercapai, jangan buru-buru memberi vonis:
 
 > “Saya tidak disiplin.”
 
@@ -290,7 +288,7 @@ Setelah informasi baru muncul, goal ternyata tidak lagi layak, relevan, atau ber
 
 ### 4. Context failure
 
-Goal dan metode mungkin masuk akal, tetapi constraint berubah secara signifikan. Contoh:
+Goal dan metode mungkin masuk akal, tetapi batasan berubah secara signifikan. Contoh:
 
 - sumber daya hilang;
 - prioritas organisasi berubah;
@@ -298,7 +296,7 @@ Goal dan metode mungkin masuk akal, tetapi constraint berubah secara signifikan.
 - deadline eksternal berubah;
 - kondisi yang menjadi asumsi awal tidak lagi berlaku.
 
-Jika semua jenis ini disebut “kurang disiplin”, kita akan belajar menyalahkan diri untuk masalah yang sebenarnya berbeda.
+Kalau semua ini kita sebut “kurang disiplin”, kita justru kehilangan kesempatan untuk memperbaiki masalah yang sebenarnya.
 
 ---
 
@@ -337,13 +335,13 @@ Saya akan:
 - disengage;
 - atau reengage dengan desain baru?
 
-Goal adjustment research mendukung gagasan bahwa disengagement, reengagement, dan goal-striving flexibility adalah komponen yang berbeda dalam self-regulation, meskipun kualitas evidence keseluruhan masih memiliki keterbatasan. ([lihat Catatan evidence](#evidence-notes))
+Goal adjustment research mendukung gagasan bahwa disengagement, reengagement, dan goal-striving flexibility adalah komponen yang berbeda dalam self-regulation, meskipun kualitas bukti keseluruhan masih memiliki keterbatasan. ([lihat Catatan bukti](#bukti-notes))
 
 ---
 
 ## 13. Jangan menggunakan persistence untuk mempertahankan sunk cost
 
-Ada jebakan:
+Ada satu jebakan yang sering muncul:
 
 > “Saya sudah menghabiskan terlalu banyak waktu untuk ini.”
 
@@ -358,10 +356,10 @@ Jika jawabannya tidak, kita memiliki alasan untuk meninjau ulang. Namun jangan m
 - reversibility;
 - alternatives;
 - commitments to others;
-- legal/ethical constraints;
-- evidence quality.
+- legal/ethical batasans;
+- bukti quality.
 
-Sekali lagi, ini bukan formula otomatis untuk berhenti.
+Tetap saja, pertanyaan ini bukan rumus otomatis untuk berhenti.
 
 ---
 
@@ -375,9 +373,9 @@ Target berubah setiap kali mengalami kesulitan. Tidak ada cukup waktu → target
 
 ### Orang B
 
-Target tidak pernah berubah. Metode tidak pernah berubah. Feedback tidak pernah diterima. Kondisi berubah pun diabaikan. Ia persistent, tetapi mungkin sudah menjadi rigid. Yang kita cari berada di antara keduanya:
+Target tidak pernah berubah. Metode tidak pernah berubah. Feedback tidak pernah diterima. Kondisi berubah pun diabaikan. Ia persistent, tetapi mungkin sudah menjadi rigid. Yang dicari bukan salah satu ekstrem, melainkan keseimbangannya:
 
-> **Goal stability + method flexibility + evidence sensitivity.**
+> **Goal stability + method flexibility + bukti sensitivity.**
 
 Ini adalah sintesis pedagogis buku, bukan formula psikologis yang telah divalidasi sebagai satu paket.
 
@@ -385,7 +383,7 @@ Ini adalah sintesis pedagogis buku, bukan formula psikologis yang telah divalida
 
 ## 15. Positive realism
 
-Di titik ini resilience bertemu dengan bab berikutnya. Ada dua kalimat yang sama-sama berbahaya:
+Di sinilah resilience bertemu dengan pembahasan berikutnya. Ada dua kalimat yang sama-sama berbahaya:
 
 > “Pasti bisa.”
 
@@ -393,7 +391,7 @@ dan:
 
 > “Percuma.”
 
-Yang pertama dapat mengabaikan evidence. Yang kedua dapat menutup kemungkinan terlalu cepat. Respons yang lebih berguna:
+Yang pertama dapat mengabaikan bukti. Yang kedua dapat menutup kemungkinan terlalu cepat. Respons yang lebih berguna:
 
 > “Apa yang mungkin?”
 
@@ -405,7 +403,7 @@ Yang pertama dapat mengabaikan evidence. Yang kedua dapat menutup kemungkinan te
 
 > “Apa risiko jika saya berhenti?”
 
-Kita tidak membutuhkan optimisme tanpa batas. Kita membutuhkan **kontak yang tetap dengan realitas sambil mempertahankan ruang untuk tindakan.**
+Yang kita butuhkan bukan optimisme tanpa batas, melainkan **kontak yang tetap dengan realitas sambil mempertahankan ruang untuk bertindak.**
 
 ---
 
@@ -440,7 +438,7 @@ Dalam kondisi apa saya perlu pause atau disengage? Bagian terakhir penting. Goal
 
 > **Persist pada goal, bukan pada metode.**
 
-> **Disiplin bukan memaksa diri tanpa batas; disiplin adalah menjalankan komitmen yang dipilih sambil tetap tunduk pada evidence.**
+> **Disiplin bukan memaksa diri tanpa batas; disiplin adalah menjalankan komitmen yang dipilih sambil tetap tunduk pada bukti.**
 
 > **Konsistensi berarti menjaga pola tindakan yang relevan, bukan mengulang metode yang sama selamanya.**
 
@@ -448,23 +446,23 @@ Dalam kondisi apa saya perlu pause atau disengage? Bagian terakhir penting. Goal
 
 > **Recovery lebih berguna daripada restart yang dramatis.**
 
-> **Berhenti atau mengubah arah dapat menjadi keputusan disiplin jika goal, evidence, atau konteks memang berubah.**
+> **Berhenti atau mengubah arah dapat menjadi keputusan disiplin jika goal, bukti, atau konteks memang berubah.**
 
-Dan satu kalimat yang perlu diingat:
+Kalau harus dibawa pulang satu gagasan:
 
-> **Jangan ukur disiplin hanya dari seberapa keras Anda memulai. Ukur juga dari kemampuan menjaga arah, menjalankan langkah yang realistis, membaca feedback, pulih dari lapse, dan mengubah metode ketika evidence menuntutnya.**
+> **Jangan ukur ketahanan hanya dari seberapa kuat kita memulai. Lihat juga apakah kita mampu menjaga arah, membaca feedback, pulih setelah lapse, dan mengubah cara ketika kenyataan meminta kita berubah.**
 
 ## Red Flags
 
 ::: warning Risiko
-Jangan mengubah capability ini menjadi aturan absolut. Leadership selalu membutuhkan penyesuaian terhadap konteks, stakes, authority, evidence, dan dampak terhadap pihak lain.
+Jangan mengubah capability ini menjadi aturan absolut. Leadership selalu membutuhkan penyesuaian terhadap konteks, stakes, authority, bukti, dan dampak terhadap pihak lain.
 :::
 
 ::: success Green Note
 **Carry forward:** capability ini harus membantu pembaca melihat situasi lebih jernih, memilih dengan lebih baik, bertindak dengan ownership, lalu belajar dari konsekuensinya.
 :::
 
-## Catatan evidence
+## Catatan bukti
 
 - Duckworth et al. (2019), *Self-Control and Grit: Related but Separable Determinants of Success*, Annual Review of Psychology.
 - Gollwitzer & Sheeran (2006), meta-analysis of implementation intentions, Advances in Experimental Social Psychology.
