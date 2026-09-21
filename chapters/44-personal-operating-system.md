@@ -10,7 +10,7 @@ Kita bisa saja selesai membaca dan merasa, “Masuk akal.” Lalu besok pagi men
 
 Karena itu bagian terakhir buku ini bukan penambahan teori. Ini upaya membuat seluruh isi buku cukup sederhana untuk dibawa ke situasi nyata.
 
-Bukan sistem yang sempurna. Bukan formula untuk menjadi manusia yang selalu tenang, selalu benar, atau selalu berhasil.
+Bukan sistem yang sempurna, Bukan formula untuk menjadi manusia yang selalu tenang, selalu benar, atau selalu berhasil.
 
 Hanya sebuah cara untuk mengulang hal yang sama:
 
@@ -86,7 +86,7 @@ Apa yang terjadi setelah saya bertindak?
 ### UPDATE
 Apa yang sekarang saya ketahui yang sebelumnya belum saya ketahui?
 
-Ini bukan checklist yang harus dibaca setiap kali. Dengan latihan, sebagian langkah akan menjadi lebih cepat tersedia ketika kita membutuhkannya.
+Kita tidak perlu membuka daftar ini setiap kali sesuatu terjadi. Dengan latihan, sebagian langkah akan menjadi lebih cepat tersedia ketika kita membutuhkannya.
 
 ## 4. Membaca saja tidak cukup
 
@@ -288,7 +288,7 @@ Pertanyaannya:
 
 > **“Seberapa cepat saya kembali setelah keluar dari pola?”**
 
-## 16. Konsisten bukan berarti selalu sama
+## 16. Konsisten tidak berarti harus selalu sama
 
 Ada orang yang mengira konsistensi berarti melakukan hal yang persis sama setiap hari.
 
@@ -314,9 +314,9 @@ Kalau membantu, gunakan lima pertanyaan:
 | Hubungan | Apakah cara saya bertindak memperkuat atau merusak trust? |
 | Adaptasi | Apakah saya mengubah cara ketika bukti mengharuskannya? |
 
-Tidak perlu memberi angka kalau angka malah membuat kita sibuk mengejar skor. Scorecard ini hanya alat untuk melihat pola, bukan nilai moral diri.
+Tidak perlu memberi angka kalau angka malah membuat kita sibuk mengejar skor. Scorecard ini hanya untuk membantu melihat pola, bukan memberi nilai moral kepada diri sendiri.
 
-## 18. Simpan jejak keyakinan dan bukti
+## 18. Simpan jejak keyakinan, bukti, dan perubahan
 
 Untuk keputusan penting, catat tiga hal:
 
@@ -360,7 +360,7 @@ Tanyakan:
 
 Ini membuat pembelajaran lebih adil terhadap diri sendiri dan lebih berguna untuk keputusan berikutnya.
 
-## 20. Saat gagal, jangan langsung menghukum diri
+## 20. Saat gagal, jangan buru-buru menghukum diri
 
 Chapter 43 sudah membahas bahwa hasil buruk tidak otomatis berarti keputusan atau orangnya buruk.
 
@@ -424,7 +424,7 @@ Aturan ini bukan hukum. Ia hanya default. Ketika keadaan atau bukti berubah, def
 
 Sistem praktik juga harus hidup di dunia tempat kita benar-benar bekerja dan bergaul.
 
-Dalam budaya Jawa, nilai seperti **eling**, **andhap asor**, **tepa selira**, dan **aja dumeh** memberi pengingat yang kuat: sadar diri, tidak mentang-mentang, mempertimbangkan orang lain, dan tidak mabuk oleh posisi.
+Dalam budaya Jawa, nilai seperti **eling**, **andhap asor**, **tepa selira**, dan **aja dumeh** memberi pengingat yang dekat dengan kehidupan kita: sadar diri, tidak mentang-mentang, mempertimbangkan orang lain, dan tidak mabuk oleh posisi.
 
 Tetapi nilai-nilai itu tidak harus membuat kita menjadi lembek.
 
@@ -434,9 +434,7 @@ Tepa selira bukan berarti membiarkan pelanggaran.
 
 Aja dumeh bukan berarti takut menggunakan kewenangan ketika memang diperlukan.
 
-Yang dicari adalah:
-
-> **santun tanpa kehilangan batas; tegas tanpa kehilangan adab.**
+Pegangannya sederhana: **santun tanpa kehilangan batas; tegas tanpa kehilangan adab.**
 
 Nilai budaya di sini adalah orientasi normatif, bukan bukti empiris tentang perilaku manusia.
 
@@ -458,7 +456,7 @@ Orang yang sangat efektif tetap bisa menggunakan kemampuannya untuk tujuan yang 
 
 ## 25. Jangan jadikan framework sebagai kostum ego
 
-Ada ironi yang menarik.
+Ada ironi yang patut diwaspadai.
 
 Setelah belajar humility, kita bisa menjadi sombong karena merasa paling humble.
 
@@ -466,7 +464,7 @@ Setelah belajar regulasi emosi, kita bisa memandang orang lain sebagai “yang t
 
 Setelah belajar strategi dan politik organisasi, kita bisa mulai melihat semua orang sebagai bidak.
 
-Framework yang seharusnya membantu kita melihat diri malah bisa dipakai untuk merasa lebih tinggi.
+Framework yang seharusnya membantu kita melihat diri bisa saja malah dipakai untuk merasa lebih tinggi dari orang lain.
 
 Itu sebabnya sistem ini perlu satu pengaman:
 
@@ -526,7 +524,7 @@ Situasi berikutnya datang.
 
 Dan kita mulai lagi.
 
-## 27. Kadang loop justru harus dihentikan
+## 27. Kadang loop memang harus dihentikan
 
 Sistem yang baik juga tahu kapan tidak meneruskan pola yang sama.
 
@@ -534,7 +532,7 @@ Pendekatan perlu dihentikan atau diubah ketika bahaya meningkat, bukti menolak a
 
 Menghentikan pola yang salah bukan kegagalan.
 
-> **Kemampuan berhenti, mengubah arah, dan mencoba cara yang lebih baik juga bagian dari sistem.**
+> **Mampu berhenti, mengubah arah, dan mencoba cara lain juga bagian dari sistem.**
 
 ## 28. Versi satu halaman
 
@@ -590,7 +588,7 @@ Lakukan review singkat setiap hari. Di akhir minggu, pilih satu perilaku yang ak
 
 Jangan mengejar streak sempurna.
 
-Kejar kemampuan untuk kembali.
+Kejar kemampuan untuk kembali ketika sempat keluar dari pola.
 
 > **Return speed lebih penting daripada ilusi tidak pernah jatuh.**
 
@@ -618,17 +616,17 @@ Ketika memiliki kewenangan, apakah kita semakin sadar pada amanah?
 
 Ketika memimpin orang lain, apakah orang itu menjadi semakin mampu—atau justru semakin bergantung kepada kita?
 
-Tidak perlu perubahan dramatis untuk melihat bahwa latihan bekerja.
+Perubahannya tidak harus dramatis untuk terasa.
 
 Perubahan kecil yang berulang sudah cukup menjadi tanda bahwa sistem mulai hidup.
 
 ::: important Prinsip
-**Leadership bukan keadaan final. Ia adalah kemampuan untuk berulang kali melihat, memilih, bertindak, menerima konsekuensi, lalu memperbarui diri.**
+**Leadership bukan keadaan akhir yang suatu hari selesai dicapai. Ia adalah kemampuan untuk berulang kali melihat, memilih, bertindak, menerima konsekuensi, lalu memperbarui diri.**
 :::
 
 ## 31. Penutup: kembali menjadi manusia yang belajar
 
-Pada akhirnya, buku ini tidak meminta kita menjadi manusia tanpa emosi, tanpa ego, tanpa kesalahan, atau tanpa konflik.
+Pada akhirnya, buku ini tidak meminta kita menjadi manusia tanpa emosi, ego, kesalahan, atau konflik.
 
 Kita akan tetap tersinggung.
 
@@ -640,9 +638,9 @@ Kita tetap bisa kehilangan kesabaran.
 
 Kadang kita juga akan tahu apa yang seharusnya dilakukan dan tetap gagal melakukannya.
 
-Itu bagian dari manusia.
+Semua itu bagian dari manusia.
 
-Yang bisa dilatih adalah apa yang terjadi sesudahnya.
+Yang bisa dilatih adalah apa yang kita lakukan sesudahnya.
 
 Kita bisa belajar berhenti sedikit lebih cepat.
 
@@ -664,7 +662,7 @@ Belajar dari kegagalan tanpa merendahkan diri.
 
 Dan ketika kita memiliki kewenangan, mengingat bahwa kekuasaan bukan hanya hak untuk memutuskan, tetapi juga kewajiban untuk menanggung akibatnya.
 
-Itulah sebabnya leadership tidak pernah benar-benar selesai dipelajari.
+Mungkin memang itu sebabnya leadership tidak pernah benar-benar selesai dipelajari.
 
 Hari ini kita mungkin merespons dengan baik. Besok kita bisa terpeleset lagi. Tidak apa-apa. Yang penting kita tidak menganggap satu keberhasilan sebagai bukti bahwa kita sudah selesai, dan tidak menganggap satu kegagalan sebagai bukti bahwa kita tidak akan pernah berubah.
 
@@ -672,9 +670,9 @@ Kita kembali ke loop:
 
 **SEE → UNDERSTAND → DECIDE → ACT → LEARN**
 
-Bukan untuk menjadi sempurna.
+Bukan supaya kita sempurna,
 
-Untuk menghadapi kenyataan berikutnya sedikit lebih baik daripada sebelumnya.
+melainkan supaya kita menghadapi kenyataan berikutnya sedikit lebih baik daripada sebelumnya.
 
 ---
 
@@ -703,7 +701,7 @@ Untuk menghadapi kenyataan berikutnya sedikit lebih baik daripada sebelumnya.
 > **RETURN** — Apa respons saya ketika situasi berikutnya datang?
 
 ::: success Green Note
-**SEE. UNDERSTAND. DECIDE. ACT. LEARN.** Bukan untuk membuat kita sempurna. Untuk membantu kita menghadapi kenyataan berikutnya dengan sedikit lebih jernih dan sedikit lebih baik.
+**SEE. UNDERSTAND. DECIDE. ACT. LEARN.** Bukan untuk membuat kita sempurna. Untuk membantu kita menghadapi kenyataan berikutnya dengan lebih jernih dan sedikit lebih baik.
 :::
 
 ## Evidence notes
