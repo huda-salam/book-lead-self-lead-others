@@ -312,7 +312,7 @@ Format seperti ini disebut:
 
 > **implementation intention.**
 
-Evidence menunjukkan format if–then dapat membantu menghubungkan situasi dengan tindakan tertentu, meskipun efeknya bergantung pada konteks dan karakteristik individu. citeturn0search7turn0search11
+Evidence menunjukkan format if–then dapat membantu menghubungkan situasi dengan tindakan tertentu, meskipun efeknya bergantung pada konteks dan karakteristik individu. ([Chen et al., 2015](https://doi.org/10.1016/j.psychres.2015.01.011))
 
 Jadi:
 
@@ -514,7 +514,7 @@ Habit sering dibayangkan:
 
 > melakukan sesuatu tanpa berpikir.
 
-Dalam literatur, habit lebih spesifik: perilaku menjadi semakin dipicu oleh konteks atau cue melalui pengulangan, sehingga lebih otomatis. citeturn0search3turn0search10
+Dalam literatur, habit lebih spesifik: perilaku menjadi semakin dipicu oleh konteks atau cue melalui pengulangan, sehingga lebih otomatis. ([Verplanken & Orbell, 2022](https://doi.org/10.1146/annurev-psych-020821-011744))
 
 Ini berguna untuk:
 
@@ -557,7 +557,7 @@ Kita sering mendengar:
 
 Jadikan ini peringatan.
 
-Review sistematis/meta-analysis 2024 atas 20 studi dan 2.601 peserta menemukan variasi waktu yang sangat besar. Beberapa studi melaporkan median sekitar 59–66 hari dan mean 106–154 hari, dengan variasi individual yang sangat lebar. Banyak studi juga memiliki risiko bias tinggi. citeturn0search0turn0search4
+Review sistematis/meta-analysis 2024 atas 20 studi dan 2.601 peserta menemukan variasi waktu yang sangat besar. Beberapa studi melaporkan median sekitar 59–66 hari dan mean 106–154 hari, dengan variasi individual yang sangat lebar. Banyak studi juga memiliki risiko bias tinggi. ([Singh et al., 2024](https://doi.org/10.3390/healthcare12232488))
 
 Maka:
 
@@ -619,7 +619,7 @@ Karena itu:
 
 > **ubah environment ketika environment membuat behavior yang baik terlalu sulit.**
 
-Literatur habit juga menempatkan context stability dan cue sebagai komponen penting pembentukan pola kebiasaan. citeturn0search0turn0search2
+Literatur habit juga menempatkan context stability dan cue sebagai komponen penting pembentukan pola kebiasaan. ([Singh et al., 2024](https://doi.org/10.3390/healthcare12232488); [Zhu et al., 2024](https://doi.org/10.2196/54375))
 
 ## 14. Friction matters
 
@@ -1455,14 +1455,14 @@ Untuk menjadi sedikit lebih baik dalam menghadapi kenyataan berikutnya.
 
 ## Evidence notes
 
-- Habit formation membutuhkan repetition dan context yang relatif stabil, tetapi waktu pembentukan sangat bervariasi antar-individu dan perilaku. citeturn0search0turn0search4
-- Habit berbeda dari sekadar frekuensi perilaku; cue-context associations dan automaticity merupakan bagian penting dari konsep habit. citeturn0search3turn0search10
-- Implementation intentions dapat membantu menerjemahkan intention menjadi tindakan dalam kondisi tertentu, dengan efek yang bergantung pada konteks. citeturn0search7turn0search11
+- Habit formation membutuhkan repetition dan context yang relatif stabil, tetapi waktu pembentukan sangat bervariasi antar-individu dan perilaku. ([Singh et al., 2024](https://doi.org/10.3390/healthcare12232488))
+- Habit berbeda dari sekadar frekuensi perilaku; cue-context associations dan automaticity merupakan bagian penting dari konsep habit. ([Verplanken & Orbell, 2022](https://doi.org/10.1146/annurev-psych-020821-011744))
+- Implementation intentions dapat membantu menerjemahkan intention menjadi tindakan dalam kondisi tertentu, dengan efek yang bergantung pada konteks. ([Chen et al., 2015](https://doi.org/10.1016/j.psychres.2015.01.011))
 - Behavior-change interventions menggunakan cues, repetition, self-monitoring, dan desain konteks sebagai bagian dari strategi habit formation. citeturn0search2turn0search8
 
 ## Sumber
 
-- Singh, B., Murphy, A., Maher, C., & Smith, A. E. (2024). *Time to Form a Habit: A Systematic Review and Meta-Analysis of Health Behaviour Habit Formation and Its Determinants*. Healthcare, 12(23), 2488. citeturn0search4
-- Verplanken, B., & Orbell, S. (2022). *Attitudes, Habits, and Behavior Change*. Annual Review of Psychology. citeturn0search10
-- Chen, X. et al. (2015). *The effect of implementation intention on prospective memory: a systematic and meta-analytic review*. Psychiatry Research, 226(1), 14–22. citeturn0search7
-- Zhu, Y. et al. (2024). *Digital Behavior Change Intervention Designs for Habit Formation: Systematic Review*. Journal of Medical Internet Research, 26, e54375. citeturn0search8
+- Singh, B., Murphy, A., Maher, C., & Smith, A. E. (2024). *Time to Form a Habit: A Systematic Review and Meta-Analysis of Health Behaviour Habit Formation and Its Determinants*. Healthcare, 12(23), 2488. [Singh et al., 2024](https://doi.org/10.3390/healthcare12232488)
+- Verplanken, B., & Orbell, S. (2022). *Attitudes, Habits, and Behavior Change*. Annual Review of Psychology. [Verplanken & Orbell, 2022](https://doi.org/10.1146/annurev-psych-020821-011744)
+- Chen, X. et al. (2015). *The effect of implementation intention on prospective memory: a systematic and meta-analytic review*. Psychiatry Research, 226(1), 14–22. [Chen et al., 2015](https://doi.org/10.1016/j.psychres.2015.01.011)
+- Zhu, Y. et al. (2024). *Digital Behavior Change Intervention Designs for Habit Formation: Systematic Review*. Journal of Medical Internet Research, 26, e54375. [Zhu et al., 2024](https://doi.org/10.2196/54375)
