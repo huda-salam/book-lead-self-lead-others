@@ -36,7 +36,7 @@ Chapter 21 membahas problem framing. Chapter 22 membahas bagaimana menjaga ruang
 
 ## Yang Sedang Kita Latih
 
-Leader sedang melatih kemampuan untuk:
+Pemimpin sedang melatih kemampuan untuk:
 
 - memperlakukan solusi sebagai hipotesis kerja;
 - mencari alternatif secara proporsional;
@@ -152,7 +152,7 @@ Sekarang pilihan benar-benar berbeda.
 
 ## 7. Cari apa yang dapat membuktikan Anda salah
 
-Leader yang sudah menyukai solusi biasanya mencari:
+Pemimpin yang sudah menyukai solusi biasanya mencari:
 
 > “Apa yang mendukung pilihan saya?”
 
@@ -270,7 +270,7 @@ Kebalikan dari solution attachment adalah:
 
 > analysis paralysis.
 
-Leader berkata:
+Pemimpin berkata:
 
 > “Kita perlu data lebih banyak.”
 
@@ -439,7 +439,7 @@ Jangan mempertahankan solusi hanya karena Anda yang mengusulkannya. Dan jangan m
 :::
 
 ::: success Green Note
-**Carry forward:** Leader yang kuat bukan orang yang selalu menemukan solusi pertama yang benar. Ia mampu menemukan, menguji, meninggalkan, memperbaiki, dan memilih solusi berdasarkan apa yang dipelajari.
+**Carry forward:** Pemimpin yang kuat bukan orang yang selalu menemukan solusi pertama yang benar. Ia mampu menemukan, menguji, meninggalkan, memperbaiki, dan memilih solusi berdasarkan apa yang dipelajari.
 :::
 
 ## Evidence notes
