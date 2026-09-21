@@ -70,9 +70,9 @@ Seolah-olah emosi adalah gangguan yang harus dimatikan sebelum kita dapat berpik
 
 Pandangan seperti itu terlalu sederhana.
 
-Literatur tentang emosi di organisasi memandang emosi sebagai proses yang berkaitan dengan bagaimana seseorang memberi makna pada situasi, mengalami keadaan emosional, lalu menghasilkan konsekuensi bagi perilaku, sikap, dan kognisi. Proses tersebut juga dapat saling memengaruhi dan diregulasi. citeturn0search10
+Literatur tentang emosi di organisasi memandang emosi sebagai proses yang berkaitan dengan bagaimana seseorang memberi makna pada situasi, mengalami keadaan emosional, lalu menghasilkan konsekuensi bagi perilaku, sikap, dan kognisi. Proses tersebut juga dapat saling memengaruhi dan diregulasi. ([lihat Evidence notes](#evidence-notes))
 
-Review terbaru tentang regulasi emosi di tempat kerja juga menekankan bahwa proses tersebut bukan hanya urusan individu. Relasi dengan orang lain, norma profesi dan organisasi, serta konteks sosial ikut membentuk bagaimana emosi diregulasi dan bagaimana regulasi tersebut berdampak pada interaksi. citeturn0search0
+Review terbaru tentang regulasi emosi di tempat kerja juga menekankan bahwa proses tersebut bukan hanya urusan individu. Relasi dengan orang lain, norma profesi dan organisasi, serta konteks sosial ikut membentuk bagaimana emosi diregulasi dan bagaimana regulasi tersebut berdampak pada interaksi. ([lihat Evidence notes](#evidence-notes))
 
 Jadi pertanyaannya bukan:
 
@@ -124,7 +124,7 @@ Ancaman semacam ini tidak selalu berarti orang lain memang sedang menyerang kita
 
 Ia dapat muncul dari **makna yang kita berikan pada kejadian**.
 
-Literatur mengenai emosi organisasi menunjukkan bahwa interpretasi terhadap situasi merupakan bagian penting dari proses munculnya pengalaman emosional. citeturn0search10
+Literatur mengenai emosi organisasi menunjukkan bahwa interpretasi terhadap situasi merupakan bagian penting dari proses munculnya pengalaman emosional. ([lihat Evidence notes](#evidence-notes))
 
 Karena itu, ketika reaksi kita terasa sangat besar dibandingkan peristiwa yang memicunya, pertanyaan berikut layak dicoba:
 
@@ -218,7 +218,7 @@ dan:
 
 > “Situasi ini memang membutuhkan respons segera.”
 
-Review terbaru tentang regulasi emosi dan proses afektif di tempat kerja mendukung pandangan bahwa regulasi perlu dipahami secara kontekstual dan dinamis, bukan sebagai satu strategi yang selalu baik. citeturn0search0turn0search2
+Review terbaru tentang regulasi emosi dan proses afektif di tempat kerja mendukung pandangan bahwa regulasi perlu dipahami secara kontekstual dan dinamis, bukan sebagai satu strategi yang selalu baik. ([lihat Evidence notes](#evidence-notes))
 
 Maka jeda bukan berarti selalu menunda.
 
@@ -286,7 +286,7 @@ Yang pertama adalah regulasi.
 
 Yang kedua dapat menjadi penekanan atau sekadar menyembunyikan keadaan internal tanpa menyelesaikan sumber masalah.
 
-Literatur tentang emotion work menunjukkan bahwa pengelolaan perasaan dan ekspresi di tempat kerja dapat memiliki konsekuensi positif maupun negatif, dan efeknya dipengaruhi kondisi pekerjaan, tuntutan, sumber daya, serta konteks. citeturn0search3
+Literatur tentang emotion work menunjukkan bahwa pengelolaan perasaan dan ekspresi di tempat kerja dapat memiliki konsekuensi positif maupun negatif, dan efeknya dipengaruhi kondisi pekerjaan, tuntutan, sumber daya, serta konteks. ([lihat Evidence notes](#evidence-notes))
 
 Karena itu, buku ini tidak akan mengajarkan:
 
@@ -408,7 +408,7 @@ Ini adalah **melindungi fakta tanpa harus melindungi ego dengan cara yang merusa
 
 Emosi di tempat kerja tidak hanya bergerak di dalam satu orang.
 
-Nada suara, ekspresi, tekanan, dan cara seseorang berinteraksi dapat memengaruhi orang lain. Literatur tentang emosi di organisasi dan regulasi emosi interpersonal menunjukkan bahwa proses regulasi dapat berlangsung secara interpersonal, bahkan menghasilkan efek yang memperbaiki atau memperburuk keadaan emosional dan hubungan. citeturn0search10turn0search4
+Nada suara, ekspresi, tekanan, dan cara seseorang berinteraksi dapat memengaruhi orang lain. Literatur tentang emosi di organisasi dan regulasi emosi interpersonal menunjukkan bahwa proses regulasi dapat berlangsung secara interpersonal, bahkan menghasilkan efek yang memperbaiki atau memperburuk keadaan emosional dan hubungan. ([lihat Evidence notes](#evidence-notes))
 
 Inilah mengapa ada situasi:
 
