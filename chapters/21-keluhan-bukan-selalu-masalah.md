@@ -22,7 +22,7 @@ Seorang pimpinan berkata:
 
 > “Target kita tidak tercapai.”
 
-Semua pernyataan itu penting. Tetapi belum tentu semuanya adalah **problem statement**. Keluhan adalah pintu masuk. Bukan selalu diagnosis. Kalau leader langsung memperlakukan kalimat pertama sebagai definisi masalah, ia bisa menghabiskan banyak energi untuk menyelesaikan masalah yang salah.
+Semua pernyataan itu penting. Tetapi belum tentu semuanya adalah **problem statement**. Keluhan adalah pintu masuk. Bukan selalu diagnosis. Kalau pemimpin langsung memperlakukan kalimat pertama sebagai definisi masalah, ia bisa menghabiskan banyak energi untuk menyelesaikan masalah yang salah.
 
 ::: success Green Note
 **Dengarkan keluhannya. Jangan otomatis mewarisi diagnosisnya.**
@@ -34,7 +34,7 @@ Chapter 10 membahas mendengar. Chapter 21 mulai mengubah informasi yang didengar
 
 ## Yang Sedang Kita Latih
 
-Leader sedang melatih kemampuan untuk:
+Pemimpin sedang melatih kemampuan untuk:
 
 - mendengar tanpa langsung menyetujui diagnosis;
 - membedakan keluhan dari problem;
@@ -265,7 +265,7 @@ Tetapi jika format tersebut menyebabkan:
 - informasi penting hilang;
 - atau kewajiban tidak terpenuhi;
 
-barulah ada alasan untuk memeriksanya sebagai problem. Leader perlu membedakan:
+barulah ada alasan untuk memeriksanya sebagai problem. Pemimpin perlu membedakan:
 
 **tidak saya sukai** dari:
 
@@ -305,7 +305,7 @@ Ini bukan sekadar masalah efisiensi. Ada trade-off:
 
 **cost ↔ quality** atau:
 
-**flexibility ↔ standardization** Leader perlu menyadari trade-off sebelum menyebut sesuatu “masalah yang harus dihilangkan”. Tidak semua ketegangan dapat dihapus. Sebagian harus dikelola.
+**flexibility ↔ standardization** Pemimpin perlu menyadari trade-off sebelum menyebut sesuatu “masalah yang harus dihilangkan”. Tidak semua ketegangan dapat dihapus. Sebagian harus dikelola.
 
 ## 14. Gunakan evidence, bukan hanya volume keluhan
 
