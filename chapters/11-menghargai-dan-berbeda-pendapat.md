@@ -3,6 +3,23 @@
 > **Canonical concept:** COMM.RESPECT  
 > **Status:** Draft v0.1
 
+## Mengapa Ini Penting bagi Leader
+
+Leader bekerja melalui perbedaan: perbedaan informasi, pengalaman, kepentingan, kewenangan, dan cara melihat risiko. Respect membantu menjaga kualitas hubungan dan percakapan tanpa mengharuskan leader mengorbankan standar, keputusan, atau accountability.
+
+::: success Green Note
+**Leader lens:** Menghormati orang tidak berarti mengiyakan semua klaim. Justru leader perlu mampu menjaga martabat orang sambil tetap memeriksa gagasan, perilaku, dan konsekuensinya.
+:::
+
+::: info Konteks
+**Canonical concept:** `COMM.RESPECT`. Bab ini berada di wilayah **Communicate / Act** dalam operating loop buku dan menjadi fondasi bagi feedback, konflik, dan influence.
+:::
+
+## Kapabilitas yang Sedang Dilatih
+
+**Capability:** menyampaikan persetujuan, ketidaksetujuan, koreksi, dan batas dengan cara yang menjaga martabat orang tanpa mengaburkan substansi masalah.
+
+
 ## 1. Menghargai bukan berarti menyetujui
 
 Ada kalimat yang perlu kita latih:
