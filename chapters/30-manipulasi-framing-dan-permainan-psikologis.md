@@ -30,7 +30,7 @@ Mungkin benar. Mungkin juga:
 
 > konteksnya berbeda.
 
-Leader membutuhkan kemampuan untuk membedakan:
+Pemimpin membutuhkan kemampuan untuk membedakan:
 
 > **persuasion, framing, pressure, dan manipulation.**
 
@@ -48,7 +48,7 @@ Chapter 28 membahas power dan influence. Chapter 29 membahas konflik kepentingan
 
 ## Yang Sedang Kita Latih
 
-Leader sedang melatih kemampuan untuk:
+Pemimpin sedang melatih kemampuan untuk:
 
 - mengenali sinyal tekanan;
 - memisahkan claim dari interpretation;
@@ -568,11 +568,11 @@ Literacy mengatakan:
 
 > “Saya belum tahu. Mari periksa.”
 
-Ini perbedaan besar. Leader yang terlalu naif:
+Ini perbedaan besar. Pemimpin yang terlalu naif:
 
 > mudah dipengaruhi.
 
-Leader yang terlalu curiga:
+Pemimpin yang terlalu curiga:
 
 > sulit bekerja sama.
 
@@ -682,7 +682,7 @@ Anda mudah melihat:
 
 > manipulasi di mana-mana.
 
-Leader membutuhkan posisi yang lebih matang:
+Pemimpin membutuhkan posisi yang lebih matang:
 
 > **lihat sistem → pahami kepentingan → baca power → verifikasi → jaga agency → bertindak secara legitimate.**
 
@@ -699,7 +699,7 @@ Jangan membalas manipulasi dengan manipulasi. Defensive literacy bertujuan menja
 :::
 
 ::: success Green Note
-**Carry forward:** Anda sekarang memiliki fondasi untuk membaca organisasi dan pengaruhnya. Part berikutnya mengembalikan fokus kepada leader: ownership, influence, development, dan pressure.
+**Carry forward:** Anda sekarang memiliki fondasi untuk membaca organisasi dan pengaruhnya. Part berikutnya mengembalikan fokus kepada pemimpin: ownership, influence, development, dan pressure.
 :::
 
 ## Evidence notes
