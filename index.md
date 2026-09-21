@@ -2,11 +2,11 @@
 layout: home
 title: Memimpin Diri, Memimpin Sesama
 titleTemplate: Lead Self. Lead Others.
-description: Panduan praktis dan analitis untuk memimpin diri, membangun relasi, mengambil keputusan, dan memimpin sesama.
+description: Buku praktis dan analitis tentang leader mindset: membaca realitas, memilih, bertindak, memimpin orang, dan belajar dari konsekuensi.
 hero:
   name: Memimpin Diri, Memimpin Sesama
   text: Lead Self. Lead Others.
-  tagline: Belajar membaca diri, membaca situasi, memilih respons, dan bertindak dengan lebih jernih.
+  tagline: Membangun leader mindset untuk membaca realitas, membuat keputusan, memimpin orang, dan bertindak dengan jernih.
   actions:
     - theme: brand
       text: Mulai Membaca
@@ -25,17 +25,26 @@ features:
 
 ## Tentang buku
 
-**Memimpin Diri, Memimpin Sesama** adalah buku kerja tentang bagaimana seseorang menghadapi dirinya sendiri, membaca orang lain dan situasi, berkomunikasi, menyelesaikan masalah, mengambil keputusan, serta bertindak di dalam organisasi.
+**Memimpin Diri, Memimpin Sesama** adalah buku kerja tentang **leader mindset**: bagaimana seseorang melihat realitas, mengelola diri, membaca situasi dan manusia, berkomunikasi, menyelesaikan masalah, mengambil keputusan, memimpin orang, bekerja di dalam sistem organisasi, dan belajar dari konsekuensi tindakannya.
 
-Buku ini tidak dibangun sebagai kumpulan slogan. Prinsipnya sederhana:
+Kemampuan merespons adalah salah satu kapabilitas leader, bukan keseluruhan kepemimpinan.
 
-> **Baca situasi dengan jernih. Kelola respons. Pilih tindakan yang tepat. Amati akibatnya. Belajar dan perbarui cara.**
+Buku ini tidak dibangun sebagai kumpulan slogan. Operating loop yang menjadi benang merahnya:
+
+> **See → Understand → Decide → Act → Learn**
+
+Atau dalam bentuk yang lebih rinci:
+
+> **Baca realitas. Pahami konteks. Pilih. Bertindak. Amati akibatnya. Review. Perbarui cara.**
 
 Buku berkembang bertahap. Bab yang belum ditulis tidak dianggap sudah selesai; isi yang tersedia adalah bagian yang sedang dikerjakan dan ditinjau.
 
 ## Mulai dari mana?
 
-- **Jika sering bereaksi terlalu cepat:** mulai dari [Bab 1](/chapters/01-siapa-yang-sebenarnya-mengendalikan-respons-saya), lalu Bab 2 dan 6.
+- **Jika ingin memperkuat self-leadership:** mulai dari Bab 1–5.
+- **Jika ingin memperkuat situational judgment:** lanjutkan ke Bab 6–9.
+- **Jika ingin memperkuat komunikasi dan relasi:** lanjutkan ke Bab 10–20.
+- **Jika ingin memperkuat problem solving, decision making, organisasi, dan strategi:** lanjutkan ke Bab 21–39.
 - **Jika ingin memperbaiki cara membaca orang:** lanjutkan ke Bab 7–10.
 - **Jika tantangannya hubungan dan komunikasi:** mulai dari Bab 10–11.
 - **Jika ingin memahami keseluruhan arsitektur buku:** gunakan navigasi di sebelah kiri.
