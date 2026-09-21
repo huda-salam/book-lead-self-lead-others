@@ -215,7 +215,7 @@ Konflik tidak otomatis berarti:
 
 > salah satu pihak buruk.
 
-Tugas leader:
+Tugas pemimpin:
 
 > membuat trade-off terlihat.
 
@@ -328,7 +328,7 @@ Ini menghubungkan:
 
 Cerita:
 
-> “Karena leader terlalu keras, tim berhenti bicara.”
+> “Karena pemimpin terlalu keras, tim berhenti bicara.”
 
 Mungkin. Tetapi cari:
 
@@ -376,11 +376,11 @@ Tetapi tetap:
 
 Kasus:
 
-> “Leader memarahi staf.”
+> “Pemimpin memarahi staf.”
 
 Mudah berkata:
 
-> “Leader toxic.”
+> “Pemimpin toxic.”
 
 Terlalu cepat. Kita perlu tahu:
 
@@ -505,7 +505,7 @@ dapat:
 
 Misalnya:
 
-> “Leader A berhasil karena melakukan daily meeting.”
+> “Pemimpin A berhasil karena melakukan daily meeting.”
 
 Jangan langsung:
 
