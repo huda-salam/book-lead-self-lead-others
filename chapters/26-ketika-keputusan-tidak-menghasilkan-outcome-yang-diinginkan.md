@@ -1,14 +1,12 @@
 # Ketika Keputusan Tidak Menghasilkan Outcome yang Diinginkan
 
-> **Leader capability:** Mampu meninjau keputusan tanpa terjebak hindsight, menyalahkan diri/orang lain secara berlebihan, atau mempertahankan keputusan hanya karena sudah terlanjur dipilih.
+> **Yang dilatih:** Mampu meninjau keputusan tanpa terjebak hindsight, menyalahkan diri/orang lain secara berlebihan, atau mempertahankan keputusan hanya karena sudah terlanjur dipilih.
 
 > **Canonical concept:** DECISION.REVIEW
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
-Ada dua kesalahan yang sama-sama mahal.
-
-Kesalahan pertama:
+Ada dua kesalahan yang sama-sama mahal. Kesalahan pertama:
 
 > “Hasilnya buruk. Berarti keputusan kita memang bodoh.”
 
@@ -20,9 +18,7 @@ Keduanya melewati pertanyaan yang lebih penting:
 
 > **Apa sebenarnya yang terjadi?**
 
-Review bukan sidang untuk mencari orang yang salah.
-
-Review adalah proses untuk memperbaiki model kita tentang:
+Review bukan sidang untuk mencari orang yang salah. Review adalah proses untuk memperbaiki model kita tentang:
 
 - keputusan;
 - eksekusi;
@@ -37,7 +33,7 @@ Review adalah proses untuk memperbaiki model kita tentang:
 Chapter 24 membahas memilih. Chapter 25 membahas menjalankan. Chapter 26 membahas apa yang dilakukan setelah evidence dari execution mulai tersedia.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 Chapter ini melatih kemampuan untuk:
 
@@ -55,39 +51,23 @@ Bayangkan Anda memutuskan:
 
 > “Kita melakukan pilot selama tiga bulan.”
 
-Hasilnya buruk.
+Hasilnya buruk. Ada setidaknya beberapa kemungkinan:
 
-Ada setidaknya beberapa kemungkinan:
+**A. Decision problem** Asumsi awal memang lemah.
 
-**A. Decision problem**
+**B. Execution problem** Keputusan masuk akal, tetapi pelaksanaannya tidak sesuai rancangan.
 
-Asumsi awal memang lemah.
+**C. Context problem** Kondisi eksternal berubah.
 
-**B. Execution problem**
+**D. Measurement problem** Cara mengukur outcome ternyata tidak tepat.
 
-Keputusan masuk akal, tetapi pelaksanaannya tidak sesuai rancangan.
-
-**C. Context problem**
-
-Kondisi eksternal berubah.
-
-**D. Measurement problem**
-
-Cara mengukur outcome ternyata tidak tepat.
-
-**E. Interaction**
-
-Beberapa faktor terjadi sekaligus.
-
-Jadi:
+**E. Interaction** Beberapa faktor terjadi sekaligus. Jadi:
 
 > **Outcome adalah evidence untuk review, bukan vonis otomatis terhadap keputusan.**
 
 ## 2. Hindsight sangat meyakinkan
 
-Setelah sesuatu terjadi, jalurnya terlihat lebih jelas.
-
-Kita mudah berkata:
+Setelah sesuatu terjadi, jalurnya terlihat lebih jelas. Kita mudah berkata:
 
 > “Dari awal sudah kelihatan.”
 
@@ -95,41 +75,23 @@ Pertanyaannya:
 
 > **Apakah memang sudah kelihatan pada saat keputusan dibuat?**
 
-Jika informasi tersebut baru tersedia setelah kejadian, jangan memperlakukan informasi itu seolah-olah sudah diketahui sebelumnya.
-
-Inilah disiplin penting dalam review.
+Jika informasi tersebut baru tersedia setelah kejadian, jangan memperlakukan informasi itu seolah-olah sudah diketahui sebelumnya. Inilah disiplin penting dalam review.
 
 ## 3. Rekonstruksi keputusan
 
-Mulailah dari kondisi saat keputusan dibuat.
+Mulailah dari kondisi saat keputusan dibuat. Tulis:
 
-Tulis:
+**Apa yang kita tahu?** Fakta dan evidence yang tersedia.
 
-**Apa yang kita tahu?**
+**Apa yang kita tidak tahu?** Unknown yang diakui atau belum disadari.
 
-Fakta dan evidence yang tersedia.
+**Apa yang kita yakini?** Interpretasi dan assumptions.
 
-**Apa yang kita tidak tahu?**
+**Apa yang kita prediksi?** Outcome yang diharapkan.
 
-Unknown yang diakui atau belum disadari.
+**Apa yang kita pilih?** Keputusan aktual.
 
-**Apa yang kita yakini?**
-
-Interpretasi dan assumptions.
-
-**Apa yang kita prediksi?**
-
-Outcome yang diharapkan.
-
-**Apa yang kita pilih?**
-
-Keputusan aktual.
-
-**Mengapa?**
-
-Rationale dan trade-off.
-
-Dengan demikian review tidak dimulai dari:
+**Mengapa?** Rationale dan trade-off. Dengan demikian review tidak dimulai dari:
 
 > “Kenapa kita salah?”
 
@@ -153,31 +115,21 @@ Kemudian cari:
 
 > **gap.**
 
-Tetapi gap belum merupakan diagnosis.
-
-Gap adalah:
+Tetapi gap belum merupakan diagnosis. Gap adalah:
 
 > titik awal investigasi.
 
 ## 5. Bedakan prediction error dan decision error
 
-Kita bisa salah memprediksi tanpa membuat keputusan yang tidak masuk akal.
-
-Misalnya:
+Kita bisa salah memprediksi tanpa membuat keputusan yang tidak masuk akal. Misalnya:
 
 > keputusan dibuat berdasarkan data terbaik yang tersedia, tetapi kondisi eksternal berubah secara ekstrem.
 
-Prediction error dapat terjadi.
-
-Sebaliknya, seseorang dapat:
+Prediction error dapat terjadi. Sebaliknya, seseorang dapat:
 
 > mengabaikan evidence penting yang sudah tersedia.
 
-Ini lebih dekat dengan decision-process problem.
-
-Perbedaan ini penting karena tindakan perbaikannya berbeda.
-
-Jika prediction error:
+Ini lebih dekat dengan decision-process problem. Perbedaan ini penting karena tindakan perbaikannya berbeda. Jika prediction error:
 
 > mungkin monitoring dan scenario planning perlu diperbaiki.
 
@@ -187,9 +139,7 @@ Jika decision-process problem:
 
 ## 6. Review execution secara terpisah
 
-Kembali ke Chapter 25.
-
-Tanyakan:
+Kembali ke Chapter 25. Tanyakan:
 
 - apakah owner jelas?
 - apakah resource tersedia?
@@ -204,15 +154,11 @@ Jangan menghukum keputusan karena execution tidak pernah benar-benar terjadi.
 
 ## 7. Review assumptions
 
-Banyak keputusan sebenarnya bergantung pada asumsi.
-
-Contoh:
+Banyak keputusan sebenarnya bergantung pada asumsi. Contoh:
 
 > “Pengguna akan menerima proses baru.”
 
-Itu bukan fakta.
-
-Itu:
+Itu bukan fakta. Itu:
 
 > **assumption.**
 
@@ -256,9 +202,7 @@ Ini membantu menghindari:
 
 ## 9. Reflection bukan rumination
 
-Review membutuhkan refleksi.
-
-Tetapi refleksi berbeda dari mengulang kegagalan dalam kepala:
+Review membutuhkan refleksi. Tetapi refleksi berbeda dari mengulang kegagalan dalam kepala:
 
 > “Kenapa saya sebodoh itu?”
 
@@ -266,9 +210,7 @@ Tetapi refleksi berbeda dari mengulang kegagalan dalam kepala:
 
 > “Kenapa mereka tidak mendengarkan?”
 
-Kalimat seperti itu belum tentu menghasilkan learning.
-
-Gunakan pertanyaan:
+Kalimat seperti itu belum tentu menghasilkan learning. Gunakan pertanyaan:
 
 > Apa yang terjadi?
 
@@ -322,9 +264,7 @@ Apakah kita mengukur hal yang benar?
 
 ### Interaction
 
-Apakah kombinasi beberapa faktor menghasilkan outcome tersebut?
-
-Attribution yang baik dapat mengatakan:
+Apakah kombinasi beberapa faktor menghasilkan outcome tersebut? Attribution yang baik dapat mengatakan:
 
 > “Keputusan awal masih defensible, tetapi asumsi X ternyata salah dan execution Y terlambat. Karena itu metode perlu diubah.”
 
@@ -342,15 +282,11 @@ Contohnya:
 
 > “Sebenarnya kalau saja tim mengikuti instruksi saya…”
 
-Mungkin benar.
-
-Tetapi pertanyaan berikutnya:
+Mungkin benar. Tetapi pertanyaan berikutnya:
 
 > “Mengapa execution tidak berjalan?”
 
-Jika instruction sulit dipahami, resource tidak tersedia, atau dependency tidak diselesaikan, masalahnya lebih luas.
-
-Leader perlu bersedia bertanya:
+Jika instruction sulit dipahami, resource tidak tersedia, atau dependency tidak diselesaikan, masalahnya lebih luas. Leader perlu bersedia bertanya:
 
 > “Apa bagian dari sistem keputusan saya yang ikut menyebabkan masalah?”
 
@@ -358,11 +294,7 @@ Tanpa otomatis mengambil seluruh kesalahan.
 
 ## 12. Kapan continue, change, atau stop?
 
-Tidak semua kegagalan berarti berhenti.
-
-Tidak semua kegagalan berarti lanjut.
-
-Gunakan pertanyaan:
+Tidak semua kegagalan berarti berhenti. Tidak semua kegagalan berarti lanjut. Gunakan pertanyaan:
 
 ### Continue
 
@@ -389,9 +321,7 @@ Apakah:
 - evidence baru membuat manfaat tidak lagi sebanding dengan biaya/risiko;
 - atau alternatif lain lebih masuk akal?
 
-Berhenti bukan selalu kegagalan.
-
-Kadang:
+Berhenti bukan selalu kegagalan. Kadang:
 
 > **berhenti adalah hasil review yang sehat.**
 
@@ -401,9 +331,7 @@ Kalimat:
 
 > “Sudah menghabiskan enam bulan.”
 
-bukan dengan sendirinya alasan untuk melanjutkan.
-
-Biaya yang sudah dikeluarkan:
+bukan dengan sendirinya alasan untuk melanjutkan. Biaya yang sudah dikeluarkan:
 
 > tidak dapat dikembalikan.
 
@@ -411,9 +339,7 @@ Pertanyaan yang lebih berguna:
 
 > “Jika kita mulai dari kondisi hari ini, dengan informasi yang sekarang kita miliki, apakah kita masih akan memilih melanjutkan?”
 
-Bukan berarti sunk cost harus diabaikan dalam semua konteks.
-
-Tetapi biaya masa lalu tidak boleh otomatis mengendalikan pilihan masa depan.
+Bukan berarti sunk cost harus diabaikan dalam semua konteks. Tetapi biaya masa lalu tidak boleh otomatis mengendalikan pilihan masa depan.
 
 ## 14. Review Card
 
@@ -469,37 +395,21 @@ Hasil:
 
 Review awal:
 
-**Decision**
+**Decision** Target dan investasi digital masuk akal berdasarkan kebutuhan.
 
-Target dan investasi digital masuk akal berdasarkan kebutuhan.
+**Execution** Integrasi terlambat dua bulan.
 
-**Execution**
+**Context** Ada perubahan aturan proses.
 
-Integrasi terlambat dua bulan.
-
-**Context**
-
-Ada perubahan aturan proses.
-
-**Assumption**
-
-Diasumsikan pengguna akan berpindah kanal setelah sistem tersedia.
-
-Ternyata:
+**Assumption** Diasumsikan pengguna akan berpindah kanal setelah sistem tersedia. Ternyata:
 
 > sebagian pengguna membutuhkan pendampingan.
 
-**Measurement**
-
-Persentase transaksi digital ternyata tidak membedakan transaksi yang memang eligible untuk digital.
-
-Kesimpulan yang lebih matang:
+**Measurement** Persentase transaksi digital ternyata tidak membedakan transaksi yang memang eligible untuk digital. Kesimpulan yang lebih matang:
 
 > target tidak tercapai.
 
-Tetapi itu belum cukup.
-
-Learning:
+Tetapi itu belum cukup. Learning:
 
 - integrasi perlu milestone lebih awal;
 - adoption assumption perlu diuji melalui pilot;
@@ -512,9 +422,7 @@ Sekarang kegagalan menghasilkan:
 
 ## 16. Review yang menghasilkan perubahan
 
-Review belum selesai ketika kita menemukan penyebab.
-
-Harus ada:
+Review belum selesai ketika kita menemukan penyebab. Harus ada:
 
 > **update.**
 
@@ -535,9 +443,7 @@ Kalau tidak ada perubahan:
 
 ## 17. Latihan: After Action Review pribadi
 
-Ambil satu keputusan dalam 30 hari terakhir.
-
-Jawab:
+Ambil satu keputusan dalam 30 hari terakhir. Jawab:
 
 **1. Apa yang saya harapkan?**
 
@@ -555,15 +461,11 @@ Jawab:
 
 **8. Apa yang harus saya pertahankan?**
 
-**9. Apa trigger untuk continue, change, atau stop?**
-
-Jangan menulis:
+**9. Apa trigger untuk continue, change, atau stop?** Jangan menulis:
 
 > “Saya harus lebih baik.”
 
-Terlalu umum.
-
-Tulis:
+Terlalu umum. Tulis:
 
 > “Pada keputusan berikutnya dengan uncertainty serupa, saya akan menguji assumption X sebelum commitment penuh.”
 
@@ -603,9 +505,7 @@ Review tidak menggantikan investigasi formal. Untuk keselamatan, fraud, pelangga
 
 Part V bergerak melalui satu rangkaian:
 
-**Keluhan → Problem → Hipotesis → Causal reasoning → Trade-off → Decision → Execution → Review**
-
-Artinya:
+**Keluhan → Problem → Hipotesis → Causal reasoning → Trade-off → Decision → Execution → Review** Artinya:
 
 > **solution mindset bukan kemampuan menemukan jawaban secepat mungkin.**
 
@@ -629,9 +529,7 @@ dan akhirnya:
 
 > pembelajaran.
 
-Di titik inilah leadership bertemu dengan learning.
-
-Bukan:
+Di titik inilah leadership bertemu dengan learning. Bukan:
 
 > “Saya sudah benar.”
 
