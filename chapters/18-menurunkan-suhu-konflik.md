@@ -14,7 +14,7 @@ Ketika konflik memanas, kemampuan berpikir sering ikut berubah. Kalimat menjadi 
 
 > “Siapa yang harus menang?”
 
-Di sinilah de-eskalasi dibutuhkan. Bukan untuk membuat semua orang sepakat. Bukan untuk membuat leader terlihat lembut. Bukan pula untuk menghindari keputusan sulit. Tujuannya lebih sederhana:
+Di sinilah de-eskalasi dibutuhkan. Bukan untuk membuat semua orang sepakat. Bukan untuk membuat pemimpin terlihat lembut. Bukan pula untuk menghindari keputusan sulit. Tujuannya lebih sederhana:
 
 > **Turunkan suhu yang tidak perlu agar masalah yang perlu diselesaikan kembali terlihat.**
 
@@ -30,7 +30,7 @@ Chapter 17 membahas cara membaca konflik. Chapter 18 membahas apa yang dapat dil
 
 ## Yang Sedang Kita Latih
 
-Leader sedang melatih kemampuan untuk:
+Pemimpin sedang melatih kemampuan untuk:
 
 - mengenali tanda eskalasi;
 - mengatur tempo percakapan;
@@ -90,7 +90,7 @@ Tujuannya bukan memenangkan ketenangan. Tujuannya menciptakan kondisi agar perca
 
 ## 4. Clarify: apa sebenarnya yang sedang diperdebatkan?
 
-Saat panas, orang sering berdebat tentang beberapa hal sekaligus. Leader dapat mempersempit:
+Saat panas, orang sering berdebat tentang beberapa hal sekaligus. Pemimpin dapat mempersempit:
 
 > “Satu per satu. Apa poin yang paling Anda keberatkan?”
 
@@ -191,7 +191,7 @@ Yang kedua memberi ruang bagi informasi. Tetapi pertanyaan dapat menjadi agresif
 
 > “Jadi sekarang Anda mengakui bahwa Anda salah?”
 
-Tujuannya bukan memahami. Tujuannya menang. Leader perlu mengenali perbedaannya.
+Tujuannya bukan memahami. Tujuannya menang. Pemimpin perlu mengenali perbedaannya.
 
 ## 10. Narrow: kecilkan medan konflik
 
@@ -239,7 +239,7 @@ Tetapi jangan gunakan email atau chat sebagai tempat melampiaskan emosi yang sed
 
 ## 13. Ketika pihak lain terus menaikkan suhu
 
-De-eskalasi bukan kewajiban untuk terus berada dalam percakapan apa pun. Leader dapat berkata:
+De-eskalasi bukan kewajiban untuk terus berada dalam percakapan apa pun. Pemimpin dapat berkata:
 
 > “Saya bersedia membahas masalahnya. Saya tidak akan melanjutkan percakapan jika kita saling menghina.”
 
@@ -331,11 +331,11 @@ Sebelum menutup percakapan, tanyakan:
 Jika jawabannya belum jelas, konflik mungkin sudah lebih tenang tetapi belum selesai.
 
 ::: danger Batas
-Jangan menggunakan ketenangan sebagai pengganti keberanian. Leader dapat berbicara tenang sekaligus menyampaikan keputusan yang tidak menyenangkan, menolak permintaan, menetapkan batas, atau melakukan eskalasi.
+Jangan menggunakan ketenangan sebagai pengganti keberanian. Pemimpin dapat berbicara tenang sekaligus menyampaikan keputusan yang tidak menyenangkan, menolak permintaan, menetapkan batas, atau melakukan eskalasi.
 :::
 
 ::: success Green Note
-**Carry forward:** Konflik yang tenang tetap bisa serius. Konflik yang keras belum tentu penting. Tugas leader adalah menurunkan gangguan emosional yang tidak perlu agar substansi dapat diproses dengan lebih baik.
+**Carry forward:** Konflik yang tenang tetap bisa serius. Konflik yang keras belum tentu penting. Tugas pemimpin adalah menurunkan gangguan emosional yang tidak perlu agar substansi dapat diproses dengan lebih baik.
 :::
 
 ## Evidence notes
