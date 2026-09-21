@@ -46,7 +46,7 @@ Bab ini bukan mengajarkan politik organisasi. Bab ini memberi dasar untuk memaha
 
 ## Yang Sedang Kita Latih
 
-Leader sedang melatih kemampuan untuk:
+Pemimpin sedang melatih kemampuan untuk:
 
 - melihat hubungan antarbagian;
 - memahami aliran pekerjaan;
@@ -90,7 +90,7 @@ Karena itu:
 
 Dua orang dapat memiliki jabatan berbeda tetapi pekerjaan mereka sangat bergantung satu sama lain. Sebaliknya:
 
-dua unit dapat terlihat berdekatan dalam struktur tetapi hampir tidak memiliki dependency operasional. Pertanyaan leader:
+dua unit dapat terlihat berdekatan dalam struktur tetapi hampir tidak memiliki dependency operasional. Pertanyaan pemimpin:
 
 > “Apa yang sebenarnya harus terjadi dari awal sampai akhir?”
 
@@ -132,7 +132,7 @@ Informasi bergerak ke atas dalam bentuk yang semakin ringkas. Kadang itu wajar. 
 
 > informasi penting hilang dalam perjalanan.
 
-Karena itu leader perlu bertanya:
+Karena itu pemimpin perlu bertanya:
 
 **Who knows?** Siapa yang memiliki informasi?
 
@@ -217,7 +217,7 @@ Norma seperti ini dapat membantu koordinasi. Tetapi dapat juga menghasilkan:
 
 > information hiding.
 
-Leader perlu bertanya:
+Pemimpin perlu bertanya:
 
 > Norma ini masalah apa yang sebenarnya sedang coba dipecahkan?
 
@@ -239,7 +239,7 @@ Misalnya:
 
 > laporan dibuat karena dulu pimpinan membutuhkannya.
 
-Sekarang informasi yang sama sudah tersedia real-time. Tetapi laporan tetap dibuat. Pertanyaan leader:
+Sekarang informasi yang sama sudah tersedia real-time. Tetapi laporan tetap dibuat. Pertanyaan pemimpin:
 
 > “Masalah apa yang sebenarnya ingin diselesaikan oleh routine ini?”
 
@@ -275,7 +275,7 @@ Dari sudut sistem:
 
 > biaya berpindah.
 
-Inilah alasan leader perlu melihat:
+Inilah alasan pemimpin perlu melihat:
 
 > **local optimization.**
 
@@ -287,7 +287,7 @@ Bayangkan:
 
 **Unit B:** harus melakukan rework.
 
-**Unit C:** menerima lebih banyak complaint. Setiap unit mungkin memiliki alasan yang masuk akal. Tetapi hasil akhirnya buruk. Pertanyaan leader bukan:
+**Unit C:** menerima lebih banyak complaint. Setiap unit mungkin memiliki alasan yang masuk akal. Tetapi hasil akhirnya buruk. Pertanyaan pemimpin bukan:
 
 > “Siapa yang salah?”
 
@@ -324,7 +324,7 @@ B berkata:
 
 > “Kami menerima seperti itu dari A.”
 
-Leader perlu membuat:
+Pemimpin perlu membuat:
 
 > ownership + interface.
 
@@ -527,7 +527,7 @@ Cari:
 
 > **mekanisme yang membuat gap tersebut bertahan.**
 
-## 18. Pertanyaan untuk leader
+## 18. Pertanyaan untuk pemimpin
 
 Ketika sebuah masalah organisasi muncul, tanyakan:
 
