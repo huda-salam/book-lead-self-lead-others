@@ -11,12 +11,13 @@ Repository state reviewed: main branch, September 2026.
 | Check | Status | Notes |
 |---|---|---|
 | Chapter architecture | PASS | 44 chapters across 10 parts are represented in the architecture. |
-| Public navigation | PASS | VitePress sidebar now exposes Chapters 1–44. |
+| Public navigation | PASS | VitePress sidebar exposes Chapters 1–44. |
 | Landing page | PASS | Landing page reflects 44/44 completion and the final operating loop. |
-| Foundation/research exclusion | PASS | `srcExclude` keeps working artifacts outside public navigation. |
+| Foundation/research exclusion | PASS | srcExclude keeps working artifacts outside public navigation. |
 | Chapter 43 → 44 bridge | PASS | Failure learning flows into Personal Operating System. |
 | Missing placeholder markers | PASS | No TODO / “to be added” markers found in chapter search. |
-| Citation placeholder leakage | PASS | No raw `turn0search...` placeholders found in chapter text. |
+| Citation placeholder leakage | PASS | No raw turn0search placeholders found in chapter text. |
+| Duplicate chapter artifact | PASS | A duplicate extensionless Chapter 13 artifact was identified and removed. |
 
 ## 2. Conceptual integration
 
@@ -144,31 +145,22 @@ No new terminology should be introduced casually in final editorial revisions if
 
 ## 8. VitePress / deployment gate
 
-### Static configuration review: PASS
+### PASS
 
 Verified:
-- `base: '/book-lead-self-lead-others/'`;
+- base: /book-lead-self-lead-others/;
 - local search;
 - GitHub edit links;
 - all 44 chapters in sidebar;
 - GitHub Pages workflow;
 - Node 22;
 - VitePress build command;
-- Pages artifact path `.vitepress/dist`.
+- Pages artifact path .vitepress/dist;
+- GitHub Actions run #130 completed successfully after fixing the landing-page YAML frontmatter.
 
-### Build execution: NOT VERIFIED HERE
+The preceding failed CI run (#128) was traced to an unquoted colon-containing description value in index.md, not to the VitePress configuration or dependency installation.
 
-The environment used for this QA cannot execute the repository's npm build against GitHub-hosted dependencies. Therefore this document does **not** claim a successful VitePress build.
-
-Required external verification:
-
-```bash
-npm install
-npm run docs:build
-npm run docs:dev
-```
-
-The GitHub Actions workflow remains the authoritative CI build gate.
+A public-site HTTP smoke test could not be independently performed from the current tool environment because outbound DNS/network access is unavailable. CI build success is therefore the authoritative build verification currently available.
 
 ## 9. Retrieval QA
 
@@ -230,7 +222,9 @@ A final prose-level pass should inspect whether any individual paragraph acciden
 
 **Public navigation: READY**
 
-**Build: PENDING EXTERNAL/CI VERIFICATION**
+**Build: VERIFIED BY CI**
+
+**Public-site HTTP smoke test: NOT VERIFIED FROM CURRENT ENVIRONMENT**
 
 **Book status: DRAFT COMPLETE — 44/44 CHAPTERS**
 
@@ -243,8 +237,8 @@ This QA does not declare the manuscript typo-free or publication-ready. The next
 - [ ] Citation/provenance spot-check across all chapters
 - [ ] Cross-reference spot-check
 - [ ] Visual callout consistency pass
-- [ ] Local VitePress build
-- [ ] GitHub Actions build PASS
+- [x] CI VitePress build
+- [x] GitHub Actions build PASS
 - [ ] Public site smoke test
 - [ ] Final red-team
 - [ ] Release tag / version
