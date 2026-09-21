@@ -1,6 +1,6 @@
 # Belajar dari Kegagalan
 
-> **Reasoning capability:** Mengubah hasil buruk menjadi pembelajaran tanpa meromantisasi kegagalan, menyalahkan orang secara gegabah, atau menilai keputusan hanya dari outcome.
+> **Yang dilatih:** Mengubah hasil buruk menjadi pembelajaran tanpa meromantisasi kegagalan, menyalahkan orang secara gegabah, atau menilai keputusan hanya dari outcome.
 
 > **Canonical concept:** CASE.FAILURE
 
@@ -12,13 +12,7 @@ Lalu:
 
 > “Kegagalan adalah guru terbaik.”
 
-Kalimat seperti ini dapat berguna sebagai dorongan.
-
-Tetapi sebagai cara berpikir, keduanya terlalu sederhana.
-
-Kegagalan tidak otomatis menjadi guru.
-
-Kadang ia hanya:
+Kalimat seperti ini dapat berguna sebagai dorongan. Tetapi sebagai cara berpikir, keduanya terlalu sederhana. Kegagalan tidak otomatis menjadi guru. Kadang ia hanya:
 
 > mahal.
 
@@ -50,33 +44,19 @@ Maka prinsip chapter ini:
 
 ## 1. Jangan romantisasi kegagalan
 
-Ada dua ekstrem.
-
-Yang pertama:
+Ada dua ekstrem. Yang pertama:
 
 > “Saya gagal, berarti saya belajar.”
 
-Belum tentu.
-
-Yang kedua:
+Belum tentu. Yang kedua:
 
 > “Saya gagal, berarti saya tidak mampu.”
 
-Juga belum tentu.
-
-Kita perlu memisahkan:
+Juga belum tentu. Kita perlu memisahkan:
 
 > **hasil, proses, keputusan, penyebab, dan pembelajaran.**
 
-Sebuah proyek dapat gagal mencapai target karena asumsi pasar berubah.
-
-Sebuah proyek lain dapat gagal karena eksekusi buruk.
-
-Yang lain lagi karena keputusan awal memang lemah.
-
-Yang lain karena sistem dan resource tidak memadai.
-
-Bahkan satu kejadian dapat memiliki beberapa lapisan sekaligus.
+Sebuah proyek dapat gagal mencapai target karena asumsi pasar berubah. Sebuah proyek lain dapat gagal karena eksekusi buruk. Yang lain lagi karena keputusan awal memang lemah. Yang lain karena sistem dan resource tidak memadai. Bahkan satu kejadian dapat memiliki beberapa lapisan sekaligus.
 
 Jadi pertanyaan pertama bukan:
 
@@ -130,11 +110,7 @@ kita belum melakukan diagnosis.
 
 ## 3. Outcome buruk bukan otomatis decision buruk
 
-Ini salah satu disiplin terpenting.
-
-Bayangkan Anda memilih opsi A.
-
-Informasi yang tersedia saat itu:
+Ini salah satu disiplin terpenting. Bayangkan Anda memilih opsi A. Informasi yang tersedia saat itu:
 
 - data terbatas;
 - dua opsi sama-sama berisiko;
@@ -146,11 +122,7 @@ Kemudian:
 
 > outcome A buruk.
 
-Apakah keputusan A otomatis salah?
-
-Tidak.
-
-Kita perlu membedakan:
+Apakah keputusan A otomatis salah? Tidak. Kita perlu membedakan:
 
 > **decision quality**
 
@@ -158,9 +130,7 @@ dari:
 
 > **outcome quality.**
 
-Keputusan yang masuk akal dapat menghasilkan outcome buruk.
-
-Sebaliknya:
+Keputusan yang masuk akal dapat menghasilkan outcome buruk. Sebaliknya:
 
 > keputusan buruk dapat kebetulan menghasilkan outcome baik.
 
@@ -184,9 +154,7 @@ Ketika sesuatu gagal, tulis dua kolom.
 
 > ...
 
-Perbedaannya sering besar.
-
-Contoh:
+Perbedaannya sering besar. Contoh:
 
 Pada Senin:
 
@@ -234,15 +202,11 @@ Hal yang dapat kita pengaruhi tetapi tidak kita kendalikan penuh.
 
 ### External
 
-Hal yang terutama berada di luar pengaruh kita.
-
-Misalnya:
+Hal yang terutama berada di luar pengaruh kita. Misalnya:
 
 > sistem eksternal tiba-tiba berhenti.
 
-Kita mungkin tidak dapat mengendalikan sistem tersebut.
-
-Tetapi kita mungkin dapat mengendalikan:
+Kita mungkin tidak dapat mengendalikan sistem tersebut. Tetapi kita mungkin dapat mengendalikan:
 
 - backup;
 - contingency plan;
@@ -273,9 +237,7 @@ Kalimat:
 
 > “A tidak teliti.”
 
-belum menjelaskan banyak.
-
-Tanyakan:
+belum menjelaskan banyak. Tanyakan:
 
 > Tidak teliti pada bagian mana?
 
@@ -327,9 +289,7 @@ maka:
 
 ## 7. Failure dapat menjadi sinyal kecil
 
-Tidak semua failure datang dalam bentuk bencana.
-
-Kadang ia muncul sebagai:
+Tidak semua failure datang dalam bentuk bencana. Kadang ia muncul sebagai:
 
 - error kecil;
 - keterlambatan;
@@ -339,17 +299,13 @@ Kadang ia muncul sebagai:
 - pekerjaan yang harus diulang;
 - workaround yang makin sering digunakan.
 
-Sinyal kecil dapat penting.
-
-Sitkin (1992), misalnya, membahas *small losses* sebagai kondisi yang dapat menyediakan peluang belajar dengan biaya yang lebih terbatas daripada kegagalan besar. [Sitkin, 1992](https://scholars.duke.edu/publication/913886)
+Sinyal kecil dapat penting. Sitkin (1992), misalnya, membahas *small losses* sebagai kondisi yang dapat menyediakan peluang belajar dengan biaya yang lebih terbatas daripada kegagalan besar. [Sitkin, 1992](https://scholars.duke.edu/publication/913886)
 
 Tetapi jangan mengubahnya menjadi:
 
 > “small failure selalu bagus.”
 
-Tidak.
-
-Nilainya bergantung pada:
+Tidak. Nilainya bergantung pada:
 
 > apakah kita melihatnya;
 
@@ -367,11 +323,7 @@ Bayangkan:
 
 > dokumen hampir salah dikirim,
 
-tetapi ditemukan sebelum terkirim.
-
-Tidak ada kerugian.
-
-Kita dapat berkata:
+tetapi ditemukan sebelum terkirim. Tidak ada kerugian. Kita dapat berkata:
 
 > “Untung ketahuan.”
 
@@ -405,9 +357,7 @@ Lalu:
 
 > “Pastikan tidak terulang.”
 
-Selesai.
-
-Postmortem yang lebih berguna bertanya:
+Selesai. Postmortem yang lebih berguna bertanya:
 
 1. Apa yang diharapkan?
 2. Apa yang terjadi?
@@ -436,11 +386,7 @@ Kalau setelah review kita berkata:
 
 > “Pelajarannya adalah kita harus lebih hati-hati.”
 
-Apa yang berubah?
-
-Tidak jelas.
-
-Learning yang operasional harus menjawab:
+Apa yang berubah? Tidak jelas. Learning yang operasional harus menjawab:
 
 > **apa yang akan berbeda?**
 
@@ -490,9 +436,7 @@ Padahal masalahnya:
 
 Contoh:
 
-Kesalahan input terjadi berulang.
-
-Respons:
+Kesalahan input terjadi berulang. Respons:
 
 > “Pegawai harus lebih teliti.”
 
@@ -522,9 +466,7 @@ sering lebih berguna daripada:
 
 ## 12. Accountability tetap penting
 
-Menghindari blame bukan berarti menghapus accountability.
-
-Jika seseorang:
+Menghindari blame bukan berarti menghapus accountability. Jika seseorang:
 
 > sengaja melanggar aturan,
 
@@ -536,9 +478,7 @@ atau:
 
 > mengulangi pelanggaran setelah koreksi yang memadai,
 
-maka accountability tetap diperlukan.
-
-Tetapi accountability yang sehat bertanya:
+maka accountability tetap diperlukan. Tetapi accountability yang sehat bertanya:
 
 > Apa tanggung jawabnya?
 
@@ -572,11 +512,7 @@ Satu keberhasilan juga tidak cukup untuk menyimpulkan:
 
 > “Dia sangat kompeten.”
 
-Lihat pola.
-
-Lihat konteks.
-
-Lihat:
+Lihat pola. Lihat konteks. Lihat:
 
 > kualitas reasoning;
 
@@ -602,13 +538,9 @@ Itulah failure loop.
 
 Pola yang perlu diwaspadai:
 
-**Failure → Defensiveness → Blame → No Update → Repeat**
+**Failure → Defensiveness → Blame → No Update → Repeat** Kebalikannya:
 
-Kebalikannya:
-
-**Failure → Pause → Reconstruction → Diagnosis → Learning → Change → Test → Review**
-
-Yang kedua bukan berarti:
+**Failure → Pause → Reconstruction → Diagnosis → Learning → Change → Test → Review** Yang kedua bukan berarti:
 
 > selalu berhasil pada percobaan berikutnya.
 
@@ -624,9 +556,7 @@ Nasihat:
 
 > “Jangan menyerah.”
 
-kadang membantu.
-
-Tetapi sebagai aturan universal:
+kadang membantu. Tetapi sebagai aturan universal:
 
 > berbahaya.
 
@@ -699,9 +629,7 @@ Karena itu:
 
 ## 17. Failure dapat bersifat ambigu
 
-Kadang kita tidak tahu mengapa sesuatu gagal.
-
-Misalnya:
+Kadang kita tidak tahu mengapa sesuatu gagal. Misalnya:
 
 > penjualan turun.
 
@@ -716,9 +644,7 @@ Kemungkinan:
 - perubahan pelanggan;
 - atau kombinasi semuanya.
 
-Jangan memaksa satu cerita.
-
-Gunakan:
+Jangan memaksa satu cerita. Gunakan:
 
 > **hypothesis set.**
 
@@ -736,9 +662,7 @@ Kita kadang berkata:
 
 > “Kegagalan terbesar adalah pelajaran terbesar.”
 
-Tidak selalu.
-
-Kegagalan besar dapat:
+Tidak selalu. Kegagalan besar dapat:
 
 - menghancurkan resource;
 - melukai orang;
@@ -792,9 +716,7 @@ Bagaimana kita menguji perubahan itu?
 
 ### Review
 
-Apa yang terjadi setelah perubahan diterapkan?
-
-Perhatikan:
+Apa yang terjadi setelah perubahan diterapkan? Perhatikan:
 
 > framework ini tidak berhenti pada:
 
@@ -870,9 +792,7 @@ Gunakan satu halaman.
 
 ## 21. Contoh sederhana
 
-Sebuah tim meluncurkan fitur.
-
-Target:
+Sebuah tim meluncurkan fitur. Target:
 
 > 1.000 pengguna dalam bulan pertama.
 
@@ -945,9 +865,7 @@ Ia menghasilkan:
 
 ## 22. Latihan: ceritakan ulang satu kegagalan
 
-Pilih satu kegagalan pribadi atau pekerjaan.
-
-Tulis dua versi.
+Pilih satu kegagalan pribadi atau pekerjaan. Tulis dua versi.
 
 ### Versi pertama
 
@@ -961,9 +879,7 @@ Gunakan evidence.
 
 > “Pada minggu kedua, X terjadi. Saat itu saya mengetahui A tetapi belum mengetahui B. Saya memilih C karena D. Setelah itu E terjadi. Evidence yang sekarang saya punya menunjukkan F, tetapi penyebab G masih belum pasti.”
 
-Bandingkan.
-
-Sering kali:
+Bandingkan. Sering kali:
 
 > versi kedua terasa kurang dramatis,
 
@@ -973,9 +889,7 @@ tetapi:
 
 ## 23. Latihan: apa yang harus berubah?
 
-Ambil satu failure.
-
-Lengkapi:
+Ambil satu failure. Lengkapi:
 
 > **Stop:** apa yang harus dihentikan?
 
@@ -1038,9 +952,7 @@ Chapter 44 akan membawa seluruh buku kembali ke praktik:
 
 > **Response → Practice → Review → Habit.**
 
-Failure bukan akhir dari learning loop.
-
-Ia justru menjadi salah satu input terpenting untuk:
+Failure bukan akhir dari learning loop. Ia justru menjadi salah satu input terpenting untuk:
 
 > **meng-update operating system pribadi.**
 
