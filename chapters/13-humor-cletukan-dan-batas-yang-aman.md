@@ -8,7 +8,7 @@
 
 Humor sering muncul ketika orang bekerja bersama: untuk mencairkan suasana, membangun kedekatan, mengurangi ketegangan, atau menyampaikan sesuatu yang sulit secara lebih ringan.
 
-Tetapi humor bukan tombol universal untuk membuat suasana lebih baik. Riset organisasi menunjukkan manfaat dan risiko humor bergantung pada bentuk, target, hubungan, konteks, dan bagaimana humor dipersepsikan. Review tentang humor dalam kepemimpinan juga menekankan kompleksitas definisi, variasi gaya humor, fungsi komunikasi, dan pengaruh konteks budaya. citeturn3search4turn3search11
+Tetapi humor bukan tombol universal untuk membuat suasana lebih baik. Riset organisasi menunjukkan manfaat dan risiko humor bergantung pada bentuk, target, hubungan, konteks, dan bagaimana humor dipersepsikan. Review tentang humor dalam kepemimpinan juga menekankan kompleksitas definisi, variasi gaya humor, fungsi komunikasi, dan pengaruh konteks budaya. ([lihat Evidence notes](#evidence-notes))
 
 ::: success Green Note
 **Leader lens:** Humor yang baik bukan humor yang membuat leader terlihat lucu. Humor yang baik membantu tujuan interaksi tanpa membuat orang lain membayar biaya sosial yang tidak perlu.
@@ -34,7 +34,7 @@ Ada perbedaan besar antara:
 - menggunakan humor untuk menutupi kesalahan;
 - atau menggunakan kelucuan untuk menguji seberapa jauh orang lain dapat dipermalukan.
 
-Literatur humor organisasi memang membedakan bentuk humor dan menemukan bahwa hasilnya tidak seragam. Meta-analysis workplace humor menemukan hubungan positif untuk beberapa bentuk humor, tetapi juga menekankan perlunya membedakan bentuk humor negatif dan konteks penggunaannya. citeturn3search3
+Literatur humor organisasi memang membedakan bentuk humor dan menemukan bahwa hasilnya tidak seragam. Meta-analysis workplace humor menemukan hubungan positif untuk beberapa bentuk humor, tetapi juga menekankan perlunya membedakan bentuk humor negatif dan konteks penggunaannya. ([lihat Evidence notes](#evidence-notes))
 
 Jadi pertanyaan pertama bukan:
 
@@ -73,7 +73,7 @@ Orang mungkin tertawa karena:
 
 Karena itu **tawa bukan bukti bahwa humor diterima dengan baik**.
 
-Review kepemimpinan dan humor menempatkan trust, appropriateness, leadership style, personal preference, dan cultural context sebagai faktor yang memengaruhi hubungan humor dengan leadership. citeturn3search11
+Review kepemimpinan dan humor menempatkan trust, appropriateness, leadership style, personal preference, dan cultural context sebagai faktor yang memengaruhi hubungan humor dengan leadership. ([lihat Evidence notes](#evidence-notes))
 
 ## 4. Jangan menyamakan “bercanda” dengan “aman”
 
@@ -83,7 +83,7 @@ Kalimat:
 
 tidak menyelesaikan masalah jika orang lain ternyata dipermalukan.
 
-Humor memiliki dua sisi. Studi tentang leader humor menemukan bahwa humor afiliatif dapat berkaitan dengan psychological safety dan outcome positif, tetapi bentuk humor agresif dapat membawa outcome negatif. Studi terbaru juga menunjukkan hasil yang lebih kompleks dan bergantung konteks. citeturn3search1turn3search12
+Humor memiliki dua sisi. Studi tentang leader humor menemukan bahwa humor afiliatif dapat berkaitan dengan psychological safety dan outcome positif, tetapi bentuk humor agresif dapat membawa outcome negatif. Studi terbaru juga menunjukkan hasil yang lebih kompleks dan bergantung konteks. ([lihat Evidence notes](#evidence-notes))
 
 Karena itu niat tidak cukup.
 
@@ -95,7 +95,7 @@ Niat baik tidak menjamin bentuknya aman. Bentuk yang terasa ringan bagi pembicar
 
 ## 5. Self-deprecating humor juga punya batas
 
-Menertawakan diri sendiri kadang mengurangi jarak hierarkis. Penelitian 2026 menemukan hubungan antara leader self-deprecating humor, kualitas hubungan leader-member, well-being, dan psychological safety dalam studi survei mereka. citeturn3search9
+Menertawakan diri sendiri kadang mengurangi jarak hierarkis. Penelitian 2026 menemukan hubungan antara leader self-deprecating humor, kualitas hubungan leader-member, well-being, dan psychological safety dalam studi survei mereka. ([lihat Evidence notes](#evidence-notes))
 
 Tetapi jangan mengubahnya menjadi resep:
 
@@ -158,7 +158,7 @@ Red flags yang perlu diperiksa:
 
 Humor semacam itu dapat menciptakan biaya yang jauh lebih besar daripada manfaat cletukannya.
 
-Meta-analysis workplace incivility menunjukkan bahwa incivility memiliki berbagai konsekuensi sosial, afektif, kesehatan, dan perilaku, dengan moderator yang membuat efeknya bergantung konteks. citeturn3search8
+Meta-analysis workplace incivility menunjukkan bahwa incivility memiliki berbagai konsekuensi sosial, afektif, kesehatan, dan perilaku, dengan moderator yang membuat efeknya bergantung konteks. ([lihat Evidence notes](#evidence-notes))
 
 Tidak setiap candaan adalah incivility. Poinnya lebih sederhana: jangan menggunakan humor sebagai alasan untuk mengabaikan risiko penghinaan atau perlakuan tidak hormat.
 
@@ -184,7 +184,7 @@ Kita tidak perlu membuat tempat kerja menjadi ruang tanpa canda.
 
 Humor situasional, permainan kata, cerita ringan, atau menertawakan pengalaman bersama dapat menjadi bagian normal dari hubungan kerja.
 
-Bahkan meta-analysis terhadap humor positif di tempat kerja menemukan hubungan dengan beberapa outcome seperti kepuasan, kohesi, coping, dan performa; tetapi literatur juga menekankan perlunya kehati-hatian terhadap humor negatif dan isu seperti humor yang merendahkan. citeturn3search3
+Bahkan meta-analysis terhadap humor positif di tempat kerja menemukan hubungan dengan beberapa outcome seperti kepuasan, kohesi, coping, dan performa; tetapi literatur juga menekankan perlunya kehati-hatian terhadap humor negatif dan isu seperti humor yang merendahkan. ([lihat Evidence notes](#evidence-notes))
 
 Jadi targetnya bukan:
 
