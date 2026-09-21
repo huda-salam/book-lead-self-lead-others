@@ -1,7 +1,23 @@
-# 02 — Ego, Emosi, dan Jeda
+# Ego, Emosi, dan Jeda
+
+> **Leader capability:** Leader perlu mampu menjaga kualitas penilaiannya ketika status, ego, atau emosi sedang terpicu.
 
 > **Canonical concept:** SELF.EGO_EMOTION  
-> **Capability:** mengenali apa yang sedang terancam atau dipertahankan, memahami fungsi emosi tanpa otomatis tunduk pada dorongan emosi, lalu menciptakan ruang untuk memilih respons.  
+## Mengapa Ini Penting bagi Leader
+
+Leader perlu mampu menjaga kualitas penilaiannya ketika status, ego, atau emosi sedang terpicu.
+
+::: success Green Note
+**Leader lens:** Mengelola emosi bukan berarti menjadi dingin. Tujuannya adalah menjaga agar emosi menjadi informasi tanpa otomatis menjadi komando.
+:::
+
+::: info Konteks
+**Canonical concept:** `SELF.EGO_EMOTION`. Dalam arsitektur buku, konsep ini adalah bagian dari leader mindset, bukan tujuan akhir buku.
+:::
+
+## Kapabilitas yang Sedang Dilatih
+
+**Capability:** mengenali apa yang sedang terancam atau dipertahankan, memahami fungsi emosi tanpa otomatis tunduk pada dorongan emosi, lalu menciptakan ruang untuk memilih respons.  
 > **Status:** Draft v0.1
 
 ## 1. Kadang yang ingin kita pertahankan bukan masalahnya
@@ -573,6 +589,16 @@ Dari sini kita dapat masuk ke pertanyaan yang lebih sulit:
 **Bagaimana menerima bahwa kita mungkin salah, dikoreksi, atau tidak menjadi orang paling tahu di ruangan—tanpa kehilangan kepercayaan diri dan agency?**
 
 Itulah wilayah bab berikutnya.
+
+## Red Flags
+
+::: warning Risiko
+Jangan mengubah capability ini menjadi aturan absolut. Leadership selalu membutuhkan penyesuaian terhadap konteks, stakes, authority, evidence, dan dampak terhadap pihak lain.
+:::
+
+::: success Green Note
+**Carry forward:** capability ini harus membantu pembaca melihat situasi lebih jernih, memilih dengan lebih baik, bertindak dengan ownership, lalu belajar dari konsekuensinya.
+:::
 
 ## Evidence notes
 
