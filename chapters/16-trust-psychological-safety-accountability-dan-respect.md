@@ -6,13 +6,13 @@
 
 ## Mengapa Ini Penting
 
-Banyak masalah organisasi terlihat seperti masalah komunikasi, padahal sebagian masalahnya adalah kondisi hubungan. Orang mungkin tahu bahwa mereka seharusnya menyampaikan risiko, tetapi memilih diam. Bukan selalu karena mereka tidak peduli.
+Banyak persoalan organisasi memang tampak seperti masalah komunikasi. Tetapi kadang akar masalahnya ada pada hubungan: orang memilih diam, tidak percaya bahwa mereka akan didengar, atau sudah belajar bahwa membawa kabar buruk punya biaya sosial. Orang mungkin tahu bahwa mereka seharusnya menyampaikan risiko, tetapi memilih diam. Bukan selalu karena mereka tidak peduli.
 
 Mungkin mereka tidak yakin akan didengar. Mungkin pengalaman sebelumnya membuat mereka berhati-hati. Mungkin mereka memperkirakan konsekuensi sosial terlalu mahal. Di sisi lain, organisasi juga tidak bisa berjalan jika setiap orang hanya ingin merasa aman tanpa kewajiban untuk memenuhi standar.
 
-Karena itu pemimpin perlu memahami beberapa konsep yang sering dicampur:
+Karena itu empat istilah yang sering muncul bersama perlu dipisahkan:
 
-**trust, psychological safety, respect, dan accountability.** Mereka berhubungan, tetapi bukan hal yang sama.
+**trust, psychological safety, respect, dan accountability.** Keempatnya saling berhubungan, tetapi bukan hal yang sama.
 
 ::: success Green Note
 **Lensa pemimpin:** Relasi kerja yang sehat bukan relasi tanpa ketegangan. Orang dapat berkata “saya tidak setuju”, “saya belum bisa”, “data ini salah”, atau “saya membuat kesalahan” tanpa kehilangan martabat—dan tetap diminta bertanggung jawab.
@@ -24,7 +24,7 @@ Psychological safety dalam literatur merujuk pada persepsi bahwa lingkungan aman
 
 ## Yang Sedang Kita Latih
 
-Pemimpin sedang melatih kemampuan untuk:
+Yang perlu dilatih pemimpin adalah:
 
 - membangun rasa hormat tanpa menuntut persetujuan;
 - membuat orang cukup aman untuk menyampaikan informasi penting;
@@ -36,7 +36,7 @@ Pemimpin sedang melatih kemampuan untuk:
 
 ### Trust
 
-Secara praktis, trust berkaitan dengan kesediaan mempercayakan sesuatu kepada pihak lain berdasarkan penilaian tentang hal-hal seperti kemampuan, integritas, atau niat baik. Contoh:
+Secara praktis, trust berarti kita bersedia mempercayakan sesuatu kepada orang lain karena ada dasar untuk menilai kemampuan, integritas, atau niat baiknya. Contoh:
 
 > “Saya percaya dia mampu mengerjakan rekonsiliasi ini.”
 
@@ -48,7 +48,7 @@ Seseorang dapat dipercaya dalam satu dimensi tetapi belum tentu pada dimensi lai
 
 ### Psychological safety
 
-Psychological safety berkaitan dengan persepsi bahwa seseorang dapat mengambil risiko interpersonal tanpa harus takut dipermalukan atau dihukum secara sosial hanya karena berbicara. Contoh:
+Psychological safety berkaitan dengan keyakinan bahwa seseorang dapat mengambil risiko interpersonal—misalnya bertanya, mengakui kesalahan, atau berbeda pendapat—tanpa harus takut dipermalukan atau dihukum secara sosial. Contoh:
 
 > “Saya menemukan kesalahan di laporan saya.”
 
@@ -66,19 +66,19 @@ Respect berarti memperlakukan orang sebagai manusia yang martabatnya tidak hilan
 
 ### Accountability
 
-Accountability berarti ada tanggung jawab terhadap komitmen, standar, keputusan, aturan, dan konsekuensi yang memang relevan. Accountability bukan:
+Accountability berarti orang tetap bertanggung jawab atas komitmen, standar, keputusan, aturan, dan konsekuensi yang memang menjadi bagian tanggung jawabnya. Accountability bukan:
 
 > “Saya harus mencari siapa yang bisa disalahkan.”
 
-Empat konsep ini perlu dipisahkan.
+Empat konsep ini sebaiknya tetap dibedakan.
 
 ## 2. Psychological safety bukan “semua orang harus nyaman”
 
-Jika seorang pemimpin berkata:
+Bayangkan seorang pemimpin berkata:
 
 > “Di sini semua orang bebas bicara.”
 
-itu baru pernyataan. Pertanyaan yang lebih penting:
+Itu baru pernyataan. Yang lebih menarik adalah apa yang terjadi setelah seseorang benar-benar bicara. Pertanyaan yang lebih penting:
 
 > “Apa yang terjadi ketika seseorang benar-benar mengatakan sesuatu yang tidak ingin saya dengar?”
 
@@ -92,11 +92,11 @@ Jika jawabannya:
 
 maka pesan formal dan pengalaman nyata dapat berbeda. Sebaliknya, psychological safety tidak berarti semua orang bebas mengatakan apa pun tanpa batas. Informasi harus tetap relevan. Perbedaan pendapat tetap perlu alasan. Pelanggaran tetap perlu ditangani.
 
-Standar tetap berlaku.
+Standar tetap ada.
 
-## 3. Trust bukan blind faith
+## 3. Trust bukan kepercayaan buta
 
-Kesalahan lain adalah menganggap trust berarti:
+Kesalahan lain adalah menganggap trust sebagai:
 
 > “Saya percaya dia sepenuhnya.”
 
@@ -108,11 +108,11 @@ belum tentu berarti:
 
 > “Saya tidak perlu memeriksa hasilnya.”
 
-Trust yang sehat dapat berjalan bersama verification. Terutama pada pekerjaan dengan risiko tinggi. Jangan menggunakan trust sebagai alasan untuk menghapus kontrol yang memang diperlukan. Dan jangan menggunakan kontrol sebagai bukti bahwa tidak ada trust.
+Trust yang sehat justru masih bisa berjalan bersama verification. Terutama pada pekerjaan dengan risiko tinggi. Jangan menggunakan trust sebagai alasan untuk menghapus kontrol yang memang diperlukan. Dan jangan menggunakan kontrol sebagai bukti bahwa tidak ada trust.
 
 ## 4. Respect bukan agreement
 
-Chapter 11 sudah membahas ini dari sisi disagreement. Di sini kita memperluasnya. Pemimpin dapat mengatakan:
+Chapter 11 melihatnya dari sisi perbedaan pendapat. Di sini kita melihat konsekuensinya dalam hubungan kerja. Pemimpin dapat berkata:
 
 > “Saya menghargai pandangan Anda. Saya tetap mengambil keputusan berbeda.”
 
@@ -122,7 +122,7 @@ Itu bukan kontradiksi. Demikian pula bawahan dapat mengatakan:
 
 Respect menjaga hubungan. Argumentasi menjaga kualitas keputusan. Accountability menjaga pelaksanaan. Ketiganya dapat berjalan bersama.
 
-## 5. Accountability tanpa humiliation
+## 5. Accountability tanpa mempermalukan
 
 Bayangkan dua pemimpin menghadapi kesalahan yang sama. Pemimpin A:
 
@@ -132,7 +132,7 @@ Pemimpin B:
 
 > “Kesalahan ini harus kita perbaiki. Kita perlu tahu apa yang terjadi, siapa yang bertanggung jawab atas bagian ini, dan kontrol apa yang perlu diperbaiki.”
 
-Pemimpin B tidak menghilangkan accountability. Ia memisahkan:
+Pemimpin B tetap menuntut accountability. Ia memisahkan:
 
 **kesalahan → tanggung jawab → perbaikan** dari:
 
@@ -140,7 +140,7 @@ Pemimpin B tidak menghilangkan accountability. Ia memisahkan:
 
 ## 6. Bagaimana pemimpin membangun safety secara nyata?
 
-Bukan terutama melalui slogan. Perhatikan respons ketika orang:
+Bukan lewat slogan. Perhatikan respons ketika orang:
 
 ### Mengakui kesalahan
 
@@ -158,9 +158,9 @@ Bukan terutama melalui slogan. Perhatikan respons ketika orang:
 
 > “Saya mungkin melewatkan bagian itu. Mari kita cek.”
 
-Respons seperti ini tidak menjamin psychological safety. Tetapi secara perilaku, mereka memberi sinyal bahwa informasi yang tidak nyaman tidak otomatis dihukum.
+Respons seperti ini memang tidak menjamin psychological safety. Tetapi secara perilaku, mereka memberi sinyal bahwa informasi yang tidak nyaman tidak otomatis dihukum.
 
-## 7. Safety tanpa accountability juga bermasalah
+## 7. Safety tanpa accountability juga bisa bermasalah
 
 Bayangkan sebuah tim yang sangat nyaman berbicara tetapi:
 
@@ -170,7 +170,7 @@ Bayangkan sebuah tim yang sangat nyaman berbicara tetapi:
 - standar berubah tergantung orang;
 - keputusan tidak pernah benar-benar selesai.
 
-Itu bukan sistem yang sehat. Pemimpin perlu dapat mengatakan:
+Sistem seperti ini juga tidak sehat. Pemimpin perlu dapat mengatakan:
 
 > “Saya menghargai bahwa Anda menyampaikan masalah ini. Sekarang kita tetap perlu menyelesaikan bagian yang menjadi tanggung jawab Anda.”
 
@@ -180,7 +180,7 @@ Ini mungkin terasa kontradiktif. Sebenarnya tidak.
 
 ## 8. Accountability tanpa safety juga merusak informasi
 
-Kebalikannya:
+Sebaliknya, ada keadaan lain:
 
 > “Di sini semua harus bertanggung jawab.”
 
@@ -240,7 +240,7 @@ Lalu:
 
 Pertanyaan kedua sering lebih informatif daripada poster bertuliskan “Speak Up”.
 
-## 12. Relational conditions tidak menggantikan struktur
+## 12. Kondisi relasional tidak menggantikan struktur
 
 Tidak semua masalah trust atau safety. Kadang orang diam karena:
 
@@ -251,11 +251,11 @@ Tidak semua masalah trust atau safety. Kadang orang diam karena:
 - proses terlalu rumit;
 - atau ada risiko hukum/operasional yang nyata.
 
-Jangan psikologisasi masalah struktural. Perbaiki sistem jika masalahnya memang sistem.
+Jangan mengubah persoalan struktural menjadi persoalan psikologis. Perbaiki sistem jika masalahnya memang sistem.
 
 ## 13. Model kerja: Respect → Safety to Speak → Trust Calibration → Accountability → Repair/Learning
 
-Model ini adalah **sintesis kerja buku**, bukan taxonomy tervalidasi atau urutan kausal universal.
+Model ini adalah **sintesis kerja buku**, bukan taxonomy tervalidasi dan bukan urutan sebab-akibat yang berlaku universal.
 
 ### Respect
 
@@ -290,7 +290,7 @@ Pilih satu tim atau hubungan kerja. Jawab:
 7. Apakah keputusan yang salah dapat dikoreksi tanpa mencari kambing hitam?
 8. Masalah mana yang sebenarnya struktural?
 
-Jangan mencari skor. Cari satu perilaku pemimpin yang dapat diubah minggu ini.
+Tidak perlu membuat skor. Cari satu perilaku pemimpin yang benar-benar bisa diubah minggu ini.
 
 ## 15. Ketika kondisi relasional tidak cukup
 
@@ -304,7 +304,7 @@ Ada situasi yang tetap membutuhkan:
 - eskalasi;
 - atau tindakan disipliner.
 
-Trust tidak menggantikan kontrol. Psychological safety tidak menggantikan governance. Respect tidak menggantikan accountability. Dan accountability tidak menghapus kebutuhan untuk menghormati manusia.
+Trust tidak menggantikan kontrol. Psychological safety tidak menggantikan governance. Respect tidak menggantikan accountability. Dan accountability tetap tidak menghapus kebutuhan untuk menghormati manusia.
 
 ::: warning Risiko
 Jangan menggunakan “psychological safety” sebagai alasan untuk menghindari feedback, evaluasi, standar, atau konsekuensi yang memang diperlukan.
@@ -315,7 +315,7 @@ Jangan menggunakan trust, kedekatan, atau status sebagai alasan untuk memberi pe
 :::
 
 ::: success Green Note
-**Carry forward:** Hubungan kerja yang sehat bukan hubungan tanpa koreksi. Justru kualitas hubungan terlihat dari kemampuan orang untuk berkata benar, menerima koreksi, tetap bertanggung jawab, dan memperbaiki hubungan setelah terjadi masalah.
+**Carry forward:** Hubungan kerja yang sehat bukan hubungan yang bebas dari koreksi. Justru kualitas hubungan terlihat dari kemampuan orang untuk berkata benar, menerima koreksi, tetap bertanggung jawab, dan memperbaiki hubungan setelah terjadi masalah.
 :::
 
 ## Evidence notes
