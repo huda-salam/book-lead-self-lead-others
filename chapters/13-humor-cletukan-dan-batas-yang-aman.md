@@ -9,7 +9,7 @@
 Humor sering muncul ketika orang bekerja bersama: untuk mencairkan suasana, membangun kedekatan, mengurangi ketegangan, atau menyampaikan sesuatu yang sulit secara lebih ringan. Tetapi humor bukan tombol universal untuk membuat suasana lebih baik. Riset organisasi menunjukkan manfaat dan risiko humor bergantung pada bentuk, target, hubungan, konteks, dan bagaimana humor dipersepsikan. Review tentang humor dalam kepemimpinan juga menekankan kompleksitas definisi, variasi gaya humor, fungsi komunikasi, dan pengaruh konteks budaya. ([lihat Evidence notes](#evidence-notes))
 
 ::: success Green Note
-**Lensa pemimpin:** Humor yang baik bukan humor yang membuat leader terlihat lucu. Humor yang baik membantu tujuan interaksi tanpa membuat orang lain membayar biaya sosial yang tidak perlu.
+**Lensa pemimpin:** Humor yang baik bukan humor yang membuat pemimpin terlihat lucu. Humor yang baik membantu tujuan interaksi tanpa membuat orang lain membayar biaya sosial yang tidak perlu.
 :::
 
 ::: info Konteks
@@ -18,7 +18,7 @@ Bab ini tidak mengajarkan teknik menjadi komedian. Fokusnya adalah judgment: kap
 
 ## Yang Sedang Kita Latih
 
-**Capability:** membaca target humor, power, timing, dan kemungkinan dampaknya sebelum melempar cletukan—serta mampu berhenti ketika humor tidak lagi membantu.
+**Fokus latihan:** membaca target humor, power, timing, dan kemungkinan dampaknya sebelum melempar cletukan—serta mampu berhenti ketika humor tidak lagi membantu.
 
 ## 1. Humor bukan satu jenis perilaku
 
@@ -54,9 +54,9 @@ dengan:
 
 Yang pertama menertawakan situasi. Yang kedua menjadikan seseorang target. Target bukan satu-satunya faktor, tetapi merupakan pemeriksaan awal yang penting. Humor yang diarahkan kepada kelompok yang memiliki posisi lebih rendah juga tidak sama risikonya dengan humor antarorang yang memiliki posisi relatif setara. Power dapat mengubah makna sebuah cletukan.
 
-## 3. Leader memiliki biaya humor yang berbeda
+## 3. Pemimpin memiliki biaya humor yang berbeda
 
-Ketika seorang leader bercanda, bawahan tidak selalu bebas merespons seperti teman sebaya. Orang mungkin tertawa karena:
+Ketika seorang pemimpin bercanda, bawahan tidak selalu bebas merespons seperti teman sebaya. Orang mungkin tertawa karena:
 - benar-benar lucu;
 - ingin menjaga hubungan;
 - tidak ingin terlihat sensitif;
@@ -71,7 +71,7 @@ Kalimat:
 
 > “Kan cuma bercanda.”
 
-tidak menyelesaikan masalah jika orang lain ternyata dipermalukan. Humor memiliki dua sisi. Studi tentang leader humor menemukan bahwa humor afiliatif dapat berkaitan dengan psychological safety dan outcome positif, tetapi bentuk humor agresif dapat membawa outcome negatif. Studi terbaru juga menunjukkan hasil yang lebih kompleks dan bergantung konteks. ([lihat Evidence notes](#evidence-notes))
+tidak menyelesaikan masalah jika orang lain ternyata dipermalukan. Humor memiliki dua sisi. Studi tentang pemimpin humor menemukan bahwa humor afiliatif dapat berkaitan dengan psychological safety dan outcome positif, tetapi bentuk humor agresif dapat membawa outcome negatif. Studi terbaru juga menunjukkan hasil yang lebih kompleks dan bergantung konteks. ([lihat Evidence notes](#evidence-notes))
 
 Karena itu niat tidak cukup. Periksa tiga hal:
 
@@ -79,17 +79,17 @@ Karena itu niat tidak cukup. Periksa tiga hal:
 
 ## 5. Self-deprecating humor juga punya batas
 
-Menertawakan diri sendiri kadang mengurangi jarak hierarkis. Penelitian 2026 menemukan hubungan antara leader self-deprecating humor, kualitas hubungan leader-member, well-being, dan psychological safety dalam studi survei mereka. ([lihat Evidence notes](#evidence-notes))
+Menertawakan diri sendiri kadang mengurangi jarak hierarkis. Penelitian 2026 menemukan hubungan antara pemimpin self-deprecating humor, kualitas hubungan pemimpin-member, well-being, dan psychological safety dalam studi survei mereka. ([lihat Evidence notes](#evidence-notes))
 
 Tetapi jangan mengubahnya menjadi resep:
 
 > “Kalau ingin dekat dengan bawahan, sering-sering merendahkan diri.”
 
 Itu terlalu jauh. Self-deprecating humor dapat menjadi masalah jika:
-- leader merendahkan kompetensinya secara berulang;
+- pemimpin merendahkan kompetensinya secara berulang;
 - orang lain kemudian tidak tahu kapan harus serius;
 - humor dipakai untuk menghindari accountability;
-- atau leader meminta orang lain ikut menertawakan kelemahannya.
+- atau pemimpin meminta orang lain ikut menertawakan kelemahannya.
 
 Humility bukan berarti menjadikan diri sendiri sasaran penghinaan.
 
@@ -112,7 +112,7 @@ Dalam percakapan privat, sebuah candaan memiliki konteks. Di grup, cletukan:
 - dapat dibaca ulang;
 - dapat ditafsirkan tanpa intonasi;
 - dapat mempermalukan seseorang di depan orang lain;
-- dan dapat menjadi bukti sosial bahwa leader ikut menormalisasi perilaku tertentu.
+- dan dapat menjadi bukti sosial bahwa pemimpin ikut menormalisasi perilaku tertentu.
 
 Semakin luas audiens, semakin tinggi kebutuhan untuk memeriksa target dan konsekuensi.
 
@@ -138,15 +138,15 @@ Tidak setiap candaan adalah incivility. Poinnya lebih sederhana: jangan mengguna
 
 ## 9. Humor dan kritik tidak selalu bisa digabung
 
-Ada situasi di mana leader ingin mengoreksi tetapi menggunakan candaan:
+Ada situasi di mana pemimpin ingin mengoreksi tetapi menggunakan candaan:
 
 > “Wah, hebat. Sekali lagi kita berhasil membuat deadline jadi target yang fleksibel.”
 
 Jika orang memahami bahwa itu kritik, mungkin pesan tersampaikan. Tetapi jika masalahnya serius, bentuk ini memiliki risiko:
-- orang tidak tahu apakah leader sungguh-sungguh;
+- orang tidak tahu apakah pemimpin sungguh-sungguh;
 - kritik berubah menjadi sindiran;
 - masalah substansi bergeser menjadi rasa malu;
-- leader dapat menyangkal maksudnya jika ditantang.
+- pemimpin dapat menyangkal maksudnya jika ditantang.
 
 Jika feedback penting, gunakan bahasa yang jelas. Humor tidak perlu menjadi kamuflase.
 
@@ -188,7 +188,7 @@ Atau:
 
 > “Maksud saya bercanda, tetapi saya paham itu bisa terdengar merendahkan. Maaf.”
 
-Leader tidak kehilangan wibawa karena mengoreksi candaan yang keliru. Justru tindakan itu menunjukkan bahwa ia dapat memperbaiki perilakunya sendiri.
+Pemimpin tidak kehilangan wibawa karena mengoreksi candaan yang keliru. Justru tindakan itu menunjukkan bahwa ia dapat memperbaiki perilakunya sendiri.
 
 ## 13. Model kerja: Target → Power → Context → Cost → Choice
 
@@ -208,7 +208,7 @@ Jika gagal, apa yang hilang?
 Kepercayaan? Martabat? Kejelasan? Fokus? Kredibilitas?
 
 ### Choice
-Bercanda, ubah bentuk humor, tunda, atau tidak menggunakan humor. Tujuan model bukan menghitung skor. Tujuannya memaksa leader melakukan pemeriksaan sebelum bertindak.
+Bercanda, ubah bentuk humor, tunda, atau tidak menggunakan humor. Tujuan model bukan menghitung skor. Tujuannya memaksa pemimpin melakukan pemeriksaan sebelum bertindak.
 
 ## 14. Latihan: ganti cletukan dengan fungsi
 
@@ -226,7 +226,7 @@ Jika jawabannya:
 
 Latihan ini penting karena kadang kita tidak membutuhkan humor. Kita membutuhkan keberanian untuk mengatakan hal yang sebenarnya.
 
-## 15. Ketika leader harus tegas
+## 15. Ketika pemimpin harus tegas
 
 Ada situasi yang bukan tempat untuk bercanda:
 
@@ -254,7 +254,7 @@ Humor tidak boleh menjadi alasan untuk penghinaan, diskriminasi, pelecehan, pemb
 :::
 
 ::: success Green Note
-**Carry forward:** leader yang matang tidak harus selalu lucu. Ia tahu kapan humor membantu hubungan, kapan humor mengaburkan pesan, dan kapan candaan sebaiknya tidak dikeluarkan.
+**Carry forward:** pemimpin yang matang tidak harus selalu lucu. Ia tahu kapan humor membantu hubungan, kapan humor mengaburkan pesan, dan kapan candaan sebaiknya tidak dikeluarkan.
 :::
 
 ## Evidence notes
@@ -262,5 +262,5 @@ Humor tidak boleh menjadi alasan untuk penghinaan, diskriminasi, pelecehan, pemb
 - Rosenberg, Walker, Leiter & Graffam, *Humor in Workplace Leadership: A Systematic Search Scoping Review*.
 - Mesmer-Magnus et al., *A meta-analysis of positive humor in the workplace*.
 - Rosenberg et al. (2024), *The success elements of humor use in workplace leadership: A proposed framework with cognitive and emotional competencies*.
-- Sohr, Knaut & Kowalski (2026), *Effects of leader self-deprecating humor on employee well-being and psychological safety*.
-- Studies on leader affiliative/aggressive humor and employee outcomes, including psychological safety, incivility, ostracism, and creativity.
+- Sohr, Knaut & Kowalski (2026), *Effects of pemimpin self-deprecating humor on employee well-being and psychological safety*.
+- Studies on pemimpin affiliative/aggressive humor and employee outcomes, including psychological safety, incivility, ostracism, and creativity.
