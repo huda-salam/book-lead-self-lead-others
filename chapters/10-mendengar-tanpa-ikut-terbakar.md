@@ -1,7 +1,6 @@
 # 10 — Mendengar Tanpa Ikut Terbakar
 
 > **Canonical concept:** COMM.LISTENING
-> **Status:** Draft v0.1
 
 ## 1. Mendengar bukan berarti menyerap emosi orang lain
 
@@ -13,19 +12,11 @@ Jika kita langsung ikut terbakar:
 
 > “Memang keterlaluan. Siapa yang melakukan itu?”
 
-kita mungkin merasa sedang membela.
-
-Tetapi kita juga bisa sedang memperbesar api.
-
-Sebaliknya, jika kita langsung memotong:
+kita mungkin merasa sedang membela. Tetapi kita juga bisa sedang memperbesar api. Sebaliknya, jika kita langsung memotong:
 
 > “Jangan emosional. Kita cari solusinya.”
 
-kita mungkin merasa sedang rasional.
-
-Tetapi orang tersebut bisa merasa tidak didengar.
-
-Mendengar yang baik berada di antara dua kegagalan:
+kita mungkin merasa sedang rasional. Tetapi orang tersebut bisa merasa tidak didengar. Mendengar yang baik berada di antara dua kegagalan:
 
 > **ikut terseret oleh emosi**  
 > dan  
@@ -57,9 +48,7 @@ tanpa menyimpulkan:
 
 > “Berarti pihak lain memang salah.”
 
-Perbedaan ini penting karena orang sering takut bahwa jika mereka mengakui perasaan atau perspektif seseorang, mereka kehilangan posisi.
-
-Tidak.
+Perbedaan ini penting karena orang sering takut bahwa jika mereka mengakui perasaan atau perspektif seseorang, mereka kehilangan posisi. Tidak.
 
 **Acknowledgment bukan concession.**
 
@@ -67,9 +56,7 @@ Tidak.
 
 ## 3. Mendengar memiliki beberapa tugas
 
-Saat seseorang berbicara, kita tidak hanya menerima kata-kata.
-
-Kita perlu mencoba memahami:
+Saat seseorang berbicara, kita tidak hanya menerima kata-kata. Kita perlu mencoba memahami:
 
 ### Isi
 
@@ -89,11 +76,7 @@ Apa yang tampaknya ia rasakan?
 
 ### Permintaan
 
-Apa yang ia harapkan dari kita?
-
-Tidak semuanya harus langsung dijawab.
-
-Kadang tugas pertama hanya:
+Apa yang ia harapkan dari kita? Tidak semuanya harus langsung dijawab. Kadang tugas pertama hanya:
 
 > **memastikan kita tidak salah memahami masalah.**
 
@@ -101,9 +84,7 @@ Kadang tugas pertama hanya:
 
 ## 4. Jangan buru-buru memperbaiki
 
-Ini salah satu kebiasaan yang paling mudah muncul.
-
-Orang berkata:
+Ini salah satu kebiasaan yang paling mudah muncul. Orang berkata:
 
 > “Saya benar-benar kewalahan.”
 
@@ -119,19 +100,11 @@ Atau:
 
 > “Saya juga pernah mengalami.”
 
-Saran tersebut mungkin benar.
-
-Tetapi mungkin belum waktunya.
-
-Orang yang sedang berbicara belum tentu meminta solusi.
-
-Maka pertanyaan sederhana:
+Saran tersebut mungkin benar. Tetapi mungkin belum waktunya. Orang yang sedang berbicara belum tentu meminta solusi. Maka pertanyaan sederhana:
 
 > **“Kamu ingin saya dengarkan dulu, atau kita cari solusi?”**
 
-bisa menghemat banyak kesalahpahaman.
-
-Ini bukan formula wajib. Dalam situasi tertentu, kita dapat langsung bertindak jika risiko mendesak.
+bisa menghemat banyak kesalahpahaman. Ini bukan formula wajib. Dalam situasi tertentu, kita dapat langsung bertindak jika risiko mendesak.
 
 ---
 
@@ -143,9 +116,7 @@ Gunakan loop sederhana:
 
 ### Attend
 
-Berikan perhatian.
-
-Kurangi multitasking jika percakapan penting.
+Berikan perhatian. Kurangi multitasking jika percakapan penting.
 
 ### Clarify
 
@@ -167,9 +138,7 @@ Pastikan pemahaman Anda benar.
 
 ### Respond
 
-Baru pilih respons yang sesuai.
-
-Bisa berupa:
+Baru pilih respons yang sesuai. Bisa berupa:
 - informasi;
 - pertanyaan;
 - solusi;
@@ -183,11 +152,7 @@ Ini adalah **kerangka kerja buku**, bukan prosedur listening tervalidasi.
 
 ## 6. Listening tidak sama dengan membiarkan
 
-Ada situasi ketika seseorang berbicara dengan keras, menghina, atau menekan.
-
-Kita tetap dapat mendengar isi masalah tanpa menerima perilakunya.
-
-Contoh:
+Ada situasi ketika seseorang berbicara dengan keras, menghina, atau menekan. Kita tetap dapat mendengar isi masalah tanpa menerima perilakunya. Contoh:
 
 > “Saya ingin memahami keberatan Anda. Tetapi saya tidak bisa melanjutkan percakapan jika saya dihina. Kita bisa lanjut ketika kita dapat berbicara tanpa saling menyerang.”
 
@@ -202,11 +167,7 @@ Keduanya dapat berjalan bersama.
 
 ## 7. Validasi bukan pembenaran
 
-Kata “validasi” sering disalahpahami.
-
-Validasi dalam percakapan dapat berarti mengakui bahwa pengalaman atau perasaan seseorang masuk akal untuk diperhatikan.
-
-Contoh:
+Kata “validasi” sering disalahpahami. Validasi dalam percakapan dapat berarti mengakui bahwa pengalaman atau perasaan seseorang masuk akal untuk diperhatikan. Contoh:
 
 > “Saya bisa memahami mengapa Anda frustrasi setelah menunggu selama itu.”
 
@@ -234,17 +195,11 @@ Ketika seseorang sedang marah, ada godaan untuk ikut menggunakan bahasanya.
 
 > “Jangan mau diinjak.”
 
-Kadang dukungan seperti itu terasa sangat dekat.
-
-Tetapi jika informasi belum lengkap, kita mungkin sedang menguatkan cerita yang belum diuji.
-
-Respons yang lebih stabil:
+Kadang dukungan seperti itu terasa sangat dekat. Tetapi jika informasi belum lengkap, kita mungkin sedang menguatkan cerita yang belum diuji. Respons yang lebih stabil:
 
 > “Saya dengar Anda sangat kesal. Bagian mana yang paling membuat Anda merasa diperlakukan tidak adil?”
 
-Perhatikan perbedaannya.
-
-Kita tidak mengatakan:
+Perhatikan perbedaannya. Kita tidak mengatakan:
 
 > “Anda salah.”
 
@@ -274,11 +229,7 @@ Atau:
 
 > “Dia narsistik.”
 
-Keluhan adalah data tentang pengalaman seseorang.
-
-Bukan otomatis diagnosis tentang dirinya atau orang lain.
-
-Pertanyaan yang lebih berguna:
+Keluhan adalah data tentang pengalaman seseorang. Bukan otomatis diagnosis tentang dirinya atau orang lain. Pertanyaan yang lebih berguna:
 
 > “Apa yang terjadi?”
 
@@ -294,9 +245,7 @@ Ini menjaga percakapan tetap dekat dengan evidence.
 
 ## 10. Mendengar juga membutuhkan batas perhatian
 
-Listening bukan berarti kita harus menjadi tempat pembuangan semua emosi orang lain.
-
-Ada batas:
+Listening bukan berarti kita harus menjadi tempat pembuangan semua emosi orang lain. Ada batas:
 
 - waktu;
 - kapasitas;
@@ -309,17 +258,13 @@ Kita dapat berkata:
 
 > “Saya ingin dengar, tetapi sekarang saya hanya punya 15 menit. Kalau Anda mau, kita gunakan waktu itu untuk memahami masalah utamanya.”
 
-Ini bukan dingin.
-
-Ini membuat kapasitas kita jujur.
+Ini bukan dingin. Ini membuat kapasitas kita jujur.
 
 ---
 
 ## 11. Ketika orang hanya ingin didengar
 
-Tidak semua percakapan membutuhkan intervensi.
-
-Kadang orang membutuhkan:
+Tidak semua percakapan membutuhkan intervensi. Kadang orang membutuhkan:
 
 > “Saya dengar.”
 
@@ -329,13 +274,7 @@ Kadang orang membutuhkan:
 
 > “Jadi yang paling membuat Anda kesal adalah perubahan mendadak itu?”
 
-Tidak perlu selalu memberikan kuliah.
-
-Tidak perlu selalu menemukan solusi.
-
-Tidak perlu selalu membandingkan pengalaman.
-
-Kadang kualitas respons ditentukan oleh kemampuan **tidak mengambil alih percakapan**.
+Tidak perlu selalu memberikan kuliah. Tidak perlu selalu menemukan solusi. Tidak perlu selalu membandingkan pengalaman. Kadang kualitas respons ditentukan oleh kemampuan **tidak mengambil alih percakapan**.
 
 ---
 
@@ -349,13 +288,7 @@ Atau:
 
 > “Ada dua hal yang bisa kita lakukan. Mau kita bahas?”
 
-Ini mengembalikan agency kepada lawan bicara.
-
-Namun jika kita memang memiliki tanggung jawab untuk mengambil keputusan, kita tidak harus menyerahkan keputusan hanya karena sedang mendengar.
-
-Listening memperbaiki input.
-
-Ia tidak menghapus responsibility.
+Ini mengembalikan agency kepada lawan bicara. Namun jika kita memang memiliki tanggung jawab untuk mengambil keputusan, kita tidak harus menyerahkan keputusan hanya karena sedang mendengar. Listening memperbaiki input. Ia tidak menghapus responsibility.
 
 ---
 
@@ -381,9 +314,7 @@ Setelah jelas:
 
 > “Saya paham constraint-nya. Namun deadline ini tetap harus dipenuhi. Mari kita tentukan apa yang perlu diprioritaskan dan apa yang bisa dipindahkan.”
 
-Listening tidak menghapus standar.
-
-Ia membantu kita menentukan **apakah masalahnya kapasitas, prioritas, proses, atau accountability**.
+Listening tidak menghapus standar. Ia membantu kita menentukan **apakah masalahnya kapasitas, prioritas, proses, atau accountability**.
 
 ---
 
@@ -411,17 +342,11 @@ Listening membantu mengubah instruksi menjadi pemahaman operasional.
 
 ## 15. Mendengar rekan yang sedang mengeluh
 
-Ini sangat relevan untuk kebiasaan kita sendiri.
-
-Ketika rekan mulai mengeluh, ada godaan untuk ikut “ngompori”.
-
-Misalnya:
+Ini sangat relevan untuk kebiasaan kita sendiri. Ketika rekan mulai mengeluh, ada godaan untuk ikut “ngompori”. Misalnya:
 
 > “Iya, dia memang begitu.”
 
-Lalu cerita berkembang.
-
-Alternatif:
+Lalu cerita berkembang. Alternatif:
 
 > “Saya paham kenapa kamu kesal. Tapi sebelum kita simpulkan niatnya, sebenarnya apa yang dia lakukan?”
 
@@ -429,9 +354,7 @@ Jika memang ada masalah:
 
 > “Kalau begitu, apa yang paling perlu kamu selesaikan sekarang?”
 
-Kita tidak menjadi dingin.
-
-Kita membantu mengubah:
+Kita tidak menjadi dingin. Kita membantu mengubah:
 
 > **venting → understanding → choice**
 
@@ -443,9 +366,7 @@ bukan:
 
 ## 16. Listening dan informasi yang tidak nyaman
 
-Listening yang baik juga berarti bersedia mendengar sesuatu yang bertentangan dengan pandangan kita.
-
-Misalnya bawahan berkata:
+Listening yang baik juga berarti bersedia mendengar sesuatu yang bertentangan dengan pandangan kita. Misalnya bawahan berkata:
 
 > “Cara Bapak memberi koreksi membuat kami takut menyampaikan masalah.”
 
@@ -457,11 +378,7 @@ Respons listening:
 
 > “Contoh konkretnya kapan?”
 
-Lalu dengarkan.
-
-Kita belum harus setuju dengan kesimpulannya.
-
-Tetapi jika kita bahkan tidak bersedia mendengar evidence yang dapat mengoreksi model kita, listening berubah menjadi ritual.
+Lalu dengarkan. Kita belum harus setuju dengan kesimpulannya. Tetapi jika kita bahkan tidak bersedia mendengar evidence yang dapat mengoreksi model kita, listening berubah menjadi ritual.
 
 ---
 
@@ -475,11 +392,7 @@ Kadang ada sinyal seperti:
 - ada perubahan nada;
 - ada jeda panjang.
 
-Sinyal ini dapat menjadi alasan untuk bertanya.
-
-Tetapi jangan langsung diterjemahkan menjadi motif.
-
-Bukan:
+Sinyal ini dapat menjadi alasan untuk bertanya. Tetapi jangan langsung diterjemahkan menjadi motif. Bukan:
 
 > “Dia diam berarti dia menyembunyikan sesuatu.”
 
@@ -495,9 +408,7 @@ Ini konsisten dengan Chapter 8:
 
 ## 18. Kapan listening tidak cukup?
 
-Listening bukan solusi untuk semua masalah.
-
-Jika masalahnya membutuhkan:
+Listening bukan solusi untuk semua masalah. Jika masalahnya membutuhkan:
 
 - keputusan;
 - perubahan proses;
@@ -507,11 +418,7 @@ Jika masalahnya membutuhkan:
 - investigasi;
 - eskalasi;
 
-mendengar saja tidak cukup.
-
-Setelah memahami masalah, kita harus memilih respons.
-
-Di sinilah Chapter 9 kembali digunakan.
+mendengar saja tidak cukup. Setelah memahami masalah, kita harus memilih respons. Di sinilah Chapter 9 kembali digunakan.
 
 > **Listening memperbaiki pemahaman; response choice menentukan tindakan.**
 
@@ -519,9 +426,7 @@ Di sinilah Chapter 9 kembali digunakan.
 
 ## 19. Latihan: Acknowledge–Clarify
 
-Pilih satu percakapan sulit.
-
-Tuliskan:
+Pilih satu percakapan sulit. Tuliskan:
 
 ### Acknowledge
 
@@ -543,9 +448,7 @@ Apa yang saya tangkap?
 
 ### Respond
 
-Apa respons yang sesuai setelah memahami?
-
-Latihan ini adalah **alat belajar buku**, bukan instrumen listening tervalidasi.
+Apa respons yang sesuai setelah memahami? Latihan ini adalah **alat belajar buku**, bukan instrumen listening tervalidasi.
 
 ---
 
