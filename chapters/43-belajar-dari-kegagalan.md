@@ -420,7 +420,7 @@ Postmortem yang lebih berguna bertanya:
 9. Apa yang berada dalam control?
 10. Apa yang perlu diubah?
 
-Evidence dari meta-analysis Tannenbaum dan Cerasoli menunjukkan bahwa debrief/after-action review dapat meningkatkan efektivitas rata-rata dibanding kontrol, dengan 46 sampel dan 2.136 observasi; struktur dan alignment juga penting. citeturn0search0turn0search1
+Evidence dari meta-analysis Tannenbaum dan Cerasoli menunjukkan bahwa debrief/after-action review dapat meningkatkan efektivitas rata-rata dibanding kontrol, dengan 46 sampel dan 2.136 observasi; struktur dan alignment juga penting. ([lihat Evidence notes](#evidence-notes))
 
 Jadi:
 
