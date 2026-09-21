@@ -1,14 +1,14 @@
 # Rendah Hati Tanpa Merendahkan Diri
 
-> **Yang dilatih:** Humility dalam leadership adalah kemampuan belajar tanpa kehilangan agency: menerima koreksi, mengenali batas pengetahuan, dan tetap mampu mengambil keputusan.
+> **Yang dilatih:** Belajar tanpa kehilangan agency: menerima koreksi, mengenali batas pengetahuan, dan tetap mampu mengambil keputusan.
 
 > **Canonical concept:** SELF.HUMILITY  
 ## Mengapa Ini Penting
 
-Humility dalam leadership adalah kemampuan belajar tanpa kehilangan agency: menerima koreksi, mengenali batas pengetahuan, dan tetap mampu mengambil keputusan.
+Kerendahan hati yang dibahas di sini bukan soal mengecilkan diri. Yang dilatih adalah kemampuan menerima koreksi, mengenali batas pengetahuan, dan tetap mampu mengambil keputusan.
 
 ::: success Green Note
-**Lensa pemimpin:** Pemimpin tidak menjadi lebih lemah karena mengakui bahwa ia bisa salah. Justru keterbukaan terhadap informasi yang tidak nyaman dapat memperbaiki kualitas judgment.
+**Lensa kepemimpinan:** Mengakui kemungkinan salah tidak membuat seorang pemimpin lebih lemah. Justru keterbukaan terhadap informasi yang tidak nyaman dapat memperbaiki kualitas penilaian.
 :::
 
 ::: info Konteks
