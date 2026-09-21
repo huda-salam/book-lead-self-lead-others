@@ -20,7 +20,7 @@ Bab ini tidak menawarkan satu formula feedback yang berlaku untuk semua situasi.
 
 ## Yang Sedang Kita Latih
 
-Leader sedang melatih kemampuan untuk:
+Pemimpin sedang melatih kemampuan untuk:
 
 - membedakan observasi dari penilaian;
 - menentukan tujuan percakapan;
@@ -112,7 +112,7 @@ Jika pola berulang, pola tersebut dapat dibicarakan. Tetapi tetap gunakan perila
 
 ## 5. Feedback membutuhkan ruang untuk konteks
 
-Leader dapat melihat hasil yang buruk tetapi belum mengetahui penyebabnya. Misalnya target terlambat. Kemungkinan penyebabnya bisa:
+Pemimpin dapat melihat hasil yang buruk tetapi belum mengetahui penyebabnya. Misalnya target terlambat. Kemungkinan penyebabnya bisa:
 
 - perencanaan buruk;
 - instruksi tidak jelas;
@@ -137,7 +137,7 @@ Ini salah satu titik yang sering membingungkan. Seorang bawahan menjelaskan:
 
 > “Saya terlambat karena data dari unit lain belum masuk.”
 
-Leader dapat menjawab:
+Pemimpin dapat menjawab:
 
 > “Saya memahami hambatan itu. Sekarang kita perlu lihat dua hal: apakah keterlambatan tersebut memang di luar kendali Anda, dan kapan Anda pertama kali mengetahui risikonya?”
 
@@ -181,7 +181,7 @@ Dalam percakapan yang emosional, ada godaan untuk mencari kalimat terakhir.
 
 > “Kalau begitu terserah.”
 
-Leader perlu berhenti bertanya:
+Pemimpin perlu berhenti bertanya:
 
 > “Bagaimana saya bisa menang?”
 
@@ -197,7 +197,7 @@ Feedback bukan proses satu arah. Penerima dapat berkata:
 
 > “Saya melihat datanya berbeda.”
 
-Respons leader:
+Respons pemimpin:
 
 > “Baik. Tunjukkan bagian yang berbeda. Kita cek.”
 
@@ -229,7 +229,7 @@ Menetapkan apa yang akan dilakukan ketika ruang diskusi sudah cukup atau kewenan
 
 ## 12. Feedback ke atas juga feedback
 
-Leader bukan hanya memberi feedback kepada bawahan. Anda mungkin perlu mengatakan kepada atasan:
+Pemimpin bukan hanya memberi feedback kepada bawahan. Anda mungkin perlu mengatakan kepada atasan:
 
 > “Saya ingin memberi masukan tentang proses tadi. Ketika keputusan berubah tanpa informasi ke tim, kami kesulitan menjelaskan prioritas kepada pelaksana.”
 
@@ -252,7 +252,7 @@ Masalahnya, penundaan dapat membuat:
 - pola semakin kuat;
 - orang tidak tahu bahwa perilakunya bermasalah;
 - konsekuensi membesar;
-- leader kemudian berbicara dengan emosi yang lebih tinggi.
+- pemimpin kemudian berbicara dengan emosi yang lebih tinggi.
 
 Tetapi jangan pula memakai “harus segera dibicarakan” sebagai alasan untuk berbicara ketika informasi belum cukup. Gunakan prinsip proporsional:
 
@@ -339,20 +339,20 @@ Ada masalah yang tidak membutuhkan percakapan lebih panjang. Misalnya:
 - dugaan fraud;
 - kewajiban hukum;
 - pola pelanggaran yang sudah didokumentasikan;
-- atau keputusan yang memang berada pada kewenangan leader.
+- atau keputusan yang memang berada pada kewenangan pemimpin.
 
-Dalam kondisi seperti ini, leader mungkin perlu berpindah dari feedback ke **batas, dokumentasi, eskalasi, investigasi, atau keputusan**.
+Dalam kondisi seperti ini, pemimpin mungkin perlu berpindah dari feedback ke **batas, dokumentasi, eskalasi, investigasi, atau keputusan**.
 
 ::: warning Risiko
 Jangan gunakan feedback sebagai ritual untuk menunda keputusan yang sebenarnya sudah diperlukan.
 :::
 
 ::: danger Batas
-Feedback tidak boleh menjadi alat mempermalukan, mengancam secara personal, membalas ketidaksetujuan, atau memaksa seseorang menerima interpretasi leader tanpa kesempatan memeriksa fakta.
+Feedback tidak boleh menjadi alat mempermalukan, mengancam secara personal, membalas ketidaksetujuan, atau memaksa seseorang menerima interpretasi pemimpin tanpa kesempatan memeriksa fakta.
 :::
 
 ::: success Green Note
-**Carry forward:** Leader yang matang mampu mengatakan hal yang sulit tanpa menjadikan orang lain musuh. Ia juga mampu menerima koreksi tanpa otomatis menyerahkan judgment.
+**Carry forward:** Pemimpin yang matang mampu mengatakan hal yang sulit tanpa menjadikan orang lain musuh. Ia juga mampu menerima koreksi tanpa otomatis menyerahkan judgment.
 :::
 
 ## Evidence notes
