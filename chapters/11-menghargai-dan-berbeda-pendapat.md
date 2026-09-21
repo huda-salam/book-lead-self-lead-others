@@ -789,6 +789,16 @@ Pertanyaan latihan:
 
 > **“Apakah saya sedang membantah sebuah gagasan, atau sedang merendahkan orang yang menyampaikannya?”**
 
+## Red Flags
+
+::: warning Risiko
+Jangan mengubah capability ini menjadi aturan absolut. Leadership membutuhkan penyesuaian terhadap konteks, stakes, authority, evidence, dan dampak terhadap pihak lain.
+:::
+
+::: success Green Note
+**Carry forward:** capability ini harus membantu pembaca melihat situasi lebih jernih, memilih dengan lebih baik, bertindak dengan ownership, lalu belajar dari konsekuensinya.
+:::
+
 ## Evidence notes
 
 - Chandler et al. (2023), meta-analysis of humble leadership, covering 212 unique studies and 99 population estimates; findings support bounded associations between humble-leadership behaviors and several follower/team outcomes, while also highlighting measurement and construct limitations.
