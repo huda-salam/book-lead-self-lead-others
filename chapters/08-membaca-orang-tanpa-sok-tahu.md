@@ -9,7 +9,7 @@
 Pemimpin tidak cukup memahami apa yang dikatakan orang; ia perlu membangun hipotesis yang cukup baik tentang apa yang mungkin dilihat, dipertimbangkan, atau dibatasi oleh orang lain—tanpa mengubah hipotesis menjadi kepastian tentang motif.
 
 ::: success Green Note
-**Pemimpin lens:** Perspektif orang lain adalah input untuk memperbaiki pembacaan situasi, bukan perintah untuk menyetujui, mempercayai, atau mengikuti mereka.
+**Lensa pemimpin:** Perspektif orang lain adalah input untuk memperbaiki pembacaan situasi, bukan perintah untuk menyetujui, mempercayai, atau mengikuti mereka.
 :::
 
 ::: info Konteks
@@ -18,7 +18,7 @@ Pemimpin tidak cukup memahami apa yang dikatakan orang; ia perlu membangun hipot
 
 ## Yang Sedang Kita Latih
 
-**Capability:** membangun hipotesis perspektif, mengujinya melalui pertanyaan dan evidence, lalu memperbarui pemahaman tanpa sok tahu atau kehilangan batas akuntabilitas.
+**Fokus latihan:** membangun hipotesis perspektif, mengujinya melalui pertanyaan dan evidence, lalu memperbarui pemahaman tanpa sok tahu atau kehilangan batas akuntabilitas.
 
 ## 1. Orang lain bukan teka-teki yang bisa kita pecahkan dari jauh
 
