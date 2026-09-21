@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Tidak ada leader yang selalu benar. Tidak ada tim yang tidak pernah salah. Tidak ada hubungan kerja yang bebas dari salah paham, keputusan buruk, kata-kata yang keliru, atau ekspektasi yang tidak terpenuhi. Yang membedakan hubungan yang matang bukan ketiadaan kesalahan.
+Tidak ada pemimpin yang selalu benar. Tidak ada tim yang tidak pernah salah. Tidak ada hubungan kerja yang bebas dari salah paham, keputusan buruk, kata-kata yang keliru, atau ekspektasi yang tidak terpenuhi. Yang membedakan hubungan yang matang bukan ketiadaan kesalahan.
 
 Salah satunya adalah:
 
@@ -32,7 +32,7 @@ Chapter 16 membahas trust, psychological safety, accountability, dan respect. Ch
 
 ## Yang Sedang Kita Latih
 
-Leader sedang melatih kemampuan untuk:
+Pemimpin sedang melatih kemampuan untuk:
 
 - mengakui kesalahan tanpa kehilangan agency;
 - membedakan tanggung jawab dari rasa bersalah yang tidak produktif;
@@ -42,7 +42,7 @@ Leader sedang melatih kemampuan untuk:
 
 ## 1. Kesalahan bukan akhir hubungan
 
-Bayangkan seorang leader memberikan informasi yang salah kepada tim. Kesalahan pertama adalah informasinya. Kesalahan kedua dapat terjadi setelahnya:
+Bayangkan seorang pemimpin memberikan informasi yang salah kepada tim. Kesalahan pertama adalah informasinya. Kesalahan kedua dapat terjadi setelahnya:
 
 > “Saya tidak mungkin salah.”
 
@@ -70,7 +70,7 @@ lebih berguna daripada:
 
 > “Saya memang selalu begini.”
 
-Yang pertama menunjukkan ownership terhadap perilaku. Yang kedua dapat berubah menjadi label terhadap diri sendiri. Leader membutuhkan kemampuan untuk berkata:
+Yang pertama menunjukkan ownership terhadap perilaku. Yang kedua dapat berubah menjadi label terhadap diri sendiri. Pemimpin membutuhkan kemampuan untuk berkata:
 
 > **“Saya salah pada bagian ini.”**
 
@@ -115,7 +115,7 @@ Sekarang ada:
 
 ## 5. Jangan meminta maaf untuk sesuatu yang bukan tanggung jawab Anda
 
-Ownership bukan berarti mengambil semua kesalahan. Misalnya dua pihak terlibat dalam konflik. Leader dapat berkata:
+Ownership bukan berarti mengambil semua kesalahan. Misalnya dua pihak terlibat dalam konflik. Pemimpin dapat berkata:
 
 > “Saya bertanggung jawab karena cara saya menyampaikan kritik tadi terlalu tajam.”
 
@@ -225,7 +225,7 @@ dan:
 
 > “Saya melakukan itu karena deadline, jadi Anda tidak boleh keberatan.”
 
-Kalimat pertama adalah konteks. Kalimat kedua mengubah konteks menjadi pembenaran. Leader dapat menjelaskan:
+Kalimat pertama adalah konteks. Kalimat kedua mengubah konteks menjadi pembenaran. Pemimpin dapat menjelaskan:
 
 > mengapa sesuatu terjadi
 
@@ -255,13 +255,13 @@ Kalimat:
 
 > “Saya sudah minta maaf. Masa masih marah?”
 
-dapat menghentikan proses repair. Permintaan maaf adalah tindakan Anda. Memaafkan adalah keputusan pihak lain. Bahkan ketika seseorang menerima permintaan maaf, kepercayaan belum tentu langsung pulih. Leader perlu siap menerima:
+dapat menghentikan proses repair. Permintaan maaf adalah tindakan Anda. Memaafkan adalah keputusan pihak lain. Bahkan ketika seseorang menerima permintaan maaf, kepercayaan belum tentu langsung pulih. Pemimpin perlu siap menerima:
 
 > “Saya mengerti. Saya butuh waktu.”
 
 ## 12. Trust dibangun kembali melalui prediktabilitas
 
-Jika sebelumnya leader sering mengubah keputusan tanpa penjelasan, satu percakapan tidak cukup. Orang perlu melihat:
+Jika sebelumnya pemimpin sering mengubah keputusan tanpa penjelasan, satu percakapan tidak cukup. Orang perlu melihat:
 
 - keputusan lebih konsisten;
 - informasi lebih transparan;
@@ -303,7 +303,7 @@ Itu tetap dapat menjadi hasil yang konstruktif.
 
 ## 14. Ketika Anda adalah pihak yang terluka
 
-Leader juga perlu tahu cara menerima repair. Tidak harus langsung berkata:
+Pemimpin juga perlu tahu cara menerima repair. Tidak harus langsung berkata:
 
 > “Tidak apa-apa.”
 
@@ -326,7 +326,7 @@ Repair membutuhkan setidaknya sebagian kemauan dari pihak yang terlibat. Jika se
 - menggunakan permintaan maaf hanya untuk menghindari konsekuensi;
 - atau terus melakukan pelanggaran;
 
-leader mungkin perlu kembali ke:
+pemimpin mungkin perlu kembali ke:
 
 **boundary → accountability → escalation** bukan terus mengulang percakapan repair.
 
