@@ -152,7 +152,7 @@ Keputusan Hudaibiyah memiliki konteks sejarah, tujuan tertentu, pihak yang berne
 
 Dalam Sahih al-Bukhari 5729, Umar bin al-Khattab sampai di Sargh dalam perjalanan menuju Syam lalu mendapat informasi tentang wabah. Ia berkonsultasi dengan Muhajirin awal dan kemudian Ansar. Pendapat mereka berbeda. Setelah informasi dan pendapat dikumpulkan, Umar memilih untuk tidak melanjutkan masuk ke wilayah tersebut. [Sahih al-Bukhari 5729](https://sunnah.com/bukhari:5729)
 
-Leader tidak harus berkata:
+Pemimpin tidak harus berkata:
 
 > “Saya sudah berangkat. Jadi saya harus terus.”
 
@@ -182,7 +182,7 @@ Dinamika yang relevan:
 
 > **perbedaan pendapat dapat terjadi bahkan di antara orang-orang yang sangat dekat dan dipercaya.**
 
-Mendengar keberatan tidak sama dengan menyerahkan keputusan. Leader dapat mengatakan:
+Mendengar keberatan tidak sama dengan menyerahkan keputusan. Pemimpin dapat mengatakan:
 
 > “Saya dengar keberatan Anda. Mari kita uji dasar keputusannya.”
 
