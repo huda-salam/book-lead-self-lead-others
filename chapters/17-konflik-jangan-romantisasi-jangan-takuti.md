@@ -1,14 +1,12 @@
 # Konflik: Jangan Romantisasi, Jangan Takuti
 
-> **Leader capability:** Membaca konflik secara cukup jernih untuk membedakan apa yang sedang diperebutkan, apa risikonya, dan respons apa yang proporsional.
+> **Yang dilatih:** Membaca konflik secara cukup jernih untuk membedakan apa yang sedang diperebutkan, apa risikonya, dan respons apa yang proporsional.
 
 > **Canonical concept:** REL.CONFLICT
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
-Ada dua mitos yang sama-sama berbahaya.
-
-Mitos pertama:
+Ada dua mitos yang sama-sama berbahaya. Mitos pertama:
 
 > “Konflik itu buruk. Leader harus membuat semua orang akur.”
 
@@ -16,25 +14,21 @@ Mitos kedua:
 
 > “Konflik itu sehat. Kalau tim tidak berdebat berarti tidak ada inovasi.”
 
-Keduanya terlalu sederhana.
+Keduanya terlalu sederhana. Literatur organisasi membedakan beberapa bentuk konflik dan menunjukkan bahwa hubungan konflik dengan hasil kerja bergantung pada jenis dan konteksnya. Task conflict, relationship conflict, dan process conflict tidak boleh diperlakukan sebagai satu fenomena. ([lihat Evidence notes](#evidence-notes))
 
-Literatur organisasi membedakan beberapa bentuk konflik dan menunjukkan bahwa hubungan konflik dengan hasil kerja bergantung pada jenis dan konteksnya. Task conflict, relationship conflict, dan process conflict tidak boleh diperlakukan sebagai satu fenomena. ([lihat Evidence notes](#evidence-notes))
-
-Leader tidak membutuhkan organisasi tanpa konflik.
-
-Leader membutuhkan kemampuan untuk mengetahui:
+Leader tidak membutuhkan organisasi tanpa konflik. Leader membutuhkan kemampuan untuk mengetahui:
 
 > **Konflik macam apa yang sedang terjadi, apa yang dipertaruhkan, dan apa yang harus dilakukan?**
 
 ::: success Green Note
-**Leader lens:** Konflik bukan otomatis tanda kegagalan hubungan. Tetapi konflik juga bukan otomatis tanda tim sehat. Yang penting adalah kemampuan membedakan substansi, kepentingan, proses, relasi, dan kekuasaan.
+**Lensa pemimpin:** Konflik bukan otomatis tanda kegagalan hubungan. Tetapi konflik juga bukan otomatis tanda tim sehat. Yang penting adalah kemampuan membedakan substansi, kepentingan, proses, relasi, dan kekuasaan.
 :::
 
 ::: info Konteks
 Bab ini adalah bab membaca konflik. Teknik menurunkan eskalasi dibahas lebih khusus di Chapter 18; batas di Chapter 19; dan perbaikan hubungan di Chapter 20.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 Leader sedang melatih kemampuan untuk:
 
@@ -46,9 +40,7 @@ Leader sedang melatih kemampuan untuk:
 
 ## 1. Konflik bukan sekadar dua orang yang bertengkar
 
-Bayangkan dua unit saling menyalahkan karena pekerjaan terlambat.
-
-Unit A:
+Bayangkan dua unit saling menyalahkan karena pekerjaan terlambat. Unit A:
 
 > “Unit B selalu lambat.”
 
@@ -56,9 +48,7 @@ Unit B:
 
 > “Unit A selalu mengubah permintaan mendadak.”
 
-Jika leader hanya melihat siapa yang lebih emosional, ia kehilangan masalah sebenarnya.
-
-Mungkin ada:
+Jika leader hanya melihat siapa yang lebih emosional, ia kehilangan masalah sebenarnya. Mungkin ada:
 
 - target yang bertentangan;
 - proses approval yang terlalu panjang;
@@ -123,9 +113,7 @@ Ini bukan sekadar masalah komunikasi.
 
 ## 3. Tidak semua konflik adalah konflik pendapat
 
-Ini penting.
-
-Dua orang dapat setuju pada fakta tetapi tetap bertentangan karena:
+Ini penting. Dua orang dapat setuju pada fakta tetapi tetap bertentangan karena:
 
 - tujuan;
 - insentif;
@@ -142,11 +130,7 @@ Tetapi:
 
 > “Saya tidak setuju unit saya yang harus menanggung tambahan dua orang.”
 
-Tidak ada masalah fakta.
-
-Masalahnya distribusi biaya dan manfaat.
-
-Menyuruh kedua pihak “komunikasi yang lebih baik” tidak otomatis menyelesaikannya.
+Tidak ada masalah fakta. Masalahnya distribusi biaya dan manfaat. Menyuruh kedua pihak “komunikasi yang lebih baik” tidak otomatis menyelesaikannya.
 
 ## 4. Task conflict tidak otomatis produktif
 
@@ -154,9 +138,7 @@ Ada anggapan:
 
 > “Kalau orang berdebat soal ide, hasilnya pasti lebih baik.”
 
-Tidak selalu.
-
-Meta-analysis dan penelitian konflik menunjukkan bahwa hasil task conflict sangat bergantung konteks dan cara konflik diekspresikan. Relationship conflict cenderung lebih konsisten berhubungan dengan hasil negatif, tetapi task conflict juga tidak dapat dianggap otomatis menguntungkan. ([lihat Evidence notes](#evidence-notes))
+Tidak selalu. Meta-analysis dan penelitian konflik menunjukkan bahwa hasil task conflict sangat bergantung konteks dan cara konflik diekspresikan. Relationship conflict cenderung lebih konsisten berhubungan dengan hasil negatif, tetapi task conflict juga tidak dapat dianggap otomatis menguntungkan. ([lihat Evidence notes](#evidence-notes))
 
 Perbedaan pendapat menjadi berguna jika membantu:
 
@@ -181,9 +163,7 @@ dengan:
 
 > “Saya tidak percaya Anda memang mampu memimpin pekerjaan ini.”
 
-Yang kedua menyerang identitas atau hubungan.
-
-Masalahnya bukan lagi hanya:
+Yang kedua menyerang identitas atau hubungan. Masalahnya bukan lagi hanya:
 
 > “Metode mana yang benar?”
 
@@ -191,9 +171,7 @@ Tetapi:
 
 > “Siapa yang dianggap layak?”
 
-Relationship conflict dapat membuat percakapan menjadi jauh lebih sulit karena hampir setiap pernyataan dapat dibaca sebagai serangan personal.
-
-Karena itu jangan buru-buru memberi label:
+Relationship conflict dapat membuat percakapan menjadi jauh lebih sulit karena hampir setiap pernyataan dapat dibaca sebagai serangan personal. Karena itu jangan buru-buru memberi label:
 
 > “Mereka memang tidak cocok.”
 
@@ -212,11 +190,7 @@ Mungkin sebenarnya:
 - prioritas berubah setiap hari;
 - atau orang tersebut tidak memiliki akses yang dibutuhkan.
 
-Jika sistem membuat pekerjaan sulit, menyebut orangnya lambat tidak menyelesaikan masalah.
-
-Sebaliknya, jangan pula menggunakan “masalah sistem” untuk menghapus accountability ketika proses sebenarnya sudah jelas.
-
-Pertanyaan:
+Jika sistem membuat pekerjaan sulit, menyebut orangnya lambat tidak menyelesaikan masalah. Sebaliknya, jangan pula menggunakan “masalah sistem” untuk menghapus accountability ketika proses sebenarnya sudah jelas. Pertanyaan:
 
 > “Bagian mana berasal dari sistem, dan bagian mana berasal dari pilihan atau eksekusi individu?”
 
@@ -230,17 +204,9 @@ Dalam konflik, kita mudah berkata:
 
 > “Mereka memang tidak suka kita.”
 
-Mungkin benar.
+Mungkin benar. Tetapi mungkin juga tidak. Kembali ke Chapter 8:
 
-Tetapi mungkin juga tidak.
-
-Kembali ke Chapter 8:
-
-**Observe → Hypothesize → Ask → Test → Update.**
-
-Leader tidak harus naif.
-
-Ia hanya perlu membedakan:
+**Observe → Hypothesize → Ask → Test → Update.** Leader tidak harus naif. Ia hanya perlu membedakan:
 
 > “Saya melihat perilaku X”
 
@@ -256,21 +222,11 @@ Pertanyaan:
 
 > “Siapa yang menanggung akibat jika keputusan ini salah?”
 
-sering membuka struktur konflik.
-
-Misalnya satu pihak ingin keputusan cepat.
-
-Pihak lain meminta pemeriksaan tambahan.
-
-Kita dapat menyebut pihak kedua “menghambat”.
-
-Tetapi mungkin:
+sering membuka struktur konflik. Misalnya satu pihak ingin keputusan cepat. Pihak lain meminta pemeriksaan tambahan. Kita dapat menyebut pihak kedua “menghambat”. Tetapi mungkin:
 
 > pihak pertama mendapat manfaat dari kecepatan, sedangkan pihak kedua menanggung risiko jika terjadi kesalahan.
 
-Sekarang konflik terlihat berbeda.
-
-Bukan:
+Sekarang konflik terlihat berbeda. Bukan:
 
 > “Siapa yang sulit?”
 
@@ -280,17 +236,7 @@ melainkan:
 
 ## 9. Konflik kepentingan tidak selalu berarti niat buruk
 
-Orang dapat memiliki kepentingan berbeda tanpa menjadi jahat.
-
-Seorang kepala unit ingin menjaga kapasitas timnya.
-
-Seorang pimpinan program ingin target tercapai.
-
-Seorang auditor ingin bukti lengkap.
-
-Seorang pelaksana ingin instruksi jelas.
-
-Semua dapat memiliki kepentingan yang sah.
+Orang dapat memiliki kepentingan berbeda tanpa menjadi jahat. Seorang kepala unit ingin menjaga kapasitas timnya. Seorang pimpinan program ingin target tercapai. Seorang auditor ingin bukti lengkap. Seorang pelaksana ingin instruksi jelas. Semua dapat memiliki kepentingan yang sah.
 
 Leader perlu mencari:
 
@@ -305,9 +251,7 @@ Gunakan pertanyaan:
 
 > “Apa kerugian jika kita tidak membicarakannya?”
 
-Jika masalahnya kecil dan mudah diperbaiki, mungkin cukup dengan klarifikasi.
-
-Jika konflik memengaruhi:
+Jika masalahnya kecil dan mudah diperbaiki, mungkin cukup dengan klarifikasi. Jika konflik memengaruhi:
 
 - keputusan;
 - target;
@@ -316,33 +260,17 @@ Jika konflik memengaruhi:
 - kepatuhan;
 - atau pihak lain;
 
-penundaan dapat menjadi lebih mahal.
-
-Tetapi “harus dibicarakan” tidak selalu berarti:
+penundaan dapat menjadi lebih mahal. Tetapi “harus dibicarakan” tidak selalu berarti:
 
 > “harus diselesaikan lewat percakapan dua orang.”
 
-Mungkin perlu data.
-
-Mungkin perlu mediator.
-
-Mungkin perlu keputusan.
-
-Mungkin perlu eskalasi.
+Mungkin perlu data. Mungkin perlu mediator. Mungkin perlu keputusan. Mungkin perlu eskalasi.
 
 ## 11. Konflik dan kekuasaan
 
-Power membuat konflik tidak selalu simetris.
+Power membuat konflik tidak selalu simetris. Orang dengan kewenangan lebih besar dapat mengakhiri konflik dengan satu instruksi. Tetapi itu tidak selalu berarti masalah selesai. Kadang instruksi hanya menghentikan perdebatan sementara, sementara masalah substantif tetap ada.
 
-Orang dengan kewenangan lebih besar dapat mengakhiri konflik dengan satu instruksi.
-
-Tetapi itu tidak selalu berarti masalah selesai.
-
-Kadang instruksi hanya menghentikan perdebatan sementara, sementara masalah substantif tetap ada.
-
-Sebaliknya, orang dengan kewenangan lebih rendah mungkin tidak dapat memaksa keputusan tetapi memiliki informasi penting.
-
-Karena itu leader perlu bertanya:
+Sebaliknya, orang dengan kewenangan lebih rendah mungkin tidak dapat memaksa keputusan tetapi memiliki informasi penting. Karena itu leader perlu bertanya:
 
 > “Siapa memiliki kewenangan?”
 
@@ -354,11 +282,7 @@ Keduanya tidak selalu orang yang sama.
 
 ## 12. Jangan memaksa win-win
 
-Ada konflik yang dapat dinegosiasikan.
-
-Ada juga yang memiliki batas nyata.
-
-Contoh:
+Ada konflik yang dapat dinegosiasikan. Ada juga yang memiliki batas nyata. Contoh:
 
 - aturan hukum;
 - keselamatan;
@@ -367,11 +291,7 @@ Contoh:
 - fraud;
 - atau keputusan kewenangan.
 
-Dalam kasus seperti ini, “cari titik tengah” dapat menjadi saran yang buruk.
-
-Tidak semua hal memiliki kompromi yang aman.
-
-Leader perlu dapat berkata:
+Dalam kasus seperti ini, “cari titik tengah” dapat menjadi saran yang buruk. Tidak semua hal memiliki kompromi yang aman. Leader perlu dapat berkata:
 
 > “Bagian ini bukan ruang kompromi. Yang dapat kita diskusikan adalah bagaimana memenuhi standar tersebut.”
 
@@ -394,9 +314,7 @@ Bisa:
 
 > **“Apa yang sedang diberitahukan konflik ini kepada kita?”**
 
-Tetapi jangan romantisasi konflik sampai menganggap konflik harus dipelihara agar organisasi belajar.
-
-Tujuannya adalah memperoleh informasi dengan biaya yang proporsional.
+Tetapi jangan romantisasi konflik sampai menganggap konflik harus dipelihara agar organisasi belajar. Tujuannya adalah memperoleh informasi dengan biaya yang proporsional.
 
 ## 14. Framework kerja: membaca konflik sebelum merespons
 
@@ -427,36 +345,32 @@ Apa respons yang sesuai dengan tingkat risiko?
 
 ## 15. Latihan: ubah konflik menjadi peta
 
-Ambil konflik nyata.
-
-Jangan tulis:
+Ambil konflik nyata. Jangan tulis:
 
 > “A melawan B.”
 
 Tulis:
 
-**Fakta:**  
+**Fakta:**
 Apa yang terjadi?
 
-**Perbedaan:**  
+**Perbedaan:**
 Apa yang tidak disepakati?
 
-**Kepentingan:**  
+**Kepentingan:**
 Apa yang masing-masing pihak ingin lindungi/capai?
 
-**Risiko:**  
+**Risiko:**
 Siapa menanggung akibat?
 
-**Kewenangan:**  
+**Kewenangan:**
 Siapa dapat memutuskan?
 
-**Informasi:**  
+**Informasi:**
 Apa yang belum diketahui?
 
-**Ruang gerak:**  
-Apa yang bisa dinegosiasikan?
-
-Latihan ini mengubah konflik dari cerita personal menjadi objek analisis.
+**Ruang gerak:**
+Apa yang bisa dinegosiasikan? Latihan ini mengubah konflik dari cerita personal menjadi objek analisis.
 
 ## 16. Ketika konflik memang membutuhkan tindakan
 
@@ -470,13 +384,9 @@ Jika konflik menyangkut:
 - ancaman serius;
 - atau pelanggaran aturan;
 
-leader tidak perlu menunggu konflik “menjadi sehat”.
+leader tidak perlu menunggu konflik “menjadi sehat”. Gunakan mekanisme yang sesuai:
 
-Gunakan mekanisme yang sesuai:
-
-**dokumentasi → batas → eskalasi → investigasi → keputusan**
-
-sesuai kewenangan dan aturan yang berlaku.
+**dokumentasi → batas → eskalasi → investigasi → keputusan** sesuai kewenangan dan aturan yang berlaku.
 
 ::: warning Risiko
 Jangan memaksa semua konflik menjadi percakapan emosional dua arah jika masalah sebenarnya membutuhkan data, keputusan, atau mekanisme formal.
