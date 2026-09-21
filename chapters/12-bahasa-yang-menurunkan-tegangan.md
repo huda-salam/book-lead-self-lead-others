@@ -1,26 +1,24 @@
 # Bahasa yang Menurunkan Tegangan
 
-> **Leader capability:** Menggunakan bahasa untuk memperjelas masalah, menjaga martabat orang, mengurangi defensiveness yang tidak perlu, dan tetap tegas terhadap tujuan, standar, risiko, serta keputusan.
+> **Yang dilatih:** Menggunakan bahasa untuk memperjelas masalah, menjaga martabat orang, mengurangi defensiveness yang tidak perlu, dan tetap tegas terhadap tujuan, standar, risiko, serta keputusan.
 
 > **Canonical concept:** COMM.LANGUAGE
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
-Leader tidak hanya menyampaikan informasi. Cara sebuah pesan disusun ikut membentuk apa yang orang lain pahami, apa yang berani mereka sampaikan kembali, dan apakah percakapan bergerak menuju masalah atau justru menuju pertahanan diri.
-
-Namun jangan membuat klaim terlalu jauh: tidak ada satu formula kalimat yang otomatis menghasilkan respons tertentu. Efek komunikasi dipengaruhi konteks, hubungan, power, timing, medium, history, dan substansi.
+Leader tidak hanya menyampaikan informasi. Cara sebuah pesan disusun ikut membentuk apa yang orang lain pahami, apa yang berani mereka sampaikan kembali, dan apakah percakapan bergerak menuju masalah atau justru menuju pertahanan diri. Namun jangan membuat klaim terlalu jauh: tidak ada satu formula kalimat yang otomatis menghasilkan respons tertentu. Efek komunikasi dipengaruhi konteks, hubungan, power, timing, medium, history, dan substansi.
 
 Literatur tentang leader communication menunjukkan bahwa komunikasi merupakan domain penting dalam perilaku kepemimpinan, sementara riset tentang bahasa dan power menunjukkan bahwa posisi hierarkis ikut membentuk bagaimana bahasa digunakan dalam interaksi. ([lihat Evidence notes](#evidence-notes))
 
 ::: success Green Note
-**Leader lens:** Tujuan bahasa bukan membuat semua orang nyaman. Tujuannya adalah membuat percakapan cukup aman untuk berpikir dan cukup tegas untuk menghasilkan kejelasan serta tindakan.
+**Lensa pemimpin:** Tujuan bahasa bukan membuat semua orang nyaman. Tujuannya adalah membuat percakapan cukup aman untuk berpikir dan cukup tegas untuk menghasilkan kejelasan serta tindakan.
 :::
 
 ::: info Konteks
 **Canonical concept:** COMM.LANGUAGE. Bab ini membahas bahasa sebagai instrumen leadership. Detail tentang listening, humor, audience adaptation, dan feedback tetap menjadi ownership bab-bab berikutnya.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 **Capability:** mengubah cara menyampaikan pesan tanpa mengubah substansi yang memang perlu dipertahankan; memilih kata berdasarkan tujuan, audience, power, stakes, dan konsekuensi yang diharapkan.
 
@@ -34,21 +32,13 @@ dan:
 
 > “Pada bagian ini ada masalah yang perlu kita bereskan. Mari kita lihat penyebabnya dan apa yang perlu diperbaiki.”
 
-Keduanya dapat lahir dari masalah yang sama. Tetapi fokus komunikasinya berbeda.
-
-Kalimat pertama membawa percakapan ke wilayah identitas dan pola karakter. Kalimat kedua mengarahkan perhatian kembali ke masalah yang dapat diperiksa.
-
-Ini bukan berarti kalimat kedua selalu efektif. Jika masalahnya memang pola kinerja yang berulang, leader tetap perlu membahas pola tersebut. Bedanya, pembahasan dapat dimulai dari bukti dan dampak, bukan label.
+Keduanya dapat lahir dari masalah yang sama. Tetapi fokus komunikasinya berbeda. Kalimat pertama membawa percakapan ke wilayah identitas dan pola karakter. Kalimat kedua mengarahkan perhatian kembali ke masalah yang dapat diperiksa. Ini bukan berarti kalimat kedua selalu efektif. Jika masalahnya memang pola kinerja yang berulang, leader tetap perlu membahas pola tersebut. Bedanya, pembahasan dapat dimulai dari bukti dan dampak, bukan label.
 
 Riset mengenai ekspresi konflik menempatkan directness dan oppositional intensity sebagai dimensi yang dapat memengaruhi dinamika eskalasi dan de-eskalasi. ([lihat Evidence notes](#evidence-notes))
 
 ## 2. Turunkan suhu, jangan turunkan standar
 
-Ini prinsip kerja utama bab ini.
-
-Menurunkan suhu berarti mengurangi unsur komunikasi yang tidak perlu memperbesar ancaman sosial: mempermalukan, mengejek, memberi label, menggeneralisasi karakter, atau memaksa orang membela identitasnya.
-
-Menurunkan standar berarti sesuatu yang berbeda: mengurangi tuntutan terhadap kualitas, mengabaikan pelanggaran, menghindari keputusan, atau tidak lagi meminta accountability.
+Ini prinsip kerja utama bab ini. Menurunkan suhu berarti mengurangi unsur komunikasi yang tidak perlu memperbesar ancaman sosial: mempermalukan, mengejek, memberi label, menggeneralisasi karakter, atau memaksa orang membela identitasnya. Menurunkan standar berarti sesuatu yang berbeda: mengurangi tuntutan terhadap kualitas, mengabaikan pelanggaran, menghindari keputusan, atau tidak lagi meminta accountability.
 
 Keduanya tidak sama.
 
@@ -71,13 +61,9 @@ dengan:
 
 > “Dalam dua minggu terakhir ada tiga tenggat yang terlewat tanpa pemberitahuan sebelumnya.”
 
-Kalimat kedua tidak otomatis lebih baik dalam semua situasi. Tetapi ia memberi objek yang lebih jelas untuk diperiksa.
+Kalimat kedua tidak otomatis lebih baik dalam semua situasi. Tetapi ia memberi objek yang lebih jelas untuk diperiksa. Urutan yang berguna:
 
-Urutan yang berguna:
-
-**Observasi → dampak → standar/tujuan → kebutuhan → tindakan.**
-
-Contoh:
+**Observasi → dampak → standar/tujuan → kebutuhan → tindakan.** Contoh:
 
 > “Laporan masuk dua hari setelah tenggat. Akibatnya proses konsolidasi ikut mundur. Kita perlu laporan paling lambat Kamis pukul 12.00. Kalau ada hambatan sebelum itu, beri tahu saya paling lambat Rabu sore supaya kita bisa menyesuaikan.”
 
@@ -89,9 +75,7 @@ Semakin serius konsekuensinya, semakin penting membedakan **apa yang dapat diama
 
 ## 4. Pisahkan orang dari masalah
 
-Leader sering perlu menyampaikan kalimat yang tidak menyenangkan.
-
-Masalahnya bukan bagaimana menghilangkan ketidaknyamanan. Masalahnya adalah membedakan ketidaknyamanan yang berasal dari substansi dengan ketidaknyamanan yang kita ciptakan sendiri melalui cara bicara.
+Leader sering perlu menyampaikan kalimat yang tidak menyenangkan. Masalahnya bukan bagaimana menghilangkan ketidaknyamanan. Masalahnya adalah membedakan ketidaknyamanan yang berasal dari substansi dengan ketidaknyamanan yang kita ciptakan sendiri melalui cara bicara.
 
 Bandingkan:
 
@@ -99,9 +83,7 @@ Bandingkan:
 
 > “Saya membutuhkan komitmen yang lebih dapat diprediksi. Dalam tiga pekerjaan terakhir, perubahan tenggat baru saya ketahui setelah waktunya hampir habis.”
 
-Yang kedua masih dapat terasa tidak nyaman. Tetapi ia memberi orang ruang untuk menanggapi fakta dan memperbaiki perilaku.
-
-Ini penting karena defensiveness di tempat kerja bukan hanya persoalan individu. Review 2026 tentang defensiveness menggambarkan fenomena ini pada level psikologis, perilaku, sosial-kognitif, dan organisasi, termasuk ketika pemimpin menolak feedback atau tim mengalihkan accountability. ([lihat Evidence notes](#evidence-notes))
+Yang kedua masih dapat terasa tidak nyaman. Tetapi ia memberi orang ruang untuk menanggapi fakta dan memperbaiki perilaku. Ini penting karena defensiveness di tempat kerja bukan hanya persoalan individu. Review 2026 tentang defensiveness menggambarkan fenomena ini pada level psikologis, perilaku, sosial-kognitif, dan organisasi, termasuk ketika pemimpin menolak feedback atau tim mengalihkan accountability. ([lihat Evidence notes](#evidence-notes))
 
 Karena itu kita sebaiknya tidak menggunakan label “dia defensif” sebagai diagnosis. Periksa perilakunya:
 
@@ -121,9 +103,7 @@ Ada kalimat yang secara debat terlihat kuat tetapi secara leadership mahal:
 
 > “Kalau saja Anda mendengarkan saya.”
 
-Kadang kalimat itu faktual. Namun jika tujuan leader adalah memperbaiki sistem, kalimat tersebut dapat menggeser perhatian dari pembelajaran ke distribusi rasa kalah.
-
-Pertanyaan yang lebih berguna:
+Kadang kalimat itu faktual. Namun jika tujuan leader adalah memperbaiki sistem, kalimat tersebut dapat menggeser perhatian dari pembelajaran ke distribusi rasa kalah. Pertanyaan yang lebih berguna:
 
 > “Apa yang bisa kita pelajari dari hasil ini?”
 
@@ -139,19 +119,13 @@ Leader kadang perlu membuka ruang:
 
 > “Saya bisa keliru. Apa yang belum saya lihat?”
 
-Kalimat ini berguna ketika kita memang terbuka terhadap informasi baru.
-
-Tetapi jangan menggunakannya sebagai ritual kerendahan hati sambil sebenarnya tidak membuka kemungkinan perubahan.
-
-Sebaliknya, leader juga perlu dapat berkata:
+Kalimat ini berguna ketika kita memang terbuka terhadap informasi baru. Tetapi jangan menggunakannya sebagai ritual kerendahan hati sambil sebenarnya tidak membuka kemungkinan perubahan. Sebaliknya, leader juga perlu dapat berkata:
 
 > “Saya sudah mempertimbangkan keberatan itu. Untuk saat ini keputusan tetap X karena alasan A dan B. Kalau kondisi C berubah, kita akan meninjau kembali.”
 
 Ini contoh penting:
 
-**open to correction ≠ undecided.**
-
-Leader dapat terbuka terhadap evidence baru sambil tetap mengambil keputusan.
+**open to correction ≠ undecided.** Leader dapat terbuka terhadap evidence baru sambil tetap mengambil keputusan.
 
 ## 7. Bahasa yang tidak memaksa orang membaca pikiran kita
 
@@ -161,9 +135,7 @@ Kalimat seperti:
 > “Kalau Anda mau begitu, silakan.”
 > “Saya kira Anda sudah tahu maksud saya.”
 
-sering memindahkan pekerjaan interpretasi kepada orang lain.
-
-Jika maksudnya penting, katakan lebih jelas.
+sering memindahkan pekerjaan interpretasi kepada orang lain. Jika maksudnya penting, katakan lebih jelas.
 
 > “Saya tidak melarang opsi itu. Tetapi saya ingin risikonya tercatat sebelum Anda lanjut.”
 
@@ -186,9 +158,7 @@ Kata seperti:
 - mustahil;
 - tidak mungkin;
 
-sering membuat klaim lebih besar daripada evidence.
-
-Bandingkan:
+sering membuat klaim lebih besar daripada evidence. Bandingkan:
 
 > “Anda selalu terlambat.”
 
@@ -196,15 +166,11 @@ dengan:
 
 > “Dari lima tenggat terakhir, tiga terlambat. Saya ingin memahami penyebabnya dan memperbaiki polanya.”
 
-Ini bukan soal menjadi lemah atau terlalu hati-hati. Ini soal menjaga kalibrasi.
-
-Jika evidence memang kuat, kita dapat berbicara tegas. Jika evidence terbatas, bahasa sebaiknya menunjukkan batas tersebut.
+Ini bukan soal menjadi lemah atau terlalu hati-hati. Ini soal menjaga kalibrasi. Jika evidence memang kuat, kita dapat berbicara tegas. Jika evidence terbatas, bahasa sebaiknya menunjukkan batas tersebut.
 
 ## 9. Bahasa berbeda menurut power
 
-Kalimat yang sama dapat memiliki dampak berbeda ketika diucapkan oleh atasan dan bawahan.
-
-Riset Morand menunjukkan bahwa perilaku linguistik terkait politeness sensitif terhadap distribusi formal authority dalam organisasi. ([lihat Evidence notes](#evidence-notes))
+Kalimat yang sama dapat memiliki dampak berbeda ketika diucapkan oleh atasan dan bawahan. Riset Morand menunjukkan bahwa perilaku linguistik terkait politeness sensitif terhadap distribusi formal authority dalam organisasi. ([lihat Evidence notes](#evidence-notes))
 
 Karena itu leader perlu bertanya:
 
@@ -214,15 +180,11 @@ Contoh:
 
 > “Ada pendapat lain?”
 
-Jika diucapkan oleh atasan sambil menatap ruangan dan langsung menutup diskusi setelah tidak ada jawaban, pertanyaan tersebut secara formal membuka ruang tetapi secara sosial mungkin tidak cukup membuka ruang.
-
-Leader perlu melihat bukan hanya **kata-kata**, tetapi juga konteks kekuasaan, timing, respons terhadap keberatan, dan apa yang terjadi setelah orang berbicara.
+Jika diucapkan oleh atasan sambil menatap ruangan dan langsung menutup diskusi setelah tidak ada jawaban, pertanyaan tersebut secara formal membuka ruang tetapi secara sosial mungkin tidak cukup membuka ruang. Leader perlu melihat bukan hanya **kata-kata**, tetapi juga konteks kekuasaan, timing, respons terhadap keberatan, dan apa yang terjadi setelah orang berbicara.
 
 ## 10. Bahasa untuk menjaga psychological safety bukan bahasa tanpa tekanan
 
-Psychological safety sering disalahpahami sebagai suasana di mana semua orang harus merasa nyaman.
-
-Lebih berguna melihatnya sebagai kondisi yang memungkinkan orang menyampaikan informasi, pertanyaan, kekhawatiran, atau kesalahan tanpa harus mengantisipasi penghinaan atau konsekuensi interpersonal yang tidak semestinya.
+Psychological safety sering disalahpahami sebagai suasana di mana semua orang harus merasa nyaman. Lebih berguna melihatnya sebagai kondisi yang memungkinkan orang menyampaikan informasi, pertanyaan, kekhawatiran, atau kesalahan tanpa harus mengantisipasi penghinaan atau konsekuensi interpersonal yang tidak semestinya.
 
 Meta-analysis Frazier et al. mencakup 136 sampel independen, lebih dari 22.000 individu, dan hampir 5.000 kelompok, menunjukkan bahwa psychological safety merupakan konstruk yang relevan dalam kehidupan organisasi. ([lihat Evidence notes](#evidence-notes))
 
@@ -253,9 +215,7 @@ Jika maksud sebenarnya adalah:
 
 > “Dokumen ini harus diperbaiki sebelum diproses.”
 
-maka terlalu banyak lapisan dapat membuat pesan kehilangan arah.
-
-Politeness dapat membantu mengelola hubungan, tetapi bukan alasan untuk menghilangkan kejelasan. Literatur tentang politeness dan konflik menunjukkan bahwa bentuk penyampaian perlu dibaca bersama tujuan, konteks, power, dan dinamika konflik. ([lihat Evidence notes](#evidence-notes))
+maka terlalu banyak lapisan dapat membuat pesan kehilangan arah. Politeness dapat membantu mengelola hubungan, tetapi bukan alasan untuk menghilangkan kejelasan. Literatur tentang politeness dan konflik menunjukkan bahwa bentuk penyampaian perlu dibaca bersama tujuan, konteks, power, dan dinamika konflik. ([lihat Evidence notes](#evidence-notes))
 
 Prinsip praktis:
 
@@ -313,9 +273,7 @@ Jika orang salah memahami, defensiveness meningkat, atau tindakan tidak terjadi,
 
 ## 14. Latihan: turunkan satu tingkat panas
 
-Ambil satu kalimat yang biasanya Anda gunakan ketika frustrasi.
-
-Contoh:
+Ambil satu kalimat yang biasanya Anda gunakan ketika frustrasi. Contoh:
 
 > “Kok begini lagi sih? Sudah berapa kali saya jelaskan?”
 
@@ -335,23 +293,13 @@ Latihan ini bukan bertujuan membuat semua ucapan terdengar lembut. Tujuannya ada
 
 ## 15. Jika bahasa sudah diperbaiki tetapi masalah tetap ada
 
-Ini batas penting.
-
-Kadang masalah bukan pada bahasa.
-
-Orang mungkin memahami instruksi tetapi tidak memiliki kapasitas.
+Ini batas penting. Kadang masalah bukan pada bahasa. Orang mungkin memahami instruksi tetapi tidak memiliki kapasitas.
 Orang mungkin mampu tetapi tidak mau.
 Proses mungkin memang buruk.
 Kewenangan mungkin tidak jelas.
 Insentif mungkin bertentangan.
 Data mungkin belum tersedia.
-Atau kepentingan antarunit memang bertabrakan.
-
-Jika kita terus mengganti kalimat untuk masalah yang sebenarnya struktural, kita hanya memoles gejala.
-
-Karena itu bahasa adalah **instrumen**, bukan pengganti diagnosis masalah.
-
-Di sinilah Bab 21–39 nantinya mengambil alih: problem framing, hypotheses, causal reasoning, decision, execution, organization, power, dan strategy.
+Atau kepentingan antarunit memang bertabrakan. Jika kita terus mengganti kalimat untuk masalah yang sebenarnya struktural, kita hanya memoles gejala. Karena itu bahasa adalah **instrumen**, bukan pengganti diagnosis masalah. Di sinilah Bab 21–39 nantinya mengambil alih: problem framing, hypotheses, causal reasoning, decision, execution, organization, power, dan strategy.
 
 ## Red Flags
 
