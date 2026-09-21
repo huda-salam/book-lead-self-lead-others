@@ -1,14 +1,12 @@
 # Jangan Jatuh Cinta pada Solusi Pertama
 
-> **Leader capability:** Menjaga kesetiaan pada tujuan dan masalah, bukan pada solusi pertama yang terasa masuk akal.
+> **Yang dilatih:** Menjaga kesetiaan pada tujuan dan masalah, bukan pada solusi pertama yang terasa masuk akal.
 
 > **Canonical concept:** PROBLEM.HYPOTHESES
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
-Begitu seseorang mengusulkan solusi yang terlihat bagus, percakapan sering berubah.
-
-Awalnya:
+Begitu seseorang mengusulkan solusi yang terlihat bagus, percakapan sering berubah. Awalnya:
 
 > “Apa sebenarnya masalahnya?”
 
@@ -24,15 +22,7 @@ menjadi:
 
 > **“Bagaimana membuat pilihan saya berhasil?”**
 
-Itulah jebakan yang ingin dibahas dalam chapter ini.
-
-Solusi pertama tidak selalu buruk.
-
-Bahkan sering kali solusi pertama muncul karena pengalaman dan intuisi.
-
-Masalahnya bukan memiliki ide.
-
-Masalahnya adalah:
+Itulah jebakan yang ingin dibahas dalam chapter ini. Solusi pertama tidak selalu buruk. Bahkan sering kali solusi pertama muncul karena pengalaman dan intuisi. Masalahnya bukan memiliki ide. Masalahnya adalah:
 
 > **berhenti menguji setelah menemukan ide yang kita sukai.**
 
@@ -44,7 +34,7 @@ Masalahnya adalah:
 Chapter 21 membahas problem framing. Chapter 22 membahas bagaimana menjaga ruang pilihan tetap terbuka. Chapter 23 akan masuk lebih dalam ke hubungan sebab-akibat.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 Leader sedang melatih kemampuan untuk:
 
@@ -60,9 +50,7 @@ Misalnya:
 
 > “Kinerja turun. Kita perlu training.”
 
-Training adalah solusi yang familiar.
-
-Tetapi kinerja bisa turun karena:
+Training adalah solusi yang familiar. Tetapi kinerja bisa turun karena:
 
 - instruksi tidak jelas;
 - sistem lambat;
@@ -71,31 +59,21 @@ Tetapi kinerja bisa turun karena:
 - kapasitas kurang;
 - atau keputusan terlalu banyak berpindah tangan.
 
-Training mungkin tetap berguna.
-
-Tetapi pertanyaannya:
+Training mungkin tetap berguna. Tetapi pertanyaannya:
 
 > **“Evidence apa yang menunjukkan bahwa training adalah bagian penting dari masalah ini?”**
 
 ## 2. Bedakan evidence untuk problem dan evidence untuk solution
 
-Ini sering tercampur.
-
-Kita memiliki data:
+Ini sering tercampur. Kita memiliki data:
 
 > “Laporan terlambat.”
 
-Itu evidence tentang **problem**.
-
-Lalu kita berkata:
+Itu evidence tentang **problem**. Lalu kita berkata:
 
 > “Tambahkan satu orang.”
 
-Itu hipotesis tentang **solution**.
-
-Evidence pertama tidak otomatis membuktikan evidence kedua.
-
-Perlu jembatan:
+Itu hipotesis tentang **solution**. Evidence pertama tidak otomatis membuktikan evidence kedua. Perlu jembatan:
 
 > Mengapa tambahan orang diperkirakan mengurangi keterlambatan?
 
@@ -119,9 +97,7 @@ Ketiganya dapat diuji.
 
 ## 4. Tanya: apa yang harus benar agar solusi ini berhasil?
 
-Ini pertanyaan sederhana tetapi kuat.
-
-Misalnya solusi:
+Ini pertanyaan sederhana tetapi kuat. Misalnya solusi:
 
 > “Kita gunakan aplikasi baru.”
 
@@ -138,9 +114,7 @@ Jika salah satu asumsi utama salah, solusi dapat gagal walaupun aplikasinya bagu
 
 ## 5. Buat alternative set kecil
 
-Tidak perlu menghasilkan 20 alternatif.
-
-Untuk masalah penting, mulai dari tiga atau empat kelas pilihan:
+Tidak perlu menghasilkan 20 alternatif. Untuk masalah penting, mulai dari tiga atau empat kelas pilihan:
 
 1. **Improve** — perbaiki cara sekarang.
 2. **Simplify** — hilangkan langkah yang tidak perlu.
@@ -148,9 +122,7 @@ Untuk masalah penting, mulai dari tiga atau empat kelas pilihan:
 4. **Change capacity** — tambah/ubah sumber daya.
 5. **Change policy/process** — ubah aturan atau alur.
 
-Tidak semua kategori harus digunakan.
-
-Tujuannya:
+Tidak semua kategori harus digunakan. Tujuannya:
 
 > jangan biarkan solusi pertama menjadi satu-satunya dunia yang terlihat.
 
@@ -162,11 +134,7 @@ Jangan membuat:
 - aplikasi B;
 - aplikasi C;
 
-jika semuanya sebenarnya solusi yang sama.
-
-Cari perbedaan mekanisme.
-
-Contoh:
+jika semuanya sebenarnya solusi yang sama. Cari perbedaan mekanisme. Contoh:
 
 Masalah:
 
@@ -196,25 +164,17 @@ Contoh:
 
 > “Jika pilot tidak mengurangi waktu proses minimal 20% setelah tiga siklus, kita evaluasi kembali asumsi utama.”
 
-Tidak harus selalu 20%.
-
-Angka itu hanya contoh.
-
-Yang penting adalah:
+Tidak harus selalu 20%. Angka itu hanya contoh. Yang penting adalah:
 
 > **decision-changing evidence.**
 
 ## 8. Jangan mengubah setiap keberatan menjadi disconfirmation
 
-Ini juga jebakan.
-
-Seseorang berkata:
+Ini juga jebakan. Seseorang berkata:
 
 > “Saya tidak yakin solusi ini akan bekerja.”
 
-Itu belum tentu bukti bahwa solusi salah.
-
-Pertanyaan:
+Itu belum tentu bukti bahwa solusi salah. Pertanyaan:
 
 > “Apa yang membuat Anda ragu?”
 
@@ -226,23 +186,15 @@ Kemudian:
 - constraint;
 - atau sekadar preferensi?
 
-Kritik adalah input.
-
-Bukan otomatis veto.
+Kritik adalah input. Bukan otomatis veto.
 
 ## 9. Uji asumsi terbesar, bukan semua asumsi
 
-Jika ada 15 asumsi, jangan mencoba membuktikan semuanya sekaligus.
-
-Cari:
+Jika ada 15 asumsi, jangan mencoba membuktikan semuanya sekaligus. Cari:
 
 > **assumption with highest consequence if wrong.**
 
-Misalnya solusi membutuhkan integrasi sistem.
-
-Jika integrasi ternyata tidak mungkin, asumsi lain menjadi tidak relevan.
-
-Uji itu dulu.
+Misalnya solusi membutuhkan integrasi sistem. Jika integrasi ternyata tidak mungkin, asumsi lain menjadi tidak relevan. Uji itu dulu.
 
 ## 10. Pilot sebelum komitmen besar
 
@@ -262,9 +214,7 @@ Tetapi jangan memaksakan pilot ketika:
 - risiko terlalu tinggi;
 - atau keputusan memang tidak reversibel.
 
-Pilot adalah alat belajar.
-
-Bukan ritual.
+Pilot adalah alat belajar. Bukan ritual.
 
 ## 11. Reversibility matters
 
@@ -276,13 +226,7 @@ dengan:
 
 > membeli sistem lima tahun.
 
-Keduanya bukan keputusan dengan risiko yang sama.
-
-Jika keputusan mudah dibalik, kita dapat belajar lebih cepat.
-
-Jika sulit dibalik, kualitas analisis awal menjadi lebih penting.
-
-Ini melanjutkan Response Card di Chapter 9:
+Keduanya bukan keputusan dengan risiko yang sama. Jika keputusan mudah dibalik, kita dapat belajar lebih cepat. Jika sulit dibalik, kualitas analisis awal menjadi lebih penting. Ini melanjutkan Response Card di Chapter 9:
 
 > **Reversibility** memengaruhi cara kita merespons.
 
@@ -292,11 +236,7 @@ Kalimat:
 
 > “Kita sudah menghabiskan terlalu banyak untuk berhenti sekarang.”
 
-perlu diperiksa.
-
-Uang, waktu, dan energi yang sudah hilang tidak selalu menjadi alasan rasional untuk mengeluarkan lebih banyak.
-
-Pertanyaan yang lebih baik:
+perlu diperiksa. Uang, waktu, dan energi yang sudah hilang tidak selalu menjadi alasan rasional untuk mengeluarkan lebih banyak. Pertanyaan yang lebih baik:
 
 > “Jika kita belum mengeluarkan apa pun sampai hari ini, apakah kita masih akan memilih melanjutkan?”
 
@@ -314,11 +254,7 @@ Ini salah satu konsep penting buku.
 
 > “Saya harus membuat solusi saya ini berhasil.”
 
-Keduanya terlihat seperti persistence.
-
-Tetapi arahnya berbeda.
-
-Goal discipline membuka kemungkinan:
+Keduanya terlihat seperti persistence. Tetapi arahnya berbeda. Goal discipline membuka kemungkinan:
 
 > metode A → gagal → metode B.
 
@@ -326,9 +262,7 @@ Solution attachment membuat:
 
 > metode A → gagal → cari alasan → tambah investasi → pertahankan A.
 
-Disiplin seharusnya menjaga tujuan.
-
-Bukan ego terhadap metode.
+Disiplin seharusnya menjaga tujuan. Bukan ego terhadap metode.
 
 ## 14. Jangan membuat analisis menjadi alasan untuk tidak memutuskan
 
@@ -340,9 +274,7 @@ Leader berkata:
 
 > “Kita perlu data lebih banyak.”
 
-Selalu.
-
-Padahal:
+Selalu. Padahal:
 
 - keputusan sudah harus dibuat;
 - risiko sudah dapat dikelola;
@@ -386,9 +318,7 @@ Apa yang berubah setelah evidence masuk?
 
 ### Commit
 
-Jika sudah cukup jelas, pilih dan jalankan.
-
-Commit bukan berarti:
+Jika sudah cukup jelas, pilih dan jalankan. Commit bukan berarti:
 
 > “Saya pasti benar.”
 
@@ -400,31 +330,31 @@ Commit berarti:
 
 Sebelum membawa solusi ke rapat, tulis:
 
-**Problem:**  
+**Problem:**
 Apa yang ingin diubah?
 
-**Solution:**  
+**Solution:**
 Apa yang diusulkan?
 
-**Mechanism:**  
+**Mechanism:**
 Mengapa ini seharusnya bekerja?
 
-**Assumptions:**  
+**Assumptions:**
 Apa yang harus benar?
 
-**Alternative:**  
+**Alternative:**
 Apa pilihan lain yang benar-benar berbeda?
 
-**Disconfirming evidence:**  
+**Disconfirming evidence:**
 Apa yang akan membuat kita berubah pikiran?
 
-**Test:**  
+**Test:**
 Apa yang dapat diuji lebih dulu?
 
-**Reversibility:**  
+**Reversibility:**
 Seberapa mudah membalik keputusan?
 
-**Decision point:**  
+**Decision point:**
 Kapan kita berhenti menguji dan berkomitmen?
 
 ## 17. Contoh: “Tambah orang”
@@ -437,11 +367,7 @@ Solusi pertama:
 
 > “Tambah tiga pegawai.”
 
-Jangan langsung menolak.
-
-Uji.
-
-Apa penyebab beban?
+Jangan langsung menolak. Uji. Apa penyebab beban?
 
 - volume naik;
 - proses manual;
@@ -463,17 +389,13 @@ Kemudian tanyakan:
 
 > “Mana yang paling mungkin mengubah bottleneck dengan risiko yang dapat diterima?”
 
-Sekarang percakapan lebih baik.
-
-Bukan:
+Sekarang percakapan lebih baik. Bukan:
 
 > “Tambah orang atau tidak?”
 
 ## 18. Latihan: bunuh solusi favorit Anda
 
-Pilih satu solusi yang sangat Anda sukai.
-
-Tuliskan:
+Pilih satu solusi yang sangat Anda sukai. Tuliskan:
 
 > “Saya percaya solusi ini benar karena...”
 
@@ -489,9 +411,7 @@ Kemudian:
 
 > “Evidence yang paling mungkin membuat saya berubah pikiran adalah...”
 
-Ini bukan latihan merendahkan keyakinan.
-
-Ini latihan menjaga hubungan antara:
+Ini bukan latihan merendahkan keyakinan. Ini latihan menjaga hubungan antara:
 
 **confidence ↔ evidence.**
 
@@ -506,9 +426,7 @@ Berhenti ketika:
 - keputusan masih dapat direvisi jika diperlukan;
 - dan tambahan informasi kemungkinan kecil mengubah pilihan.
 
-Tidak ada keputusan yang membutuhkan kepastian 100%.
-
-Yang dibutuhkan adalah:
+Tidak ada keputusan yang membutuhkan kepastian 100%. Yang dibutuhkan adalah:
 
 > **cukup informasi untuk tingkat risiko yang dihadapi.**
 
