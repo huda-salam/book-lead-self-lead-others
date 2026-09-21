@@ -32,7 +32,7 @@ Chapter 28 membantu membaca siapa memiliki kepentingan dan pengaruh. Chapter 29 
 
 ## Yang Sedang Kita Latih
 
-Leader sedang melatih kemampuan untuk:
+Pemimpin sedang melatih kemampuan untuk:
 
 - membedakan position dan interest;
 - memahami constraint;
@@ -148,7 +148,7 @@ Misalnya seseorang ingin:
 
 > proses dipercepat dengan melewati mandatory control.
 
-Leader dapat memahami alasan tersebut. Tetapi tetap mengatakan:
+Pemimpin dapat memahami alasan tersebut. Tetapi tetap mengatakan:
 
 > “Saya paham kebutuhan waktunya. Tetapi control ini bukan bagian yang dapat kita hilangkan.”
 
@@ -210,7 +210,7 @@ Dalam situasi seperti ini:
 
 > “win-win”
 
-bisa menjadi slogan yang tidak membantu. Leader perlu mengatakan:
+bisa menjadi slogan yang tidak membantu. Pemimpin perlu mengatakan:
 
 > “Kita memang harus memilih.”
 
@@ -244,7 +244,7 @@ Jika semuanya diperlakukan sebagai:
 
 > “kepentingan yang sama penting,”
 
-keputusan menjadi kabur. Leader perlu bertanya:
+keputusan menjadi kabur. Pemimpin perlu bertanya:
 
 > “Mana yang tidak dapat dinegosiasikan?”
 
@@ -278,7 +278,7 @@ Ini membuat keputusan:
 
 ## 9. Jangan hanya bertanya “siapa yang menang?”
 
-Dalam konflik organisasi, leader mudah masuk ke mode:
+Dalam konflik organisasi, pemimpin mudah masuk ke mode:
 
 > A versus B.
 
@@ -445,7 +445,7 @@ Program B:
 
 > manfaat jangka panjang.
 
-Masing-masing unit datang membawa argumentasi. Leader jangan langsung memilih berdasarkan:
+Masing-masing unit datang membawa argumentasi. Pemimpin jangan langsung memilih berdasarkan:
 
 > siapa presentasinya paling meyakinkan.
 
@@ -479,7 +479,7 @@ Pihak B juga:
 
 Jika decision rights jelas:
 
-> leader yang berwenang perlu memutuskan.
+> pemimpin yang berwenang perlu memutuskan.
 
 Jangan terus mengadakan rapat hanya karena:
 
@@ -570,7 +570,7 @@ jangan memaksakan narasi bahwa selalu ada win-win.
 
 ## 20. Leadership saat harus memilih
 
-Leader kadang perlu mengatakan:
+Pemimpin kadang perlu mengatakan:
 
 > “Saya memahami alasan Anda. Saya tetap memilih opsi ini karena constraint X dan evidence Y.”
 
