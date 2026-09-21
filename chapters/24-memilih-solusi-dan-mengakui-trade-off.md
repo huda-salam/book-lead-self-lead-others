@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Setelah menganalisis masalah, leader tetap harus memilih. Di sinilah banyak diskusi menjadi tidak nyaman. Karena memilih berarti:
+Setelah menganalisis masalah, pemimpin tetap harus memilih. Di sinilah banyak diskusi menjadi tidak nyaman. Karena memilih berarti:
 
 > **mengatakan ya kepada sesuatu dan mengatakan tidak kepada sesuatu yang lain.**
 
@@ -21,7 +21,7 @@ Kita ingin:
 - terkendali;
 - dan disukai semua orang.
 
-Sering kali kita tidak bisa mendapatkan semuanya sekaligus. Maka pertanyaan leader bukan:
+Sering kali kita tidak bisa mendapatkan semuanya sekaligus. Maka pertanyaan pemimpin bukan:
 
 > “Mana solusi yang sempurna?”
 
@@ -39,7 +39,7 @@ Chapter 22 menjaga agar kita tidak jatuh cinta pada solusi pertama. Chapter 23 m
 
 ## Yang Sedang Kita Latih
 
-Leader sedang melatih kemampuan untuk:
+Pemimpin sedang melatih kemampuan untuk:
 
 - menjelaskan tujuan sebelum memilih;
 - membedakan constraint dari preference;
@@ -105,7 +105,7 @@ Jika itu batas yang benar-benar mengikat, opsi di atas angka tersebut gugur. Ber
 
 > “Saya lebih suka solusi yang murah.”
 
-Yang kedua adalah preference. Keduanya jangan dicampur. Leader perlu bertanya:
+Yang kedua adalah preference. Keduanya jangan dicampur. Pemimpin perlu bertanya:
 
 > “Mana yang benar-benar tidak bisa dilanggar?”
 
@@ -192,7 +192,7 @@ Kemudian:
 
 > “Risikonya kecil.”
 
-Leader perlu bertanya:
+Pemimpin perlu bertanya:
 
 > “Apa downside terbesar?”
 
@@ -268,7 +268,7 @@ Mungkin bukan yang paling murah hari ini. Tetapi memberikan:
 
 > flexibility.
 
-Leader perlu melihat:
+Pemimpin perlu melihat:
 
 > bukan hanya outcome sekarang,
 
@@ -310,7 +310,7 @@ Ini bukan otomatis salah satu pihak tidak rasional. Mereka mungkin memiliki:
 
 > **weighting berbeda terhadap objective.**
 
-Leader perlu membuat perbedaan itu terlihat.
+Pemimpin perlu membuat perbedaan itu terlihat.
 
 ## 15. Framework kerja
 
@@ -436,7 +436,7 @@ Itulah fungsi berpikir trade-off.
 
 ## 18. Jangan mencari konsensus palsu
 
-Leader kadang berkata:
+Pemimpin kadang berkata:
 
 > “Kita semua sepakat.”
 
