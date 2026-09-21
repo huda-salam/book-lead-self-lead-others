@@ -30,7 +30,7 @@ Yang kedua:
 
 > terlalu lama bertahan.
 
-Bukti sudah berubah. Kondisi sudah berubah. Strategi sudah tidak cocok. Tetapi leader berkata:
+Bukti sudah berubah. Kondisi sudah berubah. Strategi sudah tidak cocok. Tetapi pemimpin berkata:
 
 > “Kita harus konsisten.”
 
@@ -302,7 +302,7 @@ Bukan:
 
 > identitas.
 
-Jika leader sudah mengumumkan:
+Jika pemimpin sudah mengumumkan:
 
 > “Kita akan melakukan X,”
 
@@ -332,7 +332,7 @@ Adaptation juga dapat disalahgunakan. Contoh:
 
 > dua minggu pertama hasil belum terlihat.
 
-Leader langsung:
+Pemimpin langsung:
 
 > ganti strategy.
 
@@ -414,7 +414,7 @@ Orang bertanya:
 
 > “Kenapa berubah lagi?”
 
-Leader dapat menjelaskan:
+Pemimpin dapat menjelaskan:
 
 **What changed**
 
@@ -472,7 +472,7 @@ Tim dapat menerima perubahan. Yang sulit adalah:
 
 > perubahan tanpa alasan.
 
-Jika leader sering berkata:
+Jika pemimpin sering berkata:
 
 > “Ganti saja.”
 
