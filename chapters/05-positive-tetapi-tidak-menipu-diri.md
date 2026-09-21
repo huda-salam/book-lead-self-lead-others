@@ -1,10 +1,9 @@
 # Positive, Tetapi Tidak Menipu Diri
 
-> **Leader capability:** Leader membutuhkan orientasi konstruktif tanpa kehilangan kontak dengan fakta, risiko, dan ketidakpastian.
+> **Yang dilatih:** Pemimpin membutuhkan orientasi konstruktif tanpa kehilangan kontak dengan fakta, risiko, dan ketidakpastian.
 
 > **Canonical concept:** SELF.POSITIVE_REALISM  
 > **Related concepts:** SELF.RESILIENCE, LITERACY.DISCIPLINE, SELF.HUMILITY  
-> **Status:** Draft v0.1
 
 ## 1. Positif tidak sama dengan mengatakan semuanya akan baik-baik saja
 
@@ -12,25 +11,17 @@ Ada nasihat yang terdengar baik:
 
 > “Tetap positif.”
 
-Masalahnya, kalimat itu dapat berarti dua hal yang sangat berbeda.
-
-Pertama:
+Masalahnya, kalimat itu dapat berarti dua hal yang sangat berbeda. Pertama:
 
 > “Jangan biarkan masalah membuatmu kehilangan kemampuan untuk bertindak.”
 
-Ini berguna.
-
-Kedua:
+Ini berguna. Kedua:
 
 > “Jangan terlalu memikirkan masalah. Pasti semuanya akan baik-baik saja.”
 
-Ini bisa berbahaya.
+Ini bisa berbahaya. Buku ini memilih yang pertama.
 
-Buku ini memilih yang pertama.
-
-**Positive realism** bukan optimisme kosong. Ia adalah orientasi konstruktif yang tetap bersedia melihat keadaan buruk, risiko, ketidakpastian, dan kemungkinan gagal.
-
-Kita tidak perlu berkata:
+**Positive realism** bukan optimisme kosong. Ia adalah orientasi konstruktif yang tetap bersedia melihat keadaan buruk, risiko, ketidakpastian, dan kemungkinan gagal. Kita tidak perlu berkata:
 
 > “Pasti berhasil.”
 
@@ -44,13 +35,7 @@ Itulah perbedaan antara **harapan yang tetap terhubung dengan realitas** dan sek
 
 ## 2. Optimisme dan realism bukan pasangan yang harus saling membunuh
 
-Optimisme sering dipahami sebagai kecenderungan mengharapkan hasil yang baik.
-
-Realism mengharuskan kita memperhatikan evidence yang tersedia.
-
-Keduanya dapat bertemu.
-
-Misalnya:
+Optimisme sering dipahami sebagai kecenderungan mengharapkan hasil yang baik. Realism mengharuskan kita memperhatikan evidence yang tersedia. Keduanya dapat bertemu. Misalnya:
 
 > “Saya percaya proyek ini masih mungkin berhasil.”
 
@@ -58,9 +43,7 @@ dapat hidup berdampingan dengan:
 
 > “Risikonya besar, asumsi A belum terbukti, dan kita perlu checkpoint dalam dua minggu.”
 
-Masalah muncul ketika keyakinan terhadap hasil membuat kita mengabaikan evidence yang bertentangan.
-
-Penelitian mengenai unrealistic optimism menunjukkan bahwa orang dapat memperkirakan masa depan secara terlalu menguntungkan, dan bias semacam itu dapat berkaitan dengan keputusan, perilaku, serta respons emosional terhadap hasil yang tidak sesuai harapan. Namun literatur tersebut juga menekankan bahwa bentuk, pengukuran, dan konsekuensi optimism bias memiliki batas dan konteks yang berbeda. ([lihat Evidence notes](#evidence-notes))
+Masalah muncul ketika keyakinan terhadap hasil membuat kita mengabaikan evidence yang bertentangan. Penelitian mengenai unrealistic optimism menunjukkan bahwa orang dapat memperkirakan masa depan secara terlalu menguntungkan, dan bias semacam itu dapat berkaitan dengan keputusan, perilaku, serta respons emosional terhadap hasil yang tidak sesuai harapan. Namun literatur tersebut juga menekankan bahwa bentuk, pengukuran, dan konsekuensi optimism bias memiliki batas dan konteks yang berbeda. ([lihat Catatan evidence](#evidence-notes))
 
 Maka prinsip buku bukan:
 
@@ -74,35 +57,23 @@ Melainkan:
 
 ## 3. Positif bukan prediksi
 
-Ini perbedaan yang sering hilang.
-
-Kalimat:
+Ini perbedaan yang sering hilang. Kalimat:
 
 > “Saya akan mencari cara.”
 
-adalah sikap.
-
-Kalimat:
+adalah sikap. Kalimat:
 
 > “Saya pasti berhasil.”
 
-adalah prediksi.
-
-Kalimat:
+adalah prediksi. Kalimat:
 
 > “Saya belum tahu apakah ini akan berhasil.”
 
-adalah pernyataan ketidakpastian.
-
-Ketiganya bisa muncul dalam satu percakapan:
+adalah pernyataan ketidakpastian. Ketiganya bisa muncul dalam satu percakapan:
 
 > “Saya belum tahu apakah proyek ini akan berhasil. Risikonya memang besar. Tetapi saya masih melihat beberapa opsi yang layak, jadi saya akan menguji opsi pertama sampai checkpoint berikutnya.”
 
-Itu tidak pesimistis.
-
-Juga tidak optimistis dalam arti meramal hasil.
-
-Ia **konstruktif sambil tetap epistemically disciplined**.
+Itu tidak pesimistis. Juga tidak optimistis dalam arti meramal hasil. Ia **konstruktif sambil tetap epistemically disciplined**.
 
 ---
 
@@ -128,9 +99,7 @@ Apa yang belum cukup kita ketahui untuk menyimpulkan?
 
 ### Masih dapat diubah
 
-Apa yang masih berada dalam ruang tindakan kita?
-
-Contoh:
+Apa yang masih berada dalam ruang tindakan kita? Contoh:
 
 Sebuah proyek terlambat.
 
@@ -140,9 +109,7 @@ Sebuah proyek terlambat.
 
 **Belum diketahui:** apakah vendor dapat mengejar keterlambatan.
 
-**Masih dapat diubah:** scope tahap pertama, urutan pekerjaan, alokasi orang, dan frekuensi checkpoint.
-
-Sekarang kita memiliki gambaran yang lebih berguna daripada:
+**Masih dapat diubah:** scope tahap pertama, urutan pekerjaan, alokasi orang, dan frekuensi checkpoint. Sekarang kita memiliki gambaran yang lebih berguna daripada:
 
 > “Proyek ini masih aman.”
 
@@ -154,21 +121,15 @@ atau:
 
 ## 5. Jangan mengubah “belum tahu” menjadi “pasti”
 
-Positive realism sangat dekat dengan literacy discipline.
-
-Misalnya:
+Positive realism sangat dekat dengan literacy discipline. Misalnya:
 
 > “Belum ada keluhan dari pengguna.”
 
-Itu fakta tertentu.
-
-Tetapi tidak otomatis berarti:
+Itu fakta tertentu. Tetapi tidak otomatis berarti:
 
 > “Pengguna puas.”
 
-Mungkin mereka puas.
-
-Mungkin juga:
+Mungkin mereka puas. Mungkin juga:
 
 - tidak tahu harus mengadu;
 - malas mengadu;
@@ -194,9 +155,7 @@ Ada budaya yang membuat orang takut menjadi pembawa berita buruk.
 
 > “Jangan negatif.”
 
-Akibatnya, masalah dipoles.
-
-Angka yang buruk disebut:
+Akibatnya, masalah dipoles. Angka yang buruk disebut:
 
 > “tantangan.”
 
@@ -208,13 +167,7 @@ Konflik disebut:
 
 > “perbedaan dinamika.”
 
-Kadang bahasa yang halus memang berguna.
-
-Tetapi jika bahasa menghilangkan fakta, kita tidak sedang menjadi positif.
-
-Kita sedang kehilangan informasi.
-
-Pemimpin, manajer, dan anggota tim membutuhkan kemampuan mengatakan:
+Kadang bahasa yang halus memang berguna. Tetapi jika bahasa menghilangkan fakta, kita tidak sedang menjadi positif. Kita sedang kehilangan informasi. Pemimpin, manajer, dan anggota tim membutuhkan kemampuan mengatakan:
 
 > “Ini tidak berjalan.”
 
@@ -238,7 +191,7 @@ Dua hal dapat benar sekaligus:
 
 ## 7. Optimisme yang tidak terkendali dapat membuat risiko terlihat lebih kecil
 
-Unrealistic optimism telah diteliti dalam banyak konteks dan dapat membuat orang memperkirakan hasil personal secara terlalu menguntungkan. Literatur juga mencatat bahwa optimism bias dapat berhubungan dengan risk perception dan decision making. ([lihat Evidence notes](#evidence-notes))
+Unrealistic optimism telah diteliti dalam banyak konteks dan dapat membuat orang memperkirakan hasil personal secara terlalu menguntungkan. Literatur juga mencatat bahwa optimism bias dapat berhubungan dengan risk perception dan decision making. ([lihat Catatan evidence](#evidence-notes))
 
 Karena itu, sebelum berkata:
 
@@ -257,17 +210,13 @@ Kalimat:
 
 > “Saya optimistis.”
 
-tidak menjawab pertanyaan-pertanyaan tersebut.
-
-Ia hanya menjelaskan keadaan sikap kita.
+tidak menjawab pertanyaan-pertanyaan tersebut. Ia hanya menjelaskan keadaan sikap kita.
 
 ---
 
 ## 8. Tetapi terlalu realistis juga bisa menjadi alasan untuk tidak bergerak
 
-Ada sisi lain.
-
-Orang dapat menggunakan realism sebagai perlindungan:
+Ada sisi lain. Orang dapat menggunakan realism sebagai perlindungan:
 
 > “Saya realistis.”
 
@@ -279,17 +228,11 @@ Contohnya:
 
 > “Kemungkinan berhasil kecil.”
 
-Mungkin benar.
-
-Tetapi pertanyaan berikutnya:
+Mungkin benar. Tetapi pertanyaan berikutnya:
 
 > “Dibandingkan dengan apa?”
 
-Jika biaya percobaan kecil dan dapat dibatalkan, peluang kecil mungkin tetap layak diuji.
-
-Sebaliknya, jika biaya kegagalan sangat besar dan sulit dipulihkan, evidence yang sama mungkin tidak cukup untuk bertindak.
-
-Jadi realism bukan:
+Jika biaya percobaan kecil dan dapat dibatalkan, peluang kecil mungkin tetap layak diuji. Sebaliknya, jika biaya kegagalan sangat besar dan sulit dipulihkan, evidence yang sama mungkin tidak cukup untuk bertindak. Jadi realism bukan:
 
 > “Selalu pilih opsi paling aman.”
 
@@ -303,15 +246,11 @@ Ini akan dikembangkan lebih jauh dalam bab keputusan dan trade-off.
 
 ## 9. Harapan adalah sumber tindakan, bukan pengganti evidence
 
-Kita membutuhkan harapan.
-
-Tanpa harapan, masalah mudah berubah menjadi:
+Kita membutuhkan harapan. Tanpa harapan, masalah mudah berubah menjadi:
 
 > “Percuma.”
 
-Tetapi harapan tidak boleh menggantikan pemeriksaan.
-
-Formula yang lebih sehat:
+Tetapi harapan tidak boleh menggantikan pemeriksaan. Formula yang lebih sehat:
 
 > **Hope → Action → Feedback → Update**
 
@@ -323,9 +262,7 @@ Misalnya:
 
 > “Saya berharap pendekatan ini berhasil.”
 
-Baik.
-
-Lalu:
+Baik. Lalu:
 
 > “Apa yang akan menjadi tanda bahwa pendekatan ini mulai bekerja?”
 
@@ -349,24 +286,18 @@ Kegagalan dapat menghasilkan dua narasi ekstrem.
 
 > “Saya gagal tidak apa-apa. Pasti lain kali berhasil.”
 
-Keduanya terlalu cepat.
-
-Narasi yang lebih berguna:
+Keduanya terlalu cepat. Narasi yang lebih berguna:
 
 > “Hasilnya tidak sesuai tujuan. Mari kita lihat apa yang dapat kita pelajari, apa yang salah dalam metode, apa yang berada di luar kendali, dan apakah goal masih layak.”
 
-Ini terhubung langsung dengan Chapter 4.
-
-Kegagalan dapat berasal dari:
+Ini terhubung langsung dengan Chapter 4. Kegagalan dapat berasal dari:
 
 - execution;
 - method;
 - goal;
 - context.
 
-Jadi positive realism tidak menghapus kegagalan.
-
-Ia **mengubah cara kita menggunakan informasi dari kegagalan.**
+Jadi positive realism tidak menghapus kegagalan. Ia **mengubah cara kita menggunakan informasi dari kegagalan.**
 
 ---
 
@@ -376,15 +307,7 @@ Ada kecenderungan lain yang perlu dihindari:
 
 > “Dia sebenarnya orang baik.”
 
-Mungkin.
-
-Tetapi kalimat itu tidak cukup untuk menentukan tindakan.
-
-Seseorang dapat memiliki niat baik sekaligus melakukan tindakan yang berdampak buruk.
-
-Seseorang dapat kompeten sekaligus membuat kesalahan.
-
-Seseorang dapat menjadi teman baik sekaligus memiliki konflik kepentingan dalam suatu keputusan.
+Mungkin. Tetapi kalimat itu tidak cukup untuk menentukan tindakan. Seseorang dapat memiliki niat baik sekaligus melakukan tindakan yang berdampak buruk. Seseorang dapat kompeten sekaligus membuat kesalahan. Seseorang dapat menjadi teman baik sekaligus memiliki konflik kepentingan dalam suatu keputusan.
 
 Positive realism membantu kita memegang dua hal sekaligus:
 
@@ -399,15 +322,7 @@ Ini penting agar kita tidak jatuh ke dua ekstrem:
 
 ## 12. Positive realism bukan emotional flatness
 
-Orang yang realistis tetap dapat kecewa.
-
-Tetap dapat marah.
-
-Tetap dapat sedih.
-
-Tetap dapat takut.
-
-Perbedaan yang ingin dilatih buku ini adalah:
+Orang yang realistis tetap dapat kecewa. Tetap dapat marah. Tetap dapat sedih. Tetap dapat takut. Perbedaan yang ingin dilatih buku ini adalah:
 
 > **emosi tidak otomatis menjadi kesimpulan tentang masa depan.**
 
@@ -453,9 +368,7 @@ Informasi apa yang paling berguna untuk diperoleh berikutnya?
 
 ### Action
 
-Apa tindakan paling proporsional sekarang?
-
-Latihan ini adalah **pedagogical tool**, bukan alat ukur psikologis tervalidasi.
+Apa tindakan paling proporsional sekarang? Latihan ini adalah **pedagogical tool**, bukan alat ukur psikologis tervalidasi.
 
 ---
 
@@ -485,9 +398,7 @@ ubah menjadi:
 
 > “Saya menduga dia mungkin tidak bersedia membantu. Saya belum tahu alasannya.”
 
-Dengan perubahan kecil ini, kita mengurangi jarak antara **keyakinan** dan **evidence**.
-
-Ini juga menyiapkan pembaca untuk Chapter 7:
+Dengan perubahan kecil ini, kita mengurangi jarak antara **keyakinan** dan **evidence**. Ini juga menyiapkan pembaca untuk Chapter 7:
 
 **Fakta, Tafsir, dan Cerita di Kepala.**
 
@@ -499,9 +410,7 @@ Ketika seseorang mengatakan:
 
 > “Sudahlah, tetap positif.”
 
-Jangan langsung menolak.
-
-Tanyakan:
+Jangan langsung menolak. Tanyakan:
 
 ### Positif dalam arti apa?
 
@@ -513,9 +422,7 @@ Apa yang membuat kita percaya keadaan masih dapat diperbaiki?
 
 ### Tindakan berikutnya apa?
 
-Apa yang sebenarnya akan dilakukan?
-
-Jika tiga pertanyaan ini tidak memiliki jawaban, “tetap positif” mungkin hanya menjadi slogan.
+Apa yang sebenarnya akan dilakukan? Jika tiga pertanyaan ini tidak memiliki jawaban, “tetap positif” mungkin hanya menjadi slogan.
 
 ---
 
@@ -551,9 +458,9 @@ Jangan mengubah capability ini menjadi aturan absolut. Leadership selalu membutu
 **Carry forward:** capability ini harus membantu pembaca melihat situasi lebih jernih, memilih dengan lebih baik, bertindak dengan ownership, lalu belajar dari konsekuensinya.
 :::
 
-## Evidence notes
+## Catatan evidence
 
-- Nes & Segerstrom (2006), *Dispositional Optimism and Coping: A Meta-Analytic Review*, Personality and Social Psychology Review, 10(3), 235–251. Meta-analysis K=50, N=11,629; optimism associated with approach coping and lower avoidance coping. ([lihat Evidence notes](#evidence-notes))
-- Shepperd, Waters, Weinstein & Klein (2015), *A Primer on Unrealistic Optimism*, Current Directions in Psychological Science, 24(3). DOI: 10.1177/0963721414568341. ([lihat Evidence notes](#evidence-notes))
-- Shepperd, Pogge & Howell (2017), *Assessing the consequences of unrealistic optimism: Challenges and recommendations*, Consciousness and Cognition, 50, 69–78. DOI: 10.1016/j.concog.2016.07.004. ([lihat Evidence notes](#evidence-notes))
-- Jefferson, Bortolotti & Kuzmanovic (2017), *What is unrealistic optimism?*, Consciousness and Cognition, 50, 3–11. DOI: 10.1016/j.concog.2016.10.005. ([lihat Evidence notes](#evidence-notes))
+- Nes & Segerstrom (2006), *Dispositional Optimism and Coping: A Meta-Analytic Review*, Personality and Social Psychology Review, 10(3), 235–251. Meta-analysis K=50, N=11,629; optimism associated with approach coping and lower avoidance coping. ([lihat Catatan evidence](#evidence-notes))
+- Shepperd, Waters, Weinstein & Klein (2015), *A Primer on Unrealistic Optimism*, Current Directions in Psychological Science, 24(3). DOI: 10.1177/0963721414568341. ([lihat Catatan evidence](#evidence-notes))
+- Shepperd, Pogge & Howell (2017), *Assessing the consequences of unrealistic optimism: Challenges and recommendations*, Consciousness and Cognition, 50, 69–78. DOI: 10.1016/j.concog.2016.07.004. ([lihat Catatan evidence](#evidence-notes))
+- Jefferson, Bortolotti & Kuzmanovic (2017), *What is unrealistic optimism?*, Consciousness and Cognition, 50, 3–11. DOI: 10.1016/j.concog.2016.10.005. ([lihat Catatan evidence](#evidence-notes))
