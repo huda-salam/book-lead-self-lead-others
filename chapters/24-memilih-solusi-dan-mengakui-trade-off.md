@@ -1,16 +1,16 @@
 # Memilih Solusi dan Mengakui Trade-off
 
-> **Yang dilatih:** Memilih di antara beberapa opsi dengan memahami apa yang diperoleh, apa yang dikorbankan, risiko apa yang diterima, dan mengapa pilihan tersebut layak dijalankan.
+> **Yang dilatih:** memilih dengan sadar: apa yang kita utamakan, apa yang kita korbankan, dan risiko apa yang bersedia kita terima.
 
 > **Canonical concept:** DECISION.TRADEOFF
 
 ## Mengapa Ini Penting
 
-Setelah menganalisis masalah, pemimpin tetap harus memilih. Di sinilah banyak diskusi menjadi tidak nyaman. Karena memilih berarti:
+Setelah masalah cukup dipahami, pada akhirnya kita tetap harus memilih. Di titik inilah diskusi biasanya mulai terasa tidak nyaman. Karena memilih berarti:
 
 > **mengatakan ya kepada sesuatu dan mengatakan tidak kepada sesuatu yang lain.**
 
-Kita ingin:
+Kita sering ingin semuanya sekaligus:
 
 - cepat;
 - murah;
@@ -21,7 +21,7 @@ Kita ingin:
 - terkendali;
 - dan disukai semua orang.
 
-Sering kali kita tidak bisa mendapatkan semuanya sekaligus. Maka pertanyaan pemimpin bukan:
+Masalahnya, dalam banyak situasi kita tidak bisa mendapatkan semuanya sekaligus. Jadi pertanyaannya bukan:
 
 > “Mana solusi yang sempurna?”
 
@@ -39,7 +39,7 @@ Chapter 22 menjaga agar kita tidak jatuh cinta pada solusi pertama. Chapter 23 m
 
 ## Yang Sedang Kita Latih
 
-Pemimpin sedang melatih kemampuan untuk:
+Yang perlu dilatih adalah:
 
 - menjelaskan tujuan sebelum memilih;
 - membedakan constraint dari preference;
@@ -50,7 +50,7 @@ Pemimpin sedang melatih kemampuan untuk:
 
 ## 1. Memilih berarti tidak memilih yang lain
 
-Misalnya:
+Misalnya kita ingin:
 
 > “Kita ingin mempercepat proses.”
 
@@ -75,7 +75,7 @@ mungkin:
 - lebih lambat;
 - tetapi lebih mudah dikendalikan.
 
-Tidak ada pilihan tanpa konsekuensi.
+Setiap pilihan membawa konsekuensi.
 
 ## 2. Mulai dari objective
 
@@ -87,13 +87,13 @@ Tanyakan:
 
 > “Terbaik untuk apa?”
 
-Misalnya:
+Misalnya kita ingin:
 
 **Objective A:** menurunkan waktu proses.
 
 **Objective B:** meminimalkan risiko kesalahan.
 
-**Objective C:** menjaga biaya. Ketiga tujuan dapat menghasilkan pilihan berbeda. Karena itu “best solution” tanpa objective sebenarnya tidak lengkap.
+**Objective C:** menjaga biaya. Ketiga tujuan dapat menghasilkan pilihan berbeda. Tanpa tujuan yang jelas, istilah “solusi terbaik” sebenarnya belum lengkap.
 
 ## 3. Constraint bukan preference
 
@@ -105,11 +105,11 @@ Jika itu batas yang benar-benar mengikat, opsi di atas angka tersebut gugur. Ber
 
 > “Saya lebih suka solusi yang murah.”
 
-Yang kedua adalah preference. Keduanya jangan dicampur. Pemimpin perlu bertanya:
+Yang kedua adalah preference. Jangan mencampur keduanya. Pemimpin perlu bertanya:
 
 > “Mana yang benar-benar tidak bisa dilanggar?”
 
-## 4. Buat kriteria terlihat
+## 4. Buat alasan perbandingan terlihat
 
 Untuk keputusan penting, tuliskan misalnya:
 
@@ -124,11 +124,11 @@ Untuk keputusan penting, tuliskan misalnya:
 | Sustainability | Apakah dapat dipertahankan? |
 | Compliance | Apakah sesuai aturan? |
 
-Tidak semua keputusan membutuhkan semua kriteria. Gunakan yang relevan.
+Tidak semua keputusan perlu semua kriteria. Ambil yang memang relevan dengan keputusan tersebut.
 
 ## 5. Jangan terjebak angka palsu
 
-Misalnya:
+Misalnya kita ingin:
 
 | Solusi | Cost | Risk | Quality |
 |---|---:|---:|---:|
@@ -136,19 +136,19 @@ Misalnya:
 | B | 7 | 6 | 8 |
 | C | 6 | 5 | 7 |
 
-Kelihatannya ilmiah. Tetapi:
+Sekilas terlihat ilmiah. Tetapi:
 
 > angka 8 dan 7 berasal dari mana?
 
-Jika datanya lemah, skor dapat menciptakan ilusi objektivitas. Lebih baik berkata:
+Kalau dasarnya lemah, angka hanya membuat keputusan terlihat lebih objektif daripada kenyataannya. Lebih baik berkata:
 
 > “A paling mahal, tetapi memberikan kontrol lebih tinggi.”
 
 daripada membuat angka presisi yang tidak punya dasar.
 
-## 6. Trade-off harus dibicarakan secara eksplisit
+## 6. Trade-off perlu disebutkan terus terang
 
-Misalnya:
+Misalnya kita ingin:
 
 > “Kita memilih opsi A karena memprioritaskan reliability dibanding biaya awal.”
 
@@ -156,7 +156,7 @@ Kalimat ini jauh lebih jujur daripada:
 
 > “A adalah pilihan terbaik.”
 
-Sekarang semua orang tahu:
+Dengan begitu, orang tahu:
 
 > apa yang dioptimalkan.
 
@@ -220,11 +220,11 @@ Tanyakan:
 - apakah dapat diuji;
 - apakah keputusan dapat dibalik.
 
-Sekarang ketidakpastian menjadi bagian dari keputusan. Bukan alasan untuk berhenti.
+Ketidakpastian menjadi bagian dari keputusan, bukan alasan otomatis untuk berhenti.
 
 ## 10. Gunakan scenario sederhana
 
-Untuk keputusan dengan ketidakpastian tinggi:
+Untuk keputusan yang penuh ketidakpastian, gambaran sederhana sering lebih membantu:
 
 ### Best plausible
 
@@ -256,7 +256,7 @@ jauh lebih sulit dibalik. Semakin sulit dibalik:
 
 > semakin besar alasan untuk memeriksa evidence, assumptions, risks, dan alternatives.
 
-Bukan aturan matematis. Tetapi prinsip praktis.
+Ini bukan aturan matematis, hanya prinsip praktis.
 
 ## 12. Option value
 
@@ -286,7 +286,7 @@ Beberapa constraint bukan preferensi:
 - kewajiban kontraktual;
 - atau otoritas.
 
-Misalnya:
+Misalnya kita ingin:
 
 > “Kita ingin cepat, jadi kontrol wajib kita hilangkan.”
 
@@ -420,7 +420,7 @@ Downside:
 
 > desain kriterianya lebih kompleks.
 
-Sekarang diskusi lebih matang. Bukan:
+Dengan begitu, diskusinya menjadi lebih matang. Bukan:
 
 > “Saya pro kecepatan.”
 
@@ -432,7 +432,7 @@ Tetapi:
 
 > “Bisakah kita mempertahankan kontrol pada area berisiko tinggi sambil mengurangi beban pada transaksi berisiko rendah?”
 
-Itulah fungsi berpikir trade-off.
+Itulah gunanya berpikir dalam trade-off.
 
 ## 18. Jangan mencari konsensus palsu
 
@@ -444,7 +444,7 @@ padahal tidak. Lebih sehat:
 
 > “Kita sepakat pada tujuan. Kita berbeda pada prioritas antara speed dan control. Setelah mempertimbangkan risiko, saya memutuskan X.”
 
-Perbedaan tidak harus disamarkan. Yang dibutuhkan adalah:
+Perbedaan tidak perlu disamarkan. Yang dibutuhkan adalah:
 
 > **decision clarity.**
 
@@ -487,7 +487,7 @@ Jangan menyebut pelanggaran hukum, keselamatan, integritas, atau kewajiban forma
 :::
 
 ::: success Green Note
-**Carry forward:** Keputusan yang matang bukan keputusan tanpa kerugian. Ia adalah keputusan yang memahami apa yang diprioritaskan, apa yang dikorbankan, risiko apa yang diterima, dan kapan keputusan akan ditinjau kembali.
+**Carry forward:** Keputusan yang matang bukan keputusan yang bebas dari kerugian. Ia adalah keputusan yang tahu apa yang diprioritaskan, apa yang dikorbankan, risiko apa yang diterima, dan kapan kita akan melihatnya lagi.
 :::
 
 ## Evidence notes
