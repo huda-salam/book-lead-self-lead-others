@@ -37,7 +37,22 @@ Atau dalam bentuk yang lebih rinci:
 
 > **Baca realitas. Pahami konteks. Pilih. Bertindak. Amati akibatnya. Review. Perbarui cara.**
 
-Buku berkembang bertahap. Bab yang belum ditulis tidak dianggap sudah selesai; isi yang tersedia adalah bagian yang sedang dikerjakan dan ditinjau.
+Framework tersebut adalah sintesis kerja buku, bukan taxonomy akademik yang diklaim tervalidasi.
+
+## Arsitektur buku
+
+Buku terdiri dari **44 chapter dalam 10 bagian**:
+
+- **Bagian I — Memimpin Diri:** Bab 1–5
+- **Bagian II — Membaca dan Menilai Situasi:** Bab 6–9
+- **Bagian III — Memimpin melalui Komunikasi:** Bab 10–15
+- **Bagian IV — Relasi dan Konflik:** Bab 16–20
+- **Bagian V — Problem Solving dan Decision:** Bab 21–26
+- **Bagian VI — Organisasi dan Politik:** Bab 27–30
+- **Bagian VII — Leadership:** Bab 31–34
+- **Bagian VIII — Management dan Strategy:** Bab 35–39
+- **Bagian IX — Case dan Pembelajaran:** Bab 40–43
+- **Bagian X — Personal Operating System:** Bab 44
 
 ## Mulai dari mana?
 
@@ -45,10 +60,26 @@ Buku berkembang bertahap. Bab yang belum ditulis tidak dianggap sudah selesai; i
 - **Jika ingin memperkuat situational judgment:** lanjutkan ke Bab 6–9.
 - **Jika ingin memperkuat komunikasi dan relasi:** lanjutkan ke Bab 10–20.
 - **Jika ingin memperkuat problem solving, decision making, organisasi, dan strategi:** lanjutkan ke Bab 21–39.
-- **Jika ingin memperbaiki cara membaca orang:** lanjutkan ke Bab 7–10.
-- **Jika tantangannya hubungan dan komunikasi:** mulai dari Bab 10–11.
+- **Jika ingin belajar membaca kasus dan belajar dari manusia nyata:** lanjutkan ke Bab 40–43.
+- **Jika ingin mengubah seluruh buku menjadi sistem praktik pribadi:** mulai dari Bab 44, lalu gunakan sebagai loop untuk kembali ke chapter lain sesuai kebutuhan.
 - **Jika ingin memahami keseluruhan arsitektur buku:** gunakan navigasi di sebelah kiri.
+
+## Personal Operating System
+
+Bab 44 merangkum buku menjadi sistem praktik:
+
+> **SEE → UNDERSTAND → DECIDE → ACT → OBSERVE → REVIEW → LEARN → PRACTICE → HABIT/DEFAULT → SEE AGAIN**
+
+Tujuannya bukan membuat seseorang selalu benar atau selalu tenang.
+
+Tujuannya:
+
+> **menjadi lebih mampu melihat, memilih, bertindak, menerima konsekuensi, dan memperbarui diri ketika ternyata kita salah.**
 
 ## Status
 
-Saat ini situs menampilkan bab yang sudah tersedia di repository. Foundation dan research tetap menjadi artefak kerja internal dan tidak dijadikan bagian dari navigasi publik.
+**Draft lengkap 44/44 chapter.**
+
+Tahap berikutnya adalah **full-book release QA dan editorial integration**: audit konsistensi istilah, repetisi, provenance/evidence, cross-chapter references, navigasi, build VitePress, retrieval QA, dan final red-team.
+
+Foundation dan research tetap menjadi artefak kerja internal dan tidak dijadikan bagian dari navigasi publik.
