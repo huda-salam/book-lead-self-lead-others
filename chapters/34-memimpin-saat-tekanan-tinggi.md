@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Leadership tidak selalu terjadi dalam ruang yang tenang. Kadang:
+Kepemimpinan justru sering diuji ketika keadaan tidak tenang. Kadang:
 
 > target jatuh,
 
@@ -22,15 +22,15 @@ Leadership tidak selalu terjadi dalam ruang yang tenang. Kadang:
 
 > dan informasi belum lengkap.
 
-Dalam kondisi seperti itu, pemimpin tidak memiliki kemewahan:
+Dalam keadaan seperti itu, pemimpin biasanya tidak punya kemewahan untuk:
 
 > mengetahui semuanya terlebih dahulu.
 
-Tetapi tetap harus:
+Tetap saja keputusan berikutnya harus dibuat.
 
 > memilih apa yang dilakukan berikutnya.
 
-Tekanan menguji sesuatu yang berbeda dari sekadar pengetahuan:
+Tekanan menguji lebih dari sekadar pengetahuan:
 
 > **apakah seseorang masih mampu membedakan apa yang penting, apa yang diketahui, apa yang belum diketahui, dan apa yang harus dilakukan sekarang?**
 
@@ -132,10 +132,10 @@ Baru kemudian:
 > optimasi.
 
 ::: important Prinsip
-**Dalam tekanan tinggi, urutan tindakan sering lebih penting daripada kesempurnaan setiap tindakan.**
+**Dalam tekanan tinggi, urutan tindakan sering lebih penting daripada kesempurnaan tiap langkah.**
 :::
 
-## 3. Tidak semua hal menjadi prioritas hanya karena terasa mendesak
+## 3. Rasa mendesak tidak otomatis membuat semuanya menjadi prioritas
 
 Tekanan menciptakan ilusi:
 
@@ -160,13 +160,7 @@ Ini bukan taxonomy ilmiah. Ini:
 
 ## 4. Ketika semua dianggap prioritas
 
-Kalimat:
-
-> “Semuanya penting.”
-
-sering berarti:
-
-> belum ada pilihan yang dibuat.
+Ketika seseorang berkata “semuanya penting”, sering kali itu berarti kita belum benar-benar memilih.
 
 Pemimpin perlu bertanya:
 
@@ -198,7 +192,7 @@ Maka sederhanakan:
 
 > Kapan update berikutnya?
 
-Tidak perlu selalu membuat rapat panjang. Kadang:
+Tidak semua hal perlu rapat panjang. Kadang:
 
 > lima menit yang jelas
 
@@ -206,7 +200,7 @@ lebih berguna daripada:
 
 > satu jam diskusi yang kabur.
 
-## 6. Informasi: bedakan known, unknown, assumption
+## 6. Informasi: bedakan yang diketahui, yang belum diketahui, dan yang masih berupa dugaan
 
 Dalam situasi tertekan:
 
@@ -226,17 +220,15 @@ Pemimpin perlu mengatakan:
 
 > “Dugaan sementara masalah ada di service X.”
 
-Sekarang tim memiliki:
-
-> peta ketidakpastian.
+Dengan begitu tim punya gambaran yang lebih jujur tentang apa yang kita ketahui dan yang belum.
 
 Bukan:
 
 > kepastian palsu.
 
-## 7. Bad news harus naik lebih cepat
+## 7. Kabar buruk perlu naik lebih cepat
 
-Pemimpin yang membuat orang takut menyampaikan bad news akan menerima:
+Kalau orang takut membawa kabar buruk, pemimpin akhirnya menerima:
 
 > kabar buruk terlambat.
 
@@ -244,7 +236,7 @@ Dalam tekanan:
 
 > keterlambatan informasi dapat memperbesar masalah.
 
-Respons pemimpin terhadap bad news sebaiknya:
+Saat menerima kabar buruk, respons awal pemimpin sebaiknya:
 
 > “Baik. Apa yang kita tahu?”
 
@@ -256,13 +248,13 @@ Pertanggungjawaban tetap ada. Tetapi:
 
 > diagnosis dan stabilisasi perlu dilakukan terlebih dahulu ketika situasi masih berjalan.
 
-## 8. Calm bukan berarti diam
+## 8. Tenang bukan berarti diam
 
 Ada kesalahpahaman:
 
 > pemimpin yang tenang harus selalu lembut dan tidak banyak bicara.
 
-Tidak. Pemimpin dapat berkata:
+Tidak. Pemimpin tetap bisa berkata:
 
 > “Stop dulu pekerjaan ini.”
 
@@ -280,7 +272,7 @@ Bukan:
 
 > panik.
 
-## 9. Firm bukan berarti keras
+## 9. Tegas bukan berarti keras
 
 Sebaliknya:
 
@@ -290,7 +282,7 @@ Nada tinggi tidak otomatis mempercepat sistem. Kadang justru:
 
 > orang berhenti memberi informasi.
 
-Bandingkan:
+Bandingkan dua kalimat ini:
 
 > “Kenapa kalian belum selesai?”
 
@@ -306,7 +298,7 @@ Tetapi mengarahkan energi ke:
 
 > masalah.
 
-## 10. Decision threshold
+## 10. Ambang keputusan
 
 Dalam tekanan:
 
@@ -330,7 +322,7 @@ threshold informasi dapat lebih rendah. Untuk keputusan:
 
 threshold perlu lebih tinggi. Ini menyambung Chapter 9 dan Chapter 24.
 
-## 11. Jangan menciptakan kepanikan tambahan
+## 11. Jangan ikut menyebarkan kepanikan
 
 Pemimpin punya efek sosial. Jika pemimpin berkata:
 
@@ -340,7 +332,7 @@ tim mungkin menangkap:
 
 > ancaman,
 
-bahkan sebelum mengetahui fakta. Bandingkan:
+bahkan sebelum mengetahui fakta. Bandingkan dua kalimat ini:
 
 > “Situasinya serius. Saat ini kita fokus pada tiga hal…”
 
@@ -356,7 +348,7 @@ Bukan:
 
 > kepanikan disebarkan.
 
-## 12. Delegasikan berdasarkan capability dan stakes
+## 12. Delegasikan berdasarkan kemampuan dan risiko
 
 Dalam tekanan:
 
@@ -392,7 +384,7 @@ Ada pemimpin yang menganggap:
 
 > “Saya harus menyelesaikan semuanya sendiri.”
 
-Itu bukan ownership. Ownership berarti:
+Itu bukan ownership. Ownership berarti memastikan masalah ditangani pada level yang tepat. Ownership berarti:
 
 > memastikan masalah ditangani pada level yang tepat.
 
@@ -408,33 +400,25 @@ maka:
 
 > eskalasi dapat menjadi tindakan yang bertanggung jawab.
 
-Gunakan format:
+Kalau perlu mengeskalasi, sampaikan:
 
 **Fakta → Dampak → Tindakan yang sudah dilakukan → Risiko → Opsi → Keputusan yang dibutuhkan** Bukan:
 
 > “Pak, ini bermasalah. Mohon arahan.”
 
-## 14. Ketika keputusan harus cepat
+## 14. Ketika keputusan memang harus cepat
 
 Dalam situasi tertentu:
 
 > waktu adalah constraint.
 
-Jangan mengubah:
-
-> analisis
-
-menjadi:
-
-> alasan untuk tidak memutuskan.
+Jangan menjadikan analisis sebagai alasan untuk tidak mengambil keputusan.
 
 Tetapi jangan juga:
 
 > memakai “urgent” untuk membenarkan keputusan sembrono.
 
-Pertanyaan:
-
-> Apa keputusan minimum yang dibutuhkan sekarang?
+Tanyakan:
 
 > Apa yang bisa ditunda?
 
@@ -444,7 +428,7 @@ Pertanyaan:
 
 > Kapan kita review?
 
-## 15. Komunikasi saat tekanan
+## 15. Komunikasi ketika tekanan tinggi
 
 Komunikasi tekanan tinggi sebaiknya menjawab:
 
@@ -458,11 +442,9 @@ Contoh:
 
 > “Sistem pembayaran terganggu sejak 09.42. Saat ini fokus kita mencegah transaksi ganda dan menjaga layanan minimum. Tim A melakukan verifikasi transaksi. Tim B mengecek service pembayaran. Saya eskalasi ke vendor. Update berikutnya pukul 10.00. Penyebab utama belum terkonfirmasi.”
 
-Pendek. Tetapi:
+Singkat, tetapi cukup untuk membuat orang tahu apa yang sedang terjadi dan apa yang harus dilakukan.
 
-> informatif.
-
-## 16. Jangan mengubah tekanan menjadi budaya darurat permanen
+## 16. Jangan biarkan mode darurat menjadi cara kerja sehari-hari
 
 Ada organisasi yang selalu bekerja dengan:
 
@@ -472,7 +454,7 @@ Ada organisasi yang selalu bekerja dengan:
 
 > “sekarang!”
 
-Akhirnya:
+Kalau setiap hari terasa seperti itu:
 
 > tidak ada lagi perbedaan antara emergency dan pekerjaan biasa.
 
@@ -500,9 +482,9 @@ Mungkin:
 
 > atau sistem memang rapuh.
 
-## 17. Recovery bukan kemewahan
+## 17. Recovery bukan kemewahan; ia bagian dari kapasitas kerja
 
-Setelah tekanan berlalu:
+Setelah keadaan kembali stabil:
 
 > jangan langsung pindah ke masalah berikutnya.
 
@@ -525,9 +507,7 @@ organisasi kehilangan kesempatan:
 
 ## 18. Review tanpa mencari kambing hitam
 
-Setelah kejadian:
-
-> jangan hanya bertanya siapa yang salah.
+Setelah kejadian, jangan berhenti pada pertanyaan siapa yang salah.
 
 Tanyakan:
 
@@ -549,7 +529,7 @@ Tanyakan:
 
 ## 19. Framework: Pressure Leadership Loop
 
-Framework berikut adalah **sintesis kerja buku**, bukan taxonomy crisis leadership tervalidasi:
+Framework berikut adalah **sintesis kerja buku**, bukan taxonomy crisis leadership yang tervalidasi:
 
 **Stabilize → Prioritize → Clarify → Decide → Coordinate → Monitor → Escalate/Adapt → Recover → Review**
 
@@ -605,7 +585,7 @@ Ketika menghadapi situasi tertekan, tulis:
 
 **What can wait?** Apa yang sengaja ditunda?
 
-**When do we review?** Kapan keputusan dievaluasi? Latihan ini sengaja:
+**When do we review?** Kapan keputusan dievaluasi? Latihan ini memang sengaja dibuat:
 
 > sederhana.
 
@@ -614,7 +594,7 @@ Karena dalam tekanan:
 > cognitive bandwidth juga terbatas.
 
 ::: caution Hati-hati
-**Jangan menjadikan “tetap tenang” sebagai satu-satunya ukuran leadership.** Orang dapat terlihat tenang tetapi membuat keputusan buruk. Sebaliknya, seseorang dapat merasa tertekan tetapi tetap mengambil tindakan yang tepat.
+**Jangan menjadikan “tetap tenang” sebagai satu-satunya ukuran kepemimpinan.** Orang dapat terlihat tenang tetapi membuat keputusan buruk. Sebaliknya, seseorang dapat merasa tertekan tetapi tetap mengambil tindakan yang tepat.
 :::
 
 ::: warning Risiko
