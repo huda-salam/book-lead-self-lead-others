@@ -8,7 +8,7 @@
 
 Ada dua mitos yang sama-sama berbahaya. Mitos pertama:
 
-> “Konflik itu buruk. Leader harus membuat semua orang akur.”
+> “Konflik itu buruk. Pemimpin harus membuat semua orang akur.”
 
 Mitos kedua:
 
@@ -16,7 +16,7 @@ Mitos kedua:
 
 Keduanya terlalu sederhana. Literatur organisasi membedakan beberapa bentuk konflik dan menunjukkan bahwa hubungan konflik dengan hasil kerja bergantung pada jenis dan konteksnya. Task conflict, relationship conflict, dan process conflict tidak boleh diperlakukan sebagai satu fenomena. ([lihat Evidence notes](#evidence-notes))
 
-Leader tidak membutuhkan organisasi tanpa konflik. Leader membutuhkan kemampuan untuk mengetahui:
+Pemimpin tidak membutuhkan organisasi tanpa konflik. Pemimpin membutuhkan kemampuan untuk mengetahui:
 
 > **Konflik macam apa yang sedang terjadi, apa yang dipertaruhkan, dan apa yang harus dilakukan?**
 
@@ -30,7 +30,7 @@ Bab ini adalah bab membaca konflik. Teknik menurunkan eskalasi dibahas lebih khu
 
 ## Yang Sedang Kita Latih
 
-Leader sedang melatih kemampuan untuk:
+Pemimpin sedang melatih kemampuan untuk:
 
 - membedakan ketidaksetujuan dari konflik relasional;
 - melihat konflik sebagai sistem, bukan hanya pertengkaran;
@@ -48,7 +48,7 @@ Unit B:
 
 > “Unit A selalu mengubah permintaan mendadak.”
 
-Jika leader hanya melihat siapa yang lebih emosional, ia kehilangan masalah sebenarnya. Mungkin ada:
+Jika pemimpin hanya melihat siapa yang lebih emosional, ia kehilangan masalah sebenarnya. Mungkin ada:
 
 - target yang bertentangan;
 - proses approval yang terlalu panjang;
@@ -206,7 +206,7 @@ Dalam konflik, kita mudah berkata:
 
 Mungkin benar. Tetapi mungkin juga tidak. Kembali ke Chapter 8:
 
-**Observe → Hypothesize → Ask → Test → Update.** Leader tidak harus naif. Ia hanya perlu membedakan:
+**Observe → Hypothesize → Ask → Test → Update.** Pemimpin tidak harus naif. Ia hanya perlu membedakan:
 
 > “Saya melihat perilaku X”
 
@@ -238,7 +238,7 @@ melainkan:
 
 Orang dapat memiliki kepentingan berbeda tanpa menjadi jahat. Seorang kepala unit ingin menjaga kapasitas timnya. Seorang pimpinan program ingin target tercapai. Seorang auditor ingin bukti lengkap. Seorang pelaksana ingin instruksi jelas. Semua dapat memiliki kepentingan yang sah.
 
-Leader perlu mencari:
+Pemimpin perlu mencari:
 
 - kepentingan mana yang sah;
 - mana yang harus dinegosiasikan;
@@ -270,7 +270,7 @@ Mungkin perlu data. Mungkin perlu mediator. Mungkin perlu keputusan. Mungkin per
 
 Power membuat konflik tidak selalu simetris. Orang dengan kewenangan lebih besar dapat mengakhiri konflik dengan satu instruksi. Tetapi itu tidak selalu berarti masalah selesai. Kadang instruksi hanya menghentikan perdebatan sementara, sementara masalah substantif tetap ada.
 
-Sebaliknya, orang dengan kewenangan lebih rendah mungkin tidak dapat memaksa keputusan tetapi memiliki informasi penting. Karena itu leader perlu bertanya:
+Sebaliknya, orang dengan kewenangan lebih rendah mungkin tidak dapat memaksa keputusan tetapi memiliki informasi penting. Karena itu pemimpin perlu bertanya:
 
 > “Siapa memiliki kewenangan?”
 
@@ -291,7 +291,7 @@ Ada konflik yang dapat dinegosiasikan. Ada juga yang memiliki batas nyata. Conto
 - fraud;
 - atau keputusan kewenangan.
 
-Dalam kasus seperti ini, “cari titik tengah” dapat menjadi saran yang buruk. Tidak semua hal memiliki kompromi yang aman. Leader perlu dapat berkata:
+Dalam kasus seperti ini, “cari titik tengah” dapat menjadi saran yang buruk. Tidak semua hal memiliki kompromi yang aman. Pemimpin perlu dapat berkata:
 
 > “Bagian ini bukan ruang kompromi. Yang dapat kita diskusikan adalah bagaimana memenuhi standar tersebut.”
 
@@ -306,7 +306,7 @@ Konflik kadang menunjukkan:
 - distribusi risiko yang tidak adil;
 - atau keputusan yang belum jelas.
 
-Karena itu pertanyaan pertama leader tidak harus:
+Karena itu pertanyaan pertama pemimpin tidak harus:
 
 > “Bagaimana menghentikan konflik?”
 
@@ -384,7 +384,7 @@ Jika konflik menyangkut:
 - ancaman serius;
 - atau pelanggaran aturan;
 
-leader tidak perlu menunggu konflik “menjadi sehat”. Gunakan mekanisme yang sesuai:
+pemimpin tidak perlu menunggu konflik “menjadi sehat”. Gunakan mekanisme yang sesuai:
 
 **dokumentasi → batas → eskalasi → investigasi → keputusan** sesuai kewenangan dan aturan yang berlaku.
 
@@ -397,7 +397,7 @@ Jangan menggunakan konsep “konflik produktif” untuk membenarkan penghinaan, 
 :::
 
 ::: success Green Note
-**Carry forward:** Leader tidak perlu takut pada perbedaan. Tetapi ia juga tidak perlu mencari konflik untuk terlihat berani. Baca apa yang berbeda, mengapa berbeda, apa yang dipertaruhkan, lalu pilih respons yang proporsional.
+**Carry forward:** Pemimpin tidak perlu takut pada perbedaan. Tetapi ia juga tidak perlu mencari konflik untuk terlihat berani. Baca apa yang berbeda, mengapa berbeda, apa yang dipertaruhkan, lalu pilih respons yang proporsional.
 :::
 
 ## Evidence notes
