@@ -1,18 +1,16 @@
 # Kepentingan, Kekuasaan, dan Pengaruh
 
-> **Leader capability:** Mampu membaca kepentingan, sumber daya, ketergantungan, otoritas, informasi, dan jaringan yang memengaruhi keputusan organisasi tanpa menjadi sinis atau manipulatif.
+> **Yang dilatih:** Mampu membaca kepentingan, sumber daya, ketergantungan, otoritas, informasi, dan jaringan yang memengaruhi keputusan organisasi tanpa menjadi sinis atau manipulatif.
 
 > **Canonical concept:** ORG.POWER_INFLUENCE
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
 Di organisasi, kalimat:
 
 > “Ini keputusan terbaik.”
 
-tidak selalu cukup untuk menjelaskan apa yang terjadi setelahnya.
-
-Ada pertanyaan lain:
+tidak selalu cukup untuk menjelaskan apa yang terjadi setelahnya. Ada pertanyaan lain:
 
 > Siapa yang berkepentingan?
 
@@ -26,9 +24,7 @@ Ada pertanyaan lain:
 
 > Siapa yang dapat mempercepat atau memperlambat proses?
 
-Pertanyaan ini bukan ajakan menjadi licik.
-
-Justru sebaliknya.
+Pertanyaan ini bukan ajakan menjadi licik. Justru sebaliknya.
 
 > **Leader yang tidak memahami power sering salah membaca situasi.**
 
@@ -60,7 +56,7 @@ atau:
 Chapter 27 memberi peta sistem organisasi. Chapter 28 menambahkan pertanyaan: siapa memiliki pengaruh terhadap apa, dan mengapa? Chapter 29 akan membahas ketika kepentingan tersebut benar-benar bertabrakan.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 Leader sedang melatih kemampuan untuk:
 
@@ -78,11 +74,7 @@ Cara paling sederhana melihat organisasi:
 
 > orang yang jabatannya tinggi punya power.
 
-Ada benarnya.
-
-Tetapi tidak lengkap.
-
-Seseorang juga dapat memiliki pengaruh karena:
+Ada benarnya. Tetapi tidak lengkap. Seseorang juga dapat memiliki pengaruh karena:
 
 - expertise;
 - informasi;
@@ -96,9 +88,7 @@ Karena itu:
 
 > **formal authority ≠ total influence.**
 
-Seorang pimpinan mungkin memiliki keputusan formal.
-
-Tetapi orang lain mungkin memiliki:
+Seorang pimpinan mungkin memiliki keputusan formal. Tetapi orang lain mungkin memiliki:
 
 > informasi yang sangat penting untuk membuat keputusan tersebut dapat berjalan.
 
@@ -126,9 +116,7 @@ Besarnya leverage juga tergantung:
 
 > apakah ada alternatif.
 
-Jika A dapat memperoleh data dari lima sumber lain, ketergantungannya kepada B kecil.
-
-Jika hanya B yang memiliki data tersebut:
+Jika A dapat memperoleh data dari lima sumber lain, ketergantungannya kepada B kecil. Jika hanya B yang memiliki data tersebut:
 
 > dependency meningkat.
 
@@ -146,9 +134,7 @@ Kepentingan sering diperlakukan seolah-olah:
 
 > “dia punya agenda.”
 
-Tetapi setiap orang memang memiliki kepentingan.
-
-Atasan mungkin memikirkan:
+Tetapi setiap orang memang memiliki kepentingan. Atasan mungkin memikirkan:
 
 > target organisasi.
 
@@ -168,9 +154,7 @@ Auditor mungkin memikirkan:
 
 > evidence dan control.
 
-Semua dapat memiliki alasan yang legitimate.
-
-Maka:
+Semua dapat memiliki alasan yang legitimate. Maka:
 
 > **different interest ≠ bad intention.**
 
@@ -182,9 +166,7 @@ Dua orang dapat menyatakan posisi:
 
 > “Saya tidak setuju.”
 
-Tetapi alasannya berbeda.
-
-Orang pertama:
+Tetapi alasannya berbeda. Orang pertama:
 
 > takut risiko hukum.
 
@@ -196,11 +178,7 @@ Orang ketiga:
 
 > percaya pendekatan tersebut tidak efektif.
 
-Posisinya sama.
-
-Kepentingannya berbeda.
-
-Jika leader hanya berdebat tentang:
+Posisinya sama. Kepentingannya berbeda. Jika leader hanya berdebat tentang:
 
 > posisi,
 
@@ -233,9 +211,7 @@ Karena itu leader perlu bertanya:
 
 > Apakah ada risiko jika informasi dibagikan?
 
-Information asymmetry tidak selalu buruk.
-
-Organisasi memang membutuhkan:
+Information asymmetry tidak selalu buruk. Organisasi memang membutuhkan:
 
 > spesialisasi.
 
@@ -260,9 +236,7 @@ Resource dapat berupa:
 - approval;
 - kapasitas.
 
-Orang yang mengontrol resource tertentu dapat memiliki pengaruh lebih besar dalam keputusan yang berkaitan dengan resource tersebut.
-
-Tetapi jangan menyimpulkan:
+Orang yang mengontrol resource tertentu dapat memiliki pengaruh lebih besar dalam keputusan yang berkaitan dengan resource tersebut. Tetapi jangan menyimpulkan:
 
 > “orang yang mengontrol resource selalu paling berkuasa.”
 
@@ -284,9 +258,7 @@ Posisi tersebut dapat membuat orang tersebut menjadi:
 
 > information bridge.
 
-Ini dapat membantu organisasi.
-
-Tetapi juga dapat menciptakan:
+Ini dapat membantu organisasi. Tetapi juga dapat menciptakan:
 
 > bottleneck.
 
@@ -312,9 +284,7 @@ Influence dapat terjadi melalui:
 - incentive;
 - authority.
 
-Tidak semuanya buruk.
-
-Bahkan leadership memang membutuhkan:
+Tidak semuanya buruk. Bahkan leadership memang membutuhkan:
 
 > influencing others toward legitimate objectives.
 
@@ -356,9 +326,7 @@ Untuk keputusan penting, buat peta sederhana.
 | B | Y | Approval | A | Sedang | Capacity |
 | C | Z | Expertise | A/B | Tinggi | Scope |
 
-Tujuannya bukan memberi skor secara ilmiah.
-
-Tujuannya:
+Tujuannya bukan memberi skor secara ilmiah. Tujuannya:
 
 > **membuat dependency yang sebelumnya tidak terlihat menjadi terlihat.**
 
@@ -372,9 +340,7 @@ Misalnya:
 
 > memperjelas decision rights
 
-dapat mengurangi informal bargaining tertentu,
-
-tetapi sekaligus:
+dapat mengurangi informal bargaining tertentu, tetapi sekaligus:
 
 > meningkatkan kecepatan organisasi.
 
@@ -396,9 +362,7 @@ tetapi:
 
 > influence praktis rendah.
 
-Atau sebaliknya.
-
-Misalnya pimpinan memutuskan:
+Atau sebaliknya. Misalnya pimpinan memutuskan:
 
 > sistem baru harus digunakan.
 
@@ -406,9 +370,7 @@ Tetapi orang yang menguasai:
 
 > proses operasional,
 
-tidak percaya desainnya.
-
-Secara formal:
+tidak percaya desainnya. Secara formal:
 
 > keputusan sudah dibuat.
 
@@ -416,9 +378,7 @@ Secara operasional:
 
 > adoption belum terjadi.
 
-Ini bukan selalu masalah pembangkangan.
-
-Mungkin:
+Ini bukan selalu masalah pembangkangan. Mungkin:
 
 > stakeholder yang penting belum dilibatkan.
 
@@ -442,31 +402,17 @@ Ketika seseorang menolak, jangan langsung memberi label:
 
 Tanyakan:
 
-**Concern?**
+**Concern?** Apa yang dia khawatirkan?
 
-Apa yang dia khawatirkan?
+**Interest?** Apa yang dia lindungi?
 
-**Interest?**
+**Evidence?** Apa yang dia ketahui?
 
-Apa yang dia lindungi?
+**Constraint?** Apa yang tidak dapat ia ubah?
 
-**Evidence?**
+**Incentive?** Apa yang membuat status quo lebih menarik?
 
-Apa yang dia ketahui?
-
-**Constraint?**
-
-Apa yang tidak dapat ia ubah?
-
-**Incentive?**
-
-Apa yang membuat status quo lebih menarik?
-
-**Authority?**
-
-Apakah dia memang memiliki kewenangan tertentu?
-
-Sekarang resistance menjadi:
+**Authority?** Apakah dia memang memiliki kewenangan tertentu? Sekarang resistance menjadi:
 
 > sesuatu yang dapat dianalisis.
 
@@ -490,9 +436,7 @@ Karena itu:
 
 > **effective ≠ automatically legitimate.**
 
-Sebuah taktik dapat berhasil membuat orang patuh,
-
-tetapi tetap bermasalah secara etika dan governance.
+Sebuah taktik dapat berhasil membuat orang patuh, tetapi tetap bermasalah secara etika dan governance.
 
 ## 15. Power literacy bukan cynicism
 
@@ -506,15 +450,11 @@ Ada dua ekstrem.
 
 > “Semua orang pasti punya agenda tersembunyi.”
 
-Keduanya berbahaya.
-
-Posisi yang lebih berguna:
+Keduanya berbahaya. Posisi yang lebih berguna:
 
 > **assume interests exist; test the evidence about them.**
 
-Kita boleh memetakan kemungkinan kepentingan.
-
-Tetapi jangan mengubah hipotesis menjadi:
+Kita boleh memetakan kemungkinan kepentingan. Tetapi jangan mengubah hipotesis menjadi:
 
 > fakta tentang motif seseorang.
 
@@ -566,9 +506,7 @@ Apa yang membatasi penggunaan pengaruh tersebut?
 
 ## 17. Contoh: perubahan proses
 
-Sebuah proses akan diubah.
-
-Pimpinan berkata:
+Sebuah proses akan diubah. Pimpinan berkata:
 
 > “Ini hanya perubahan SOP.”
 
@@ -580,35 +518,21 @@ System map Chapter 27 sudah menunjukkan:
 
 Power map menambahkan:
 
-**A**
+**A** memiliki data operasional.
 
-memiliki data operasional.
+**B** memiliki expertise compliance.
 
-**B**
+**C** memiliki authority approval.
 
-memiliki expertise compliance.
-
-**C**
-
-memiliki authority approval.
-
-**D**
-
-tidak memiliki authority formal tetapi menjadi penghubung informal antarunit.
-
-Jika perubahan dirancang hanya berdasarkan:
+**D** tidak memiliki authority formal tetapi menjadi penghubung informal antarunit. Jika perubahan dirancang hanya berdasarkan:
 
 > struktur formal,
 
-D dapat terlewat.
-
-Jika dirancang hanya berdasarkan:
+D dapat terlewat. Jika dirancang hanya berdasarkan:
 
 > siapa paling berpengaruh,
 
-Bisa muncul masalah governance.
-
-Leader perlu melihat:
+Bisa muncul masalah governance. Leader perlu melihat:
 
 > **formal authority + actual influence + legitimate constraints.**
 
@@ -630,9 +554,7 @@ Sebelum mencoba memengaruhi seseorang:
 
 > Apakah cara saya dapat dijelaskan secara terbuka?
 
-Pertanyaan terakhir sangat berguna.
-
-Jika sebuah taktik hanya terasa aman ketika:
+Pertanyaan terakhir sangat berguna. Jika sebuah taktik hanya terasa aman ketika:
 
 > tidak diketahui orang lain,
 
@@ -640,43 +562,23 @@ itu adalah sinyal untuk berhenti dan memeriksa kembali.
 
 ## 19. Latihan: Power Map
 
-Pilih satu keputusan organisasi yang sulit.
+Pilih satu keputusan organisasi yang sulit. Tulis:
 
-Tulis:
+**Actor** Siapa?
 
-**Actor**
+**Interest** Apa yang mungkin mereka lindungi/capai?
 
-Siapa?
+**Resource** Apa yang mereka kontrol?
 
-**Interest**
+**Dependency** Siapa membutuhkan siapa?
 
-Apa yang mungkin mereka lindungi/capai?
+**Authority** Siapa boleh memutuskan?
 
-**Resource**
+**Information** Apa yang diketahui masing-masing pihak?
 
-Apa yang mereka kontrol?
+**Influence** Bagaimana mereka dapat memengaruhi outcome?
 
-**Dependency**
-
-Siapa membutuhkan siapa?
-
-**Authority**
-
-Siapa boleh memutuskan?
-
-**Information**
-
-Apa yang diketahui masing-masing pihak?
-
-**Influence**
-
-Bagaimana mereka dapat memengaruhi outcome?
-
-**Constraint**
-
-Apa batas legitimate mereka?
-
-Kemudian tanyakan:
+**Constraint** Apa batas legitimate mereka? Kemudian tanyakan:
 
 > “Apa yang selama ini saya salah pahami karena hanya melihat organigram?”
 
@@ -686,9 +588,7 @@ Bahaya terbesar chapter ini adalah pembaca mengambil kesimpulan:
 
 > “Oh, ternyata leadership adalah permainan power.”
 
-Bukan.
-
-Power adalah:
+Bukan. Power adalah:
 
 > **salah satu kondisi nyata yang harus dipahami leader.**
 
