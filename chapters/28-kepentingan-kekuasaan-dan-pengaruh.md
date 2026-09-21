@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Di organisasi, kalimat:
+Di organisasi, kalimat seperti:
 
 > “Ini keputusan terbaik.”
 
@@ -24,11 +24,11 @@ tidak selalu cukup untuk menjelaskan apa yang terjadi setelahnya. Ada pertanyaan
 
 > Siapa yang dapat mempercepat atau memperlambat proses?
 
-Pertanyaan ini bukan ajakan menjadi licik. Justru sebaliknya.
+Pertanyaan-pertanyaan itu bukan ajakan untuk bermain licik. Justru sebaliknya.
 
-> **Pemimpin yang tidak memahami power sering salah membaca situasi.**
+> **Tanpa memahami power, kita mudah salah membaca mengapa sebuah keputusan berjalan atau tersendat.**
 
-Ia mengira masalahnya:
+Kita bisa saja mengira masalahnya:
 
 > “orang tidak mau bekerja sama.”
 
@@ -58,7 +58,7 @@ Chapter 27 memberi peta sistem organisasi. Chapter 28 menambahkan pertanyaan: si
 
 ## Yang Sedang Kita Latih
 
-Pemimpin sedang melatih kemampuan untuk:
+Yang perlu dilatih adalah:
 
 - mengenali sumber pengaruh;
 - membaca dependency;
@@ -94,7 +94,7 @@ Seorang pimpinan mungkin memiliki keputusan formal. Tetapi orang lain mungkin me
 
 ## 2. Power bersifat relasional
 
-Power lebih mudah dipahami dengan pertanyaan:
+Untuk memahami power, mulai dari pertanyaan:
 
 > “Apa yang dibutuhkan A dari B?”
 
@@ -108,11 +108,11 @@ B membutuhkan:
 
 > approval dari A.
 
-Keduanya memiliki:
+Keduanya punya:
 
 > leverage yang berbeda.
 
-Besarnya leverage juga tergantung:
+Besarnya pengaruh juga bergantung pada:
 
 > apakah ada alternatif.
 
@@ -120,7 +120,7 @@ Jika A dapat memperoleh data dari lima sumber lain, ketergantungannya kepada B k
 
 > dependency meningkat.
 
-Jadi pertanyaan penting bukan hanya:
+Jadi pertanyaannya bukan hanya:
 
 > “Siapa yang lebih tinggi?”
 
@@ -128,7 +128,7 @@ tetapi:
 
 > **“Siapa bergantung kepada siapa, untuk apa, dan seberapa banyak alternatif yang tersedia?”**
 
-## 3. Kepentingan tidak otomatis berarti buruk
+## 3. Kepentingan tidak otomatis berarti niat buruk
 
 Kepentingan sering diperlakukan seolah-olah:
 
@@ -154,7 +154,7 @@ Auditor mungkin memikirkan:
 
 > evidence dan control.
 
-Semua dapat memiliki alasan yang legitimate. Maka:
+Semua pihak tadi bisa memiliki alasan yang masuk akal dari posisinya masing-masing. Karena itu:
 
 > **different interest ≠ bad intention.**
 
@@ -186,7 +186,7 @@ ia mungkin tidak pernah menemukan:
 
 > **interest di belakang posisi.**
 
-## 5. Information adalah sumber leverage
+## 5. Informasi juga merupakan sumber pengaruh
 
 Bayangkan satu orang mengetahui:
 
@@ -223,7 +223,7 @@ atau:
 
 > akses digunakan untuk kepentingan yang tidak legitimate.
 
-## 6. Resource control
+## 6. Kendali atas sumber daya
 
 Resource dapat berupa:
 
@@ -236,11 +236,11 @@ Resource dapat berupa:
 - approval;
 - kapasitas.
 
-Orang yang mengontrol resource tertentu dapat memiliki pengaruh lebih besar dalam keputusan yang berkaitan dengan resource tersebut. Tetapi jangan menyimpulkan:
+Orang yang menguasai sumber daya tertentu bisa memiliki pengaruh lebih besar dalam keputusan yang berkaitan dengan resource tersebut. Tetapi jangan menyimpulkan:
 
 > “orang yang mengontrol resource selalu paling berkuasa.”
 
-Power tetap bergantung pada:
+Tetapi power tetap bergantung pada:
 
 > alternatif, dependency, dan konteks.
 
@@ -258,7 +258,7 @@ Posisi tersebut dapat membuat orang tersebut menjadi:
 
 > information bridge.
 
-Ini dapat membantu organisasi. Tetapi juga dapat menciptakan:
+Itu bisa sangat membantu organisasi. Tetapi bisa juga menciptakan:
 
 > bottleneck.
 
@@ -270,7 +270,7 @@ Maka network influence perlu dibaca sekaligus dengan:
 
 > system resilience.
 
-## 8. Influence bukan selalu coercion
+## 8. Pengaruh tidak selalu berarti memaksa
 
 Influence dapat terjadi melalui:
 
@@ -284,17 +284,17 @@ Influence dapat terjadi melalui:
 - incentive;
 - authority.
 
-Tidak semuanya buruk. Bahkan leadership memang membutuhkan:
+Tidak satu pun otomatis buruk. Bahkan leadership memang membutuhkan:
 
 > influencing others toward legitimate objectives.
 
-Yang penting adalah:
+Yang perlu diperiksa adalah:
 
 > **bagaimana pengaruh digunakan.**
 
 ## 9. Persuasion, negotiation, coercion
 
-Tiga hal ini jangan dicampur.
+Ketiga hal ini sebaiknya dipisahkan.
 
 ### Persuasion
 
@@ -316,7 +316,7 @@ Jangan menyebut semua bentuk influence sebagai:
 
 > manipulation.
 
-## 10. Stakeholder map
+## 10. Peta stakeholder
 
 Untuk keputusan penting, buat peta sederhana.
 
@@ -326,11 +326,11 @@ Untuk keputusan penting, buat peta sederhana.
 | B | Y | Approval | A | Sedang | Capacity |
 | C | Z | Expertise | A/B | Tinggi | Scope |
 
-Tujuannya bukan memberi skor secara ilmiah. Tujuannya:
+Tujuannya bukan menghasilkan skor yang terlihat ilmiah. Tujuannya sederhana:
 
 > **membuat dependency yang sebelumnya tidak terlihat menjadi terlihat.**
 
-## 11. Jangan menganggap influence sebagai zero-sum
+## 11. Jangan menganggap pengaruh sebagai permainan menang-kalah
 
 Jika seseorang mendapatkan pengaruh:
 
@@ -394,7 +394,7 @@ dari:
 
 > legitimate concern.
 
-## 13. Membaca resistance
+## 13. Membaca penolakan
 
 Ketika seseorang menolak, jangan langsung memberi label:
 
@@ -438,15 +438,15 @@ Karena itu:
 
 Sebuah taktik dapat berhasil membuat orang patuh, tetapi tetap bermasalah secara etika dan governance.
 
-## 15. Power literacy bukan cynicism
+## 15. Melek power bukan berarti sinis
 
 Ada dua ekstrem.
 
-### Naif
+### Terlalu naif
 
 > “Semua orang pasti punya tujuan yang sama.”
 
-### Sinis
+### Terlalu sinis
 
 > “Semua orang pasti punya agenda tersembunyi.”
 
@@ -464,7 +464,7 @@ Ini konsisten dengan Chapter 8:
 
 ## 16. Framework: Power & Influence Map
 
-Framework berikut adalah **sintesis kerja buku**, bukan taxonomy power tervalidasi:
+Framework berikut adalah **sintesis kerja buku**, bukan taxonomy power yang tervalidasi:
 
 **Actor → Interest → Resource → Dependence → Authority → Information → Network → Influence → Constraint**
 
@@ -554,7 +554,7 @@ Sebelum mencoba memengaruhi seseorang:
 
 > Apakah cara saya dapat dijelaskan secara terbuka?
 
-Pertanyaan terakhir sangat berguna. Jika sebuah taktik hanya terasa aman ketika:
+Pertanyaan terakhir sangat berguna. Ada satu tes sederhana: kalau sebuah taktik hanya terasa aman ketika:
 
 > tidak diketahui orang lain,
 
@@ -596,7 +596,7 @@ Tujuan leadership bukan:
 
 > menguasai semua orang.
 
-Tujuannya:
+Tujuannya sederhana:
 
 > membuat keputusan dan tindakan yang legitimate dapat berjalan melalui sistem yang melibatkan manusia dengan kepentingan, keterbatasan, dan pengaruh yang berbeda.
 
