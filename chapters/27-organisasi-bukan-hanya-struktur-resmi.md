@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Lihat sebuah organisasi. Ada:
+Lihat organigram sebuah organisasi. Biasanya kita akan melihat:
 
 > Kepala.
 
@@ -18,7 +18,7 @@ Lihat sebuah organisasi. Ada:
 
 > Staf.
 
-Semua terlihat jelas di organigram. Tetapi kemudian muncul pertanyaan:
+Semuanya terlihat rapi di atas kertas. Tetapi kemudian muncul pertanyaan:
 
 > Mengapa keputusan ini selalu terlambat?
 
@@ -30,14 +30,14 @@ Semua terlihat jelas di organigram. Tetapi kemudian muncul pertanyaan:
 
 > Mengapa prosedur yang sebenarnya sudah tidak cocok tetap dilakukan?
 
-Organigram tidak selalu menjawab pertanyaan-pertanyaan tersebut. Karena organisasi memiliki dua wajah:
+Tetapi organigram tidak selalu menjawab pertanyaan-pertanyaan tadi. Karena organisasi biasanya punya dua wajah:
 
-**formal structure** dan
+**struktur formal** dan
 
-**actual system of work.**
+**cara kerja yang sebenarnya.**
 
 ::: success Green Note
-**Untuk memimpin organisasi, jangan hanya membaca siapa melapor kepada siapa. Baca juga bagaimana pekerjaan, informasi, keputusan, dan pengaruh benar-benar bergerak.**
+**Kalau ingin memahami organisasi, jangan berhenti pada pertanyaan siapa melapor kepada siapa. Baca juga bagaimana pekerjaan, informasi, keputusan, dan pengaruh benar-benar bergerak.**
 :::
 
 ::: info Konteks
@@ -46,7 +46,7 @@ Bab ini bukan mengajarkan politik organisasi. Bab ini memberi dasar untuk memaha
 
 ## Yang Sedang Kita Latih
 
-Pemimpin sedang melatih kemampuan untuk:
+Yang perlu dilatih adalah:
 
 - melihat hubungan antarbagian;
 - memahami aliran pekerjaan;
@@ -66,7 +66,7 @@ Organigram berguna. Ia menunjukkan:
 - otoritas formal;
 - pembagian unit.
 
-Tetapi organigram biasanya tidak menunjukkan:
+Yang sering tidak terlihat di sana adalah:
 
 > siapa yang benar-benar menguasai informasi tertentu.
 
@@ -106,7 +106,7 @@ Misalnya:
 
 > di mana pekerjaan berpindah tangan?
 
-Dengan begitu kita mulai melihat:
+Dari sini mulai terlihat:
 
 > **workflow organisasi.**
 
@@ -158,7 +158,7 @@ Di sinilah desain organisasi membutuhkan:
 
 Jika seseorang memiliki informasi penting tetapi tidak memiliki jalur untuk menyampaikannya, organisasi kehilangan kapasitas belajar.
 
-## 5. Informal network bukan otomatis politik buruk
+## 5. Jaringan informal bukan otomatis politik buruk
 
 Ada orang yang selalu ditanya ketika:
 
@@ -176,7 +176,7 @@ Mereka mungkin tidak memiliki posisi formal tertinggi. Tetapi mereka memiliki:
 
 > **informal influence.**
 
-Ini tidak otomatis buruk. Informal network dapat membantu:
+Itu tidak otomatis buruk. Informal network dapat membantu:
 
 - koordinasi;
 - penyebaran informasi;
@@ -213,7 +213,7 @@ Atau:
 
 > “Kalau atasan belum bertanya, jangan terlalu banyak bicara.”
 
-Norma seperti ini dapat membantu koordinasi. Tetapi dapat juga menghasilkan:
+Norma seperti itu kadang membantu pekerjaan berjalan. Tetapi bisa juga menghasilkan:
 
 > information hiding.
 
@@ -229,7 +229,7 @@ Ini lebih berguna daripada langsung berkata:
 
 > “Budaya kita buruk.”
 
-## 7. Routines dapat membantu sekaligus membatasi
+## 7. Rutinitas bisa membantu sekaligus membatasi
 
 Rutin membuat pekerjaan lebih mudah. Jika setiap transaksi harus dimulai dari langkah yang sama, orang tidak perlu merancang proses dari nol. Tetapi routine juga dapat menjadi:
 
@@ -249,11 +249,11 @@ Jika jawabannya sudah tidak ada:
 
 ## 8. Incentive membuat orang merespons sistem
 
-Jangan terlalu cepat berkata:
+Jangan cepat-cepat mengatakan:
 
 > “Orang-orang tidak mau bekerja sama.”
 
-Lihat juga:
+Lihat juga pertanyaan yang lebih tidak nyaman:
 
 > **apa yang sistem beri penghargaan?**
 
@@ -275,7 +275,7 @@ Dari sudut sistem:
 
 > biaya berpindah.
 
-Inilah alasan pemimpin perlu melihat:
+Di sinilah pemimpin perlu melihat:
 
 > **local optimization.**
 
@@ -330,7 +330,7 @@ Pemimpin perlu membuat:
 
 ## 11. Decision rights
 
-Tidak semua masalah membutuhkan rapat. Pertanyaan yang lebih mendasar:
+Tidak semua masalah membutuhkan rapat. Ada pertanyaan yang lebih mendasar:
 
 > “Siapa sebenarnya yang boleh memutuskan?”
 
@@ -356,7 +356,7 @@ Maka desain yang baik perlu memperjelas:
 
 ## 12. Organisasi sebagai sistem
 
-Framework berikut adalah **sintesis kerja buku**, bukan taxonomy organisasi tervalidasi:
+Framework berikut adalah **sintesis kerja buku**, bukan taxonomy organisasi yang tervalidasi:
 
 **Structure → Roles → Workflows → Information → Incentives → Norms → Networks → Decisions → Feedback**
 
@@ -394,11 +394,11 @@ Siapa dapat memutuskan apa?
 
 ### Feedback
 
-Bagaimana sistem mengetahui bahwa sesuatu berjalan atau gagal? Framework ini bukan alat untuk memberi label organisasi. Ia adalah:
+Bagaimana sistem mengetahui bahwa sesuatu berjalan atau gagal? Framework ini bukan alat untuk memberi label organisasi. Ia lebih tepat dipakai sebagai:
 
 > **peta pertanyaan.**
 
-## 13. Jangan langsung menyalahkan budaya
+## 13. Jangan buru-buru menyalahkan budaya
 
 Kalimat:
 
@@ -428,7 +428,7 @@ kadang merupakan:
 
 > **system response.**
 
-Ini tidak berarti individu bebas dari accountability. Artinya:
+Itu tentu tidak berarti individu bebas dari accountability. Maksudnya:
 
 > diagnosis perlu lebih lengkap.
 
@@ -454,7 +454,7 @@ Ambil satu masalah organisasi. Tulis:
 
 > **org chart.**
 
-Apa yang terlihat di system map tetapi tidak terlihat di organigram? Di situlah sering ditemukan:
+Apa yang terlihat pada peta sistem tetapi tidak terlihat di organigram? Di situlah sering ditemukan:
 
 > bottleneck.
 
