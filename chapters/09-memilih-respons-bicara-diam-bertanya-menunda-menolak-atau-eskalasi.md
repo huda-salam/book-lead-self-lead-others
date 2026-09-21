@@ -1,4 +1,6 @@
-# 09 — Memilih Respons: Bicara, Diam, Bertanya, Menunda, Menolak, atau Eskalasi
+# Memilih Respons
+
+> **Leader capability:** Di titik inilah situational reading berubah menjadi leadership action: memilih apa yang perlu dilakukan dengan mempertimbangkan stakes, authority, information gap, risk, dan reversibility.
 
 > **Canonical concept:** READ.RESPONSE_CHOICE
 > **Status:** Draft v0.1
@@ -270,6 +272,16 @@ Yang perlu dijaga adalah konsistensi pada **prinsip dan tujuan**, bukan kekakuan
 Pertanyaan utama:
 
 > **“Dari semua respons yang tersedia, mana yang paling proporsional terhadap situasi sekarang?”**
+
+## Red Flags
+
+::: warning Risiko
+Jangan mengubah capability ini menjadi aturan absolut. Leadership selalu membutuhkan penyesuaian terhadap konteks, stakes, authority, evidence, dan dampak terhadap pihak lain.
+:::
+
+::: success Green Note
+**Carry forward:** capability ini harus membantu pembaca melihat situasi lebih jernih, memilih dengan lebih baik, bertindak dengan ownership, lalu belajar dari konsekuensinya.
+:::
 
 ## Evidence notes
 
