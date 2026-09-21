@@ -71,9 +71,9 @@ Resilience sering terdengar seperti:
 
 Itu terlalu sederhana.
 
-Dalam literatur self-regulation, persistence dan timely disengagement justru dipandang sebagai kemampuan yang dapat saling melengkapi. Seseorang perlu dapat terus mengejar tujuan ketika tujuan tersebut masih layak, tetapi juga mampu mengubah arah atau melepaskan tujuan ketika kondisi menuntutnya. citeturn0search1
+Dalam literatur self-regulation, persistence dan timely disengagement justru dipandang sebagai kemampuan yang dapat saling melengkapi. Seseorang perlu dapat terus mengejar tujuan ketika tujuan tersebut masih layak, tetapi juga mampu mengubah arah atau melepaskan tujuan ketika kondisi menuntutnya. ([lihat Evidence notes](#evidence-notes))
 
-Review tentang dynamic self-regulation juga memandang regulasi diri sebagai proses dinamis: orang harus mengelola tuntutan yang bersaing, memilih dan mengurutkan tujuan/tugas, serta melakukan penyesuaian. citeturn0search2
+Review tentang dynamic self-regulation juga memandang regulasi diri sebagai proses dinamis: orang harus mengelola tuntutan yang bersaing, memilih dan mengurutkan tujuan/tugas, serta melakukan penyesuaian. ([lihat Evidence notes](#evidence-notes))
 
 Maka:
 
@@ -138,7 +138,7 @@ Kita setia kepada tujuan, bukan kepada ego yang melekat pada metode pertama.
 
 ## 4. Discipline bukan kekerasan terhadap diri
 
-Self-control dalam literatur psikologi dipahami sebagai penyelarasan pikiran, perasaan, dan tindakan dengan tujuan yang bernilai meskipun ada alternatif yang lebih menarik dalam jangka pendek. citeturn0search0
+Self-control dalam literatur psikologi dipahami sebagai penyelarasan pikiran, perasaan, dan tindakan dengan tujuan yang bernilai meskipun ada alternatif yang lebih menarik dalam jangka pendek. ([lihat Evidence notes](#evidence-notes))
 
 Definisi tersebut membantu memperbaiki gambaran tentang disiplin.
 
@@ -243,7 +243,7 @@ Setelah beberapa waktu:
 - kesalahan mulai terlihat;
 - biaya mempertahankan komitmen menjadi lebih nyata.
 
-Self-regulation di dunia nyata memang bersifat dinamis dan harus berhadapan dengan multiple goals serta competing demands. citeturn0search2
+Self-regulation di dunia nyata memang bersifat dinamis dan harus berhadapan dengan multiple goals serta competing demands. ([lihat Evidence notes](#evidence-notes))
 
 Maka strategi yang hanya bergantung pada:
 
@@ -293,7 +293,7 @@ Ini bukan aturan universal.
 
 Ini adalah **desain praktik** untuk menghindari lapse kecil berubah menjadi abandonment total.
 
-Evidence tentang habit formation menunjukkan bahwa perilaku berulang dan konteks dapat membantu maintenance, tetapi studi yang ada memiliki keterbatasan dan variasi waktu pembentukan kebiasaan sangat besar. Karena itu buku ini tidak menggunakan mitos seperti “habit pasti terbentuk dalam 21 hari.” citeturn1search8
+Evidence tentang habit formation menunjukkan bahwa perilaku berulang dan konteks dapat membantu maintenance, tetapi studi yang ada memiliki keterbatasan dan variasi waktu pembentukan kebiasaan sangat besar. Karena itu buku ini tidak menggunakan mitos seperti “habit pasti terbentuk dalam 21 hari.” ([lihat Evidence notes](#evidence-notes))
 
 ---
 
@@ -303,7 +303,7 @@ Satu hari gagal bukan berarti seluruh sistem gagal.
 
 Satu minggu tertinggal tidak otomatis berarti goal harus dibuang.
 
-Dalam literatur maintenance, lapse dan relapse memiliki dinamika yang lebih kompleks daripada satu kejadian tunggal. Review prospektif menunjukkan bahwa maintenance perilaku memang sulit dan memiliki banyak predictor. citeturn1search12
+Dalam literatur maintenance, lapse dan relapse memiliki dinamika yang lebih kompleks daripada satu kejadian tunggal. Review prospektif menunjukkan bahwa maintenance perilaku memang sulit dan memiliki banyak predictor. ([lihat Evidence notes](#evidence-notes))
 
 Karena itu kita perlu membedakan:
 
@@ -442,7 +442,7 @@ Saya akan:
 - disengage;
 - atau reengage dengan desain baru?
 
-Goal adjustment research mendukung gagasan bahwa disengagement, reengagement, dan goal-striving flexibility adalah komponen yang berbeda dalam self-regulation, meskipun kualitas evidence keseluruhan masih memiliki keterbatasan. citeturn1search2
+Goal adjustment research mendukung gagasan bahwa disengagement, reengagement, dan goal-striving flexibility adalah komponen yang berbeda dalam self-regulation, meskipun kualitas evidence keseluruhan masih memiliki keterbatasan. ([lihat Evidence notes](#evidence-notes))
 
 ---
 
