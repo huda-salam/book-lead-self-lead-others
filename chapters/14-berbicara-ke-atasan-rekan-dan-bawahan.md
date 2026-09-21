@@ -11,7 +11,7 @@ Kalimat yang sama tidak selalu bekerja dengan cara yang sama pada orang yang ber
 Riset tentang employee voice menunjukkan bahwa hierarki, power, status, dan konteks memengaruhi keputusan orang untuk berbicara serta bagaimana pesan diterima. Karena itu komunikasi organisasi tidak cukup dipahami sebagai soal “gaya bicara pribadi”. ([lihat Evidence notes](#evidence-notes))
 
 ::: success Green Note
-**Lensa pemimpin:** Beradaptasi dengan audiens bukan berarti menjadi orang berbeda untuk setiap orang. Yang berubah terutama adalah cara menyampaikan; standar terhadap fakta, alasan, dan tanggung jawab tetap dijaga.
+**Lensa kepemimpinan:** Beradaptasi dengan audiens bukan berarti menjadi orang berbeda untuk setiap orang. Yang berubah terutama cara menyampaikan; standar terhadap fakta, alasan, dan tanggung jawab tetap dijaga.
 :::
 
 ::: info Konteks
@@ -20,7 +20,7 @@ Bab ini bukan panduan menjilat atasan, memerintah bawahan, atau memenangkan poli
 
 ## Yang Sedang Kita Latih
 
-Pemimpin sedang melatih kemampuan membaca:
+Yang dilatih adalah kemampuan membaca:
 
 - siapa penerima pesan;
 - apa tujuan komunikasi;
