@@ -1,10 +1,10 @@
 # Strategi Berarti Memilih
 
-> **Strategic capability:** Menentukan arah dan posisi yang ingin dikejar, pilihan aktivitas dan capability yang diperlukan, serta hal-hal yang sengaja tidak diprioritaskan.
+> **Yang dilatih:** Menentukan arah dan posisi yang ingin dikejar, pilihan aktivitas dan capability yang diperlukan, serta hal-hal yang sengaja tidak diprioritaskan.
 
 > **Canonical concept:** STRAT.CHOICE
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
 Banyak organisasi memiliki:
 
@@ -22,9 +22,7 @@ Tetapi belum tentu memiliki:
 
 > strategi yang jelas.
 
-Mengapa?
-
-Karena strategi bukan sekadar:
+Mengapa? Karena strategi bukan sekadar:
 
 > apa yang ingin kita capai.
 
@@ -40,7 +38,7 @@ Strategi juga menjawab:
 Chapter 24 membahas trade-off pada keputusan. Chapter 35 membahas prioritas operasional. Chapter 37 membahas konsekuensi lanjutan. Chapter 38 mengintegrasikan semuanya pada level arah strategis.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 - membaca situasi;
 - menentukan objective;
@@ -57,9 +55,7 @@ Kalimat:
 
 > “Kita ingin pelayanan lebih cepat, lebih murah, lebih inovatif, dan lebih personal.”
 
-Semua bagus.
-
-Tetapi:
+Semua bagus. Tetapi:
 
 > belum menjadi pilihan.
 
@@ -89,15 +85,11 @@ Contoh:
 
 > pelayanan lambat.
 
-Itu observation.
-
-Kemudian:
+Itu observation. Kemudian:
 
 > bottleneck utama ada di approval.
 
-Itu diagnosis sementara.
-
-Kemudian:
+Itu diagnosis sementara. Kemudian:
 
 > jika bottleneck tersebut tidak berubah, peningkatan staffing di front office mungkin hanya memindahkan antrean.
 
@@ -174,9 +166,7 @@ Bayangkan daftar:
 - otomatisasi;
 - integrasi data.
 
-Semuanya mungkin masuk akal.
-
-Tetapi:
+Semuanya mungkin masuk akal. Tetapi:
 
 > semuanya membutuhkan resource.
 
@@ -262,9 +252,7 @@ Mungkin terjadi:
 
 > tension.
 
-Bukan otomatis mustahil.
-
-Tetapi:
+Bukan otomatis mustahil. Tetapi:
 
 > membutuhkan pilihan yang lebih eksplisit.
 
@@ -426,9 +414,7 @@ maka:
 
 > data capability
 
-menjadi strategic requirement.
-
-Jangan hanya berkata:
+menjadi strategic requirement. Jangan hanya berkata:
 
 > “Kita harus transform.”
 
