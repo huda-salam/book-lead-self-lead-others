@@ -8,16 +8,16 @@
 Kemampuan yang dilatih bukan sekadar menahan reaksi. Pemimpin perlu mengenali ruang pengaruhnya, memahami apa yang sedang terjadi, lalu memilih tindakan yang paling sesuai dengan tujuan, konteks, risiko, dan kewenangan.
 
 ::: success Green Note
-**Pemimpin lens:** Respons adalah salah satu capability leadership. Ia penting karena kualitas keputusan sering terlihat ketika tekanan datang, tetapi ia bukan keseluruhan kepemimpinan.
+**Lensa pemimpin:** Respons adalah salah satu capability leadership. Ia penting karena kualitas keputusan sering terlihat ketika tekanan datang, tetapi ia bukan keseluruhan kepemimpinan.
 :::
 
 ::: info Konteks
-**Canonical concept:** `SELF.RESPONSE`. Dalam arsitektur buku, konsep ini adalah bagian dari pemimpin mindset, bukan tujuan akhir buku.
+**Canonical concept:** `SELF.RESPONSE`. Dalam arsitektur buku, konsep ini adalah bagian dari mindset kepemimpinan, bukan tujuan akhir buku.
 :::
 
 ## Yang Sedang Kita Latih
 
-**Capability:** membedakan apa yang terjadi dari bagaimana diri merespons, lalu menjalankan respons yang dipilih secara sadar dan proporsional.
+**Fokus latihan:** membedakan apa yang terjadi dari bagaimana diri merespons, lalu menjalankan respons yang dipilih secara sadar dan proporsional.
 
 ## 1. Ketika sesuatu terjadi, siapa yang sebenarnya sedang mengendalikan saya?
 
@@ -240,7 +240,7 @@ Ada masalah lain di balik pembicaraan tentang agency. Seseorang dapat memahami r
 
 > **Memilih respons yang baik belum sama dengan mampu menjalankannya.**
 
-**Bukti yang ada menunjukkan** bahwa self-regulation berkaitan dengan menjaga perilaku tetap terhubung dengan tujuan di tengah tuntutan dan gangguan yang bersaing. ([lihat Catatan evidence](#evidence-notes)) **Dalam arsitektur buku ini**, hubungan tersebut menjadi jembatan awal antara SELF.RESPONSE dan SELF.DISCIPLINE.
+**Bukti yang ada menunjukkan** bahwa self-regulation berkaitan dengan menjaga perilaku tetap terhubung dengan tujuan di tengah tuntutan dan gangguan yang bersaing. ([lihat Catatan evidence](#evidence-notes)) **Secara konseptual di buku ini**, hubungan tersebut menjadi jembatan awal antara SELF.RESPONSE dan SELF.DISCIPLINE.
 
 Misalnya kita sudah memutuskan:
 
