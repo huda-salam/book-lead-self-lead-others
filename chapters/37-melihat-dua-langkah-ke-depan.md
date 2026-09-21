@@ -4,7 +4,7 @@
 
 > **Canonical concept:** STRAT.SECOND_ORDER
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
 Banyak keputusan terlihat bagus:
 
@@ -54,7 +54,7 @@ Inilah mengapa leader perlu bertanya:
 Chapter ini tidak mengajarkan forecasting presisi. Fokusnya adalah reasoning tentang konsekuensi downstream. Strategic choice yang lebih luas dibahas di Chapter 38.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 - melihat efek langsung;
 - membaca respons orang dan sistem;
@@ -67,9 +67,7 @@ Chapter ini tidak mengajarkan forecasting presisi. Fokusnya adalah reasoning ten
 
 ## 1. First-order effect
 
-Mulai sederhana.
-
-Tanyakan:
+Mulai sederhana. Tanyakan:
 
 > “Apa yang kemungkinan langsung terjadi jika kita melakukan ini?”
 
@@ -81,9 +79,7 @@ First-order effect:
 
 > lebih banyak kontrol.
 
-Bagus.
-
-Tetapi berhenti di sini:
+Bagus. Tetapi berhenti di sini:
 
 > terlalu cepat.
 
@@ -95,27 +91,15 @@ Tanyakan:
 
 Contoh:
 
-**Decision**
+**Decision** Tambah approval.
 
-Tambah approval.
+**First-order** Kontrol meningkat.
 
-**First-order**
+**Response** Proses lebih lambat.
 
-Kontrol meningkat.
+**Second-order** Orang mencari bypass informal.
 
-**Response**
-
-Proses lebih lambat.
-
-**Second-order**
-
-Orang mencari bypass informal.
-
-**Further effect**
-
-Data proses formal menjadi kurang lengkap.
-
-Sekarang:
+**Further effect** Data proses formal menjadi kurang lengkap. Sekarang:
 
 > keputusan terlihat berbeda.
 
@@ -129,9 +113,7 @@ Tetapi:
 
 ## 3. Orang akan beradaptasi
 
-Sistem bukan benda mati.
-
-Jika Anda mengubah:
+Sistem bukan benda mati. Jika Anda mengubah:
 
 - aturan;
 - incentive;
@@ -173,9 +155,7 @@ Jika kualitas tidak ikut diperhatikan:
 
 > tiket mudah mungkin diprioritaskan.
 
-Jumlah naik.
-
-Tetapi:
+Jumlah naik. Tetapi:
 
 > masalah kompleks menumpuk.
 
@@ -187,9 +167,7 @@ Outcome:
 
 > belum tentu.
 
-Ini bukan berarti target selalu buruk.
-
-Ini menunjukkan:
+Ini bukan berarti target selalu buruk. Ini menunjukkan:
 
 > measurement dapat mengubah behavior.
 
@@ -267,17 +245,13 @@ Misalnya:
 
 > antrean meningkat → capacity ditambah → antrean turun.
 
-Tidak semua sistem harus digambar seperti diagram.
-
-Tetapi leader perlu belajar bertanya:
+Tidak semua sistem harus digambar seperti diagram. Tetapi leader perlu belajar bertanya:
 
 > “Apakah efek ini akan berhenti, membesar, atau memantul balik?”
 
 ## 8. Keputusan dapat mengubah decision environment
 
-Ini sering terlewat.
-
-Misalnya:
+Ini sering terlewat. Misalnya:
 
 > leader selalu menjadi approval terakhir.
 
@@ -337,9 +311,7 @@ Jika uncertainty tinggi:
 
 > pilih tindakan yang mudah dibalik,
 
-jika stakes memungkinkan.
-
-Contoh:
+jika stakes memungkinkan. Contoh:
 
 > pilot 30 hari
 
@@ -347,9 +319,7 @@ lebih mudah diperbaiki daripada:
 
 > perubahan permanen ke seluruh organisasi.
 
-Reversibility tidak menghilangkan risk.
-
-Tetapi:
+Reversibility tidak menghilangkan risk. Tetapi:
 
 > dapat mengurangi cost of being wrong.
 
@@ -511,11 +481,7 @@ Karena itu setiap intervensi penting perlu:
 
 ## 17. Jangan menganggap unintended consequence selalu bisa diprediksi
 
-Ini batas penting.
-
-Tidak semua konsekuensi dapat diketahui.
-
-Organisasi kompleks memiliki:
+Ini batas penting. Tidak semua konsekuensi dapat diketahui. Organisasi kompleks memiliki:
 
 > uncertainty.
 
@@ -621,9 +587,7 @@ Kapan kita mengubah atau mempertahankan keputusan?
 
 ## 21. Latihan: Then What?
 
-Ambil satu keputusan yang akan dibuat.
-
-Tulis:
+Ambil satu keputusan yang akan dibuat. Tulis:
 
 **Decision**
 
