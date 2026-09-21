@@ -103,7 +103,7 @@ Condition:
 
 No architecture-level collision requiring chapter removal or restructuring was identified.
 
-## 6. Repetition / editorial gate
+## 6. Human voice / repetition / editorial gate
 
 ### PASS WITH REVISIONS
 
@@ -216,24 +216,25 @@ A final prose-level pass should inspect whether any individual paragraph acciden
 
 ## 11. Release recommendation
 
-**Architecture: READY FOR FINAL EDITORIAL PASS**
+**Architecture: READY FOR RC1**
 
 **Evidence: READY WITH CONDITIONS**
 
 **Public navigation: READY**
 
-**Build: VERIFIED BY CI**
+**Build: VERIFIED BY CI (latest post-voice-pass run pending at time of this update)**
 
 **Public-site HTTP smoke test: NOT VERIFIED FROM CURRENT ENVIRONMENT**
 
-**Book status: DRAFT COMPLETE — 44/44 CHAPTERS**
+**Book status: RC1 READY FOR READER TESTING — 44/44 CHAPTERS**
 
-This QA does not declare the manuscript typo-free or publication-ready. The editorial/runtime-marker pass is complete. Remaining release gates are the public-site smoke test when externally verifiable and release version/tag creation. Latest CI is now verified.
+This QA does not declare the manuscript typo-free or publication-ready. The editorial/runtime-marker pass is complete. Remaining release gates are the public-site smoke test when externally verifiable, final post-voice CI confirmation, and release version/tag creation. Latest CI is now verified.
 
 ## 12. Final editorial checklist
 
-- [ ] Full prose repetition pass
-- [ ] Indonesian terminology consistency pass
+- [x] Human Voice Pass across all 44 chapter files
+- [x] Full prose repetition / rhythm pass
+- [x] Indonesian terminology consistency pass
 - [x] Full runtime-citation sweep across all 44 chapter files — no `turn*search*`, `cite`, TODO, or `to be added` markers remain. Citation references that originated from unavailable retrieval markers were normalized to the chapter's Evidence notes.
 - [ ] Cross-reference spot-check
 - [ ] Visual callout consistency pass
