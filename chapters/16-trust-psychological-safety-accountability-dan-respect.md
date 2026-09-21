@@ -10,7 +10,7 @@ Banyak masalah organisasi terlihat seperti masalah komunikasi, padahal sebagian 
 
 Mungkin mereka tidak yakin akan didengar. Mungkin pengalaman sebelumnya membuat mereka berhati-hati. Mungkin mereka memperkirakan konsekuensi sosial terlalu mahal. Di sisi lain, organisasi juga tidak bisa berjalan jika setiap orang hanya ingin merasa aman tanpa kewajiban untuk memenuhi standar.
 
-Karena itu leader perlu memahami beberapa konsep yang sering dicampur:
+Karena itu pemimpin perlu memahami beberapa konsep yang sering dicampur:
 
 **trust, psychological safety, respect, dan accountability.** Mereka berhubungan, tetapi bukan hal yang sama.
 
@@ -24,7 +24,7 @@ Psychological safety dalam literatur merujuk pada persepsi bahwa lingkungan aman
 
 ## Yang Sedang Kita Latih
 
-Leader sedang melatih kemampuan untuk:
+Pemimpin sedang melatih kemampuan untuk:
 
 - membangun rasa hormat tanpa menuntut persetujuan;
 - membuat orang cukup aman untuk menyampaikan informasi penting;
@@ -74,7 +74,7 @@ Empat konsep ini perlu dipisahkan.
 
 ## 2. Psychological safety bukan “semua orang harus nyaman”
 
-Jika seorang leader berkata:
+Jika seorang pemimpin berkata:
 
 > “Di sini semua orang bebas bicara.”
 
@@ -112,7 +112,7 @@ Trust yang sehat dapat berjalan bersama verification. Terutama pada pekerjaan de
 
 ## 4. Respect bukan agreement
 
-Chapter 11 sudah membahas ini dari sisi disagreement. Di sini kita memperluasnya. Leader dapat mengatakan:
+Chapter 11 sudah membahas ini dari sisi disagreement. Di sini kita memperluasnya. Pemimpin dapat mengatakan:
 
 > “Saya menghargai pandangan Anda. Saya tetap mengambil keputusan berbeda.”
 
@@ -124,21 +124,21 @@ Respect menjaga hubungan. Argumentasi menjaga kualitas keputusan. Accountability
 
 ## 5. Accountability tanpa humiliation
 
-Bayangkan dua leader menghadapi kesalahan yang sama. Leader A:
+Bayangkan dua pemimpin menghadapi kesalahan yang sama. Pemimpin A:
 
 > “Siapa yang melakukan ini? Kok bisa sebodoh ini?”
 
-Leader B:
+Pemimpin B:
 
 > “Kesalahan ini harus kita perbaiki. Kita perlu tahu apa yang terjadi, siapa yang bertanggung jawab atas bagian ini, dan kontrol apa yang perlu diperbaiki.”
 
-Leader B tidak menghilangkan accountability. Ia memisahkan:
+Pemimpin B tidak menghilangkan accountability. Ia memisahkan:
 
 **kesalahan → tanggung jawab → perbaikan** dari:
 
 **kesalahan → penghinaan → ketakutan.** Ini bukan berarti semua kesalahan harus diperlakukan lunak. Jika ada kelalaian serius atau pelanggaran, konsekuensi tetap mungkin diperlukan. Yang dihindari adalah penghinaan sebagai mekanisme pengelolaan.
 
-## 6. Bagaimana leader membangun safety secara nyata?
+## 6. Bagaimana pemimpin membangun safety secara nyata?
 
 Bukan terutama melalui slogan. Perhatikan respons ketika orang:
 
@@ -154,7 +154,7 @@ Bukan terutama melalui slogan. Perhatikan respons ketika orang:
 
 > “Jelaskan alasan Anda. Saya ingin memastikan kita tidak melewatkan sesuatu.”
 
-### Mengoreksi leader
+### Mengoreksi pemimpin
 
 > “Saya mungkin melewatkan bagian itu. Mari kita cek.”
 
@@ -170,7 +170,7 @@ Bayangkan sebuah tim yang sangat nyaman berbicara tetapi:
 - standar berubah tergantung orang;
 - keputusan tidak pernah benar-benar selesai.
 
-Itu bukan sistem yang sehat. Leader perlu dapat mengatakan:
+Itu bukan sistem yang sehat. Pemimpin perlu dapat mengatakan:
 
 > “Saya menghargai bahwa Anda menyampaikan masalah ini. Sekarang kita tetap perlu menyelesaikan bagian yang menjadi tanggung jawab Anda.”
 
@@ -184,7 +184,7 @@ Kebalikannya:
 
 > “Di sini semua harus bertanggung jawab.”
 
-tetapi setiap kesalahan langsung dipermalukan. Hasil yang mungkin adalah orang mulai menyembunyikan masalah. Leader kemudian melihat lebih sedikit masalah. Bukan karena masalahnya berkurang. Melainkan karena informasi yang masuk berkurang. Ini sebabnya kualitas relasional bukan sekadar isu “kenyamanan”. Ia dapat memengaruhi kualitas informasi yang tersedia untuk pengambilan keputusan.
+tetapi setiap kesalahan langsung dipermalukan. Hasil yang mungkin adalah orang mulai menyembunyikan masalah. Pemimpin kemudian melihat lebih sedikit masalah. Bukan karena masalahnya berkurang. Melainkan karena informasi yang masuk berkurang. Ini sebabnya kualitas relasional bukan sekadar isu “kenyamanan”. Ia dapat memengaruhi kualitas informasi yang tersedia untuk pengambilan keputusan.
 
 ## 9. Trust perlu dikalibrasi
 
@@ -228,9 +228,9 @@ Turunkan satu tingkat:
 
 Ini meneruskan disiplin Chapter 7 dan Chapter 8. Trust adalah judgment. Judgment perlu evidence.
 
-## 11. Leader harus mampu menerima informasi yang tidak menyenangkan
+## 11. Pemimpin harus mampu menerima informasi yang tidak menyenangkan
 
-Ada bentuk leadership yang terlihat tenang karena semua informasi buruk berhenti sebelum sampai ke leader. Itu bukan selalu tanda sistem berjalan baik. Tanyakan:
+Ada bentuk leadership yang terlihat tenang karena semua informasi buruk berhenti sebelum sampai ke pemimpin. Itu bukan selalu tanda sistem berjalan baik. Tanyakan:
 
 > “Kabar apa yang mungkin tidak ingin orang sampaikan kepada saya?”
 
@@ -282,7 +282,7 @@ Ketika hubungan atau proses terganggu, sistem belajar dan melakukan perbaikan. T
 Pilih satu tim atau hubungan kerja. Jawab:
 
 1. Apakah orang bebas menyampaikan kabar buruk?
-2. Apa yang terjadi ketika seseorang mengoreksi leader?
+2. Apa yang terjadi ketika seseorang mengoreksi pemimpin?
 3. Apakah standar berlaku konsisten?
 4. Apakah kesalahan dibedah atau orangnya dipermalukan?
 5. Apakah trust didasarkan pada pengalaman atau sekadar kedekatan?
@@ -290,7 +290,7 @@ Pilih satu tim atau hubungan kerja. Jawab:
 7. Apakah keputusan yang salah dapat dikoreksi tanpa mencari kambing hitam?
 8. Masalah mana yang sebenarnya struktural?
 
-Jangan mencari skor. Cari satu perilaku leader yang dapat diubah minggu ini.
+Jangan mencari skor. Cari satu perilaku pemimpin yang dapat diubah minggu ini.
 
 ## 15. Ketika kondisi relasional tidak cukup
 
