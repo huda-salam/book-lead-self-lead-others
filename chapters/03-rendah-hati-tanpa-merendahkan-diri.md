@@ -1,7 +1,23 @@
-# 03 — Rendah Hati Tanpa Merendahkan Diri
+# Rendah Hati Tanpa Merendahkan Diri
+
+> **Leader capability:** Humility dalam leadership adalah kemampuan belajar tanpa kehilangan agency: menerima koreksi, mengenali batas pengetahuan, dan tetap mampu mengambil keputusan.
 
 > **Canonical concept:** SELF.HUMILITY  
-> **Capability:** memiliki pandangan diri yang akurat, menyadari keterbatasan pengetahuan, menghargai kontribusi orang lain, menerima koreksi, dan bersedia memperbarui pandangan ketika evidence berubah.
+## Mengapa Ini Penting bagi Leader
+
+Humility dalam leadership adalah kemampuan belajar tanpa kehilangan agency: menerima koreksi, mengenali batas pengetahuan, dan tetap mampu mengambil keputusan.
+
+::: success Green Note
+**Leader lens:** Pemimpin tidak menjadi lebih lemah karena mengakui bahwa ia bisa salah. Justru keterbukaan terhadap informasi yang tidak nyaman dapat memperbaiki kualitas judgment.
+:::
+
+::: info Konteks
+**Canonical concept:** `SELF.HUMILITY`. Dalam arsitektur buku, konsep ini adalah bagian dari leader mindset, bukan tujuan akhir buku.
+:::
+
+## Kapabilitas yang Sedang Dilatih
+
+**Capability:** memiliki pandangan diri yang akurat, menyadari keterbatasan pengetahuan, menghargai kontribusi orang lain, menerima koreksi, dan bersedia memperbarui pandangan ketika evidence berubah.
 >
 > **Status:** Draft v0.1
 
@@ -569,6 +585,16 @@ Jika jawaban kita adalah:
 maka kita sudah mulai membangun sesuatu yang lebih penting daripada sekadar citra rendah hati:
 
 **kemampuan untuk belajar.**
+
+## Red Flags
+
+::: warning Risiko
+Jangan mengubah capability ini menjadi aturan absolut. Leadership selalu membutuhkan penyesuaian terhadap konteks, stakes, authority, evidence, dan dampak terhadap pihak lain.
+:::
+
+::: success Green Note
+**Carry forward:** capability ini harus membantu pembaca melihat situasi lebih jernih, memilih dengan lebih baik, bertindak dengan ownership, lalu belajar dari konsekuensinya.
+:::
 
 ## Evidence notes
 
