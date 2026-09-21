@@ -1,18 +1,18 @@
 # Ego, Emosi, dan Jeda
 
-> **Yang dilatih:** Pemimpin perlu mampu menjaga kualitas penilaiannya ketika status, ego, atau emosi sedang terpicu.
+> **Yang dilatih:** Menjaga kualitas penilaian ketika status, ego, atau emosi sedang terpicu.
 
 > **Canonical concept:** SELF.EGO_EMOTION  
 ## Mengapa Ini Penting
 
-Pemimpin perlu mampu menjaga kualitas penilaiannya ketika status, ego, atau emosi sedang terpicu.
+Di sini kita berlatih menjaga kualitas penilaian ketika status, ego, atau emosi sedang terpicu.
 
 ::: success Green Note
-**Lensa pemimpin:** Mengelola emosi bukan berarti menjadi dingin. Tujuannya adalah menjaga agar emosi menjadi informasi tanpa otomatis menjadi komando.
+**Lensa kepemimpinan:** Mengelola emosi bukan berarti menjadi dingin. Emosi boleh hadir; yang perlu dijaga adalah agar ia tidak otomatis mengambil alih keputusan.
 :::
 
 ::: info Konteks
-**Canonical concept:** `SELF.EGO_EMOTION`. Dalam arsitektur buku, konsep ini adalah bagian dari mindset kepemimpinan, bukan tujuan akhir buku.
+**Canonical concept:** `SELF.EGO_EMOTION`. Secara konseptual, konsep ini merupakan bagian dari mindset kepemimpinan yang dibangun buku.
 :::
 
 ## Yang Sedang Kita Latih
