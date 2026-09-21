@@ -1,9 +1,8 @@
 # Memilih Respons
 
-> **Leader capability:** Di titik inilah situational reading berubah menjadi leadership action: memilih apa yang perlu dilakukan dengan mempertimbangkan stakes, authority, information gap, risk, dan reversibility.
+> **Yang dilatih:** Di titik inilah situational reading berubah menjadi leadership action: memilih apa yang perlu dilakukan dengan mempertimbangkan stakes, authority, information gap, risk, dan reversibility.
 
 > **Canonical concept:** READ.RESPONSE_CHOICE
-> **Status:** Draft v0.1
 
 ## 1. Tidak semua situasi membutuhkan respons yang sama
 
@@ -21,15 +20,11 @@ Bab ini memperkenalkan pilihan respons sebagai keputusan yang perlu disesuaikan 
 
 ## 2. Respons bukan refleks
 
-Situasi: seorang rekan mengirim pesan yang menurut Anda bernada menyalahkan.
-
-Respons refleks:
+Situasi: seorang rekan mengirim pesan yang menurut Anda bernada menyalahkan. Respons refleks:
 
 > “Saya tidak seperti itu. Anda sendiri yang terlambat.”
 
-Alternatif: diam, bertanya, menjawab sebagian, meminta waktu, mengklarifikasi fakta, menolak tuduhan, atau mengeskalasi jika ada risiko yang tidak dapat diselesaikan di level tersebut.
-
-Pertanyaan yang lebih berguna:
+Alternatif: diam, bertanya, menjawab sebagian, meminta waktu, mengklarifikasi fakta, menolak tuduhan, atau mengeskalasi jika ada risiko yang tidak dapat diselesaikan di level tersebut. Pertanyaan yang lebih berguna:
 
 - Apa yang sebenarnya terjadi?
 - Apa yang ingin dicapai?
@@ -72,29 +67,17 @@ Gunakan ketika masalah melampaui kewenangan, membutuhkan keputusan pihak lain, a
 
 ### 7. Bertindak
 
-Kadang respons terbaik bukan berbicara lebih banyak, tetapi melakukan tindakan yang dapat diverifikasi.
-
-Kategori ini adalah **heuristic buku**, bukan klasifikasi universal atau ranking respons.
+Kadang respons terbaik bukan berbicara lebih banyak, tetapi melakukan tindakan yang dapat diverifikasi. Kategori ini adalah **heuristic buku**, bukan klasifikasi universal atau ranking respons.
 
 ## 4. Pilih berdasarkan stakes
 
-Stakes berarti konsekuensi yang mungkin timbul jika kita salah.
-
-Contoh stakes rendah: salah memahami jam makan siang.
-
-Contoh stakes lebih tinggi: memberikan persetujuan atas dokumen keuangan yang belum diverifikasi.
-
-Semakin tinggi stakes, semakin penting memastikan fakta utama, kewenangan, konsekuensi, informasi yang hilang, dan reversibilitas.
+Stakes berarti konsekuensi yang mungkin timbul jika kita salah. Contoh stakes rendah: salah memahami jam makan siang. Contoh stakes lebih tinggi: memberikan persetujuan atas dokumen keuangan yang belum diverifikasi. Semakin tinggi stakes, semakin penting memastikan fakta utama, kewenangan, konsekuensi, informasi yang hilang, dan reversibilitas.
 
 Ini bukan berarti semua situasi high-stakes harus lambat. Dalam keadaan darurat, keputusan cepat tetap dapat diperlukan. Yang berubah adalah kualitas pemeriksaan yang diperlukan dan siapa yang harus dilibatkan.
 
 ## 5. Reversibility: dapatkah keputusan dibatalkan?
 
-Dua keputusan dapat memiliki dampak sama-sama besar tetapi berbeda dalam kemudahan pembatalannya.
-
-Misalnya mengirim draft internal kepada satu rekan berbeda dari mengirim pernyataan resmi kepada publik.
-
-Semakin sulit keputusan dibatalkan, semakin berhati-hati kita perlu sebelum mengeksekusinya.
+Dua keputusan dapat memiliki dampak sama-sama besar tetapi berbeda dalam kemudahan pembatalannya. Misalnya mengirim draft internal kepada satu rekan berbeda dari mengirim pernyataan resmi kepada publik. Semakin sulit keputusan dibatalkan, semakin berhati-hati kita perlu sebelum mengeksekusinya.
 
 Namun reversibility bukan satu-satunya pertimbangan. Keputusan yang mudah dibatalkan tetapi berisiko tinggi tetap perlu kehati-hatian.
 
@@ -104,9 +87,7 @@ Kadang kita sebenarnya tidak kekurangan informasi. Kita kekurangan **kewenangan*
 
 > “Saya setuju dengan permintaan ini, tetapi keputusan tersebut bukan berada pada kewenangan saya.”
 
-Kesalahan umum adalah mencoba menyelesaikan sesuatu yang sebenarnya harus diputuskan pihak lain.
-
-Sebaliknya, ada orang yang terlalu cepat mengatakan “Saya bukan yang berwenang,” padahal ia sebenarnya memiliki ruang untuk menyelesaikan bagian operasionalnya.
+Kesalahan umum adalah mencoba menyelesaikan sesuatu yang sebenarnya harus diputuskan pihak lain. Sebaliknya, ada orang yang terlalu cepat mengatakan “Saya bukan yang berwenang,” padahal ia sebenarnya memiliki ruang untuk menyelesaikan bagian operasionalnya.
 
 Tanyakan:
 
@@ -114,11 +95,7 @@ Tanyakan:
 
 ## 7. Information gap: kapan bertanya?
 
-Bertanya berguna ketika jawaban dapat mengubah tindakan.
-
-Jangan bertanya hanya untuk memindahkan ketidaknyamanan kepada orang lain.
-
-Daripada “Apa maksud Anda?”, jika memungkinkan gunakan pertanyaan yang lebih terarah:
+Bertanya berguna ketika jawaban dapat mengubah tindakan. Jangan bertanya hanya untuk memindahkan ketidaknyamanan kepada orang lain. Daripada “Apa maksud Anda?”, jika memungkinkan gunakan pertanyaan yang lebih terarah:
 
 > “Bagian laporan mana yang menurut Anda perlu diperbaiki?”
 
@@ -126,9 +103,7 @@ Pertanyaan yang baik memperkecil information gap. Tetapi jangan jatuh ke jebakan
 
 ## 8. Kapan diam?
 
-Diam dapat berguna ketika emosi sedang tinggi, informasi belum cukup, komentar kita tidak menambah nilai, atau masalah dapat selesai tanpa intervensi kita.
-
-Tetapi diam juga memiliki biaya. Diam dapat dibaca sebagai persetujuan, penolakan, ketidakpedulian, ketidakmampuan, atau sekadar belum merespons.
+Diam dapat berguna ketika emosi sedang tinggi, informasi belum cukup, komentar kita tidak menambah nilai, atau masalah dapat selesai tanpa intervensi kita. Tetapi diam juga memiliki biaya. Diam dapat dibaca sebagai persetujuan, penolakan, ketidakpedulian, ketidakmampuan, atau sekadar belum merespons.
 
 Karena itu, diam bukan default.
 
@@ -136,9 +111,7 @@ Karena itu, diam bukan default.
 
 ## 9. Kapan menunda?
 
-Menunda berbeda dari menghindar.
-
-Menunda memiliki:
+Menunda berbeda dari menghindar. Menunda memiliki:
 
 1. alasan;
 2. informasi atau kondisi yang ingin diperoleh;
@@ -150,9 +123,7 @@ Yang pertama adalah managed delay. Yang kedua dapat menjadi avoidance.
 
 ## 10. Kapan menolak?
 
-Menolak bukan berarti tidak kooperatif.
-
-Penolakan dapat menjadi respons yang tepat ketika permintaan melanggar aturan, berada di luar kewenangan, risikonya tidak dapat diterima, kapasitas tidak tersedia, tujuan dapat dicapai dengan cara lain, atau persetujuan kita akan menciptakan konsekuensi yang tidak semestinya.
+Menolak bukan berarti tidak kooperatif. Penolakan dapat menjadi respons yang tepat ketika permintaan melanggar aturan, berada di luar kewenangan, risikonya tidak dapat diterima, kapasitas tidak tersedia, tujuan dapat dicapai dengan cara lain, atau persetujuan kita akan menciptakan konsekuensi yang tidak semestinya.
 
 Penolakan yang baik menjelaskan batas dan, jika memungkinkan, alternatif.
 
@@ -162,9 +133,7 @@ Ketegasan tidak membutuhkan penghinaan.
 
 ## 11. Kapan eskalasi?
 
-Eskalasi bukan “mengadu”. Eskalasi adalah memindahkan keputusan atau penanganan ke level yang memiliki kewenangan, kapasitas, atau tanggung jawab yang sesuai.
-
-Pertimbangkan eskalasi ketika kewenangan kita tidak cukup, risiko melampaui kapasitas kita, terdapat konflik kepentingan yang tidak dapat kita selesaikan, keputusan membutuhkan otorisasi, masalah terus berulang, atau terdapat risiko hukum, keselamatan, kepatuhan, atau reputasi yang material.
+Eskalasi bukan “mengadu”. Eskalasi adalah memindahkan keputusan atau penanganan ke level yang memiliki kewenangan, kapasitas, atau tanggung jawab yang sesuai. Pertimbangkan eskalasi ketika kewenangan kita tidak cukup, risiko melampaui kapasitas kita, terdapat konflik kepentingan yang tidak dapat kita selesaikan, keputusan membutuhkan otorisasi, masalah terus berulang, atau terdapat risiko hukum, keselamatan, kepatuhan, atau reputasi yang material.
 
 Eskalasi yang baik membawa fakta, tindakan yang sudah dilakukan, pilihan yang tersedia, risiko, dan keputusan yang dibutuhkan.
 
@@ -172,11 +141,9 @@ Eskalasi yang baik membawa fakta, tindakan yang sudah dilakukan, pilihan yang te
 
 Daripada bertanya “Bagaimana saya membuktikan bahwa saya benar?”, tanyakan:
 
-> **“Apa outcome yang perlu dijaga?”**
+> **“Apa hasil yang perlu dijaga?”**
 
-Jika tujuan dapat tercapai tanpa memenangkan argumen, kemenangan argumen mungkin tidak diperlukan.
-
-Sebaliknya, jika menyetujui sesuatu akan menciptakan risiko material, menjaga hubungan tidak cukup menjadi alasan untuk diam.
+Jika tujuan dapat tercapai tanpa memenangkan argumen, kemenangan argumen mungkin tidak diperlukan. Sebaliknya, jika menyetujui sesuatu akan menciptakan risiko material, menjaga hubungan tidak cukup menjadi alasan untuk diam.
 
 ## 13. Response Card
 
@@ -229,15 +196,11 @@ Alternatif:
 
 > “Sebelum saya setujui, saya perlu memastikan dua hal: dasar datanya dan kewenangan keputusan ini.”
 
-Jika ternyata memang cukup: setujui. Jika tidak: minta perbaikan atau eskalasi.
-
-Tujuan bukan memperlambat proses. Tujuan adalah membuat kecepatan **proporsional terhadap risiko**.
+Jika ternyata memang cukup: setujui. Jika tidak: minta perbaikan atau eskalasi. Tujuan bukan memperlambat proses. Tujuan adalah membuat kecepatan **proporsional terhadap risiko**.
 
 ## 16. Respons dapat berubah setelah informasi berubah
 
-Keputusan respons bukan identitas.
-
-Hari ini kita mungkin berkata:
+Keputusan respons bukan identitas. Hari ini kita mungkin berkata:
 
 > “Saya perlu cek dulu.”
 
@@ -249,9 +212,7 @@ Atau setelah risiko baru ditemukan:
 
 > “Dengan informasi baru ini, saya perlu eskalasi.”
 
-Perubahan respons bukan selalu inkonsistensi. Jika informasi berubah, respons memang dapat berubah.
-
-Yang perlu dijaga adalah konsistensi pada **prinsip dan tujuan**, bukan kekakuan pada respons awal.
+Perubahan respons bukan selalu inkonsistensi. Jika informasi berubah, respons memang dapat berubah. Yang perlu dijaga adalah konsistensi pada **prinsip dan tujuan**, bukan kekakuan pada respons awal.
 
 ## 17. Prinsip kerja bab ini
 
@@ -283,7 +244,7 @@ Jangan mengubah capability ini menjadi aturan absolut. Leadership selalu membutu
 **Carry forward:** capability ini harus membantu pembaca melihat situasi lebih jernih, memilih dengan lebih baik, bertindak dengan ownership, lalu belajar dari konsekuensinya.
 :::
 
-## Evidence notes
+## Catatan evidence
 
 - Lord, Diefendorff, Schmidt & Hall (2010), *Self-Regulation at Work*, Annual Review of Psychology, for dynamic goal-directed regulation and feedback.
 - Neal, Ballard & Vancouver (2017), *Dynamic Self-Regulation and Multiple-Goal Pursuit*, Annual Review of Organizational Psychology and Organizational Behavior, for managing competing goals and adjusting action.
