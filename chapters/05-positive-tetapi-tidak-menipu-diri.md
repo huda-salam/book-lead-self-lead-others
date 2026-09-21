@@ -60,7 +60,7 @@ dapat hidup berdampingan dengan:
 
 Masalah muncul ketika keyakinan terhadap hasil membuat kita mengabaikan evidence yang bertentangan.
 
-Penelitian mengenai unrealistic optimism menunjukkan bahwa orang dapat memperkirakan masa depan secara terlalu menguntungkan, dan bias semacam itu dapat berkaitan dengan keputusan, perilaku, serta respons emosional terhadap hasil yang tidak sesuai harapan. Namun literatur tersebut juga menekankan bahwa bentuk, pengukuran, dan konsekuensi optimism bias memiliki batas dan konteks yang berbeda. citeturn0search0turn0search1
+Penelitian mengenai unrealistic optimism menunjukkan bahwa orang dapat memperkirakan masa depan secara terlalu menguntungkan, dan bias semacam itu dapat berkaitan dengan keputusan, perilaku, serta respons emosional terhadap hasil yang tidak sesuai harapan. Namun literatur tersebut juga menekankan bahwa bentuk, pengukuran, dan konsekuensi optimism bias memiliki batas dan konteks yang berbeda. ([lihat Evidence notes](#evidence-notes))
 
 Maka prinsip buku bukan:
 
@@ -238,7 +238,7 @@ Dua hal dapat benar sekaligus:
 
 ## 7. Optimisme yang tidak terkendali dapat membuat risiko terlihat lebih kecil
 
-Unrealistic optimism telah diteliti dalam banyak konteks dan dapat membuat orang memperkirakan hasil personal secara terlalu menguntungkan. Literatur juga mencatat bahwa optimism bias dapat berhubungan dengan risk perception dan decision making. citeturn0search0turn0search5
+Unrealistic optimism telah diteliti dalam banyak konteks dan dapat membuat orang memperkirakan hasil personal secara terlalu menguntungkan. Literatur juga mencatat bahwa optimism bias dapat berhubungan dengan risk perception dan decision making. ([lihat Evidence notes](#evidence-notes))
 
 Karena itu, sebelum berkata:
 
@@ -553,7 +553,7 @@ Jangan mengubah capability ini menjadi aturan absolut. Leadership selalu membutu
 
 ## Evidence notes
 
-- Nes & Segerstrom (2006), *Dispositional Optimism and Coping: A Meta-Analytic Review*, Personality and Social Psychology Review, 10(3), 235–251. Meta-analysis K=50, N=11,629; optimism associated with approach coping and lower avoidance coping. citeturn0search12
-- Shepperd, Waters, Weinstein & Klein (2015), *A Primer on Unrealistic Optimism*, Current Directions in Psychological Science, 24(3). DOI: 10.1177/0963721414568341. citeturn0search8
-- Shepperd, Pogge & Howell (2017), *Assessing the consequences of unrealistic optimism: Challenges and recommendations*, Consciousness and Cognition, 50, 69–78. DOI: 10.1016/j.concog.2016.07.004. citeturn0search6
-- Jefferson, Bortolotti & Kuzmanovic (2017), *What is unrealistic optimism?*, Consciousness and Cognition, 50, 3–11. DOI: 10.1016/j.concog.2016.10.005. citeturn0search11
+- Nes & Segerstrom (2006), *Dispositional Optimism and Coping: A Meta-Analytic Review*, Personality and Social Psychology Review, 10(3), 235–251. Meta-analysis K=50, N=11,629; optimism associated with approach coping and lower avoidance coping. ([lihat Evidence notes](#evidence-notes))
+- Shepperd, Waters, Weinstein & Klein (2015), *A Primer on Unrealistic Optimism*, Current Directions in Psychological Science, 24(3). DOI: 10.1177/0963721414568341. ([lihat Evidence notes](#evidence-notes))
+- Shepperd, Pogge & Howell (2017), *Assessing the consequences of unrealistic optimism: Challenges and recommendations*, Consciousness and Cognition, 50, 69–78. DOI: 10.1016/j.concog.2016.07.004. ([lihat Evidence notes](#evidence-notes))
+- Jefferson, Bortolotti & Kuzmanovic (2017), *What is unrealistic optimism?*, Consciousness and Cognition, 50, 3–11. DOI: 10.1016/j.concog.2016.10.005. ([lihat Evidence notes](#evidence-notes))
