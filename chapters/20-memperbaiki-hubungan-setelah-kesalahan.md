@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Tidak ada pemimpin yang selalu benar. Tidak ada tim yang tidak pernah salah. Tidak ada hubungan kerja yang bebas dari salah paham, keputusan buruk, kata-kata yang keliru, atau ekspektasi yang tidak terpenuhi. Yang membedakan hubungan yang matang bukan ketiadaan kesalahan.
+Tidak ada pemimpin yang selalu benar, dan tidak ada hubungan kerja yang selalu berjalan mulus. Tidak ada tim yang tidak pernah salah. Tidak ada hubungan kerja yang bebas dari salah paham, keputusan buruk, kata-kata yang keliru, atau ekspektasi yang tidak terpenuhi. Yang membedakan hubungan yang matang bukan tidak adanya kesalahan, melainkan apa yang dilakukan sesudahnya.
 
 Salah satunya adalah:
 
@@ -20,7 +20,7 @@ Ada yang langsung meminta maaf:
 
 > “Ya sudah, saya minta maaf.”
 
-lalu berharap masalah selesai. Ada pula yang menghilang sampai suasana reda. Ketiganya dapat gagal memperbaiki akar masalah. Repair membutuhkan lebih dari permintaan maaf. Ia membutuhkan pengakuan, ownership, tindakan korektif, dan bukti perilaku yang lebih baik.
+lalu berharap masalah selesai. Ada pula yang menghilang sampai suasana reda. Ketiganya dapat gagal memperbaiki akar masalah. Perbaikan hubungan membutuhkan lebih dari satu kalimat “maaf”. Ia membutuhkan pengakuan, ownership, tindakan korektif, dan bukti perilaku yang lebih baik.
 
 ::: success Green Note
 **Repair bukan menghapus masa lalu. Repair membuat masa depan lebih dapat dipercaya.**
@@ -32,7 +32,7 @@ Chapter 16 membahas trust, psychological safety, accountability, dan respect. Ch
 
 ## Yang Sedang Kita Latih
 
-Pemimpin sedang melatih kemampuan untuk:
+Yang sedang dilatih adalah:
 
 - mengakui kesalahan tanpa kehilangan agency;
 - membedakan tanggung jawab dari rasa bersalah yang tidak produktif;
@@ -52,7 +52,7 @@ Jika ia mempertahankan cerita tersebut meskipun bukti sudah jelas, kerusakan dap
 
 Ini belum memperbaiki semuanya. Tetapi sudah memulai proses repair.
 
-## 2. Mengakui bukan berarti merendahkan diri
+## 2. Mengakui kesalahan bukan berarti merendahkan diri
 
 Kalimat:
 
@@ -233,9 +233,9 @@ tanpa menyimpulkan:
 
 > karena itu maka tindakan tersebut pasti benar.
 
-## 10. Dampak dan niat dapat sama-sama benar
+## 10. Dampak dan niat bisa sama-sama ada
 
-Mungkin Anda tidak bermaksud merendahkan seseorang. Tetapi mereka merasa direndahkan. Tidak perlu memilih:
+Mungkin Anda tidak bermaksud merendahkan seseorang. Tetapi mereka merasa direndahkan. Kita tidak harus memilih salah satunya:
 
 > “Niat saya baik”
 
@@ -255,7 +255,7 @@ Kalimat:
 
 > “Saya sudah minta maaf. Masa masih marah?”
 
-dapat menghentikan proses repair. Permintaan maaf adalah tindakan Anda. Memaafkan adalah keputusan pihak lain. Bahkan ketika seseorang menerima permintaan maaf, kepercayaan belum tentu langsung pulih. Pemimpin perlu siap menerima:
+dapat menghentikan proses repair. Meminta maaf adalah bagian yang bisa kita lakukan. Memaafkan tetap menjadi keputusan orang lain. Bahkan ketika seseorang menerima permintaan maaf, kepercayaan belum tentu langsung pulih. Pemimpin perlu siap menerima:
 
 > “Saya mengerti. Saya butuh waktu.”
 
@@ -273,7 +273,7 @@ Dengan kata lain:
 
 > **trust repair membutuhkan bukti baru.**
 
-Jangan mencoba mengganti bukti dengan persuasi:
+Jangan berharap kata-kata saja menggantikan bukti:
 
 > “Percayalah, saya sudah berubah.”
 
@@ -281,7 +281,7 @@ Lebih baik:
 
 > “Saya akan melakukan X. Silakan lihat konsistensinya.”
 
-## 13. Repair tidak selalu berarti kembali seperti dulu
+## 13. Memperbaiki hubungan tidak selalu berarti kembali seperti dulu
 
 Ini penting. Ada hubungan yang setelah kerusakan:
 
@@ -299,11 +299,11 @@ Kadang hasil yang realistis adalah:
 
 > “Kita tetap dapat bekerja bersama dengan aturan dan batas yang lebih jelas.”
 
-Itu tetap dapat menjadi hasil yang konstruktif.
+Itu pun bisa menjadi hasil yang cukup baik dan realistis.
 
 ## 14. Ketika Anda adalah pihak yang terluka
 
-Pemimpin juga perlu tahu cara menerima repair. Tidak harus langsung berkata:
+Pemimpin juga perlu belajar menerima upaya perbaikan dari orang lain. Tidak harus langsung berkata:
 
 > “Tidak apa-apa.”
 
@@ -319,7 +319,7 @@ Menerima permintaan maaf tidak berarti menghapus kebutuhan akan accountability.
 
 ## 15. Ketika orang lain tidak mau memperbaiki
 
-Repair membutuhkan setidaknya sebagian kemauan dari pihak yang terlibat. Jika seseorang:
+Perbaikan hubungan membutuhkan setidaknya kemauan dari pihak-pihak yang terlibat. Jika seseorang:
 
 - menyangkal fakta yang jelas;
 - mengulang perilaku yang sama;
@@ -340,7 +340,7 @@ Ini menunjukkan bahwa:
 
 > accountability juga terlihat oleh orang yang menyaksikan kesalahan.
 
-Tidak perlu membuat permintaan maaf menjadi pertunjukan. Cukup koreksi secara proporsional.
+Tidak perlu menjadikan permintaan maaf sebagai pertunjukan. Koreksi secukupnya, di tempat yang memang perlu.
 
 ## 17. Repair tanpa menghapus standar
 
@@ -356,7 +356,7 @@ tidak otomatis berarti:
 
 > “Semua kritik terhadap keputusan itu tidak relevan.”
 
-Akui yang salah. Pertahankan yang masih benar.
+**Akui yang salah. Pertahankan yang masih benar.**
 
 ## 18. Repair test
 
@@ -371,9 +371,9 @@ Setelah repair, tanyakan:
 7. Apakah boundary atau accountability masih diperlukan?
 8. Apakah hubungan benar-benar membaik, atau hanya percakapan yang menjadi lebih tenang?
 
-Pertanyaan terakhir penting.
+Pertanyaan terakhir sangat penting.
 
-**Tenang ≠ pulih.**
+****Tenang belum tentu berarti pulih.****
 
 ## 19. Ketika repair tidak cukup
 
@@ -387,7 +387,7 @@ Ada keadaan ketika tujuan utama bukan memulihkan hubungan, melainkan melindungi 
 - pelanggaran hukum;
 - atau penyalahgunaan kewenangan yang serius.
 
-Dalam situasi seperti ini, jangan menggunakan “repair” untuk menekan pihak yang dirugikan agar kembali dekat dengan pelaku. Repair harus tunduk pada:
+Dalam situasi seperti ini, jangan menggunakan “repair” untuk menekan pihak yang dirugikan agar kembali dekat dengan pelaku. Dalam kondisi serius, repair harus tunduk pada:
 
 **safety → accountability → formal process → appropriate relationship decision** sesuai konteks.
 
@@ -419,13 +419,7 @@ Apa yang perlu diubah agar tidak berulang?
 Perilaku apa yang harus konsisten terlihat? Lalu tambahkan:
 
 **Review**
-Kapan saya akan melihat apakah perbaikan benar-benar terjadi? Latihan ini mengubah:
-
-> “Saya sudah minta maaf.”
-
-menjadi:
-
-> **“Saya bertanggung jawab dan menunjukkan perubahan.”**
+Kapan saya akan melihat apakah perbaikan benar-benar terjadi? Latihan ini menggeser kalimat “Saya sudah minta maaf” menjadi sesuatu yang lebih konkret: **“Saya bertanggung jawab, memperbaiki yang bisa diperbaiki, lalu menunjukkan perubahan.”**
 
 ::: success Green Note
 **Carry forward:** Hubungan yang sehat bukan hubungan tanpa kesalahan. Yang lebih penting adalah kemampuan untuk mengakui, memperbaiki, menetapkan ulang batas bila perlu, dan membangun kembali kepercayaan melalui perilaku yang konsisten.
