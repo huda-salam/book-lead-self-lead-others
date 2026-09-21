@@ -571,6 +571,16 @@ Pertanyaan latihan:
 
 > **“Apakah saya sedang benar-benar memahami orang ini, atau sedang menunggu giliran untuk menjawab?”**
 
+## Red Flags
+
+::: warning Risiko
+Jangan mengubah capability ini menjadi aturan absolut. Leadership selalu membutuhkan penyesuaian terhadap konteks, stakes, authority, evidence, dan dampak terhadap pihak lain.
+:::
+
+::: success Green Note
+**Carry forward:** capability ini harus membantu pembaca melihat situasi lebih jernih, memilih dengan lebih baik, bertindak dengan ownership, lalu belajar dari konsekuensinya.
+:::
+
 ## Evidence notes
 
 - Kluger et al. (2024), meta-analysis of listening at work covering 664 effect sizes and 400,020 observations; perceived listening was positively associated with work outcomes, with stronger associations for relationship outcomes than performance outcomes.
