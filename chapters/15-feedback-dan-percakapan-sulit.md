@@ -10,7 +10,7 @@ Feedback sering dibicarakan seolah-olah sederhana: katakan apa yang salah, lalu 
 
 Dalam praktik, feedback dapat gagal karena banyak hal: masalahnya belum jelas, orang yang memberi feedback tidak memahami konteks, penerima merasa diserang, standar tidak konsisten, atau percakapan sebenarnya bukan lagi tentang coaching tetapi sudah membutuhkan keputusan.
 
-Riset menunjukkan bahwa efek feedback tidak seragam. Meta-analysis klasik bahkan menemukan bahwa sebagian intervensi feedback dapat berdampak negatif pada performa. Review yang lebih baru juga menunjukkan bahwa karakteristik feedback, sumber, konteks, dan cara penyampaiannya perlu dibedakan. citeturn0search2turn0search0
+Riset menunjukkan bahwa efek feedback tidak seragam. Meta-analysis klasik bahkan menemukan bahwa sebagian intervensi feedback dapat berdampak negatif pada performa. Review yang lebih baru juga menunjukkan bahwa karakteristik feedback, sumber, konteks, dan cara penyampaiannya perlu dibedakan. ([lihat Evidence notes](#evidence-notes))
 
 ::: success Green Note
 **Leader lens:** Feedback yang matang bukan sekadar “berani mengatakan yang pahit”. Ia membantu orang memahami apa yang perlu dipertahankan, diperbaiki, dipertanyakan, atau diputuskan.
@@ -187,7 +187,7 @@ Contoh:
 
 Respect tidak berarti menghapus evaluasi.
 
-Psychological safety juga tidak berarti tidak ada accountability. Bukti tentang psychological safety lebih tepat dipahami sebagai kondisi yang dapat mendukung interpersonal risk-taking dan pembelajaran, bukan sebagai penghapusan standar atau konsekuensi. citeturn0search6
+Psychological safety juga tidak berarti tidak ada accountability. Bukti tentang psychological safety lebih tepat dipahami sebagai kondisi yang dapat mendukung interpersonal risk-taking dan pembelajaran, bukan sebagai penghapusan standar atau konsekuensi. ([lihat Evidence notes](#evidence-notes))
 
 ## 8. Tetapi jangan menjadikan ketegasan sebagai pembenaran untuk mempermalukan
 
