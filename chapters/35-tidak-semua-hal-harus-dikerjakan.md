@@ -1,10 +1,10 @@
 # Tidak Semua Hal Harus Dikerjakan
 
-> **Management capability:** Memilih apa yang layak mendapatkan waktu, perhatian, orang, dan resource—serta secara sadar menerima apa yang harus ditunda, dikurangi, didelegasikan, atau dihentikan.
+> **Yang dilatih:** Memilih apa yang layak mendapatkan waktu, perhatian, orang, dan resource—serta secara sadar menerima apa yang harus ditunda, dikurangi, didelegasikan, atau dihentikan.
 
 > **Canonical concept:** MGMT.PRIORITY
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
 Salah satu jebakan orang yang rajin:
 
@@ -40,7 +40,7 @@ Management juga:
 Chapter ini membahas prioritization sebagai capability management. Trade-off keputusan dibahas lebih dalam di Chapter 24; execution di Chapter 25; delegation di Chapter 36; strategic choice di Chapter 38.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 - memilih;
 - mengatakan tidak;
@@ -70,9 +70,7 @@ sering kali:
 
 > tidak ada yang benar-benar diprioritaskan.
 
-Ini bukan berarti semua hal tidak penting.
-
-Sebuah pekerjaan dapat:
+Ini bukan berarti semua hal tidak penting. Sebuah pekerjaan dapat:
 
 > penting,
 
@@ -82,9 +80,7 @@ tetapi:
 
 ## 2. Busy bukan berarti productive
 
-Bayangkan dua tim.
-
-Tim A:
+Bayangkan dua tim. Tim A:
 
 > menyelesaikan 40 aktivitas.
 
@@ -92,9 +88,7 @@ Tim B:
 
 > menyelesaikan 8 aktivitas yang membuka bottleneck utama.
 
-Siapa yang lebih efektif?
-
-Kita tidak dapat menjawab hanya dari:
+Siapa yang lebih efektif? Kita tidak dapat menjawab hanya dari:
 
 > jumlah aktivitas.
 
@@ -148,9 +142,7 @@ mungkin lebih prioritas daripada:
 
 > mempercantik dashboard.
 
-Dashboard bisa berguna.
-
-Tetapi:
+Dashboard bisa berguna. Tetapi:
 
 > hubungan dengan objective perlu diuji.
 
@@ -190,11 +182,7 @@ maka kata:
 
 > prioritas
 
-kehilangan makna.
-
-Tidak ada angka universal tentang berapa banyak prioritas yang ideal.
-
-Tetapi secara praktis:
+kehilangan makna. Tidak ada angka universal tentang berapa banyak prioritas yang ideal. Tetapi secara praktis:
 
 > semakin banyak hal yang diberi status prioritas tertinggi, semakin kecil daya pilihnya.
 
@@ -250,9 +238,7 @@ Melanjutkan hanya karena:
 
 > “sudah terlanjur”
 
-adalah jebakan sunk cost.
-
-Chapter 22 dan 24 sudah membahas ini.
+adalah jebakan sunk cost. Chapter 22 dan 24 sudah membahas ini.
 
 ## 8. Prioritas tanpa resource bukan prioritas
 
@@ -343,9 +329,7 @@ Sekarang:
 
 ## 11. Prioritas harus bisa dijelaskan
 
-Orang tidak selalu harus setuju.
-
-Tetapi mereka sebaiknya dapat memahami:
+Orang tidak selalu harus setuju. Tetapi mereka sebaiknya dapat memahami:
 
 > mengapa prioritas berubah.
 
@@ -357,9 +341,7 @@ Contoh:
 
 > “Kita fokus stabilisasi minggu ini karena risiko operasional meningkat. Akibatnya, enhancement X mundur satu sprint. Setelah indikator stabil, kita review kembali.”
 
-Jelas.
-
-Tidak perlu:
+Jelas. Tidak perlu:
 
 > pidato panjang.
 
@@ -377,11 +359,7 @@ Begitu juga:
 
 > orang dengan jabatan tertinggi
 
-tidak otomatis membuat semua permintaannya menjadi prioritas tertinggi.
-
-Authority tentu penting.
-
-Tetapi leader tetap perlu melihat:
+tidak otomatis membuat semua permintaannya menjadi prioritas tertinggi. Authority tentu penting. Tetapi leader tetap perlu melihat:
 
 - objective;
 - risk;
@@ -410,17 +388,11 @@ Kamis:
 
 > “A kembali.”
 
-Tim mungkin tetap sibuk.
-
-Tetapi:
+Tim mungkin tetap sibuk. Tetapi:
 
 > context switching meningkat.
 
-Prioritas yang berubah bukan selalu buruk.
-
-Dunia memang berubah.
-
-Masalahnya adalah:
+Prioritas yang berubah bukan selalu buruk. Dunia memang berubah. Masalahnya adalah:
 
 > perubahan tanpa alasan yang jelas.
 
@@ -452,9 +424,7 @@ Leader perlu membedakan:
 
 > discretionary.
 
-Bukan untuk membuat klasifikasi sempurna.
-
-Tetapi untuk:
+Bukan untuk membuat klasifikasi sempurna. Tetapi untuk:
 
 > mengurangi kebisingan.
 
@@ -464,9 +434,7 @@ Mengatakan:
 
 > “Tidak.”
 
-kadang benar.
-
-Tetapi sering lebih berguna:
+kadang benar. Tetapi sering lebih berguna:
 
 > “Belum sekarang karena X. Kita bisa mulai setelah Y.”
 
@@ -488,9 +456,7 @@ Bukan:
 
 ## 16. Prioritas pribadi leader
 
-Masalah ini juga berlaku untuk diri sendiri.
-
-Leader dapat menghabiskan hari dengan:
+Masalah ini juga berlaku untuk diri sendiri. Leader dapat menghabiskan hari dengan:
 
 > email,
 
@@ -534,9 +500,7 @@ Contoh:
 
 > menghadiri rapat.
 
-Semuanya mungkin berguna.
-
-Tetapi:
+Semuanya mungkin berguna. Tetapi:
 
 > rasa produktif bukan bukti bahwa objective bergerak.
 
@@ -546,9 +510,7 @@ Periksa:
 
 ## 18. Prioritas lintas horizon
 
-Tidak semua pekerjaan menghasilkan manfaat pada horizon yang sama.
-
-Ada:
+Tidak semua pekerjaan menghasilkan manfaat pada horizon yang sama. Ada:
 
 > now.
 
@@ -562,19 +524,11 @@ Ada:
 
 Contoh:
 
-**Now**
+**Now** Menangani risiko operasional.
 
-Menangani risiko operasional.
+**Next** Memperbaiki proses.
 
-**Next**
-
-Memperbaiki proses.
-
-**Later**
-
-Membangun capability.
-
-Kesalahan:
+**Later** Membangun capability. Kesalahan:
 
 > mengorbankan semua pekerjaan jangka panjang demi urgensi hari ini.
 
@@ -588,21 +542,11 @@ Management membutuhkan:
 
 ## 19. Prioritas bukan sekali jadi
 
-Objective dapat berubah.
-
-Risk dapat berubah.
-
-Resource dapat berubah.
-
-Evidence dapat berubah.
-
-Karena itu:
+Objective dapat berubah. Risk dapat berubah. Resource dapat berubah. Evidence dapat berubah. Karena itu:
 
 > priority review
 
-perlu dilakukan.
-
-Bukan:
+perlu dilakukan. Bukan:
 
 > setiap lima menit.
 
@@ -669,29 +613,15 @@ Ia hanya membantu:
 
 ## 22. Latihan: Stop–Start–Continue
 
-Ambil daftar pekerjaan tim.
+Ambil daftar pekerjaan tim. Tentukan:
 
-Tentukan:
+**Start** Apa yang perlu mulai?
 
-**Start**
+**Continue** Apa yang memang perlu dipertahankan?
 
-Apa yang perlu mulai?
+**Stop** Apa yang sebaiknya dihentikan? Tambahkan:
 
-**Continue**
-
-Apa yang memang perlu dipertahankan?
-
-**Stop**
-
-Apa yang sebaiknya dihentikan?
-
-Tambahkan:
-
-**Not now**
-
-Apa yang penting tetapi sengaja ditunda?
-
-Sering kali:
+**Not now** Apa yang penting tetapi sengaja ditunda? Sering kali:
 
 > “Not now”
 
