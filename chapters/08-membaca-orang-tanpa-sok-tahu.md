@@ -1,12 +1,12 @@
 # Membaca Orang Tanpa Sok Tahu
 
-> **Yang dilatih:** Pemimpin harus mampu membaca perspektif orang lain tanpa berubah menjadi pembaca pikiran.
+> **Yang dilatih:** Kita perlu belajar melihat persoalan dari tempat orang lain berdiri, tanpa merasa sudah tahu isi kepalanya.
 
 > **Canonical concept:** READ.PERSPECTIVE
 
 ## Mengapa Ini Penting
 
-Pemimpin tidak cukup memahami apa yang dikatakan orang; ia perlu membangun hipotesis yang cukup baik tentang apa yang mungkin dilihat, dipertimbangkan, atau dibatasi oleh orang lain—tanpa mengubah hipotesis menjadi kepastian tentang motif.
+Memahami orang lain bukan berarti menebak isi kepala mereka. Yang kita butuhkan adalah dugaan yang cukup masuk akal tentang apa yang mungkin mereka lihat atau khawatirkan, lalu mengujinya.
 
 ::: success Green Note
 **Lensa pemimpin:** Perspektif orang lain adalah input untuk memperbaiki pembacaan situasi, bukan perintah untuk menyetujui, mempercayai, atau mengikuti mereka.
@@ -28,7 +28,7 @@ Kita sering berkata:
 > “Dia pasti takut kehilangan posisi.”
 > “Dia memang tipe orang yang sulit diajak kerja sama.”
 
-Kadang dugaan kita benar. Masalahnya: benar sekali tidak berarti metode kita dapat diandalkan. Orang lain memiliki pengalaman, kepentingan, tekanan, informasi, dan konteks yang tidak seluruhnya kita lihat.
+Kadang dugaan kita memang benar. Tetapi sekali benar belum berarti cara kita menebak sudah dapat dipercaya. Orang lain memiliki pengalaman, kepentingan, tekanan, informasi, dan konteks yang tidak seluruhnya kita lihat.
 
 > **Membaca orang adalah membangun hipotesis tentang perspektif mereka, lalu mengujinya terhadap perilaku dan informasi baru.**
 
@@ -52,7 +52,7 @@ Perspektif adalah **informasi untuk memahami situasi**, bukan putusan akhir.
 
 Jika observasi dan tafsir tercampur, perspective-taking mudah berubah menjadi mind-reading.
 
-## 4. Perspective-taking bukan membaca pikiran
+## 4. Membaca perspektif bukan membaca pikiran
 
 Misalnya rekan kerja berkata:
 > “Saya rasa rencana ini terlalu cepat.”
@@ -69,7 +69,7 @@ Alternative hypothesis:
 Kita belum tahu. Pertanyaan yang lebih baik:
 > “Bagian mana yang menurut Anda terlalu cepat?”
 
-Satu pertanyaan dapat menghasilkan informasi yang lebih berguna daripada sepuluh menit menebak motif.
+Satu pertanyaan sering lebih berguna daripada sepuluh menit menebak-nebak motif.
 
 ## 5. Model kerja: Observe → Hypothesize → Ask → Test → Update
 
@@ -124,7 +124,7 @@ Bagian keuangan melihat anggaran, dokumen, dan kepatuhan.
 Pengguna layanan melihat hasil yang belum tersedia. Mereka tidak selalu berbeda karena salah satu tidak rasional. Mereka dapat berbeda karena posisi mereka membuat mereka melihat bagian sistem yang berbeda. Perspective-taking membantu kita bertanya:
 > “Apa yang terlihat dari tempat dia berdiri yang mungkin tidak terlihat dari tempat saya?”
 
-Ini bukan relativisme. Fakta tertentu tetap dapat diperiksa.
+Ini bukan berarti semua sudut pandang otomatis benar. Fakta tetap bisa diperiksa.
 
 ## 8. Perspektif bukan selalu perspektif yang baik
 
@@ -140,7 +140,7 @@ Gunakan informasi itu untuk memperbaiki model situasi.
 
 Perilaku “dia menolak permintaan saya” belum cukup untuk menyimpulkan “dia orang yang tidak kooperatif”. Mungkin ia tidak punya kewenangan, memiliki prioritas lain, melihat risiko yang belum kita lihat, tidak memahami permintaan, tidak setuju dengan cara yang dipilih, atau memang tidak ingin membantu.
 
-Karakter adalah klaim yang lebih luas daripada satu kejadian. Semakin luas klaim, semakin banyak evidence yang dibutuhkan.
+“Dia orang seperti itu” adalah klaim yang jauh lebih besar daripada “dia melakukan ini”. Semakin besar klaimnya, semakin banyak bukti yang kita perlukan.
 
 ## 10. Empati juga perlu disiplin
 
@@ -150,7 +150,7 @@ Bedakan:
 dengan:
 > “Saya tahu persis apa yang dia rasakan.”
 
-Yang pertama adalah perspektif. Yang kedua bisa menjadi overclaim. Gunakan bahasa:
+Yang pertama adalah perspektif. Yang kedua bisa menjadi overclaim. Karena kita bisa salah, gunakan bahasa yang membuka ruang:
 > “Mungkin…”
 > “Saya membayangkan…”
 > “Apakah benar bahwa…?”
@@ -174,7 +174,7 @@ Kita dapat memahami alasan seseorang tetapi tetap berkata tidak.
 
 > “Saya memahami bahwa tim Anda sedang penuh. Namun tenggat ini tetap harus dipenuhi karena kewajiban eksternal tidak berubah. Mari kita lihat bagian mana yang dapat dikurangi.”
 
-Di sini ada tiga hal sekaligus: memahami perspektif, mempertahankan constraint, dan mencari penyesuaian. Itulah perspektif yang berguna. Bukan: “Saya memahami Anda, jadi semuanya boleh.”
+Di sini kita melakukan tiga hal sekaligus: memahami perspektif, menjaga batas yang memang tidak bisa diubah, dan mencari ruang penyesuaian. Bukan: “Saya memahami Anda, jadi semuanya boleh.”
 
 ## 13. Pertanyaan yang membantu membaca perspektif
 
@@ -196,7 +196,7 @@ Tidak semua situasi membutuhkan analisis mendalam.
 - Keputusan sangat reversibel: eksperimen kecil mungkin lebih efisien daripada diskusi panjang.
 - Situasi mendesak: cari informasi yang paling menentukan terlebih dahulu.
 
-Ini menghubungkan Chapter 8 dengan Chapter 9. Perspective-taking adalah **alat**, bukan ritual.
+Ini menghubungkan Chapter 8 dengan Chapter 9. Perspective-taking adalah **alat**, bukan ritual yang harus selalu dilakukan panjang lebar.
 
 ## 15. Latihan: Perspective Check
 
@@ -221,7 +221,7 @@ Latihan ini adalah alat belajar buku, bukan instrumen psikologis tervalidasi.
 > **Semakin luas klaim tentang karakter seseorang, semakin besar evidence yang diperlukan.**
 > **Pertanyaan yang baik sering lebih informatif daripada tebakan motif.**
 
-Pertanyaan latihan:
+Satu pertanyaan untuk latihan:
 > **“Apa yang saya kira dia lihat—dan apa yang bisa saya tanyakan untuk mengetahui apakah saya benar?”**
 
 ## Red Flags
