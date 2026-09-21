@@ -1,4 +1,6 @@
-# 04 — Tetap Berdiri Ketika Keadaan Tidak Sesuai Harapan
+# Tetap Berdiri Ketika Keadaan Tidak Sesuai Harapan
+
+> **Leader capability:** Leader membutuhkan ketahanan yang memungkinkan tujuan tetap dijaga sambil metode, prioritas, atau asumsi diperbarui ketika realitas berubah.
 
 > **Canonical concept:** SELF.RESILIENCE  
 > **Related canonical concepts:** SELF.DISCIPLINE, SELF.CONSISTENCY, SELF.PERSISTENCE, DECISION.GOAL_DISCIPLINE  
@@ -598,6 +600,16 @@ Ia juga memiliki kondisi kapan kita harus meninjau ulang.
 Dan satu kalimat yang perlu diingat:
 
 > **Jangan ukur disiplin hanya dari seberapa keras Anda memulai. Ukur juga dari kemampuan menjaga arah, menjalankan langkah yang realistis, membaca feedback, pulih dari lapse, dan mengubah metode ketika evidence menuntutnya.**
+
+## Red Flags
+
+::: warning Risiko
+Jangan mengubah capability ini menjadi aturan absolut. Leadership selalu membutuhkan penyesuaian terhadap konteks, stakes, authority, evidence, dan dampak terhadap pihak lain.
+:::
+
+::: success Green Note
+**Carry forward:** capability ini harus membantu pembaca melihat situasi lebih jernih, memilih dengan lebih baik, bertindak dengan ownership, lalu belajar dari konsekuensinya.
+:::
 
 ## Evidence notes
 
