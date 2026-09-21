@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Ketika konflik memanas, kemampuan berpikir sering ikut berubah. Kalimat menjadi lebih pendek. Nada menjadi lebih tajam. Orang mulai membela diri. Informasi yang seharusnya membantu justru terdengar seperti serangan. Pada titik tertentu, masalah awal bahkan dapat bergeser menjadi:
+Ketika konflik memanas, kita biasanya tidak lagi berpikir dengan cara yang sama seperti ketika keadaan tenang. Kalimat menjadi lebih pendek. Nada menjadi lebih tajam. Orang mulai membela diri. Informasi yang seharusnya membantu justru terdengar seperti serangan. Pada titik tertentu, masalah awal bahkan dapat bergeser menjadi:
 
 > “Siapa yang lebih berkuasa?”
 
@@ -14,7 +14,7 @@ Ketika konflik memanas, kemampuan berpikir sering ikut berubah. Kalimat menjadi 
 
 > “Siapa yang harus menang?”
 
-Di sinilah de-eskalasi dibutuhkan. Bukan untuk membuat semua orang sepakat. Bukan untuk membuat pemimpin terlihat lembut. Bukan pula untuk menghindari keputusan sulit. Tujuannya lebih sederhana:
+Di situlah de-eskalasi mulai berguna. Bukan untuk membuat semua orang sepakat. Bukan untuk membuat pemimpin terlihat lembut. Bukan pula untuk menghindari keputusan sulit. Tujuannya sebenarnya sederhana:
 
 > **Turunkan suhu yang tidak perlu agar masalah yang perlu diselesaikan kembali terlihat.**
 
@@ -30,7 +30,7 @@ Chapter 17 membahas cara membaca konflik. Chapter 18 membahas apa yang dapat dil
 
 ## Yang Sedang Kita Latih
 
-Pemimpin sedang melatih kemampuan untuk:
+Yang sedang dilatih adalah kemampuan untuk:
 
 - mengenali tanda eskalasi;
 - mengatur tempo percakapan;
@@ -39,9 +39,9 @@ Pemimpin sedang melatih kemampuan untuk:
 - memberi ruang tanpa kehilangan arah;
 - dan mengetahui kapan percakapan harus dihentikan atau dialihkan ke mekanisme lain.
 
-## 1. De-eskalasi bukan berarti mengalah
+## 1. Menurunkan tensi bukan berarti mengalah
 
-Ada kesalahpahaman:
+Ada anggapan yang sering muncul:
 
 > “Kalau saya menurunkan nada, berarti saya kalah.”
 
@@ -57,7 +57,7 @@ Jika masalahnya penting, kalimat itu hanya memindahkan masalah ke kemudian hari.
 
 ## 2. Kenali eskalasi sebelum terlambat
 
-Tanda praktis dapat berupa:
+Beberapa tanda yang mudah terlihat antara lain:
 
 - interupsi semakin sering;
 - volume atau tempo bicara meningkat;
@@ -72,7 +72,7 @@ Tidak semua tanda berarti konflik sudah berbahaya. Tetapi semakin banyak tanda m
 
 ## 3. Stabilize: hentikan kenaikan suhu
 
-Framework ini adalah **sintesis kerja buku**, bukan protokol intervensi tervalidasi:
+Framework ini adalah **sintesis kerja buku**, bukan protokol intervensi yang tervalidasi:
 
 **Stabilize → Clarify → Narrow → Reframe → Choose next step** Langkah pertama:
 
@@ -86,11 +86,11 @@ Atau:
 
 > “Masalahnya penting. Kita tidak perlu menyelesaikannya dalam bentuk pertengkaran.”
 
-Tujuannya bukan memenangkan ketenangan. Tujuannya menciptakan kondisi agar percakapan kembali dapat diproses.
+Tujuannya bukan membuat salah satu pihak terlihat paling tenang. Tujuannya membuat percakapan kembali punya ruang untuk berpikir.
 
 ## 4. Clarify: apa sebenarnya yang sedang diperdebatkan?
 
-Saat panas, orang sering berdebat tentang beberapa hal sekaligus. Pemimpin dapat mempersempit:
+Saat emosi naik, beberapa persoalan sering bercampur menjadi satu. Pemimpin dapat mempersempit:
 
 > “Satu per satu. Apa poin yang paling Anda keberatkan?”
 
@@ -98,7 +98,7 @@ Kemudian:
 
 > “Apakah keberatannya soal datanya, prosesnya, atau keputusan akhirnya?”
 
-Pertanyaan seperti ini mengurangi ruang bagi konflik untuk melebar ke segala arah.
+Pertanyaan seperti ini membantu konflik berhenti melebar ke mana-mana.
 
 ## 5. Akui pengalaman tanpa otomatis mengakui klaim
 
@@ -118,7 +118,7 @@ tidak otomatis berarti:
 
 > “Tekanan itu memang disengaja.”
 
-Acknowledge experience. Then test the claim.
+Akui pengalaman orangnya, lalu periksa klaimnya.
 
 ## 6. Jangan melawan setiap kalimat
 
@@ -130,7 +130,7 @@ Dorongan alami:
 
 > “Tidak selalu. Kapan saya pernah begitu?”
 
-Pertanyaan itu mungkin benar, tetapi dapat membuat percakapan masuk ke sidang bukti tentang kata “selalu”. Turunkan satu tingkat:
+Pertanyaan itu mungkin masuk akal, tetapi kita bisa terjebak berdebat hanya tentang kata “selalu”. Turunkan satu tingkat:
 
 > “Bagian mana dari proses terakhir yang membuat pekerjaan Anda sulit?”
 
@@ -173,13 +173,13 @@ menjadi:
 
 > “Proses ini membutuhkan lima hari lebih lama dari target. Apa yang menyebabkan perbedaan itu?”
 
-Reframing bukan manipulasi bahasa. Jika fakta memang menunjukkan kegagalan, tetap sebut kegagalannya. Yang diubah adalah:
+Reframing bukan permainan kata untuk membuat masalah terlihat lebih kecil. Jika fakta memang menunjukkan kegagalan, tetap sebut kegagalannya. Yang kita ubah adalah arah pembicaraan:
 
 **serangan personal → objek yang dapat diperiksa.**
 
 ## 9. Gunakan pertanyaan untuk membuka, bukan menjebak
 
-Pertanyaan dapat menurunkan atau menaikkan suhu. Bandingkan:
+Pertanyaan bisa menurunkan tensi, tetapi juga bisa membuat orang semakin defensif. Bandingkan:
 
 > “Kenapa Anda melakukan itu?”
 
@@ -204,15 +204,15 @@ Misalnya:
 1. apakah datanya benar;
 2. siapa yang berwenang mengambil keputusan.
 
-Hal lain dicatat untuk tahap berikutnya. Narrowing bukan mengabaikan masalah. Ini mencegah satu percakapan menjadi sepuluh konflik sekaligus.
+Hal lain dicatat untuk tahap berikutnya. Menyempitkan pembahasan bukan berarti mengabaikan masalah. Ini mencegah satu percakapan menjadi sepuluh konflik sekaligus.
 
-## 11. Atur tempo
+## 11. Atur tempo percakapan
 
 Tidak semua konflik harus diselesaikan saat itu juga. Kadang kalimat terbaik:
 
 > “Saya ingin menjawab ini dengan serius. Saya perlu memeriksa datanya dulu. Kita lanjut pukul 14.00.”
 
-Ini **managed delay**, bukan menghindar. Perbedaannya adalah ada:
+Ini **managed delay**, bukan menghilang dari masalah. Perbedaannya adalah ada:
 
 - alasan;
 - pekerjaan yang jelas;
@@ -239,7 +239,7 @@ Tetapi jangan gunakan email atau chat sebagai tempat melampiaskan emosi yang sed
 
 ## 13. Ketika pihak lain terus menaikkan suhu
 
-De-eskalasi bukan kewajiban untuk terus berada dalam percakapan apa pun. Pemimpin dapat berkata:
+Menurunkan tensi juga tidak berarti kita harus terus berada dalam percakapan apa pun. Pemimpin dapat berkata:
 
 > “Saya bersedia membahas masalahnya. Saya tidak akan melanjutkan percakapan jika kita saling menghina.”
 
@@ -259,11 +259,11 @@ Tidak semua konflik harus diselesaikan oleh dua orang yang bertentangan. Pihak k
 - proses membutuhkan mediator;
 - atau ada kepentingan yang sulit dipisahkan dari hubungan personal.
 
-Literatur peacemaking di tempat kerja menunjukkan bahwa bantuan pihak ketiga dapat mencakup dimensi relasional, prosedural, emosional, dan substantif. ([lihat Evidence notes](#evidence-notes)) Pihak ketiga bukan selalu “hakim”. Kadang tugasnya hanya membantu kedua pihak kembali melihat masalah dengan struktur yang lebih baik.
+Literatur peacemaking di tempat kerja menunjukkan bahwa bantuan pihak ketiga dapat mencakup dimensi relasional, prosedural, emosional, dan substantif. ([lihat Evidence notes](#evidence-notes)) Pihak ketiga juga tidak selalu berperan sebagai “hakim”. Kadang tugasnya hanya membantu kedua pihak kembali melihat masalah dengan struktur yang lebih baik.
 
 ## 15. Jangan mengira semua masalah bisa diredakan dengan percakapan
 
-Ini batas penting. Jika masalahnya:
+Di sinilah batasnya. Jika masalahnya:
 
 - fraud;
 - ancaman;
@@ -306,13 +306,13 @@ Turunkan satu tingkat:
 
 > “Kalau keputusan ada pada Anda, saya ingin memastikan risikonya sudah kita bahas.”
 
-Latihannya bukan menjadi lebih manis. Latihannya adalah:
+Latihannya bukan membuat ucapan menjadi lebih manis. Yang dicari adalah:
 
 > **mengurangi panas tanpa mengurangi informasi.**
 
-## 17. Setelah suhu turun, jangan lupa masalahnya
+## 17. Setelah tensi turun, kembali ke masalahnya
 
-Ini jebakan lain. Orang berhasil berdamai. Semua tersenyum. Tetapi masalah belum selesai. De-eskalasi hanya tahap. Setelah suhu turun, kembali ke:
+Ini jebakan lain. Orang berhasil berdamai. Semua tersenyum. Tetapi masalah belum selesai. Menurunkan tensi hanyalah satu tahap. Setelah suhu turun, kembali ke:
 
 **Apa masalahnya? → Apa keputusan yang dibutuhkan? → Siapa melakukan apa? → Kapan diperiksa kembali?** Jika tidak, de-eskalasi berubah menjadi penundaan.
 
@@ -335,7 +335,7 @@ Jangan menggunakan ketenangan sebagai pengganti keberanian. Pemimpin dapat berbi
 :::
 
 ::: success Green Note
-**Carry forward:** Konflik yang tenang tetap bisa serius. Konflik yang keras belum tentu penting. Tugas pemimpin adalah menurunkan gangguan emosional yang tidak perlu agar substansi dapat diproses dengan lebih baik.
+**Carry forward:** Konflik yang sudah tenang tetap bisa serius. Konflik yang keras belum tentu penting. Tugas pemimpin adalah mengurangi panas yang tidak perlu agar substansi bisa dibicarakan dengan lebih jernih.
 :::
 
 ## Evidence notes
