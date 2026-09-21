@@ -8,16 +8,16 @@
 Humility dalam leadership adalah kemampuan belajar tanpa kehilangan agency: menerima koreksi, mengenali batas pengetahuan, dan tetap mampu mengambil keputusan.
 
 ::: success Green Note
-**Pemimpin lens:** Pemimpin tidak menjadi lebih lemah karena mengakui bahwa ia bisa salah. Justru keterbukaan terhadap informasi yang tidak nyaman dapat memperbaiki kualitas judgment.
+**Lensa pemimpin:** Pemimpin tidak menjadi lebih lemah karena mengakui bahwa ia bisa salah. Justru keterbukaan terhadap informasi yang tidak nyaman dapat memperbaiki kualitas judgment.
 :::
 
 ::: info Konteks
-**Canonical concept:** `SELF.HUMILITY`. Dalam arsitektur buku, konsep ini adalah bagian dari pemimpin mindset, bukan tujuan akhir buku.
+**Canonical concept:** `SELF.HUMILITY`. Dalam arsitektur buku, konsep ini adalah bagian dari mindset kepemimpinan, bukan tujuan akhir buku.
 :::
 
 ## Yang Sedang Kita Latih
 
-**Capability:** memiliki pandangan diri yang akurat, menyadari keterbatasan pengetahuan, menghargai kontribusi orang lain, menerima koreksi, dan bersedia memperbarui pandangan ketika evidence berubah.
+**Fokus latihan:** memiliki pandangan diri yang akurat, menyadari keterbatasan pengetahuan, menghargai kontribusi orang lain, menerima koreksi, dan bersedia memperbarui pandangan ketika evidence berubah.
 >
 
 ## 1. Rendah hati bukan mengecilkan diri
