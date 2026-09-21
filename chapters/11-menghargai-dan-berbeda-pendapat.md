@@ -4,7 +4,7 @@
 
 ## Mengapa Ini Penting
 
-Pemimpin bekerja melalui perbedaan: perbedaan informasi, pengalaman, kepentingan, kewenangan, dan cara melihat risiko. Respect membantu menjaga kualitas hubungan dan percakapan tanpa mengharuskan pemimpin mengorbankan standar, keputusan, atau accountability.
+Dalam pekerjaan, perbedaan itu biasa: informasi kita berbeda, pengalaman berbeda, kepentingan bisa berbeda, dan cara melihat risikonya pun tidak selalu sama. Menghormati orang membantu kita menjaga percakapan tetap sehat tanpa harus mengorbankan standar, keputusan, atau accountability.
 
 ::: success Green Note
 **Lensa pemimpin:** Menghormati orang tidak berarti mengiyakan semua klaim. Justru pemimpin perlu mampu menjaga martabat orang sambil tetap memeriksa gagasan, perilaku, dan konsekuensinya.
@@ -20,11 +20,11 @@ Pemimpin bekerja melalui perbedaan: perbedaan informasi, pengalaman, kepentingan
 
 ## 1. Menghargai bukan berarti menyetujui
 
-Ada kalimat yang perlu kita latih:
+Ada satu kalimat yang menurut saya layak dilatih:
 
 > **“Saya menghargai Anda tanpa harus menyetujui Anda.”**
 
-Ini bukan permainan kata. Dalam pekerjaan, kita akan bertemu orang yang:
+Ini bukan sekadar permainan kata. Dalam pekerjaan, kita akan bertemu orang yang:
 - berbeda pendapat;
 - berbeda cara kerja;
 - berbeda prioritas;
@@ -32,13 +32,13 @@ Ini bukan permainan kata. Dalam pekerjaan, kita akan bertemu orang yang:
 - berbeda kepentingan;
 - atau memegang informasi yang belum kita miliki.
 
-Jika setiap perbedaan dianggap sebagai ancaman terhadap hubungan, kita akan cenderung memilih salah satu dari dua ekstrem:
+Kalau setiap perbedaan dianggap mengancam hubungan, kita mudah jatuh ke dua pilihan ekstrem:
 
 > **mengalah agar hubungan tetap nyaman**,  
 > atau  
 > **menyerang agar posisi kita tetap kuat.**
 
-Keduanya tidak selalu diperlukan. Kita dapat mempertahankan hubungan sekaligus mempertahankan perbedaan pendapat. Prinsip kerja bab ini:
+Padahal kita tidak selalu perlu memilih salah satunya. Kita dapat mempertahankan hubungan sekaligus mempertahankan perbedaan pendapat. Pegangan sederhananya:
 
 > **Hormati manusianya. Periksa gagasannya. Nilai tindakannya.**
 
@@ -46,7 +46,7 @@ Keduanya tidak selalu diperlukan. Kita dapat mempertahankan hubungan sekaligus m
 
 ## 2. Orangnya bukan argumennya
 
-Ini salah satu batas terpenting. Seseorang dapat:
+Ini salah satu batas yang paling penting. Seseorang dapat:
 - kita hormati, tetapi pendapatnya kita anggap keliru;
 - memiliki niat baik, tetapi membuat keputusan yang buruk;
 - memiliki pengalaman panjang, tetapi salah dalam kasus tertentu;
@@ -81,7 +81,7 @@ kualitas pembicaraan biasanya menjadi lebih sulit dijaga. Ini bukan berarti kara
 
 ## 3. Respect bukan berarti semua orang harus diperlakukan persis sama
 
-Dalam budaya Indonesia, terutama lingkungan yang masih mengenal senioritas dan hierarki, cara menunjukkan penghormatan sering dipengaruhi oleh:
+Di Indonesia, terutama di lingkungan yang masih kuat dengan senioritas dan hierarki, cara menunjukkan hormat memang sering dipengaruhi oleh:
 - usia;
 - jabatan;
 - senioritas;
@@ -90,7 +90,7 @@ Dalam budaya Indonesia, terutama lingkungan yang masih mengenal senioritas dan h
 - situasi;
 - dan tata krama.
 
-Dalam tradisi Jawa, gagasan seperti **unggah-ungguh**, **andhap asor**, dan **tepa selira** menyediakan bahasa budaya untuk kepekaan terhadap hubungan dan kepantasan. Namun kita perlu berhati-hati. Budaya bukan alasan untuk:
+Dalam tradisi Jawa, gagasan seperti **unggah-ungguh**, **andhap asor**, dan **tepa selira** menyediakan bahasa budaya untuk kepekaan terhadap hubungan dan kepantasan. Tetapi ada yang perlu dijaga: Budaya bukan alasan untuk:
 - menyembunyikan masalah;
 - membenarkan kesalahan;
 - membungkam orang yang lebih muda;
@@ -105,11 +105,11 @@ Kita dapat menggunakan adab untuk menentukan **cara** menyampaikan perbedaan tan
 
 ## 4. Tepa selira bukan berarti takut menyinggung
 
-Tepa selira sering digunakan untuk menggambarkan kepekaan terhadap keadaan dan perasaan orang lain. Dalam praktik kepemimpinan, ini dapat menjadi pengingat:
+Tepa selira memberi pengingat yang baik: perhatikan keadaan orang lain sebelum memilih cara menyampaikan sesuatu. Dalam praktik kepemimpinan, ini dapat menjadi pengingat:
 
 > “Kalau saya berada di posisi dia, bagaimana cara penyampaian ini mungkin saya terima?”
 
-Pertanyaan ini berguna. Tetapi jangan mengubahnya menjadi:
+Pertanyaan itu berguna, tetapi jangan sampai berubah menjadi:
 
 > “Jangan pernah membuat orang tidak nyaman.”
 
@@ -121,13 +121,13 @@ melainkan:
 
 > **“Apakah ketidaknyamanan ini diperlukan oleh substansi masalah, atau sebenarnya ditimbulkan oleh cara saya menyampaikannya?”**
 
-Kita tidak harus menghilangkan semua ketidaknyamanan. Kita perlu menghindari **ketidaknyamanan yang tidak perlu**.
+Kita tidak mungkin menghilangkan semua ketidaknyamanan. Yang bisa kita lakukan adalah menghindari **ketidaknyamanan yang sebenarnya tidak perlu**.
 
 ---
 
 ## 5. Andhap asor bukan merendahkan diri
 
-Andhap asor dapat menjadi pengingat agar seseorang tidak membawa diri seolah-olah selalu paling tinggi. Tetapi rendah hati tidak berarti:
+Andhap asor mengingatkan kita agar tidak membawa diri seolah-olah selalu paling tinggi. Tetapi rendah hati tidak berarti:
 - tidak boleh berbicara;
 - selalu mengalah;
 - takut berbeda;
@@ -146,20 +146,20 @@ dan tetap menunjukkan adab. Seorang atasan juga dapat berkata:
 
 > “Saya mungkin melewatkan sesuatu. Tolong tunjukkan bagian yang menurut Anda perlu kita periksa.”
 
-Itu bukan kehilangan wibawa. Itu adalah bentuk wibawa yang tidak bergantung pada keharusan selalu terlihat benar.
+Wibawa tidak hilang karena kita memberi ruang pada koreksi. Justru wibawa menjadi lebih matang ketika tidak bergantung pada keharusan selalu terlihat benar.
 
 ---
 
 ## 6. Jabatan bukan bukti kebenaran
 
-Hierarki mempunyai fungsi. Jabatan menentukan:
+Hierarki tentu punya fungsi. Jabatan menentukan:
 - kewenangan;
 - tanggung jawab;
 - akses;
 - keputusan tertentu;
 - dan jalur eskalasi.
 
-Tetapi jabatan tidak otomatis membuktikan bahwa semua pendapat pemegang jabatan benar. Demikian pula junioritas tidak otomatis membuat pendapat seseorang salah. Dalam organisasi, status dapat memengaruhi siapa yang lebih mudah berbicara, siapa yang lebih mudah didengar, dan bagaimana suatu pernyataan diterima. Karena itu, perbedaan pendapat perlu dipisahkan dari pertarungan status.
+Tetapi jabatan tetap bukan bukti bahwa semua pendapat pemegangnya benar. Demikian pula junioritas tidak otomatis membuat pendapat seseorang salah. Dalam organisasi, status dapat memengaruhi siapa yang lebih mudah berbicara, siapa yang lebih mudah didengar, dan bagaimana suatu pernyataan diterima. Karena itu, perbedaan pendapat perlu dipisahkan dari pertarungan status.
 
 Prinsip praktis:
 
@@ -177,7 +177,7 @@ Mengatakan:
 
 > “Saya menghargai Anda.”
 
-belum banyak berarti jika perilaku kita justru menunjukkan sebaliknya. Respect lebih terlihat dari tindakan. Misalnya:
+belum banyak berarti jika perilaku kita justru menunjukkan sebaliknya. Respect lebih mudah terlihat dari perilaku daripada dari pernyataan. Misalnya:
 
 ### Mendengarkan sebelum membantah
 
@@ -213,7 +213,7 @@ Respect menjadi nyata ketika seseorang tetap menjaga martabat lawan bicara **bah
 
 ## 8. Jangan mempermalukan orang untuk memenangkan argumen
 
-Ada kemenangan percakapan yang mahal. Kita berhasil:
+Ada kemenangan dalam percakapan yang ternyata mahal harganya. Kita berhasil:
 - membuat orang diam;
 - menunjukkan kesalahannya di depan orang lain;
 - mendapatkan tawa;
@@ -225,7 +225,7 @@ Tetapi setelah itu orang mungkin:
 - menghindari diskusi;
 - atau hanya mengatakan apa yang menurut mereka aman.
 
-Karena itu, sebelum menyampaikan koreksi di depan umum, tanyakan:
+Karena itu, sebelum mengoreksi seseorang di depan banyak orang, coba tanya diri sendiri:
 
 > **“Apakah tujuan saya memperbaiki masalah atau menunjukkan bahwa saya benar?”**
 
@@ -237,7 +237,7 @@ Ini **disiplin terhadap cara menggunakan kekuatan sosial**.
 
 ## 9. Berbeda pendapat dengan atasan
 
-Dalam budaya hierarkis, berbeda pendapat dengan atasan dapat terasa lebih berisiko. Ada dua kesalahan umum.
+Dalam budaya yang hierarkis, menyampaikan perbedaan pendapat kepada atasan memang bisa terasa berisiko. Ada dua kesalahan umum.
 
 ### Terlalu pasif
 
@@ -249,7 +249,7 @@ Padahal kita melihat risiko yang cukup jelas.
 
 > “Cara itu jelas salah. Kalau begini terus, ya jangan heran kalau gagal.”
 
-Substansi mungkin perlu dibahas, tetapi cara tersebut dapat mengubah diskusi menjadi pertarungan posisi. Alternatif:
+Substansi mungkin perlu dibahas, tetapi cara tersebut dapat mengubah diskusi menjadi pertarungan posisi. Cara lain yang biasanya lebih membantu:
 
 > “Mohon izin, saya melihat ada satu risiko yang perlu dipertimbangkan sebelum kita putuskan.”
 
@@ -261,7 +261,7 @@ Jika keputusan tetap berbeda:
 
 > “Baik, saya memahami arah keputusannya. Untuk memastikan pelaksanaannya aman, saya akan mencatat risiko X dan langkah mitigasinya.”
 
-Ini mempertahankan:
+Dengan begitu kita tetap menjaga:
 - adab;
 - substansi;
 - agency;
@@ -273,7 +273,7 @@ Menghormati atasan tidak berarti menghilangkan penilaian.
 
 ## 10. Berbeda pendapat dengan rekan
 
-Dengan rekan, masalahnya sering bukan hierarki tetapi identitas dan ego. Kita bisa terlalu cepat berkata:
+Dengan rekan, persoalannya sering bukan hierarki, melainkan ego dan rasa memiliki terhadap ide sendiri. Kita bisa terlalu cepat berkata:
 
 > “Itu tidak masuk akal.”
 
@@ -289,7 +289,7 @@ Atau:
 
 > “Kalau kita memakai asumsi X, saya setuju. Tetapi kalau asumsi Y yang berlaku, hasilnya bisa berbeda.”
 
-Perhatikan pola ini:
+Perhatikan bedanya:
 
 > **tujuan → titik beda → alasan → implikasi**
 
@@ -335,7 +335,7 @@ dari
 
 > **keputusan akhir.**
 
-Seseorang mungkin memberikan analisis yang sangat membantu meskipun rekomendasinya tidak kita pilih. Kita dapat mengatakan:
+Seseorang bisa memberi analisis yang sangat berguna meskipun rekomendasinya akhirnya tidak kita pilih. Kita dapat mengatakan:
 
 > “Saya tidak memilih opsi itu, tetapi analisis Anda tentang dampak anggarannya penting. Itu membantu kita menghindari risiko yang sebelumnya belum terlihat.”
 
@@ -349,7 +349,7 @@ Tidak. Dalam pekerjaan yang kompleks, kontribusi dapat tetap bernilai meskipun k
 
 ## 13. Jangan gunakan sopan santun untuk menyamarkan penghinaan
 
-Tidak semua kalimat yang terdengar halus benar-benar respectful. Misalnya:
+Kalimat yang terdengar halus pun belum tentu benar-benar menghormati orang lain. Misalnya:
 
 > “Ya, kalau menurut Anda begitu silakan saja.”
 
@@ -370,7 +370,7 @@ Kalimat seperti ini dapat menjadi sopan secara permukaan tetapi merendahkan seca
 - apakah saya sedang menyelipkan penghinaan?
 - apakah standar yang saya gunakan juga saya terapkan kepada diri sendiri?
 
-**Adab bukan kosmetik bahasa.** Adab terlihat dari cara kita menggunakan posisi, perhatian, dan kekuatan terhadap orang lain.
+**Adab bukan sekadar kosmetik bahasa.** Adab terlihat dari cara kita menggunakan posisi, perhatian, dan kekuatan terhadap orang lain.
 
 ---
 
@@ -427,7 +427,7 @@ Dalam situasi yang membutuhkan keputusan, kita perlu meningkatkan kejelasan:
 
 Tetap sopan. Tetapi tidak kabur. Prinsipnya:
 
-> **Halus dalam cara tidak harus kabur dalam maksud.**
+> ****Halus dalam cara tidak harus kabur dalam maksud.****
 
 Ini akan menjadi jembatan penting menuju Chapter 12 tentang bahasa.
 
@@ -451,7 +451,7 @@ Terutama ketika marah. Terutama ketika memiliki jabatan. Terutama ketika lawan b
 
 ## 17. Respect dalam kondisi tidak seimbang
 
-Respect paling mudah dibicarakan ketika dua pihak memiliki kekuatan yang relatif seimbang. Ujiannya justru ketika tidak seimbang. Misalnya:
+Respect paling mudah terlihat ketika posisi kedua pihak relatif seimbang. Ujiannya justru ketika kekuasaannya tidak seimbang. Misalnya:
 - atasan dan bawahan;
 - senior dan junior;
 - pejabat dan staf;
@@ -465,7 +465,7 @@ Jika tidak, kita perlu lebih aktif membuka ruang. Contoh atasan:
 
 > “Saya ingin mendengar keberatan Anda. Anda tidak perlu menyetujui keputusan saya. Saya justru ingin tahu risiko yang mungkin saya lewatkan.”
 
-Namun kalimat saja tidak cukup. Jika setiap orang yang berbeda pendapat kemudian dihukum secara informal, maka organisasi akan belajar bahwa:
+Tentu kalimat saja tidak cukup. Jika setiap orang yang berbeda pendapat kemudian dihukum secara informal, maka organisasi akan belajar bahwa:
 
 > **“Anda boleh berbicara, tetapi hanya jika pendapat Anda aman.”**
 
@@ -660,7 +660,7 @@ Jika ya, periksa apakah perubahan itu merupakan **adab yang tepat** atau justru 
 
 > **Unggah-ungguh mengatur cara membawa diri, bukan alasan untuk menyembunyikan masalah.**
 
-> **Halus dalam cara tidak harus kabur dalam maksud.**
+> ****Halus dalam cara tidak harus kabur dalam maksud.****
 
 > **Respect tidak berarti membiarkan perilaku yang salah.**
 
