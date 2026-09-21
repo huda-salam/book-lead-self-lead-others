@@ -6,51 +6,35 @@
 
 ## Mengapa Ini Penting
 
-Anda bisa memiliki:
+Seseorang bisa punya jabatan,
 
-> jabatan.
+tetapi belum tentu punya pengaruh.
 
-Tetapi belum tentu memiliki:
-
-> influence.
-
-Dan Anda bisa memiliki:
-
-> influence.
+Sebaliknya, orang tanpa jabatan tinggi pun bisa berpengaruh.
 
 Tanpa memiliki:
 
 > jabatan tinggi.
 
-Chapter 28 sudah membahas power dan influence sebagai realitas organisasi. Chapter ini bergerak satu langkah berbeda:
+Chapter 28 melihat power dan influence sebagai bagian dari kenyataan organisasi. Bab ini mengambil sisi yang lebih praktis:
 
 > **bagaimana pemimpin menggunakan influence secara konstruktif.**
 
-Karena banyak pekerjaan leadership tidak dapat dilakukan dengan:
+Banyak pekerjaan kepemimpinan juga tidak selesai hanya dengan berkata, “Saya perintahkan.”
 
-> “Saya perintahkan.”
+Atasan membutuhkan kerja sama.
 
-Atasan membutuhkan:
+Rekan membutuhkan keselarasan.
 
-> cooperation.
+Tim membutuhkan komitmen.
 
-Rekan membutuhkan:
+Stakeholder perlu percaya pada arah dan prosesnya.
 
-> alignment.
-
-Tim membutuhkan:
-
-> commitment.
-
-Stakeholder membutuhkan:
-
-> confidence.
-
-Maka leadership bukan hanya:
+Karena itu kepemimpinan bukan hanya soal:
 
 > memberi instruksi.
 
-Leadership juga:
+Ada pekerjaan lain yang sama pentingnya:
 
 > **membantu orang memahami mengapa sesuatu penting, apa yang perlu dilakukan, dan mengapa mereka bersedia bergerak.**
 
@@ -62,9 +46,9 @@ Leadership juga:
 Chapter 31 membangun credibility. Chapter 32 menggunakan credibility tersebut untuk influence. Chapter 28 sudah membahas power sebagai literasi organisasi; chapter ini membahas penggunaan influence sebagai capability leadership.
 :::
 
-## Yang Sedang Kita Latih
+## Fokus Bab
 
-Pemimpin sedang melatih kemampuan untuk:
+Yang sedang dilatih adalah:
 
 - memahami stakeholder;
 - menemukan kepentingan;
@@ -75,17 +59,15 @@ Pemimpin sedang melatih kemampuan untuk:
 - membangun commitment;
 - dan follow-through.
 
-## 1. Influence bukan membuat orang tunduk
+## 1. Pengaruh bukan soal membuat orang tunduk
 
-Ada definisi influence yang terlalu sederhana:
+Ada pengertian pengaruh yang terlalu sederhana:
 
 > “Saya berhasil membuat dia melakukan apa yang saya mau.”
 
-Itu lebih dekat kepada:
+Itu lebih dekat dengan **kepatuhan** daripada pengaruh yang sehat.
 
-> compliance.
-
-Influence leadership yang lebih sehat bertanya:
+Pertanyaan yang lebih berguna adalah:
 
 > “Apakah orang tersebut memahami alasan, constraint, dan tujuan tindakan?”
 
@@ -101,7 +83,7 @@ Tetapi bahkan di sana:
 
 > influence tidak selalu identik dengan force.
 
-## 2. Agency tetap penting
+## 2. Agency tetap milik orang lain
 
 Jika seseorang berkata:
 
@@ -127,9 +109,9 @@ Leadership perlu membedakan:
 
 Keduanya dapat dibutuhkan pada situasi berbeda.
 
-## 3. Mulai dari purpose
+## 3. Mulai dari tujuan
 
-Jangan mulai:
+Daripada langsung berkata:
 
 > “Tolong kerjakan ini.”
 
@@ -145,11 +127,9 @@ Kemudian:
 
 > “Saya membutuhkan bantuan Anda di bagian A.”
 
-Sekarang request memiliki:
+Sekarang permintaannya punya konteks.
 
-> context.
-
-## 4. Pahami stakeholder
+## 4. Kenali stakeholder
 
 Sebelum mencoba memengaruhi:
 
@@ -173,7 +153,7 @@ Tanyakan:
 
 Ini menghubungkan Chapter 8 dan Chapter 28.
 
-## 5. Interest bukan obstacle
+## 5. Kepentingan bukan hambatan otomatis
 
 Pemimpin sering melihat:
 
@@ -187,15 +167,13 @@ Tim compliance ingin:
 
 > risiko tetap terkendali.
 
-Kepentingan compliance bukan:
-
-> obstacle.
+Kepentingan compliance bukan sekadar hambatan.
 
 Ia adalah:
 
 > constraint yang harus dimasukkan ke desain.
 
-Influence yang baik tidak selalu menghilangkan concern. Ia mencari:
+Pengaruh yang baik tidak selalu menghilangkan kekhawatiran pihak lain. Ia mencari:
 
 > bagaimana objective dapat dicapai dengan concern tersebut tetap legitimate.
 
@@ -217,9 +195,7 @@ Lebih kuat:
 
 > “Dalam tiga bulan terakhir, 18% transaksi mengalami rework. Dua penyebab utama adalah X dan Y. Perubahan ini ditujukan untuk mengurangi keduanya.”
 
-Sekarang orang dapat:
-
-> evaluate.
+Sekarang orang punya bahan untuk menilai sendiri.
 
 Bukan hanya:
 
@@ -239,11 +215,11 @@ Influence yang sehat tidak berkata:
 
 > “Saya punya data, jadi Anda harus setuju.”
 
-Lebih baik:
+Lebih baik mengatakan:
 
 > “Ini evidence yang kami punya. Saya ingin mendengar concern yang mungkin belum kami masukkan.”
 
-## 8. Ask, jangan hanya tell
+## 8. Bertanya, jangan hanya menjelaskan
 
 Salah satu kesalahan pemimpin:
 
@@ -269,7 +245,7 @@ Pemimpin tetap harus:
 
 > decide.
 
-## 9. Participation ≠ veto
+## 9. Partisipasi bukan hak veto
 
 Konsultasi tidak berarti:
 
@@ -287,21 +263,19 @@ Ini perlu dijelaskan sejak awal:
 
 > “Saya meminta input untuk memperbaiki keputusan. Keputusan akhirnya tetap berada pada X.”
 
-Jelas lebih sehat daripada:
+Lebih jujur daripada meminta pendapat seolah-olah orang lain ikut memutuskan, padahal keputusan tetap sudah ditentukan.
 
-> meminta pendapat lalu pura-pura bahwa semua orang ikut memutuskan.
-
-## 10. Different audience, different language
+## 10. Audiens berbeda, cara menyampaikan juga berbeda
 
 Pesan yang sama dapat membutuhkan:
 
 > framing berbeda.
 
-Kepada pimpinan:
+Misalnya kepada pimpinan kita lebih perlu menekankan:
 
 > impact, risk, decision needed.
 
-Kepada peer:
+Kepada rekan:
 
 > dependency, trade-off, coordination.
 
@@ -309,7 +283,7 @@ Kepada tim:
 
 > purpose, role, action, support.
 
-Kepada technical expert:
+Kepada orang teknis:
 
 > assumptions, evidence, constraints.
 
@@ -321,19 +295,15 @@ Cara menjelaskan:
 
 > berbeda.
 
-Ini bukan manipulasi. Ini:
+Ini bukan manipulasi. Ini **penyesuaian terhadap audiens**.
 
-> audience adaptation.
-
-## 11. Influence melalui value
+## 11. Pengaruh lewat nilai yang relevan
 
 Salah satu pertanyaan:
 
 > “Apa manfaat bagi mereka?”
 
-Bukan:
-
-> “Bagaimana membuat mereka melakukan apa yang saya mau?”
+Bukan, “Bagaimana membuat mereka melakukan apa yang saya mau?”
 
 Misalnya:
 
@@ -347,7 +317,7 @@ Tetapi jangan menjanjikan manfaat yang belum terbukti.
 
 ## 12. Influence melalui reciprocity
 
-Relationship dapat membantu. Misalnya:
+Hubungan yang baik tentu membantu. Misalnya:
 
 > Anda membantu unit lain menyelesaikan dependency.
 
@@ -363,11 +333,9 @@ Itu sudah mendekati:
 
 > relational pressure.
 
-Bantuan:
+Tetapi bantuan bukan utang moral tanpa batas.
 
-> bukan utang moral tanpa batas.
-
-## 13. Coalition bukan clique
+## 13. Koalisi bukan kelompok orang dalam
 
 Untuk keputusan kompleks, satu orang tidak selalu cukup. Anda mungkin membutuhkan:
 
@@ -377,11 +345,11 @@ Untuk keputusan kompleks, satu orang tidak selalu cukup. Anda mungkin membutuhka
 - legal;
 - user representative.
 
-Membangun coalition dapat membantu:
+Mengajak pihak yang relevan terlibat dapat membantu:
 
 > kualitas keputusan dan implementasi.
 
-Tetapi coalition menjadi berbahaya jika:
+Tetapi koalisi bisa bermasalah jika:
 
 > sengaja mengisolasi pihak yang relevan,
 
@@ -397,7 +365,7 @@ bukan:
 
 > “Siapa yang dapat saya kumpulkan agar menang?”
 
-## 14. Commitment perlu konkret
+## 14. Komitmen perlu konkret
 
 Jangan berhenti pada:
 
@@ -413,13 +381,11 @@ Tanyakan:
 
 > kapan kita check?
 
-Ini menghubungkan Chapter 25. Influence tidak selesai ketika:
+Ini menghubungkan Chapter 25. Pengaruh tidak selesai hanya ketika:
 
 > orang mengangguk.
 
-Influence selesai ketika:
-
-> commitment menjadi action.
+Ia terlihat ketika **komitmen berubah menjadi tindakan**.
 
 ## 15. Ketika orang tetap tidak setuju
 
@@ -452,13 +418,13 @@ Mungkin:
 
 Jika decision rights jelas:
 
-> Anda mungkin harus memutuskan.
+> Pada akhirnya, keputusan mungkin tetap berada di tangan Anda.
 
 Respect tidak berarti:
 
 > menyerahkan keputusan.
 
-## 16. Influence tanpa authority formal
+## 16. Mempengaruhi tanpa kewenangan formal
 
 Situasi paling menarik:
 
@@ -490,7 +456,7 @@ Bagaimana memengaruhi? Gunakan:
 
 > apa yang sebenarnya Anda minta?
 
-Jangan berpura-pura memiliki authority yang tidak Anda miliki.
+Jangan berpura-pura memiliki kewenangan yang sebenarnya tidak Anda punya.
 
 ## 17. Framework: Influence Map
 
@@ -544,7 +510,7 @@ Jangan:
 
 > “Unit Anda harus mengikuti format kami.”
 
-Lebih baik:
+Lebih baik mengatakan:
 
 > “Kami menemukan 12% transaksi perlu dikoreksi karena format berbeda. Jika kita samakan field A–D, pekerjaan koreksi turun. Saya ingin mendengar constraint di unit Anda. Jika cocok, kita pilot dua minggu.”
 
@@ -578,9 +544,7 @@ Gunakan:
 
 > “Ada tiga masalah: X, Y, Z. Data tiga bulan menunjukkan dampak A. Saya membandingkan dua opsi. Opsi B membutuhkan resource lebih besar tetapi mengurangi risiko C. Saya merekomendasikan B. Jika disetujui, langkah pertama adalah pilot dua minggu.”
 
-Influence menjadi:
-
-> decision support.
+Pengaruh berubah menjadi **dukungan terhadap keputusan**, bukan sekadar bujukan.
 
 Bukan:
 
@@ -612,11 +576,9 @@ Contoh:
 
 > “Kita perlu menyelesaikan laporan ini Jumat karena digunakan untuk keputusan Senin. Anda pegang data A–C. Saya bantu dependency D. Kalau ada risiko terlambat, beri tahu Kamis siang.”
 
-Sekarang:
+Hasilnya: **kewenangan + kejelasan + dukungan.**
 
-> authority + clarity + support.
-
-## 21. Influence yang berkelanjutan
+## 21. Pengaruh yang bertahan lama
 
 Influence jangka panjang bergantung pada:
 
@@ -669,7 +631,7 @@ Tulis:
 Perbedaannya penting.
 
 ::: important Prinsip
-**Influence yang sehat membuat orang lebih mampu mengambil keputusan yang baik, bukan lebih sulit untuk mengatakan tidak.**
+****Pengaruh yang sehat membantu orang mengambil keputusan dengan lebih baik; ia tidak membuat mereka semakin sulit untuk berkata tidak.****
 :::
 
 ::: warning Risiko
