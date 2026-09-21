@@ -164,7 +164,7 @@ Contoh:
 
 > memperbaiki proses yang setiap bulan menyebabkan masalah.
 
-Leader perlu bertanya:
+Pemimpin perlu bertanya:
 
 > “Apa yang terjadi jika kita tidak mengerjakan ini minggu ini?”
 
@@ -307,7 +307,7 @@ Sekarang:
 
 ## 10. Jangan menyembunyikan trade-off
 
-Leader kadang berkata:
+Pemimpin kadang berkata:
 
 > “Kerjakan semuanya.”
 
@@ -349,7 +349,7 @@ Jelas. Tidak perlu:
 
 Dalam organisasi:
 
-> orang yang paling sering menghubungi leader
+> orang yang paling sering menghubungi pemimpin
 
 belum tentu:
 
@@ -359,7 +359,7 @@ Begitu juga:
 
 > orang dengan jabatan tertinggi
 
-tidak otomatis membuat semua permintaannya menjadi prioritas tertinggi. Authority tentu penting. Tetapi leader tetap perlu melihat:
+tidak otomatis membuat semua permintaannya menjadi prioritas tertinggi. Authority tentu penting. Tetapi pemimpin tetap perlu melihat:
 
 - objective;
 - risk;
@@ -414,7 +414,7 @@ Jika semua pekerjaan selalu diperlakukan sebagai emergency:
 
 > tidak ada lagi baseline.
 
-Leader perlu membedakan:
+Pemimpin perlu membedakan:
 
 > emergency,
 
@@ -454,9 +454,9 @@ Bukan:
 
 > defensiveness.
 
-## 16. Prioritas pribadi leader
+## 16. Prioritas pribadi pemimpin
 
-Masalah ini juga berlaku untuk diri sendiri. Leader dapat menghabiskan hari dengan:
+Masalah ini juga berlaku untuk diri sendiri. Pemimpin dapat menghabiskan hari dengan:
 
 > email,
 
