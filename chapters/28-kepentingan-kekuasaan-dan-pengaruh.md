@@ -26,7 +26,7 @@ tidak selalu cukup untuk menjelaskan apa yang terjadi setelahnya. Ada pertanyaan
 
 Pertanyaan ini bukan ajakan menjadi licik. Justru sebaliknya.
 
-> **Leader yang tidak memahami power sering salah membaca situasi.**
+> **Pemimpin yang tidak memahami power sering salah membaca situasi.**
 
 Ia mengira masalahnya:
 
@@ -58,7 +58,7 @@ Chapter 27 memberi peta sistem organisasi. Chapter 28 menambahkan pertanyaan: si
 
 ## Yang Sedang Kita Latih
 
-Leader sedang melatih kemampuan untuk:
+Pemimpin sedang melatih kemampuan untuk:
 
 - mengenali sumber pengaruh;
 - membaca dependency;
@@ -158,7 +158,7 @@ Semua dapat memiliki alasan yang legitimate. Maka:
 
 > **different interest ≠ bad intention.**
 
-Ini penting agar leader tidak terlalu cepat mencurigai orang.
+Ini penting agar pemimpin tidak terlalu cepat mencurigai orang.
 
 ## 4. Interest ≠ position
 
@@ -178,7 +178,7 @@ Orang ketiga:
 
 > percaya pendekatan tersebut tidak efektif.
 
-Posisinya sama. Kepentingannya berbeda. Jika leader hanya berdebat tentang:
+Posisinya sama. Kepentingannya berbeda. Jika pemimpin hanya berdebat tentang:
 
 > posisi,
 
@@ -199,7 +199,7 @@ Informasi tersebut dapat:
 - meningkatkan bargaining position;
 - atau menciptakan ketergantungan.
 
-Karena itu leader perlu bertanya:
+Karena itu pemimpin perlu bertanya:
 
 > Siapa memiliki informasi?
 
@@ -344,7 +344,7 @@ dapat mengurangi informal bargaining tertentu, tetapi sekaligus:
 
 > meningkatkan kecepatan organisasi.
 
-Leader perlu mencari:
+Pemimpin perlu mencari:
 
 > bagaimana influence dapat digunakan untuk memperbaiki koordinasi,
 
@@ -386,7 +386,7 @@ Atau:
 
 > keputusan belum menjawab constraint lapangan.
 
-Leader perlu membedakan:
+Pemimpin perlu membedakan:
 
 > resistance,
 
@@ -532,7 +532,7 @@ D dapat terlewat. Jika dirancang hanya berdasarkan:
 
 > siapa paling berpengaruh,
 
-Bisa muncul masalah governance. Leader perlu melihat:
+Bisa muncul masalah governance. Pemimpin perlu melihat:
 
 > **formal authority + actual influence + legitimate constraints.**
 
@@ -590,7 +590,7 @@ Bahaya terbesar chapter ini adalah pembaca mengambil kesimpulan:
 
 Bukan. Power adalah:
 
-> **salah satu kondisi nyata yang harus dipahami leader.**
+> **salah satu kondisi nyata yang harus dipahami pemimpin.**
 
 Tujuan leadership bukan:
 
