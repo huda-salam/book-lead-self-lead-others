@@ -1,10 +1,10 @@
 # Ketika Kepentingan Bertabrakan
 
-> **Leader capability:** Mampu menangani kepentingan yang berbeda tanpa buru-buru menganggapnya sebagai permusuhan, sambil tetap mampu membuat pilihan ketika trade-off memang nyata.
+> **Yang dilatih:** Mampu menangani kepentingan yang berbeda tanpa buru-buru menganggapnya sebagai permusuhan, sambil tetap mampu membuat pilihan ketika trade-off memang nyata.
 
 > **Canonical concept:** ORG.INTEREST_CONFLICT
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
 Di organisasi, konflik sering dimulai dengan kalimat sederhana:
 
@@ -14,25 +14,11 @@ Pihak lain menjawab:
 
 > “Kalau tidak dilakukan, risiko kami yang bertambah.”
 
-Keduanya bisa benar.
-
-Masalahnya:
+Keduanya bisa benar. Masalahnya:
 
 > sumber daya terbatas.
 
-Waktu terbatas.
-
-Orang terbatas.
-
-Anggaran terbatas.
-
-Authority terbatas.
-
-Perhatian pimpinan juga terbatas.
-
-Maka leadership bukan hanya kemampuan membuat orang sepakat.
-
-Kadang leadership berarti:
+Waktu terbatas. Orang terbatas. Anggaran terbatas. Authority terbatas. Perhatian pimpinan juga terbatas. Maka leadership bukan hanya kemampuan membuat orang sepakat. Kadang leadership berarti:
 
 > **membuat pilihan ketika kepentingan yang legitimate memang tidak dapat dipenuhi semuanya.**
 
@@ -44,7 +30,7 @@ Kadang leadership berarti:
 Chapter 28 membantu membaca siapa memiliki kepentingan dan pengaruh. Chapter 29 masuk ke situasi ketika kepentingan tersebut benar-benar bertabrakan.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 Leader sedang melatih kemampuan untuk:
 
@@ -72,9 +58,7 @@ Mudah mengatakan:
 
 > “Mereka memang selalu menghambat.”
 
-Tetapi lihat perannya.
-
-A bertanggung jawab atas:
+Tetapi lihat perannya. A bertanggung jawab atas:
 
 > service level.
 
@@ -114,9 +98,7 @@ Interest membantu memahami:
 
 > mengapa.
 
-Tetapi hati-hati.
-
-Interest yang kita duga tetap:
+Tetapi hati-hati. Interest yang kita duga tetap:
 
 > **hipotesis sampai dikonfirmasi.**
 
@@ -136,9 +118,7 @@ Ketika seseorang berkata:
 
 > “Saya tidak setuju.”
 
-Jangan langsung membalas argumennya.
-
-Tanyakan:
+Jangan langsung membalas argumennya. Tanyakan:
 
 > “Bagian mana yang paling Anda khawatirkan?”
 
@@ -160,9 +140,7 @@ ke:
 
 ## 4. Tidak semua interest harus dipenuhi
 
-Ini penting.
-
-Memahami kepentingan seseorang:
+Ini penting. Memahami kepentingan seseorang:
 
 > tidak berarti kita harus memenuhi kepentingannya.
 
@@ -170,9 +148,7 @@ Misalnya seseorang ingin:
 
 > proses dipercepat dengan melewati mandatory control.
 
-Leader dapat memahami alasan tersebut.
-
-Tetapi tetap mengatakan:
+Leader dapat memahami alasan tersebut. Tetapi tetap mengatakan:
 
 > “Saya paham kebutuhan waktunya. Tetapi control ini bukan bagian yang dapat kita hilangkan.”
 
@@ -220,13 +196,7 @@ Tetapi jangan menganggap semua konflik dapat diselesaikan seperti ini.
 
 Contoh:
 
-Ada satu posisi.
-
-Dua orang memenuhi syarat.
-
-Keduanya ingin posisi tersebut.
-
-Tidak ada desain yang membuat:
+Ada satu posisi. Dua orang memenuhi syarat. Keduanya ingin posisi tersebut. Tidak ada desain yang membuat:
 
 > dua orang sekaligus menduduki posisi yang sama.
 
@@ -240,9 +210,7 @@ Dalam situasi seperti ini:
 
 > “win-win”
 
-bisa menjadi slogan yang tidak membantu.
-
-Leader perlu mengatakan:
+bisa menjadi slogan yang tidak membantu. Leader perlu mengatakan:
 
 > “Kita memang harus memilih.”
 
@@ -276,9 +244,7 @@ Jika semuanya diperlakukan sebagai:
 
 > “kepentingan yang sama penting,”
 
-keputusan menjadi kabur.
-
-Leader perlu bertanya:
+keputusan menjadi kabur. Leader perlu bertanya:
 
 > “Mana yang tidak dapat dinegosiasikan?”
 
@@ -344,9 +310,7 @@ Jika A dan B hanya memiliki:
 
 > A atau B,
 
-konflik terlihat buntu.
-
-Cari:
+konflik terlihat buntu. Cari:
 
 > C.
 
@@ -356,9 +320,7 @@ Misalnya:
 
 **B:** jangan implementasi.
 
-**C:** pilot terbatas dengan review trigger.
-
-C mungkin mengubah:
+**C:** pilot terbatas dengan review trigger. C mungkin mengubah:
 
 > irreversible choice
 
@@ -366,9 +328,7 @@ menjadi:
 
 > reversible experiment.
 
-Tetapi pilot bukan selalu jawaban.
-
-Jika risiko tinggi:
+Tetapi pilot bukan selalu jawaban. Jika risiko tinggi:
 
 > eksperimen terbatas mungkin tetap tidak acceptable.
 
@@ -382,9 +342,7 @@ Secara sederhana:
 
 > **Apa alternatif realistis saya jika agreement tidak terjadi?**
 
-Jangan membayangkan alternatif sempurna.
-
-Cari:
+Jangan membayangkan alternatif sempurna. Cari:
 
 > alternative yang benar-benar tersedia.
 
@@ -418,9 +376,7 @@ Lebih baik:
 
 ## 13. Process legitimacy
 
-Tidak semua orang harus setuju dengan hasil.
-
-Tetapi proses yang baik biasanya lebih mudah dipertanggungjawabkan jika:
+Tidak semua orang harus setuju dengan hasil. Tetapi proses yang baik biasanya lebih mudah dipertanggungjawabkan jika:
 
 - criteria jelas;
 - pihak relevan mendapat kesempatan memberi informasi;
@@ -429,9 +385,7 @@ Tetapi proses yang baik biasanya lebih mudah dipertanggungjawabkan jika:
 - trade-off tidak disembunyikan;
 - dan penerapan konsisten dengan aturan yang relevan.
 
-Ini bukan jaminan semua orang akan menerima keputusan.
-
-Tetapi membantu membedakan:
+Ini bukan jaminan semua orang akan menerima keputusan. Tetapi membantu membedakan:
 
 > keputusan yang tidak disukai
 
@@ -483,9 +437,7 @@ Bagaimana keputusan dilaksanakan dan ditinjau?
 
 ## 15. Contoh: anggaran terbatas
 
-Dua program membutuhkan anggaran.
-
-Program A:
+Dua program membutuhkan anggaran. Program A:
 
 > dampak cepat pada pelayanan.
 
@@ -493,39 +445,23 @@ Program B:
 
 > manfaat jangka panjang.
 
-Masing-masing unit datang membawa argumentasi.
-
-Leader jangan langsung memilih berdasarkan:
+Masing-masing unit datang membawa argumentasi. Leader jangan langsung memilih berdasarkan:
 
 > siapa presentasinya paling meyakinkan.
 
 Petakan:
 
-**Objective**
+**Objective** Apa tujuan organisasi?
 
-Apa tujuan organisasi?
+**Evidence** Apa bukti manfaat?
 
-**Evidence**
+**Risk** Apa yang terjadi jika ditunda?
 
-Apa bukti manfaat?
+**Dependency** Apa konsekuensi terhadap program lain?
 
-**Risk**
+**Reversibility** Bisakah sebagian dana dialihkan kemudian?
 
-Apa yang terjadi jika ditunda?
-
-**Dependency**
-
-Apa konsekuensi terhadap program lain?
-
-**Reversibility**
-
-Bisakah sebagian dana dialihkan kemudian?
-
-**Trade-off**
-
-Apa yang sengaja tidak dibiayai?
-
-Sekarang keputusan lebih transparan.
+**Trade-off** Apa yang sengaja tidak dibiayai? Sekarang keputusan lebih transparan.
 
 ## 16. Ketika tidak ada agreement
 
@@ -549,9 +485,7 @@ Jangan terus mengadakan rapat hanya karena:
 
 > belum semua orang setuju.
 
-Consensus memiliki biaya.
-
-Dan pada kondisi tertentu:
+Consensus memiliki biaya. Dan pada kondisi tertentu:
 
 > keputusan diperlukan sebelum consensus tercapai.
 
@@ -594,17 +528,13 @@ Yang kedua dapat membutuhkan:
 - review;
 - atau mekanisme governance lain,
 
-sesuai konteks dan aturan.
-
-Jangan menyamakan semua disagreement dengan:
+sesuai konteks dan aturan. Jangan menyamakan semua disagreement dengan:
 
 > conflict of interest.
 
 ## 19. Latihan: ubah “A versus B”
 
-Ambil konflik nyata.
-
-Tulis:
+Ambil konflik nyata. Tulis:
 
 > “A ingin X, B ingin Y.”
 
@@ -624,9 +554,7 @@ Kemudian ubah menjadi:
 
 **Alternatif C apa yang mungkin?**
 
-**Jika tidak ada agreement, siapa berwenang memutuskan?**
-
-Latihan ini sering mengubah:
+**Jika tidak ada agreement, siapa berwenang memutuskan?** Latihan ini sering mengubah:
 
 > konflik personal
 
@@ -646,15 +574,11 @@ Leader kadang perlu mengatakan:
 
 > “Saya memahami alasan Anda. Saya tetap memilih opsi ini karena constraint X dan evidence Y.”
 
-Ini bukan kegagalan komunikasi.
-
-Ini dapat menjadi:
+Ini bukan kegagalan komunikasi. Ini dapat menjadi:
 
 > **decision with respect.**
 
-Tidak semua orang harus mendapatkan apa yang mereka inginkan.
-
-Tetapi mereka berhak mendapatkan:
+Tidak semua orang harus mendapatkan apa yang mereka inginkan. Tetapi mereka berhak mendapatkan:
 
 > proses dan alasan yang dapat dipertanggungjawabkan sesuai konteks.
 
