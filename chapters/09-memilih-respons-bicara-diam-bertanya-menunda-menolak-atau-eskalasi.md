@@ -1,20 +1,18 @@
 # Memilih Respons
 
-> **Yang dilatih:** Di titik inilah situational reading berubah menjadi leadership action: memilih apa yang perlu dilakukan dengan mempertimbangkan stakes, authority, information gap, risk, dan reversibility.
+> **Yang dilatih:** memilih respons yang sesuai dengan situasi—bicara, diam, bertanya, menunda, menolak, bertindak, atau mengeskalasi.
 
 > **Canonical concept:** READ.RESPONSE_CHOICE
 
 ## 1. Tidak semua situasi membutuhkan respons yang sama
 
-Setelah kita belajar memberi jeda, memisahkan fakta dari tafsir, dan membaca perspektif orang lain, muncul pertanyaan berikutnya:
+Setelah kita belajar berhenti sejenak, memisahkan fakta dari tafsir, dan mencoba melihat dari sudut pandang orang lain, pertanyaannya tinggal satu:
 
 > **“Sekarang saya harus melakukan apa?”**
 
-Banyak orang memiliki pola respons yang terlalu sempit. Ada yang hampir selalu langsung bicara. Ada yang memilih diam. Ada yang selalu bertanya. Ada yang menunda keputusan sulit. Ada yang cepat menolak. Ada yang terlalu cepat membawa masalah ke atasan.
+Kita sering punya satu atau dua gaya respons favorit. Ada yang cepat bicara, ada yang lebih nyaman diam, ada yang suka bertanya, dan ada yang cenderung membawa hampir semua persoalan ke atasan. Ada yang hampir selalu langsung bicara. Ada yang memilih diam. Ada yang selalu bertanya. Ada yang menunda keputusan sulit. Ada yang cepat menolak. Ada yang terlalu cepat membawa masalah ke atasan.
 
-Masalahnya bukan bahwa salah satu respons tersebut selalu buruk.
-
-> **Satu respons dipakai untuk terlalu banyak situasi.**
+Masalahnya bukan pada pilihan itu sendiri. Masalah muncul ketika satu cara dipakai untuk hampir semua keadaan.
 
 Bab ini memperkenalkan pilihan respons sebagai keputusan yang perlu disesuaikan dengan konteks.
 
@@ -35,11 +33,11 @@ Alternatif: diam, bertanya, menjawab sebagian, meminta waktu, mengklarifikasi fa
 - Apa konsekuensi jika saya diam?
 - Apa konsekuensi jika saya bicara sekarang?
 
-Respons menjadi pilihan, bukan sekadar reaksi.
+Dengan begitu, respons menjadi pilihan, bukan sekadar refleks.
 
 ## 3. Tujuh pilihan dasar
 
-Gunakan tujuh kategori praktis:
+Untuk memudahkan, kita bisa melihat tujuh pilihan dasar:
 
 ### 1. Bicara
 
@@ -67,13 +65,13 @@ Gunakan ketika masalah melampaui kewenangan, membutuhkan keputusan pihak lain, a
 
 ### 7. Bertindak
 
-Kadang respons terbaik bukan berbicara lebih banyak, tetapi melakukan tindakan yang dapat diverifikasi. Kategori ini adalah **heuristic buku**, bukan klasifikasi universal atau ranking respons.
+Kadang respons terbaik bukan berbicara lebih banyak, tetapi melakukan tindakan yang dapat diverifikasi. Pembagian ini adalah **heuristik buku**, bukan klasifikasi universal dan bukan urutan mana yang paling baik.
 
 ## 4. Pilih berdasarkan stakes
 
 Stakes berarti konsekuensi yang mungkin timbul jika kita salah. Contoh stakes rendah: salah memahami jam makan siang. Contoh stakes lebih tinggi: memberikan persetujuan atas dokumen keuangan yang belum diverifikasi. Semakin tinggi stakes, semakin penting memastikan fakta utama, kewenangan, konsekuensi, informasi yang hilang, dan reversibilitas.
 
-Ini bukan berarti semua situasi high-stakes harus lambat. Dalam keadaan darurat, keputusan cepat tetap dapat diperlukan. Yang berubah adalah kualitas pemeriksaan yang diperlukan dan siapa yang harus dilibatkan.
+High-stakes juga tidak otomatis berarti harus lambat. Dalam keadaan darurat, keputusan cepat tetap dapat diperlukan. Yang berubah adalah kualitas pemeriksaan yang diperlukan dan siapa yang harus dilibatkan.
 
 ## 5. Reversibility: dapatkah keputusan dibatalkan?
 
@@ -83,7 +81,7 @@ Namun reversibility bukan satu-satunya pertimbangan. Keputusan yang mudah dibata
 
 ## 6. Authority: siapa yang berhak memutuskan?
 
-Kadang kita sebenarnya tidak kekurangan informasi. Kita kekurangan **kewenangan**.
+Kadang masalahnya bukan kurang informasi. Kita hanya memang tidak punya **kewenangan** untuk memutuskan.
 
 > “Saya setuju dengan permintaan ini, tetapi keputusan tersebut bukan berada pada kewenangan saya.”
 
@@ -95,7 +93,7 @@ Tanyakan:
 
 ## 7. Information gap: kapan bertanya?
 
-Bertanya berguna ketika jawaban dapat mengubah tindakan. Jangan bertanya hanya untuk memindahkan ketidaknyamanan kepada orang lain. Daripada “Apa maksud Anda?”, jika memungkinkan gunakan pertanyaan yang lebih terarah:
+Bertanya paling berguna ketika jawabannya benar-benar bisa mengubah tindakan kita. Jangan bertanya hanya untuk memindahkan ketidaknyamanan kepada orang lain. Daripada “Apa maksud Anda?”, jika memungkinkan gunakan pertanyaan yang lebih terarah:
 
 > “Bagian laporan mana yang menurut Anda perlu diperbaiki?”
 
@@ -105,13 +103,13 @@ Pertanyaan yang baik memperkecil information gap. Tetapi jangan jatuh ke jebakan
 
 Diam dapat berguna ketika emosi sedang tinggi, informasi belum cukup, komentar kita tidak menambah nilai, atau masalah dapat selesai tanpa intervensi kita. Tetapi diam juga memiliki biaya. Diam dapat dibaca sebagai persetujuan, penolakan, ketidakpedulian, ketidakmampuan, atau sekadar belum merespons.
 
-Karena itu, diam bukan default.
+Jadi diam sebaiknya bukan default.
 
 > “Saya belum bisa memberi jawaban sekarang. Saya cek dulu dan kembali sore ini.”
 
 ## 9. Kapan menunda?
 
-Menunda berbeda dari menghindar. Menunda memiliki:
+Menunda dan menghindar sekilas mirip, tetapi sebenarnya berbeda. Menunda memiliki:
 
 1. alasan;
 2. informasi atau kondisi yang ingin diperoleh;
@@ -125,7 +123,7 @@ Yang pertama adalah managed delay. Yang kedua dapat menjadi avoidance.
 
 Menolak bukan berarti tidak kooperatif. Penolakan dapat menjadi respons yang tepat ketika permintaan melanggar aturan, berada di luar kewenangan, risikonya tidak dapat diterima, kapasitas tidak tersedia, tujuan dapat dicapai dengan cara lain, atau persetujuan kita akan menciptakan konsekuensi yang tidak semestinya.
 
-Penolakan yang baik menjelaskan batas dan, jika memungkinkan, alternatif.
+Penolakan yang baik menjelaskan batasnya. Kalau masih ada jalan lain, tawarkan juga alternatifnya.
 
 > “Bagian itu belum bisa saya setujui karena datanya belum terverifikasi. Saya bisa bantu mempercepat verifikasinya agar keputusan dapat diambil.”
 
@@ -133,13 +131,13 @@ Ketegasan tidak membutuhkan penghinaan.
 
 ## 11. Kapan eskalasi?
 
-Eskalasi bukan “mengadu”. Eskalasi adalah memindahkan keputusan atau penanganan ke level yang memiliki kewenangan, kapasitas, atau tanggung jawab yang sesuai. Pertimbangkan eskalasi ketika kewenangan kita tidak cukup, risiko melampaui kapasitas kita, terdapat konflik kepentingan yang tidak dapat kita selesaikan, keputusan membutuhkan otorisasi, masalah terus berulang, atau terdapat risiko hukum, keselamatan, kepatuhan, atau reputasi yang material.
+Eskalasi tidak sama dengan “mengadu” atau melempar masalah ke atas. Eskalasi adalah memindahkan keputusan atau penanganan ke level yang memiliki kewenangan, kapasitas, atau tanggung jawab yang sesuai. Pertimbangkan eskalasi ketika kewenangan kita tidak cukup, risiko melampaui kapasitas kita, terdapat konflik kepentingan yang tidak dapat kita selesaikan, keputusan membutuhkan otorisasi, masalah terus berulang, atau terdapat risiko hukum, keselamatan, kepatuhan, atau reputasi yang material.
 
-Eskalasi yang baik membawa fakta, tindakan yang sudah dilakukan, pilihan yang tersedia, risiko, dan keputusan yang dibutuhkan.
+Kalau harus mengeskalasi, bawa fakta yang sudah ada, apa yang telah dilakukan, opsi yang tersedia, risikonya, dan keputusan apa yang memang dibutuhkan dari level tersebut.
 
 ## 12. Tidak semua konflik harus dimenangkan
 
-Daripada bertanya “Bagaimana saya membuktikan bahwa saya benar?”, tanyakan:
+Daripada sibuk memikirkan bagaimana membuktikan bahwa kita benar, coba tanya:
 
 > **“Apa hasil yang perlu dijaga?”**
 
@@ -159,7 +157,7 @@ Untuk situasi yang penting, gunakan kartu singkat:
 - **Choice:** Mana respons yang paling sesuai dengan situasi saat ini?
 - **Check:** Apa tanda bahwa saya perlu mengubah respons?
 
-Ini adalah **alat belajar buku**, bukan instrumen keputusan tervalidasi.
+Ini adalah **alat belajar buku**, bukan instrumen keputusan yang tervalidasi.
 
 ## 14. Contoh: pesan bernada keras
 
@@ -184,7 +182,7 @@ Pilihan:
 
 > “Saya belum menyelesaikan bagian X. Hambatan utamanya Y. Saya targetkan selesai pukul 16.00. Kalau ada prioritas yang perlu saya ubah, mohon arahannya.”
 
-Intinya: fakta, constraint, target, dan kebutuhan keputusan dibuat terlihat.
+Tujuannya sederhana: fakta, batasan, target, dan keputusan yang dibutuhkan menjadi jelas.
 
 ## 15. Contoh: diminta menyetujui sesuatu yang belum jelas
 
@@ -196,7 +194,7 @@ Alternatif:
 
 > “Sebelum saya setujui, saya perlu memastikan dua hal: dasar datanya dan kewenangan keputusan ini.”
 
-Jika ternyata memang cukup: setujui. Jika tidak: minta perbaikan atau eskalasi. Tujuan bukan memperlambat proses. Tujuan adalah membuat kecepatan **proporsional terhadap risiko**.
+Jika ternyata memang cukup: setujui. Jika tidak: minta perbaikan atau eskalasi. Tujuannya bukan memperlambat proses. Kita hanya ingin kecepatan yang **sebanding dengan risikonya**.
 
 ## 16. Respons dapat berubah setelah informasi berubah
 
@@ -212,7 +210,7 @@ Atau setelah risiko baru ditemukan:
 
 > “Dengan informasi baru ini, saya perlu eskalasi.”
 
-Perubahan respons bukan selalu inkonsistensi. Jika informasi berubah, respons memang dapat berubah. Yang perlu dijaga adalah konsistensi pada **prinsip dan tujuan**, bukan kekakuan pada respons awal.
+Berubah pikiran setelah informasi bertambah bukan otomatis inkonsisten. Memang ada kalanya respons harus berubah. Yang perlu dijaga adalah konsistensi pada **prinsip dan tujuan**, bukan memaksakan respons awal.
 
 ## 17. Prinsip kerja bab ini
 
@@ -230,7 +228,7 @@ Perubahan respons bukan selalu inkonsistensi. Jika informasi berubah, respons me
 >
 > **Respons dapat berubah ketika evidence berubah.**
 
-Pertanyaan utama:
+Kalau harus membawa satu pertanyaan dari bab ini:
 
 > **“Dari semua respons yang tersedia, mana yang paling proporsional terhadap situasi sekarang?”**
 
