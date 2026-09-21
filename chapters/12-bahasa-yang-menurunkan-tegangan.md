@@ -6,9 +6,9 @@
 
 ## Mengapa Ini Penting
 
-Leader tidak hanya menyampaikan informasi. Cara sebuah pesan disusun ikut membentuk apa yang orang lain pahami, apa yang berani mereka sampaikan kembali, dan apakah percakapan bergerak menuju masalah atau justru menuju pertahanan diri. Namun jangan membuat klaim terlalu jauh: tidak ada satu formula kalimat yang otomatis menghasilkan respons tertentu. Efek komunikasi dipengaruhi konteks, hubungan, power, timing, medium, history, dan substansi.
+Pemimpin tidak hanya menyampaikan informasi. Cara sebuah pesan disusun ikut membentuk apa yang orang lain pahami, apa yang berani mereka sampaikan kembali, dan apakah percakapan bergerak menuju masalah atau justru menuju pertahanan diri. Namun jangan membuat klaim terlalu jauh: tidak ada satu formula kalimat yang otomatis menghasilkan respons tertentu. Efek komunikasi dipengaruhi konteks, hubungan, power, timing, medium, history, dan substansi.
 
-Literatur tentang leader communication menunjukkan bahwa komunikasi merupakan domain penting dalam perilaku kepemimpinan, sementara riset tentang bahasa dan power menunjukkan bahwa posisi hierarkis ikut membentuk bagaimana bahasa digunakan dalam interaksi. ([lihat Evidence notes](#evidence-notes))
+Literatur tentang pemimpin communication menunjukkan bahwa komunikasi merupakan domain penting dalam perilaku kepemimpinan, sementara riset tentang bahasa dan power menunjukkan bahwa posisi hierarkis ikut membentuk bagaimana bahasa digunakan dalam interaksi. ([lihat Evidence notes](#evidence-notes))
 
 ::: success Green Note
 **Lensa pemimpin:** Tujuan bahasa bukan membuat semua orang nyaman. Tujuannya adalah membuat percakapan cukup aman untuk berpikir dan cukup tegas untuk menghasilkan kejelasan serta tindakan.
@@ -20,7 +20,7 @@ Literatur tentang leader communication menunjukkan bahwa komunikasi merupakan do
 
 ## Yang Sedang Kita Latih
 
-**Capability:** mengubah cara menyampaikan pesan tanpa mengubah substansi yang memang perlu dipertahankan; memilih kata berdasarkan tujuan, audience, power, stakes, dan konsekuensi yang diharapkan.
+**Fokus latihan:** mengubah cara menyampaikan pesan tanpa mengubah substansi yang memang perlu dipertahankan; memilih kata berdasarkan tujuan, audience, power, stakes, dan konsekuensi yang diharapkan.
 
 ## 1. Bahasa dapat menaikkan atau menurunkan suhu
 
@@ -32,7 +32,7 @@ dan:
 
 > “Pada bagian ini ada masalah yang perlu kita bereskan. Mari kita lihat penyebabnya dan apa yang perlu diperbaiki.”
 
-Keduanya dapat lahir dari masalah yang sama. Tetapi fokus komunikasinya berbeda. Kalimat pertama membawa percakapan ke wilayah identitas dan pola karakter. Kalimat kedua mengarahkan perhatian kembali ke masalah yang dapat diperiksa. Ini bukan berarti kalimat kedua selalu efektif. Jika masalahnya memang pola kinerja yang berulang, leader tetap perlu membahas pola tersebut. Bedanya, pembahasan dapat dimulai dari bukti dan dampak, bukan label.
+Keduanya dapat lahir dari masalah yang sama. Tetapi fokus komunikasinya berbeda. Kalimat pertama membawa percakapan ke wilayah identitas dan pola karakter. Kalimat kedua mengarahkan perhatian kembali ke masalah yang dapat diperiksa. Ini bukan berarti kalimat kedua selalu efektif. Jika masalahnya memang pola kinerja yang berulang, pemimpin tetap perlu membahas pola tersebut. Bedanya, pembahasan dapat dimulai dari bukti dan dampak, bukan label.
 
 Riset mengenai ekspresi konflik menempatkan directness dan oppositional intensity sebagai dimensi yang dapat memengaruhi dinamika eskalasi dan de-eskalasi. ([lihat Evidence notes](#evidence-notes))
 
@@ -75,7 +75,7 @@ Semakin serius konsekuensinya, semakin penting membedakan **apa yang dapat diama
 
 ## 4. Pisahkan orang dari masalah
 
-Leader sering perlu menyampaikan kalimat yang tidak menyenangkan. Masalahnya bukan bagaimana menghilangkan ketidaknyamanan. Masalahnya adalah membedakan ketidaknyamanan yang berasal dari substansi dengan ketidaknyamanan yang kita ciptakan sendiri melalui cara bicara.
+Pemimpin sering perlu menyampaikan kalimat yang tidak menyenangkan. Masalahnya bukan bagaimana menghilangkan ketidaknyamanan. Masalahnya adalah membedakan ketidaknyamanan yang berasal dari substansi dengan ketidaknyamanan yang kita ciptakan sendiri melalui cara bicara.
 
 Bandingkan:
 
@@ -103,7 +103,7 @@ Ada kalimat yang secara debat terlihat kuat tetapi secara leadership mahal:
 
 > “Kalau saja Anda mendengarkan saya.”
 
-Kadang kalimat itu faktual. Namun jika tujuan leader adalah memperbaiki sistem, kalimat tersebut dapat menggeser perhatian dari pembelajaran ke distribusi rasa kalah. Pertanyaan yang lebih berguna:
+Kadang kalimat itu faktual. Namun jika tujuan pemimpin adalah memperbaiki sistem, kalimat tersebut dapat menggeser perhatian dari pembelajaran ke distribusi rasa kalah. Pertanyaan yang lebih berguna:
 
 > “Apa yang bisa kita pelajari dari hasil ini?”
 
@@ -111,21 +111,21 @@ Kadang kalimat itu faktual. Namun jika tujuan leader adalah memperbaiki sistem, 
 
 > “Apa yang perlu kita ubah untuk putaran berikutnya?”
 
-Ini tidak berarti leader harus menghapus accountability. Jika seseorang mengabaikan warning yang jelas, fakta itu tetap perlu dicatat. Hanya saja, pencatatan fakta tidak harus disertai kemenangan emosional.
+Ini tidak berarti pemimpin harus menghapus accountability. Jika seseorang mengabaikan warning yang jelas, fakta itu tetap perlu dicatat. Hanya saja, pencatatan fakta tidak harus disertai kemenangan emosional.
 
 ## 6. Bahasa yang memberi ruang tanpa kehilangan arah
 
-Leader kadang perlu membuka ruang:
+Pemimpin kadang perlu membuka ruang:
 
 > “Saya bisa keliru. Apa yang belum saya lihat?”
 
-Kalimat ini berguna ketika kita memang terbuka terhadap informasi baru. Tetapi jangan menggunakannya sebagai ritual kerendahan hati sambil sebenarnya tidak membuka kemungkinan perubahan. Sebaliknya, leader juga perlu dapat berkata:
+Kalimat ini berguna ketika kita memang terbuka terhadap informasi baru. Tetapi jangan menggunakannya sebagai ritual kerendahan hati sambil sebenarnya tidak membuka kemungkinan perubahan. Sebaliknya, pemimpin juga perlu dapat berkata:
 
 > “Saya sudah mempertimbangkan keberatan itu. Untuk saat ini keputusan tetap X karena alasan A dan B. Kalau kondisi C berubah, kita akan meninjau kembali.”
 
 Ini contoh penting:
 
-**open to correction ≠ undecided.** Leader dapat terbuka terhadap evidence baru sambil tetap mengambil keputusan.
+**open to correction ≠ undecided.** Pemimpin dapat terbuka terhadap evidence baru sambil tetap mengambil keputusan.
 
 ## 7. Bahasa yang tidak memaksa orang membaca pikiran kita
 
@@ -172,7 +172,7 @@ Ini bukan soal menjadi lemah atau terlalu hati-hati. Ini soal menjaga kalibrasi.
 
 Kalimat yang sama dapat memiliki dampak berbeda ketika diucapkan oleh atasan dan bawahan. Riset Morand menunjukkan bahwa perilaku linguistik terkait politeness sensitif terhadap distribusi formal authority dalam organisasi. ([lihat Evidence notes](#evidence-notes))
 
-Karena itu leader perlu bertanya:
+Karena itu pemimpin perlu bertanya:
 
 > “Kalau saya mengatakan ini kepada orang yang tidak punya posisi tawar terhadap saya, apakah dia benar-benar bebas tidak setuju?”
 
@@ -180,7 +180,7 @@ Contoh:
 
 > “Ada pendapat lain?”
 
-Jika diucapkan oleh atasan sambil menatap ruangan dan langsung menutup diskusi setelah tidak ada jawaban, pertanyaan tersebut secara formal membuka ruang tetapi secara sosial mungkin tidak cukup membuka ruang. Leader perlu melihat bukan hanya **kata-kata**, tetapi juga konteks kekuasaan, timing, respons terhadap keberatan, dan apa yang terjadi setelah orang berbicara.
+Jika diucapkan oleh atasan sambil menatap ruangan dan langsung menutup diskusi setelah tidak ada jawaban, pertanyaan tersebut secara formal membuka ruang tetapi secara sosial mungkin tidak cukup membuka ruang. Pemimpin perlu melihat bukan hanya **kata-kata**, tetapi juga konteks kekuasaan, timing, respons terhadap keberatan, dan apa yang terjadi setelah orang berbicara.
 
 ## 10. Bahasa untuk menjaga psychological safety bukan bahasa tanpa tekanan
 
@@ -195,7 +195,7 @@ Tetapi psychological safety bukan:
 - bebas dari accountability;
 - hak untuk tidak pernah merasa tidak nyaman.
 
-Leader dapat berkata:
+Pemimpin dapat berkata:
 
 > “Silakan sampaikan masalahnya. Setelah itu kita tetap perlu menentukan siapa melakukan apa dan kapan.”
 
@@ -259,7 +259,7 @@ Apa yang dapat membuat percakapan bergeser?
 - substansi hilang karena debat personal;
 - bawahan mengatakan “ya” tetapi tidak benar-benar setuju;
 - masalah disembunyikan;
-- leader menjadi terlalu lunak;
+- pemimpin menjadi terlalu lunak;
 - atau pesan menjadi terlalu kabur.
 
 ### Bahasa
@@ -312,12 +312,12 @@ Jangan gunakan prinsip “menurunkan tegangan” untuk menghindari penolakan yan
 :::
 
 ::: success Green Note
-**Carry forward:** leader yang matang tidak memilih antara “keras” dan “lembut” sebagai identitas. Ia memilih tingkat directness, kejelasan, dan ketegasan yang sesuai dengan tujuan, konteks, power, dan stakes.
+**Carry forward:** pemimpin yang matang tidak memilih antara “keras” dan “lembut” sebagai identitas. Ia memilih tingkat directness, kejelasan, dan ketegasan yang sesuai dengan tujuan, konteks, power, dan stakes.
 :::
 
 ## Evidence notes
 
-- Liu, Chambers & Moore (2023), *Fifty years of research on leader communication: What we know and where we are going*, The Leadership Quarterly.
+- Liu, Chambers & Moore (2023), *Fifty years of research on pemimpin communication: What we know and where we are going*, The Leadership Quarterly.
 - Morand (1996), *Dominance, Deference, and Egalitarianism in Organizational Interaction*, Organization Science.
 - Morand (2000), *Language and power: An empirical analysis of linguistic strategies used in superior-subordinate communication*, Journal of Organizational Behavior.
 - Jehn & Greer (2014), *The Directness and Oppositional Intensity of Conflict Expression*, Academy of Management Review.
