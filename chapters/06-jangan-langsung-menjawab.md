@@ -1,7 +1,23 @@
-# 06 — Jangan Langsung Menjawab
+# Jangan Langsung Menjawab
+
+> **Leader capability:** Timing adalah bagian dari judgment. Leader tidak hanya memilih apa yang dikatakan, tetapi juga kapan harus menjawab, bertanya, menunda, atau bertindak.
 
 > **Canonical concept:** READ.PAUSE  
-> **Capability:** mengatur jeda respons berdasarkan stakes, risiko, timing, dan kebutuhan informasi sebelum berbicara atau bertindak.
+## Mengapa Ini Penting bagi Leader
+
+Timing adalah bagian dari judgment. Leader tidak hanya memilih apa yang dikatakan, tetapi juga kapan harus menjawab, bertanya, menunda, atau bertindak.
+
+::: success Green Note
+**Leader lens:** Pause bukan pasif. Pause adalah memberi cukup ruang untuk memastikan respons sesuai dengan stakes dan urgensi yang sebenarnya.
+:::
+
+::: info Konteks
+**Canonical concept:** `READ.PAUSE`. Dalam arsitektur buku, konsep ini adalah bagian dari leader mindset, bukan tujuan akhir buku.
+:::
+
+## Kapabilitas yang Sedang Dilatih
+
+**Capability:** mengatur jeda respons berdasarkan stakes, risiko, timing, dan kebutuhan informasi sebelum berbicara atau bertindak.
 > 
 > **Status:** Draft v0.1
 
@@ -635,6 +651,16 @@ Jika jawabannya besar, kita perlu bergerak.
 Tetapi dalam kedua keadaan itu, tetap tanyakan:
 
 > **“Apa respons paling tepat untuk situasi ini?”**
+
+## Red Flags
+
+::: warning Risiko
+Jangan mengubah capability ini menjadi aturan absolut. Leadership selalu membutuhkan penyesuaian terhadap konteks, stakes, authority, evidence, dan dampak terhadap pihak lain.
+:::
+
+::: success Green Note
+**Carry forward:** capability ini harus membantu pembaca melihat situasi lebih jernih, memilih dengan lebih baik, bertindak dengan ownership, lalu belajar dari konsekuensinya.
+:::
 
 ## Evidence notes
 
