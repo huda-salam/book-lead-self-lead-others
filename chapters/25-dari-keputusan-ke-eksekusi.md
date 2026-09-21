@@ -6,25 +6,23 @@
 
 ## Mengapa Ini Penting
 
-Rapat selesai. Keputusan sudah dibuat. Semua orang berkata:
+Rapat selesai. Keputusan sudah dibuat. Semua orang mengangguk:
 
 > “Siap.”
 
-Seminggu kemudian:
-
-> belum bergerak.
+Seminggu kemudian, belum banyak yang bergerak.
 
 Lalu muncul kalimat:
 
 > “Kan sudah diputuskan.”
 
-Inilah salah satu kesalahan berpikir dalam organisasi:
+Di sinilah kita sering keliru:
 
-> menganggap keputusan sebagai pekerjaan yang sudah selesai.
+> mengira bahwa begitu keputusan dibuat, pekerjaan otomatis selesai.
 
 Padahal:
 
-**Decision ≠ Execution.** Keputusan memilih arah. Eksekusi mengubah arah menjadi kenyataan.
+**Decision ≠ Execution.** Keputusan memilih arah. Eksekusi yang menunjukkan apakah arah itu benar-benar menjadi kenyataan.
 
 ::: success Green Note
 **Keputusan memberi arah. Eksekusi memberi bukti.**
@@ -46,7 +44,7 @@ Pemimpin sedang melatih kemampuan untuk:
 - menjaga momentum;
 - dan mengubah rencana ketika evidence menunjukkan asumsi berubah.
 
-## 1. Keputusan belum menjadi eksekusi
+## 1. Keputusan belum menjadi pekerjaan
 
 Kalimat:
 
@@ -56,11 +54,11 @@ belum cukup. Apa yang berubah? Siapa? Kapan? Dengan sumber daya apa? Bagaimana k
 
 > “Mulai 1 Oktober, Unit A menghapus input ganda pada tahap X. Budi menjadi accountable owner. Minggu pertama digunakan untuk konfigurasi, minggu kedua pilot pada lima transaksi, dan hasil diperiksa Jumat.”
 
-Sekarang keputusan memiliki bentuk operasional.
+Sekarang keputusan itu punya bentuk yang bisa dikerjakan dan diperiksa.
 
 ## 2. Ubah keputusan menjadi outcome
 
-Jangan mulai dari daftar aktivitas. Mulai:
+Jangan mulai dari daftar kegiatan. Mulai dari pertanyaan:
 
 > **“Apa kondisi yang ingin berubah?”**
 
@@ -70,7 +68,7 @@ Bukan:
 
 > “Adakan tiga kali pelatihan.”
 
-Tetapi:
+Mulailah dari:
 
 > “Petugas dapat menyelesaikan proses X tanpa bantuan pada akhir bulan.”
 
@@ -95,9 +93,9 @@ Kemudian dapat ada:
 
 Ownership bukan berarti mengerjakan semuanya sendiri.
 
-## 4. Activity ≠ progress
+## 4. Sibuk ≠ maju
 
-Organisasi mudah tertipu oleh aktivitas.
+Organisasi mudah merasa maju hanya karena banyak aktivitas berlangsung.
 
 > lima rapat.
 
@@ -157,7 +155,7 @@ Cukup untuk:
 - menemukan bottleneck;
 - dan belajar.
 
-Kemudian update. Ini bukan alasan membuat rencana asal-asalan. Ini pengakuan bahwa:
+Kemudian update. Ini bukan alasan membuat rencana sembarangan. Ini pengakuan bahwa:
 
 > sebagian uncertainty baru hilang setelah execution dimulai.
 
@@ -179,11 +177,11 @@ Contoh:
 
 > Minggu ketiga: apakah outcome mulai bergerak?
 
-Checkpoint memberi kesempatan untuk:
+Checkpoint memberi kesempatan untuk berhenti sejenak dan melihat:
 
 > adjust sebelum kegagalan menjadi mahal.
 
-## 8. Leading versus lagging indicators
+## 8. Melihat kemajuan: hasil akhir dan sinyal awal
 
 Outcome akhir kadang terlambat terlihat. Misalnya target:
 
@@ -203,7 +201,7 @@ Ini membantu pemimpin melihat:
 
 ## 9. Jangan ubah prioritas setiap hari
 
-Execution membutuhkan stabilitas. Jika hari ini:
+Eksekusi membutuhkan stabilitas. Jika hari ini:
 
 > A paling penting.
 
@@ -240,9 +238,9 @@ Jika tidak ada escalation path, pekerjaan berhenti. Maka sejak awal:
 
 > “Jika dependency X belum selesai pada tanggal Y, siapa yang harus diberi tahu?”
 
-Eskalasi bukan tanda kegagalan. Eskalasi adalah bagian dari desain execution.
+Eskalasi bukan tanda bahwa owner gagal. Kadang justru itulah mekanisme yang diperlukan agar pekerjaan tidak macet.
 
-## 11. Adaptasi tanpa menghilangkan commitment
+## 11. Berubah cara tanpa kehilangan komitmen
 
 Plan dapat berubah. Misalnya:
 
@@ -408,7 +406,7 @@ Gunakan diagnosis:
 
 ## 16. Ketika owner gagal
 
-Ownership tidak berarti owner selalu menjadi penyebab masalah. Pertama:
+Ownership tidak berarti setiap masalah otomatis menjadi kesalahan owner. Pertama:
 
 > apa yang menghambat?
 
@@ -420,11 +418,11 @@ Jika owner memang tidak melakukan pekerjaan yang menjadi tanggung jawabnya meski
 
 > accountability tetap berlaku.
 
-Leadership membutuhkan kedua kemampuan:
+Pemimpin membutuhkan dua hal sekaligus:
 
 > **support + accountability.**
 
-## 17. Execution review bukan menunggu akhir
+## 17. Review eksekusi tidak perlu menunggu pekerjaan selesai
 
 Jangan hanya bertanya:
 
@@ -451,7 +449,7 @@ Ambil satu keputusan nyata. Jika Anda tidak dapat mengisi:
 
 > owner, outcome, first action, dependency, checkpoint, indicator,
 
-mungkin keputusan belum cukup operasional. Bukan berarti harus ditunda. Tetapi:
+mungkin keputusan belum cukup operasional. Bukan berarti harus ditunda. Mulailah dari:
 
 > **operational clarity perlu dilengkapi sebelum execution dimulai.**
 
@@ -465,7 +463,7 @@ Pertanyaan berikutnya:
 
 > “Apa yang berubah?”
 
-Kerja keras adalah input. Outcome adalah hasil. Keduanya penting. Tetapi jangan menukar satu dengan yang lain.
+Kerja keras adalah input. Outcome adalah hasil yang ingin kita lihat. Keduanya penting. Tetapi jangan menukar satu dengan yang lain.
 
 ::: warning Risiko
 Execution dapat gagal walaupun semua orang terlihat sibuk. Ukur kemajuan melalui perubahan outcome dan leading indicators yang relevan, bukan volume aktivitas saja.
