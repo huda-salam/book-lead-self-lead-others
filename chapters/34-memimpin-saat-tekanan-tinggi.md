@@ -22,7 +22,7 @@ Leadership tidak selalu terjadi dalam ruang yang tenang. Kadang:
 
 > dan informasi belum lengkap.
 
-Dalam kondisi seperti itu, leader tidak memiliki kemewahan:
+Dalam kondisi seperti itu, pemimpin tidak memiliki kemewahan:
 
 > mengetahui semuanya terlebih dahulu.
 
@@ -39,7 +39,7 @@ Tekanan menguji sesuatu yang berbeda dari sekadar pengetahuan:
 :::
 
 ::: info Konteks
-Chapter ini bukan panduan incident response atau crisis management teknis. Fokusnya adalah capability leader ketika tekanan tinggi. Mekanisme spesifik tetap bergantung pada jenis organisasi, risiko, SOP, dan kewenangan.
+Chapter ini bukan panduan incident response atau crisis management teknis. Fokusnya adalah capability pemimpin ketika tekanan tinggi. Mekanisme spesifik tetap bergantung pada jenis organisasi, risiko, SOP, dan kewenangan.
 :::
 
 ## Yang Sedang Kita Latih
@@ -168,7 +168,7 @@ sering berarti:
 
 > belum ada pilihan yang dibuat.
 
-Leader perlu bertanya:
+Pemimpin perlu bertanya:
 
 > “Jika hanya tiga hal yang bisa kita selesaikan dalam satu jam, apa tiga hal itu?”
 
@@ -212,7 +212,7 @@ Dalam situasi tertekan:
 
 > informasi sering bercampur dengan cerita.
 
-Leader perlu mengatakan:
+Pemimpin perlu mengatakan:
 
 **Known**
 
@@ -236,7 +236,7 @@ Bukan:
 
 ## 7. Bad news harus naik lebih cepat
 
-Leader yang membuat orang takut menyampaikan bad news akan menerima:
+Pemimpin yang membuat orang takut menyampaikan bad news akan menerima:
 
 > kabar buruk terlambat.
 
@@ -244,7 +244,7 @@ Dalam tekanan:
 
 > keterlambatan informasi dapat memperbesar masalah.
 
-Respons leader terhadap bad news sebaiknya:
+Respons pemimpin terhadap bad news sebaiknya:
 
 > “Baik. Apa yang kita tahu?”
 
@@ -260,9 +260,9 @@ Pertanggungjawaban tetap ada. Tetapi:
 
 Ada kesalahpahaman:
 
-> leader yang tenang harus selalu lembut dan tidak banyak bicara.
+> pemimpin yang tenang harus selalu lembut dan tidak banyak bicara.
 
-Tidak. Leader dapat berkata:
+Tidak. Pemimpin dapat berkata:
 
 > “Stop dulu pekerjaan ini.”
 
@@ -332,7 +332,7 @@ threshold perlu lebih tinggi. Ini menyambung Chapter 9 dan Chapter 24.
 
 ## 11. Jangan menciptakan kepanikan tambahan
 
-Leader punya efek sosial. Jika leader berkata:
+Pemimpin punya efek sosial. Jika pemimpin berkata:
 
 > “Gawat! Ini kacau!”
 
@@ -360,7 +360,7 @@ Bukan:
 
 Dalam tekanan:
 
-> leader kadang mengambil semua pekerjaan.
+> pemimpin kadang mengambil semua pekerjaan.
 
 Itu terasa cepat. Tetapi bisa menciptakan:
 
@@ -374,7 +374,7 @@ Gunakan prinsip:
 
 > siapa yang memiliki capability, information, authority, dan proximity terbaik untuk tindakan tersebut?
 
-Leader kemudian:
+Pemimpin kemudian:
 
 > memberikan clarity,
 
@@ -388,7 +388,7 @@ Development orang lain dibahas di Chapter 33. Delegation sebagai mekanisme dibah
 
 ## 13. Eskalasi bukan tanda gagal
 
-Ada leader yang menganggap:
+Ada pemimpin yang menganggap:
 
 > “Saya harus menyelesaikan semuanya sendiri.”
 
@@ -480,7 +480,7 @@ Akibatnya:
 
 > prioritas kehilangan makna.
 
-Leader perlu bertanya:
+Pemimpin perlu bertanya:
 
 > “Mengapa kita terus-menerus berada dalam mode darurat?”
 
@@ -618,7 +618,7 @@ Karena dalam tekanan:
 :::
 
 ::: warning Risiko
-Tekanan dapat membuat leader mengubah semua masalah menjadi emergency, mengambil alih semua pekerjaan, menekan orang untuk memberi kepastian palsu, atau menghukum pembawa kabar buruk. Keempatnya dapat memperburuk kualitas informasi dan keputusan.
+Tekanan dapat membuat pemimpin mengubah semua masalah menjadi emergency, mengambil alih semua pekerjaan, menekan orang untuk memberi kepastian palsu, atau menghukum pembawa kabar buruk. Keempatnya dapat memperburuk kualitas informasi dan keputusan.
 :::
 
 ::: danger Batas
@@ -626,7 +626,7 @@ Untuk keselamatan, hukum, keamanan, atau risiko organisasi yang serius, ikuti SO
 :::
 
 ::: success Green Note
-**Carry forward:** Part VII selesai. Kita sudah membangun capability leader dari ownership, influence, development, sampai pressure. Bagian berikutnya bergerak ke management: memilih apa yang dikerjakan, apa yang tidak dikerjakan, dan bagaimana membagi tanggung jawab.
+**Carry forward:** Part VII selesai. Kita sudah membangun capability pemimpin dari ownership, influence, development, sampai pressure. Bagian berikutnya bergerak ke management: memilih apa yang dikerjakan, apa yang tidak dikerjakan, dan bagaimana membagi tanggung jawab.
 :::
 
 ## Evidence notes
