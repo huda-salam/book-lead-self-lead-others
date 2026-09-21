@@ -1,10 +1,10 @@
 # Mempengaruhi Tanpa Memaksa
 
-> **Leader capability:** Mampu membantu orang memahami, mempertimbangkan, dan bergerak menuju tujuan yang legitimate tanpa mengandalkan paksaan, manipulasi, atau penyalahgunaan hubungan.
+> **Yang dilatih:** Mampu membantu orang memahami, mempertimbangkan, dan bergerak menuju tujuan yang legitimate tanpa mengandalkan paksaan, manipulasi, atau penyalahgunaan hubungan.
 
 > **Canonical concept:** LEAD.INFLUENCE
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
 Anda bisa memiliki:
 
@@ -22,9 +22,7 @@ Tanpa memiliki:
 
 > jabatan tinggi.
 
-Chapter 28 sudah membahas power dan influence sebagai realitas organisasi.
-
-Chapter ini bergerak satu langkah berbeda:
+Chapter 28 sudah membahas power dan influence sebagai realitas organisasi. Chapter ini bergerak satu langkah berbeda:
 
 > **bagaimana leader menggunakan influence secara konstruktif.**
 
@@ -64,7 +62,7 @@ Leadership juga:
 Chapter 31 membangun credibility. Chapter 32 menggunakan credibility tersebut untuk influence. Chapter 28 sudah membahas power sebagai literasi organisasi; chapter ini membahas penggunaan influence sebagai capability leadership.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 Leader sedang melatih kemampuan untuk:
 
@@ -181,9 +179,7 @@ Leader sering melihat:
 
 > “Kepentingan saya adalah objective. Kepentingan mereka adalah hambatan.”
 
-Ini keliru.
-
-Misalnya Anda ingin:
+Ini keliru. Misalnya Anda ingin:
 
 > proyek selesai cepat.
 
@@ -199,17 +195,13 @@ Ia adalah:
 
 > constraint yang harus dimasukkan ke desain.
 
-Influence yang baik tidak selalu menghilangkan concern.
-
-Ia mencari:
+Influence yang baik tidak selalu menghilangkan concern. Ia mencari:
 
 > bagaimana objective dapat dicapai dengan concern tersebut tetap legitimate.
 
 ## 6. Gunakan evidence
 
-Influence tidak selalu membutuhkan data besar.
-
-Tetapi claim penting sebaiknya punya:
+Influence tidak selalu membutuhkan data besar. Tetapi claim penting sebaiknya punya:
 
 > dasar.
 
@@ -235,9 +227,7 @@ Bukan hanya:
 
 ## 7. Jangan gunakan evidence sebagai senjata
 
-Data juga dapat dimanipulasi.
-
-Misalnya:
+Data juga dapat dimanipulasi. Misalnya:
 
 > hanya menunjukkan angka yang mendukung.
 
@@ -331,9 +321,7 @@ Cara menjelaskan:
 
 > berbeda.
 
-Ini bukan manipulasi.
-
-Ini:
+Ini bukan manipulasi. Ini:
 
 > audience adaptation.
 
@@ -359,9 +347,7 @@ Tetapi jangan menjanjikan manfaat yang belum terbukti.
 
 ## 12. Influence melalui reciprocity
 
-Relationship dapat membantu.
-
-Misalnya:
+Relationship dapat membantu. Misalnya:
 
 > Anda membantu unit lain menyelesaikan dependency.
 
@@ -369,9 +355,7 @@ Mereka kemudian:
 
 > lebih bersedia membantu ketika Anda membutuhkan sesuatu.
 
-Ini normal.
-
-Tetapi jangan berubah menjadi:
+Ini normal. Tetapi jangan berubah menjadi:
 
 > “Saya pernah membantu Anda, jadi Anda wajib mengikuti saya.”
 
@@ -385,9 +369,7 @@ Bantuan:
 
 ## 13. Coalition bukan clique
 
-Untuk keputusan kompleks, satu orang tidak selalu cukup.
-
-Anda mungkin membutuhkan:
+Untuk keputusan kompleks, satu orang tidak selalu cukup. Anda mungkin membutuhkan:
 
 - technical expert;
 - process owner;
@@ -431,9 +413,7 @@ Tanyakan:
 
 > kapan kita check?
 
-Ini menghubungkan Chapter 25.
-
-Influence tidak selesai ketika:
+Ini menghubungkan Chapter 25. Influence tidak selesai ketika:
 
 > orang mengangguk.
 
@@ -454,9 +434,7 @@ Tetapi:
 
 > tetap tidak setuju.
 
-Ini bukan otomatis kegagalan influence.
-
-Mungkin:
+Ini bukan otomatis kegagalan influence. Mungkin:
 
 > priority berbeda.
 
@@ -486,9 +464,7 @@ Situasi paling menarik:
 
 > Anda bukan atasannya.
 
-Bagaimana memengaruhi?
-
-Gunakan:
+Bagaimana memengaruhi? Gunakan:
 
 **Expertise**
 
@@ -654,15 +630,11 @@ Jika Anda sering:
 - berubah-ubah;
 - menggunakan pressure;
 
-orang mungkin tetap mengikuti Anda karena authority.
-
-Tetapi:
+orang mungkin tetap mengikuti Anda karena authority. Tetapi:
 
 > willingness untuk bekerja sama dapat turun.
 
-Karena itu Chapter 31 bukan chapter terpisah.
-
-Ia adalah:
+Karena itu Chapter 31 bukan chapter terpisah. Ia adalah:
 
 > foundation.
 
@@ -674,43 +646,23 @@ Pilih satu situasi di mana seseorang:
 
 Tulis:
 
-**Purpose**
+**Purpose** Apa tujuan legitimate?
 
-Apa tujuan legitimate?
+**Stakeholder** Siapa?
 
-**Stakeholder**
+**Interest** Apa yang mungkin mereka lindungi?
 
-Siapa?
+**Evidence** Apa yang saya punya?
 
-**Interest**
+**Unknown** Apa yang belum saya tahu?
 
-Apa yang mungkin mereka lindungi?
+**Value** Apa manfaat bagi mereka?
 
-**Evidence**
+**Ask** Apa yang saya minta?
 
-Apa yang saya punya?
+**Participation** Apa yang perlu mereka kontribusikan?
 
-**Unknown**
-
-Apa yang belum saya tahu?
-
-**Value**
-
-Apa manfaat bagi mereka?
-
-**Ask**
-
-Apa yang saya minta?
-
-**Participation**
-
-Apa yang perlu mereka kontribusikan?
-
-**Commitment**
-
-Apa bentuk action?
-
-Setelah itu tanyakan:
+**Commitment** Apa bentuk action? Setelah itu tanyakan:
 
 > “Apakah saya sedang mencoba memengaruhi keputusan, atau sekadar mencoba menang?”
 
