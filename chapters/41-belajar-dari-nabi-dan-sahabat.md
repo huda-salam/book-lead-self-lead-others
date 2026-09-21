@@ -1,18 +1,14 @@
 # Belajar dari Nabi dan Sahabat
 
-> **Reasoning capability:** Mengambil pelajaran dari teladan Islam tanpa mengubah kisah menjadi slogan, tanpa memisahkan tindakan dari konteks, dan tanpa memindahkan satu contoh secara mentah ke situasi modern.
+> **Yang dilatih:** Mengambil pelajaran dari teladan Islam tanpa mengubah kisah menjadi slogan, tanpa memisahkan tindakan dari konteks, dan tanpa memindahkan satu contoh secara mentah ke situasi modern.
 
 > **Canonical concept:** CASE.ISLAMIC_EXEMPLARS
 
-Belajar dari Nabi dan Sahabat bukan sekadar mengumpulkan kisah.
-
-Jika cara membaca kita hanya:
+Belajar dari Nabi dan Sahabat bukan sekadar mengumpulkan kisah. Jika cara membaca kita hanya:
 
 > “Beliau melakukan X, maka saya juga harus melakukan X.”
 
-kita berisiko kehilangan konteks, mencampuradukkan tingkat otoritas sumber, mengabaikan tujuan tindakan, menganggap outcome sebagai bukti otomatis, atau menjadikan kisah sebagai pembenaran untuk keputusan yang sudah kita sukai.
-
-Cara yang lebih disiplin adalah:
+kita berisiko kehilangan konteks, mencampuradukkan tingkat otoritas sumber, mengabaikan tujuan tindakan, menganggap outcome sebagai bukti otomatis, atau menjadikan kisah sebagai pembenaran untuk keputusan yang sudah kita sukai. Cara yang lebih disiplin adalah:
 
 > **Sumber → Konteks → Pilihan → Tindakan → Konsekuensi → Prinsip → Batas Transfer**
 
@@ -28,9 +24,7 @@ Al-Qur'an menyebut Rasulullah ﷺ sebagai uswah hasanah—teladan yang baik—da
 
 ## 1. Jangan jadikan kisah sebagai slogan
 
-Kisah kepemimpinan biasanya diceritakan setelah kita mengetahui akhirnya.
-
-Misalnya:
+Kisah kepemimpinan biasanya diceritakan setelah kita mengetahui akhirnya. Misalnya:
 
 > “Perjanjian Hudaibiyah akhirnya membawa hasil besar.”
 
@@ -69,9 +63,7 @@ Dan:
 
 ## 3. Nabi ﷺ: lembut tanpa kehilangan ketegasan
 
-QS. Ali 'Imran 3:159 menyebut kelembutan Nabi kepada para sahabat, memerintahkan memaafkan, memohonkan ampun, dan bermusyawarah; kemudian setelah keputusan diambil, bertawakal kepada Allah.
-
-Ini penting karena kita sering membuat dua pilihan palsu:
+QS. Ali 'Imran 3:159 menyebut kelembutan Nabi kepada para sahabat, memerintahkan memaafkan, memohonkan ampun, dan bermusyawarah; kemudian setelah keputusan diambil, bertawakal kepada Allah. Ini penting karena kita sering membuat dua pilihan palsu:
 
 > lembut **atau** tegas.
 
@@ -99,9 +91,7 @@ Pelajarannya bukan “selalu gunakan bahasa lembut”, tetapi:
 
 ## 4. Ketika informasi datang, jangan langsung bertindak
 
-QS. Al-Hujurat 49:6 memerintahkan tabayyun ketika menerima berita dari sumber yang tidak dapat dipercaya, agar seseorang tidak bertindak secara ceroboh dan kemudian menyesal.
-
-Di organisasi modern, kita sering menghadapi:
+QS. Al-Hujurat 49:6 memerintahkan tabayyun ketika menerima berita dari sumber yang tidak dapat dipercaya, agar seseorang tidak bertindak secara ceroboh dan kemudian menyesal. Di organisasi modern, kita sering menghadapi:
 
 > “Pak, katanya unit itu bermasalah.”
 
@@ -109,9 +99,7 @@ Di organisasi modern, kita sering menghadapi:
 
 > “Katanya pimpinan sudah setuju.”
 
-Kata **katanya** seharusnya menjadi sinyal untuk berhenti sejenak.
-
-Pertanyaan praktis:
+Kata **katanya** seharusnya menjadi sinyal untuk berhenti sejenak. Pertanyaan praktis:
 
 1. Apa yang benar-benar kita ketahui?
 2. Siapa sumbernya?
@@ -156,9 +144,7 @@ Tetapi kita tidak boleh menyimpulkan:
 
 > “Semua konsesi adalah strategi yang baik.”
 
-Keputusan Hudaibiyah memiliki konteks sejarah, tujuan tertentu, pihak yang bernegosiasi, komitmen yang jelas, dan konteks kenabian.
-
-Karena itu:
+Keputusan Hudaibiyah memiliki konteks sejarah, tujuan tertentu, pihak yang bernegosiasi, komitmen yang jelas, dan konteks kenabian. Karena itu:
 
 > **pelajarannya dapat dianalisis; keputusannya tidak boleh dicopy-paste secara mekanis.**
 
@@ -196,9 +182,7 @@ Dinamika yang relevan:
 
 > **perbedaan pendapat dapat terjadi bahkan di antara orang-orang yang sangat dekat dan dipercaya.**
 
-Mendengar keberatan tidak sama dengan menyerahkan keputusan.
-
-Leader dapat mengatakan:
+Mendengar keberatan tidak sama dengan menyerahkan keputusan. Leader dapat mengatakan:
 
 > “Saya dengar keberatan Anda. Mari kita uji dasar keputusannya.”
 
@@ -212,9 +196,7 @@ Kisah Abu Bakr berkaitan dengan konteks politik-keagamaan awal Islam yang sangat
 
 Dalam Sahih al-Bukhari 219 dan 220, ketika seorang Badui buang air kecil di masjid, orang-orang hendak menghentikannya dengan keras. Nabi ﷺ mencegah mereka menginterupsi tindakan itu, kemudian tempat tersebut dibersihkan. [Sahih al-Bukhari 219](https://sunnah.com/bukhari:219)
 
-Riwayat ini sering diringkas menjadi “jangan marah”. Itu terlalu sederhana.
-
-Yang terlihat:
+Riwayat ini sering diringkas menjadi “jangan marah”. Itu terlalu sederhana. Yang terlihat:
 
 1. ada pelanggaran;
 2. ada dorongan untuk bereaksi segera;
@@ -251,9 +233,7 @@ Bukan:
 | Abu Bakr | menghadapi keberatan Umar | disagreement tidak otomatis disloyalty | konteks politik-keagamaan khusus |
 | Badui di masjid | menghentikan reaksi keras | solve harm without unnecessary escalation | jangan menyamakan semua pelanggaran |
 
-Tidak ada satu “gaya kepemimpinan Nabi”. Ada kelembutan, ketegasan, musyawarah, negosiasi, pengendalian eskalasi, penilaian ulang, dan keputusan.
-
-Leadership yang matang bukan memilih satu sifat, tetapi:
+Tidak ada satu “gaya kepemimpinan Nabi”. Ada kelembutan, ketegasan, musyawarah, negosiasi, pengendalian eskalasi, penilaian ulang, dan keputusan. Leadership yang matang bukan memilih satu sifat, tetapi:
 
 > **memilih respons yang sesuai dengan tujuan, keadaan, dan prinsip.**
 
@@ -265,15 +245,11 @@ Beliau adalah Rasulullah. Teladan beliau memiliki kedudukan normatif yang tidak 
 
 ### Sahabat
 
-Para sahabat adalah manusia yang hidup bersama Nabi ﷺ dan menjadi generasi awal Islam. Mereka adalah sumber teladan sejarah yang sangat penting, tetapi tindakan seorang sahabat tetap perlu dibaca dalam konteks peristiwa dan sumbernya.
-
-Jangan membuat logika:
+Para sahabat adalah manusia yang hidup bersama Nabi ﷺ dan menjadi generasi awal Islam. Mereka adalah sumber teladan sejarah yang sangat penting, tetapi tindakan seorang sahabat tetap perlu dibaca dalam konteks peristiwa dan sumbernya. Jangan membuat logika:
 
 > Nabi melakukan X. Sahabat melakukan Y. Berarti X dan Y sama tingkat otoritasnya.
 
-Tidak.
-
-Perbedaan ini justru membuat:
+Tidak. Perbedaan ini justru membuat:
 
 > **disiplin sumber**
 
@@ -281,13 +257,7 @@ menjadi penting.
 
 ## 11. Jangan menggunakan kisah untuk membenarkan diri
 
-Kita sudah punya keputusan: ingin keras. Lalu mencari kisah yang menunjukkan ketegasan.
-
-Atau ingin menghindari konflik, lalu mencari kisah tentang kelembutan.
-
-Ini bukan belajar.
-
-Ini:
+Kita sudah punya keputusan: ingin keras. Lalu mencari kisah yang menunjukkan ketegasan. Atau ingin menghindari konflik, lalu mencari kisah tentang kelembutan. Ini bukan belajar. Ini:
 
 > **confirmation by story.**
 
@@ -295,13 +265,7 @@ Gunakan pertanyaan yang lebih sulit:
 
 > “Kisah mana yang justru dapat menantang kecenderungan saya?”
 
-Jika cenderung frontal, pelajari contoh kelembutan.
-
-Jika cenderung menghindar, pelajari contoh ketegasan.
-
-Jika sulit menerima penolakan, pelajari contoh menerima perbedaan.
-
-Jika sulit mengubah keputusan, pelajari contoh review setelah informasi baru.
+Jika cenderung frontal, pelajari contoh kelembutan. Jika cenderung menghindar, pelajari contoh ketegasan. Jika sulit menerima penolakan, pelajari contoh menerima perbedaan. Jika sulit mengubah keputusan, pelajari contoh review setelah informasi baru.
 
 ## 12. Dari teladan ke latihan
 
@@ -370,9 +334,7 @@ Apa yang terjadi setelahnya?
 Apa mekanisme atau nilai yang dapat kita pelajari?
 
 ### Batas Transfer
-Bagian mana yang tidak boleh dipindahkan mentah-mentah?
-
-Tanpa batas transfer, kita mudah mengubah kisah menjadi template.
+Bagian mana yang tidak boleh dipindahkan mentah-mentah? Tanpa batas transfer, kita mudah mengubah kisah menjadi template.
 
 ## 14. Case Card untuk teladan Islam
 
@@ -394,9 +356,7 @@ Gunakan format:
 
 **Interpretation** — Apa yang merupakan analisis kita sendiri?
 
-**Boundary** — Mengapa lesson ini tidak boleh dicopy-paste?
-
-Contoh singkat Hudaibiyah:
+**Boundary** — Mengapa lesson ini tidak boleh dicopy-paste? Contoh singkat Hudaibiyah:
 
 | Field | Isi |
 |---|---|
@@ -410,9 +370,7 @@ Contoh singkat Hudaibiyah:
 
 ## 15. Apa yang sebenarnya kita pelajari?
 
-Mungkin bukan “Jadilah seperti Umar” atau “Jadilah seperti Abu Bakr”. Kalimat itu terlalu besar untuk menjadi latihan.
-
-Pertanyaan yang lebih operasional:
+Mungkin bukan “Jadilah seperti Umar” atau “Jadilah seperti Abu Bakr”. Kalimat itu terlalu besar untuk menjadi latihan. Pertanyaan yang lebih operasional:
 
 > **Apa pola berpikir yang perlu saya latih ketika menghadapi situasi yang serupa?**
 
@@ -431,9 +389,7 @@ Inilah titik temu nilai Islam dengan latihan leadership, bukan dengan mengubah a
 
 ## 16. Latihan tujuh hari
 
-Pilih satu situasi nyata setiap hari.
-
-Tulis:
+Pilih satu situasi nyata setiap hari. Tulis:
 
 **Sumber informasi** — ...
 
@@ -451,9 +407,7 @@ Tulis:
 
 **Apa yang terjadi** — ...
 
-**Apa yang perlu saya update** — ...
-
-Pada hari ketujuh, pilih satu pola yang paling sering muncul. Bukan untuk memberi label diri, tetapi untuk menentukan:
+**Apa yang perlu saya update** — ... Pada hari ketujuh, pilih satu pola yang paling sering muncul. Bukan untuk memberi label diri, tetapi untuk menentukan:
 
 > **satu behavior yang perlu dilatih berikutnya.**
 
