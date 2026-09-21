@@ -4,10 +4,10 @@
 
 ## Mengapa Ini Penting
 
-Leader bekerja melalui perbedaan: perbedaan informasi, pengalaman, kepentingan, kewenangan, dan cara melihat risiko. Respect membantu menjaga kualitas hubungan dan percakapan tanpa mengharuskan leader mengorbankan standar, keputusan, atau accountability.
+Pemimpin bekerja melalui perbedaan: perbedaan informasi, pengalaman, kepentingan, kewenangan, dan cara melihat risiko. Respect membantu menjaga kualitas hubungan dan percakapan tanpa mengharuskan pemimpin mengorbankan standar, keputusan, atau accountability.
 
 ::: success Green Note
-**Lensa pemimpin:** Menghormati orang tidak berarti mengiyakan semua klaim. Justru leader perlu mampu menjaga martabat orang sambil tetap memeriksa gagasan, perilaku, dan konsekuensinya.
+**Lensa pemimpin:** Menghormati orang tidak berarti mengiyakan semua klaim. Justru pemimpin perlu mampu menjaga martabat orang sambil tetap memeriksa gagasan, perilaku, dan konsekuensinya.
 :::
 
 ::: info Konteks
@@ -16,7 +16,7 @@ Leader bekerja melalui perbedaan: perbedaan informasi, pengalaman, kepentingan, 
 
 ## Yang Sedang Kita Latih
 
-**Capability:** menyampaikan persetujuan, ketidaksetujuan, koreksi, dan batas dengan cara yang menjaga martabat orang tanpa mengaburkan substansi masalah.
+**Fokus latihan:** menyampaikan persetujuan, ketidaksetujuan, koreksi, dan batas dengan cara yang menjaga martabat orang tanpa mengaburkan substansi masalah.
 
 ## 1. Menghargai bukan berarti menyetujui
 
