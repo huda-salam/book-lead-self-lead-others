@@ -12,7 +12,7 @@ Lalu:
 
 > “Kegagalan adalah guru terbaik.”
 
-Kalimat seperti ini dapat berguna sebagai dorongan. Tetapi sebagai cara berpikir, keduanya terlalu sederhana. Kegagalan tidak otomatis menjadi guru. Kadang ia hanya:
+Kalimat seperti itu enak didengar. Tetapi sebagai cara berpikir, ia terlalu sederhana. Kegagalan tidak otomatis menjadi guru. Kadang ia hanya:
 
 > mahal.
 
@@ -36,15 +36,15 @@ Dan kadang:
 
 > kita justru harus berhenti, bukan mencoba lagi dengan cara yang sama.
 
-Maka prinsip chapter ini:
+Jadi pegangan bab ini:
 
 ::: success Green Note
-**Failure is information only when the failure is diagnosed. Kalau tidak, ia hanya menjadi outcome buruk yang kita beri cerita setelah kejadian.**
+****Kegagalan baru menjadi informasi kalau kita mau memeriksanya. Kalau tidak, ia hanya menjadi hasil buruk yang kemudian kita beri cerita.****
 :::
 
 ## 1. Jangan romantisasi kegagalan
 
-Ada dua ekstrem. Yang pertama:
+Ada dua reaksi yang sama-sama terlalu cepat. Yang pertama:
 
 > “Saya gagal, berarti saya belajar.”
 
@@ -52,7 +52,7 @@ Belum tentu. Yang kedua:
 
 > “Saya gagal, berarti saya tidak mampu.”
 
-Juga belum tentu. Kita perlu memisahkan:
+Juga belum tentu. Yang perlu dipisahkan adalah:
 
 > **hasil, proses, keputusan, penyebab, dan pembelajaran.**
 
@@ -80,9 +80,7 @@ Gunakan beberapa lapisan.
 | Boundary | Apakah faktor utama berada di luar kendali? |
 | Learning | Apakah kita gagal memperbarui cara kerja setelah mendapat sinyal? |
 
-Perhatikan:
-
-> kategori ini dapat bertumpuk.
+Perhatikan bahwa satu kejadian bisa masuk ke beberapa lapisan sekaligus.
 
 Misalnya:
 
@@ -102,15 +100,11 @@ Bisa saja:
 
 > atau kondisi eksternal berubah.
 
-Jika semua langsung disebut:
-
-> “pegawai gagal,”
-
-kita belum melakukan diagnosis.
+Kalau semuanya langsung disebut “pegawai gagal”, kita sebenarnya belum mendiagnosis apa pun.
 
 ## 3. Outcome buruk bukan otomatis decision buruk
 
-Ini salah satu disiplin terpenting. Bayangkan Anda memilih opsi A. Informasi yang tersedia saat itu:
+Ini salah satu disiplin yang paling penting. Bayangkan Anda memilih opsi A. Informasi yang tersedia saat itu:
 
 - data terbatas;
 - dua opsi sama-sama berisiko;
@@ -118,7 +112,7 @@ Ini salah satu disiplin terpenting. Bayangkan Anda memilih opsi A. Informasi yan
 - constraint hukum tertentu;
 - dan evidence terbaik yang tersedia menunjuk ke A.
 
-Kemudian:
+Lalu kita bisa bertanya:
 
 > outcome A buruk.
 
@@ -142,7 +136,7 @@ Ini alasan Chapter 40 meminta kita merekonstruksi:
 **Jangan menggunakan informasi yang baru diketahui setelah kejadian untuk berpura-pura bahwa informasi itu sudah tersedia ketika keputusan dibuat.**
 :::
 
-## 4. Rekonstruksi sebelum menghakimi
+## 4. Rekonstruksi sebelum memberi vonis
 
 Ketika sesuatu gagal, tulis dua kolom.
 
@@ -182,11 +176,7 @@ Jika tidak ada:
 
 Dengan begitu:
 
-> review menjadi alat belajar,
-
-bukan:
-
-> pengadilan masa lalu.
+> review berubah menjadi alat belajar, bukan pengadilan terhadap masa lalu.
 
 ## 5. Apa yang berada dalam kendali?
 
@@ -219,11 +209,9 @@ Jadi:
 
 > external cause ≠ external responsibility untuk semua respons.
 
-Tetapi sebaliknya:
+Sebaliknya, kejadian dari luar juga tidak otomatis menjadi kesalahan kita.
 
-> external event juga tidak otomatis menjadi kesalahan kita.
-
-Kita perlu memisahkan:
+Yang perlu dipisahkan adalah:
 
 > **cause of event**
 
@@ -255,11 +243,9 @@ belum menjelaskan banyak. Tanyakan:
 
 > Apakah proses review tidak berjalan?
 
-Sekarang kita mulai mencari:
+Sekarang kita mulai mencari mekanismenya.
 
-> mechanism.
-
-Ini penting karena:
+Ini penting:
 
 > mengganti orang belum tentu mengganti mekanisme.
 
@@ -287,7 +273,7 @@ maka:
 
 > meminta orang “lebih bertanggung jawab” mungkin hanya menambah slogan.
 
-## 7. Failure dapat menjadi sinyal kecil
+## 7. Kegagalan kecil juga bisa memberi sinyal
 
 Tidak semua failure datang dalam bentuk bencana. Kadang ia muncul sebagai:
 
@@ -299,9 +285,9 @@ Tidak semua failure datang dalam bentuk bencana. Kadang ia muncul sebagai:
 - pekerjaan yang harus diulang;
 - workaround yang makin sering digunakan.
 
-Sinyal kecil dapat penting. Sitkin (1992), misalnya, membahas *small losses* sebagai kondisi yang dapat menyediakan peluang belajar dengan biaya yang lebih terbatas daripada kegagalan besar. [Sitkin, 1992](https://scholars.duke.edu/publication/913886)
+Sinyal kecil dapat penting. Sitkin (1992) membahas *small losses* sebagai salah satu keadaan yang dapat memberi ruang belajar dengan biaya lebih kecil daripada kegagalan besar. [Sitkin, 1992](https://scholars.duke.edu/publication/913886)
 
-Tetapi jangan mengubahnya menjadi:
+Tetapi jangan menerjemahkannya menjadi:
 
 > “small failure selalu bagus.”
 
@@ -357,7 +343,7 @@ Lalu:
 
 > “Pastikan tidak terulang.”
 
-Selesai. Postmortem yang lebih berguna bertanya:
+Selesai. Review yang lebih berguna bertanya:
 
 1. Apa yang diharapkan?
 2. Apa yang terjadi?
@@ -372,21 +358,19 @@ Selesai. Postmortem yang lebih berguna bertanya:
 
 Evidence dari meta-analysis Tannenbaum dan Cerasoli menunjukkan bahwa debrief/after-action review dapat meningkatkan efektivitas rata-rata dibanding kontrol, dengan 46 sampel dan 2.136 observasi; struktur dan alignment juga penting. ([lihat Evidence notes](#evidence-notes))
 
-Jadi:
-
-> review bukan sekadar rapat setelah masalah.
+Jadi review bukan sekadar rapat setelah masalah selesai.
 
 Ia adalah:
 
 > **mekanisme mengubah pengalaman menjadi update.**
 
-## 10. Learning harus menghasilkan perubahan
+## 10. Learning perlu terlihat dalam perubahan
 
-Kalau setelah review kita berkata:
+Kalau setelah review kita hanya berkata:
 
 > “Pelajarannya adalah kita harus lebih hati-hati.”
 
-Apa yang berubah? Tidak jelas. Learning yang operasional harus menjawab:
+kita masih belum tahu apa yang berubah. Learning yang operasional harus menjawab:
 
 > **apa yang akan berbeda?**
 
@@ -424,7 +408,7 @@ Belajar berarti:
 
 > **behavior, process, assumption, atau control berubah.**
 
-## 11. Jangan hanya mengubah behavior orang
+## 11. Jangan buru-buru mengubah orang ketika sistemnya yang perlu diperiksa
 
 Kadang setelah failure organisasi memberi:
 
@@ -492,17 +476,17 @@ maka accountability tetap diperlukan. Tetapi accountability yang sehat bertanya:
 
 > Apa tindakan perbaikannya?
 
-Blame cenderung berhenti pada:
+Blame biasanya berhenti pada:
 
 > “Siapa yang harus disalahkan?”
 
-Accountability bergerak ke:
+Accountability bergerak ke pertanyaan:
 
 > **“Apa yang menjadi tanggung jawab, apa buktinya, dan apa yang harus diperbaiki?”**
 
 Cannon dan Edmondson menunjukkan bahwa hambatan sosial maupun teknis dapat membuat organisasi sulit mengidentifikasi dan menganalisis failure. Karena itu pembelajaran dari failure membutuhkan lebih dari sekadar niat baik. [Cannon & Edmondson, 2005](https://doi.org/10.1016/j.lrp.2005.04.005)
 
-## 13. Failure bukan bukti incompetence
+## 13. Satu kegagalan bukan bukti ketidakmampuan
 
 Satu kegagalan tidak cukup untuk menyimpulkan:
 
@@ -524,7 +508,7 @@ Lihat pola. Lihat konteks. Lihat:
 
 > dan apakah pola failure berulang tanpa update.
 
-Yang lebih mengkhawatirkan bukan:
+Yang lebih perlu diperhatikan bukan:
 
 > **sekali gagal.**
 
@@ -532,7 +516,7 @@ Tetapi:
 
 > **gagal → menyangkal → tidak belajar → mengulang → menyalahkan keadaan → mengulang lagi.**
 
-Itulah failure loop.
+Inilah pola yang patut diwaspadai.
 
 ## 14. Failure loop
 
@@ -678,11 +662,11 @@ Yang lebih masuk akal:
 
 > menciptakan eksperimen dengan downside yang dapat dikendalikan ketika konteks memungkinkan.
 
-Ini sejalan dengan pembahasan Sitkin tentang *small losses*, tetapi jangan memperluasnya menjadi pembenaran untuk menoleransi harm yang seharusnya dapat dicegah. [Sitkin, 1992](https://scholars.duke.edu/publication/913886)
+Gagasan *small losses* tetap perlu dibaca hati-hati; ia bukan pembenaran untuk membiarkan kerugian yang sebenarnya bisa dicegah. [Sitkin, 1992](https://scholars.duke.edu/publication/913886)
 
-## 19. Framework: Failure-to-Learning Loop
+## 19. Framework: Dari Kegagalan Menjadi Pembelajaran
 
-Framework berikut adalah **sintesis kerja buku**, bukan taxonomy akademik tervalidasi:
+Framework berikut adalah **sintesis kerja buku**, bukan taxonomy akademik yang tervalidasi:
 
 **Outcome → Reconstruction → Attribution → Mechanism → Learning → Change → Test → Review**
 
@@ -716,19 +700,13 @@ Bagaimana kita menguji perubahan itu?
 
 ### Review
 
-Apa yang terjadi setelah perubahan diterapkan? Perhatikan:
-
-> framework ini tidak berhenti pada:
+Apa yang terjadi setelah perubahan diterapkan? Perhatikan bahwa framework ini tidak berhenti pada:
 
 > “lesson learned.”
 
-Ia berakhir pada:
+Ia berakhir pada **test dan review**.
 
-> **test dan review.**
-
-Karena lesson yang tidak mengubah tindakan mungkin hanya:
-
-> kalimat yang terdengar pintar.
+Karena pelajaran yang tidak mengubah tindakan bisa saja hanya menjadi kalimat yang terdengar pintar.
 
 ## 20. Failure Review Card
 
