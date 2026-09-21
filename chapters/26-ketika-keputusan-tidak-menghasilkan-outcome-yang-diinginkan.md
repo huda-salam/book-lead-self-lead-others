@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Ada dua kesalahan yang sama-sama mahal. Kesalahan pertama:
+Ada dua cara review yang sama-sama merugikan. Kesalahan pertama:
 
 > “Hasilnya buruk. Berarti keputusan kita memang bodoh.”
 
@@ -14,11 +14,11 @@ Kesalahan kedua:
 
 > “Kita sudah memutuskan. Sekarang tinggal cari alasan mengapa hasilnya belum terlihat.”
 
-Keduanya melewati pertanyaan yang lebih penting:
+Keduanya sama-sama melewatkan pertanyaan yang lebih penting:
 
 > **Apa sebenarnya yang terjadi?**
 
-Review bukan sidang untuk mencari orang yang salah. Review adalah proses untuk memperbaiki model kita tentang:
+Review bukan sidang untuk mencari terdakwa. Review adalah proses untuk memperbaiki model kita tentang:
 
 - keputusan;
 - eksekusi;
@@ -63,9 +63,9 @@ Hasilnya buruk. Ada setidaknya beberapa kemungkinan:
 
 **E. Interaction** Beberapa faktor terjadi sekaligus. Jadi:
 
-> **Outcome adalah evidence untuk review, bukan vonis otomatis terhadap keputusan.**
+> **Outcome adalah bahan untuk review, bukan vonis otomatis atas keputusan.**
 
-## 2. Hindsight sangat meyakinkan
+## 2. Hindsight membuat semuanya terlihat lebih mudah
 
 Setelah sesuatu terjadi, jalurnya terlihat lebih jelas. Kita mudah berkata:
 
@@ -75,7 +75,7 @@ Pertanyaannya:
 
 > **Apakah memang sudah kelihatan pada saat keputusan dibuat?**
 
-Jika informasi tersebut baru tersedia setelah kejadian, jangan memperlakukan informasi itu seolah-olah sudah diketahui sebelumnya. Inilah disiplin penting dalam review.
+Kalau informasi baru muncul setelah kejadian, jangan pura-pura bahwa kita sudah mengetahuinya sejak awal. Inilah disiplin penting dalam review.
 
 ## 3. Rekonstruksi keputusan
 
@@ -91,7 +91,7 @@ Mulailah dari kondisi saat keputusan dibuat. Tulis:
 
 **Apa yang kita pilih?** Keputusan aktual.
 
-**Mengapa?** Rationale dan trade-off. Dengan demikian review tidak dimulai dari:
+**Mengapa?** Rationale dan trade-off. Karena itu review sebaiknya tidak dimulai dari:
 
 > “Kenapa kita salah?”
 
@@ -125,11 +125,11 @@ Kita bisa salah memprediksi tanpa membuat keputusan yang tidak masuk akal. Misal
 
 > keputusan dibuat berdasarkan data terbaik yang tersedia, tetapi kondisi eksternal berubah secara ekstrem.
 
-Prediction error dapat terjadi. Sebaliknya, seseorang dapat:
+Prediction error memang bisa terjadi. Sebaliknya, seseorang dapat:
 
 > mengabaikan evidence penting yang sudah tersedia.
 
-Ini lebih dekat dengan decision-process problem. Perbedaan ini penting karena tindakan perbaikannya berbeda. Jika prediction error:
+Ini lebih dekat dengan masalah pada proses pengambilan keputusan. Perbedaan ini penting karena tindakan perbaikannya berbeda. Jika prediction error:
 
 > mungkin monitoring dan scenario planning perlu diperbaiki.
 
@@ -150,9 +150,9 @@ Kembali ke Chapter 25. Tanyakan:
 - apakah hambatan dieskalasikan?
 - apakah metode benar-benar dijalankan?
 
-Jangan menghukum keputusan karena execution tidak pernah benar-benar terjadi.
+Jangan menyalahkan keputusan atas eksekusi yang sebenarnya tidak pernah dijalankan dengan semestinya.
 
-## 7. Review assumptions
+## 7. Periksa asumsi
 
 Banyak keputusan sebenarnya bergantung pada asumsi. Contoh:
 
@@ -170,7 +170,7 @@ Jika tidak:
 
 > asumsi perlu diperbarui.
 
-Ini lebih berguna daripada mengatakan:
+Itu lebih berguna daripada sekadar mengatakan:
 
 > “Programnya gagal.”
 
@@ -180,11 +180,11 @@ Karena sekarang kita memiliki:
 
 ## 8. Jangan hanya mencari bukti yang menyalahkan
 
-Review yang buruk mencari:
+Review yang buruk sibuk mencari:
 
 > “Siapa yang salah?”
 
-Review yang lebih baik mencari:
+Review yang lebih berguna mencari:
 
 > “Evidence apa yang menjelaskan gap?”
 
@@ -200,7 +200,7 @@ Ini membantu menghindari:
 
 > confirmation bias setelah kejadian.
 
-## 9. Reflection bukan rumination
+## 9. Refleksi bukan memutar ulang kesalahan
 
 Review membutuhkan refleksi. Tetapi refleksi berbeda dari mengulang kegagalan dalam kepala:
 
@@ -210,7 +210,7 @@ Review membutuhkan refleksi. Tetapi refleksi berbeda dari mengulang kegagalan da
 
 > “Kenapa mereka tidak mendengarkan?”
 
-Kalimat seperti itu belum tentu menghasilkan learning. Gunakan pertanyaan:
+Kalimat-kalimat seperti itu belum tentu membuat kita belajar apa pun. Gunakan pertanyaan:
 
 > Apa yang terjadi?
 
@@ -226,11 +226,11 @@ Kalimat seperti itu belum tentu menghasilkan learning. Gunakan pertanyaan:
 
 Perbedaan sederhananya:
 
-**Reflection menghasilkan update.**
+**Refleksi menghasilkan perubahan pada cara kita melihat atau bertindak.**
 
-**Rumination menghasilkan pengulangan.**
+**Rumination hanya membuat kita mengulang cerita yang sama.**
 
-## 10. Attribution harus proporsional
+## 10. Atribusi perlu proporsional
 
 Jangan semua kegagalan menjadi:
 
@@ -286,15 +286,15 @@ Mungkin benar. Tetapi pertanyaan berikutnya:
 
 > “Mengapa execution tidak berjalan?”
 
-Jika instruction sulit dipahami, resource tidak tersedia, atau dependency tidak diselesaikan, masalahnya lebih luas. Pemimpin perlu bersedia bertanya:
+Jika instruction sulit dipahami, resource tidak tersedia, atau dependency tidak diselesaikan, masalahnya lebih luas. Seorang pemimpin perlu berani bertanya:
 
 > “Apa bagian dari sistem keputusan saya yang ikut menyebabkan masalah?”
 
-Tanpa otomatis mengambil seluruh kesalahan.
+Tanpa harus mengambil seluruh kesalahan menjadi miliknya.
 
-## 12. Kapan continue, change, atau stop?
+## 12. Kapan lanjut, ubah, atau berhenti?
 
-Tidak semua kegagalan berarti berhenti. Tidak semua kegagalan berarti lanjut. Gunakan pertanyaan:
+Tidak semua kegagalan berarti harus berhenti. Tetapi kegagalan juga bukan alasan otomatis untuk terus. Gunakan pertanyaan:
 
 ### Continue
 
@@ -321,7 +321,7 @@ Apakah:
 - evidence baru membuat manfaat tidak lagi sebanding dengan biaya/risiko;
 - atau alternatif lain lebih masuk akal?
 
-Berhenti bukan selalu kegagalan. Kadang:
+Berhenti tidak selalu berarti gagal. Kadang:
 
 > **berhenti adalah hasil review yang sehat.**
 
@@ -416,15 +416,11 @@ Tetapi itu belum cukup. Learning:
 - measurement perlu diperbaiki;
 - support pengguna perlu masuk ke execution plan.
 
-Sekarang kegagalan menghasilkan:
-
-> **perubahan sistem.**
+Dengan begitu, kegagalan menghasilkan **perubahan yang konkret**.
 
 ## 16. Review yang menghasilkan perubahan
 
-Review belum selesai ketika kita menemukan penyebab. Harus ada:
-
-> **update.**
+Menemukan penyebab belum menyelesaikan review. Harus ada **update**:
 
 Contoh:
 
@@ -437,9 +433,7 @@ Contoh:
 | Context berubah | Scenario/trigger review |
 | Goal tidak lagi relevan | Reassess goal |
 
-Kalau tidak ada perubahan:
-
-> mungkin review hanya menjadi ritual.
+Kalau tidak ada perubahan pada keputusan, proses, atau perilaku, mungkin review kita baru menjadi ritual.
 
 ## 17. Latihan: After Action Review pribadi
 
@@ -473,11 +467,9 @@ Itu lebih dapat dilatih.
 
 ## 18. Dari kegagalan menuju operating learning
 
-Pemimpin yang baik bukan orang yang:
+Pemimpin yang baik bukan orang yang tidak pernah salah memilih.
 
-> tidak pernah salah memilih.
-
-Lebih realistis:
+Yang lebih realistis:
 
 > orang yang dapat menemukan kesalahan, membedakannya dari noise, lalu memperbarui cara memilih dan bertindak.
 
@@ -509,7 +501,7 @@ Part V bergerak melalui satu rangkaian:
 
 > **solution mindset bukan kemampuan menemukan jawaban secepat mungkin.**
 
-Ia adalah kemampuan bergerak dari:
+Ia adalah kebiasaan bergerak dari:
 
 > pengalaman,
 
@@ -529,10 +521,10 @@ dan akhirnya:
 
 > pembelajaran.
 
-Di titik inilah leadership bertemu dengan learning. Bukan:
+Di sinilah leadership bertemu dengan learning. Bukan:
 
 > “Saya sudah benar.”
 
-Tetapi:
+Mulailah dari:
 
 > **“Apa yang evidence ajarkan kepada saya?”**
