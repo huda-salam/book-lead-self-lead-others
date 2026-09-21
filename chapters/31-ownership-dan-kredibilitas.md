@@ -51,7 +51,7 @@ Kredibilitas dibangun ketika:
 :::
 
 ::: info Konteks
-Part VI mengajarkan membaca sistem dan pengaruh. Part VII kembali kepada leader: bagaimana menggunakan pemahaman tersebut dengan ownership, influence, development, dan ketahanan saat tekanan tinggi.
+Part VI mengajarkan membaca sistem dan pengaruh. Part VII kembali kepada pemimpin: bagaimana menggunakan pemahaman tersebut dengan ownership, influence, development, dan ketahanan saat tekanan tinggi.
 :::
 
 ## Yang Sedang Kita Latih
@@ -68,7 +68,7 @@ Chapter ini melatih kemampuan untuk:
 
 ## 1. Ownership bukan blame
 
-Bayangkan sebuah proyek terlambat. Leader berkata:
+Bayangkan sebuah proyek terlambat. Pemimpin berkata:
 
 > “Ini salah saya.”
 
@@ -120,7 +120,7 @@ Apa yang tidak dapat saya kendalikan? Misalnya:
 - perubahan eksternal;
 - kejadian tak terduga.
 
-Leader tetap dapat:
+Pemimpin tetap dapat:
 
 > merespons outside control,
 
@@ -190,7 +190,7 @@ Kalimat tersebut mungkin terdengar kurang heroik. Tetapi lebih:
 
 ## 5. Bad news adalah bagian dari ownership
 
-Ada leader yang baru menyampaikan masalah ketika:
+Ada pemimpin yang baru menyampaikan masalah ketika:
 
 > sudah tidak dapat disembunyikan.
 
@@ -216,7 +216,7 @@ Kalimat:
 
 > “Saya belum lapor karena belum ada solusi.”
 
-sering terdengar bertanggung jawab. Tetapi pada masalah tertentu justru berbahaya. Leader dapat berkata:
+sering terdengar bertanggung jawab. Tetapi pada masalah tertentu justru berbahaya. Pemimpin dapat berkata:
 
 > “Ada risiko X. Penyebab sementara Y. Dampak potensial Z. Saya sedang menguji dua opsi. Saya butuh keputusan tentang A.”
 
@@ -280,7 +280,7 @@ Dan konsisten dengan Chapter 5 dan 7.
 
 ## 9. Credit harus akurat
 
-Ada leader yang selalu berkata:
+Ada pemimpin yang selalu berkata:
 
 > “Tim saya berhasil.”
 
@@ -318,17 +318,17 @@ Jika ternyata:
 
 > deadline tidak realistis,
 
-leader perlu melihat:
+pemimpin perlu melihat:
 
 > kontribusinya sendiri terhadap masalah.
 
 ## 11. Consistency bukan berarti tidak pernah berubah
 
-Leader yang selalu mengubah pendapat:
+Pemimpin yang selalu mengubah pendapat:
 
 > sulit diprediksi.
 
-Tetapi leader yang tidak pernah berubah:
+Tetapi pemimpin yang tidak pernah berubah:
 
 > juga bermasalah ketika evidence berubah.
 
@@ -531,7 +531,7 @@ Ini menghasilkan:
 
 > accountability dua arah.
 
-Leader memiliki responsibility. Tim juga memiliki responsibility.
+Pemimpin memiliki responsibility. Tim juga memiliki responsibility.
 
 ## 20. Latihan: Credibility Ledger
 
@@ -569,7 +569,7 @@ ownership hanya menjadi:
 
 > performance language.
 
-Leader tidak perlu terlalu sering mengatakan:
+Pemimpin tidak perlu terlalu sering mengatakan:
 
 > “Saya bertanggung jawab.”
 
@@ -595,7 +595,7 @@ Ownership tidak berarti menerima tanggung jawab atas sesuatu yang tidak berada d
 
 ## Evidence notes
 
-- Leadership credibility, trust, reliability, integrity, and leader behavior literature.
-- Research on leader-member exchange and trust where relevant.
-- Research on accountability, voice, transparency, and leader credibility.
+- Leadership credibility, trust, reliability, integrity, and pemimpin behavior literature.
+- Research on pemimpin-member exchange and trust where relevant.
+- Research on accountability, voice, transparency, and pemimpin credibility.
 - Self-regulation and feedback literature from Chapters 1, 4, 15, and 26.
