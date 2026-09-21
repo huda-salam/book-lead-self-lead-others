@@ -1,14 +1,12 @@
 # Mengubah Rencana Ketika Dunia Berubah
 
-> **Strategic capability:** Mengubah metode, rencana, prioritas, atau strategi ketika evidence, assumptions, constraints, atau kondisi lingkungan berubah—tanpa kehilangan tujuan secara impulsif.
+> **Yang dilatih:** Mengubah metode, rencana, prioritas, atau strategi ketika evidence, assumptions, constraints, atau kondisi lingkungan berubah—tanpa kehilangan tujuan secara impulsif.
 
 > **Canonical concept:** STRAT.ADAPTATION
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
-Ada dua tipe kesalahan.
-
-Yang pertama:
+Ada dua tipe kesalahan. Yang pertama:
 
 > terlalu cepat berubah.
 
@@ -32,13 +30,7 @@ Yang kedua:
 
 > terlalu lama bertahan.
 
-Bukti sudah berubah.
-
-Kondisi sudah berubah.
-
-Strategi sudah tidak cocok.
-
-Tetapi leader berkata:
+Bukti sudah berubah. Kondisi sudah berubah. Strategi sudah tidak cocok. Tetapi leader berkata:
 
 > “Kita harus konsisten.”
 
@@ -58,7 +50,7 @@ Leadership membutuhkan kemampuan membedakan:
 Chapter 4 membahas persistence dan resilience. Chapter 26 membahas review setelah keputusan. Chapter 38 membahas strategic choice. Chapter 39 membahas bagaimana memperbarui pilihan ketika kondisi berubah.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 - membaca perubahan;
 - menguji asumsi;
@@ -175,9 +167,7 @@ Sebut:
 
 ## 4. Tidak semua perubahan material
 
-Organisasi berubah setiap hari.
-
-Jika setiap perubahan kecil:
+Organisasi berubah setiap hari. Jika setiap perubahan kecil:
 
 > mengubah strategi,
 
@@ -198,9 +188,7 @@ Pertimbangkan:
 - reversibility;
 - strategic relevance.
 
-Tidak perlu angka presisi.
-
-Tujuannya:
+Tidak perlu angka presisi. Tujuannya:
 
 > membedakan noise dari signal.
 
@@ -252,15 +240,11 @@ Jika:
 
 > method gagal,
 
-ubah method.
-
-Jika:
+ubah method. Jika:
 
 > assumption fundamental salah,
 
-ubah strategy.
-
-Ini mencegah:
+ubah strategy. Ini mencegah:
 
 > overreaction.
 
@@ -292,9 +276,7 @@ Orang lain berkata:
 
 > “Berarti kamu menyerah.”
 
-Tidak.
-
-Mengganti metode dapat berarti:
+Tidak. Mengganti metode dapat berarti:
 
 > commitment terhadap outcome tetap ada.
 
@@ -340,17 +322,13 @@ dapat menjadi:
 
 > kredibilitas,
 
-bukan kelemahan.
-
-Ini terhubung dengan:
+bukan kelemahan. Ini terhubung dengan:
 
 > Chapter 31 — Ownership dan Kredibilitas.
 
 ## 10. Tetapi jangan mengubah arah hanya karena sulit
 
-Adaptation juga dapat disalahgunakan.
-
-Contoh:
+Adaptation juga dapat disalahgunakan. Contoh:
 
 > dua minggu pertama hasil belum terlihat.
 
@@ -362,9 +340,7 @@ Padahal:
 
 > implementation belum cukup matang.
 
-Ini bukan adaptability.
-
-Ini:
+Ini bukan adaptability. Ini:
 
 > impatience.
 
@@ -474,9 +450,7 @@ Kalimat:
 
 > “Kita sudah menghabiskan terlalu banyak untuk berhenti sekarang.”
 
-perlu diperiksa.
-
-Resource masa lalu:
+perlu diperiksa. Resource masa lalu:
 
 > tidak selalu alasan untuk terus menginvestasikan resource masa depan.
 
@@ -494,9 +468,7 @@ maka:
 
 ## 15. Adaptation dan trust
 
-Tim dapat menerima perubahan.
-
-Yang sulit adalah:
+Tim dapat menerima perubahan. Yang sulit adalah:
 
 > perubahan tanpa alasan.
 
@@ -528,9 +500,7 @@ Adaptation membutuhkan:
 
 Sederhananya:
 
-**Plan → Execute → Observe → Compare → Update**
-
-Bukan:
+**Plan → Execute → Observe → Compare → Update** Bukan:
 
 > Plan → Defend → Rationalize.
 
@@ -596,9 +566,7 @@ Tanda yang perlu diperiksa:
 
 > capability tidak lagi relevan.
 
-Bukan bukti otomatis.
-
-Tetapi:
+Bukan bukti otomatis. Tetapi:
 
 > signals.
 
@@ -726,9 +694,7 @@ Gunakan saat ingin mengubah plan:
 
 ## 22. Latihan: Goal or Method?
 
-Ambil satu hal yang sedang Anda perjuangkan.
-
-Tulis:
+Ambil satu hal yang sedang Anda perjuangkan. Tulis:
 
 > “Saya ingin mencapai ______.”
 
