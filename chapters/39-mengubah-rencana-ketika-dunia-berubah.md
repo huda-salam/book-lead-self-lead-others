@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Ada dua tipe kesalahan. Yang pertama:
+Ada dua kesalahan yang sering kita lihat. Yang pertama:
 
 > terlalu cepat berubah.
 
@@ -22,23 +22,17 @@ Minggu depan:
 
 > C.
 
-Tidak pernah cukup lama untuk:
+Akhirnya tidak pernah cukup lama pada satu cara untuk benar-benar belajar.
 
-> belajar.
-
-Yang kedua:
-
-> terlalu lama bertahan.
+Kesalahan yang kedua justru kebalikannya: terlalu lama bertahan.
 
 Bukti sudah berubah. Kondisi sudah berubah. Strategi sudah tidak cocok. Tetapi pemimpin berkata:
 
 > “Kita harus konsisten.”
 
-Masalahnya:
+Pertanyaannya: konsisten terhadap apa?
 
-> konsistensi terhadap apa?
-
-Leadership membutuhkan kemampuan membedakan:
+Yang dibutuhkan adalah kemampuan membedakan:
 
 > **apa yang harus dipertahankan dan apa yang harus diubah.**
 
@@ -50,7 +44,7 @@ Leadership membutuhkan kemampuan membedakan:
 Chapter 4 membahas persistence dan resilience. Chapter 26 membahas review setelah keputusan. Chapter 38 membahas strategic choice. Chapter 39 membahas bagaimana memperbarui pilihan ketika kondisi berubah.
 :::
 
-## Yang Sedang Kita Latih
+## Fokus Bab
 
 - membaca perubahan;
 - menguji asumsi;
@@ -60,15 +54,13 @@ Chapter 4 membahas persistence dan resilience. Chapter 26 membahas review setela
 - mengkomunikasikan perubahan;
 - dan belajar dari feedback.
 
-## 1. Plan bukan janji kepada masa depan
+## 1. Rencana bukan janji yang harus dipenuhi apa pun yang terjadi
 
 Sebuah plan adalah:
 
 > keputusan berdasarkan informasi dan asumsi yang tersedia saat dibuat.
 
-Jika informasi berubah:
-
-> plan mungkin perlu berubah.
+Kalau informasi penting berubah, rencana mungkin memang perlu diubah.
 
 Mengubah plan tidak otomatis berarti:
 
@@ -78,13 +70,13 @@ Sebaliknya:
 
 > mempertahankan plan tidak otomatis berarti konsisten.
 
-Pertanyaan:
+Tanya saja:
 
-> “Apa yang sekarang kita tahu yang dulu belum kita tahu?”
+> “Apa yang sekarang kita tahu, tetapi dulu belum kita tahu?”
 
 ## 2. Bedakan goal, strategy, method, execution
 
-Ini salah satu alat penting.
+Pembedaan ini penting.
 
 **Goal**
 
@@ -102,7 +94,7 @@ Ini salah satu alat penting.
 
 > Bagaimana cara tersebut dijalankan.
 
-Contoh:
+Contohnya:
 
 Goal:
 
@@ -136,15 +128,13 @@ Jika objective berubah:
 
 > goal sendiri mungkin perlu ditinjau.
 
-Jangan mengubah semuanya:
-
-> hanya karena satu layer gagal.
+Jangan langsung mengubah semuanya hanya karena satu lapisan gagal.
 
 ## 3. Apa yang berubah?
 
 Sebelum pivot:
 
-> identifikasi perubahan.
+> cari tahu perubahan yang sebenarnya terjadi.
 
 Misalnya:
 
@@ -157,17 +147,15 @@ Misalnya:
 - asumsi terbukti salah;
 - competitor/environment berubah.
 
-Jangan hanya berkata:
+Jangan berhenti pada kalimat:
 
 > “Situasinya sudah berbeda.”
 
-Sebut:
+Sebutkan **apa tepatnya yang berubah.**
 
-> **apa tepatnya yang berbeda.**
+## 4. Tidak setiap perubahan layak disebut perubahan besar
 
-## 4. Tidak semua perubahan material
-
-Organisasi berubah setiap hari. Jika setiap perubahan kecil:
+Organisasi memang berubah setiap hari. Jika setiap perubahan kecil:
 
 > mengubah strategi,
 
@@ -175,7 +163,7 @@ maka:
 
 > organisasi kehilangan stability.
 
-Pertanyaan:
+Coba tanyakan:
 
 > “Apakah perubahan ini cukup material untuk mengubah keputusan?”
 
@@ -188,19 +176,19 @@ Pertimbangkan:
 - reversibility;
 - strategic relevance.
 
-Tidak perlu angka presisi. Tujuannya:
+Kita tidak membutuhkan angka yang terlalu presisi. Yang penting:
 
 > membedakan noise dari signal.
 
-## 5. Preserve the core
+## 5. Pertahankan yang masih benar
 
 Ketika kondisi berubah:
 
 > tidak semuanya harus berubah.
 
-Tanyakan:
+Coba bedakan:
 
-> “Apa yang tetap benar?”
+> “Apa yang masih benar sampai sekarang?”
 
 Mungkin:
 
@@ -218,11 +206,9 @@ Tetapi:
 
 > sequencing perlu berubah.
 
-Adaptasi yang baik:
+Adaptasi yang baik tidak ikut merusak hal-hal yang masih valid.
 
-> tidak menghancurkan hal yang masih valid.
-
-## 6. Change the smallest necessary layer
+## 6. Ubah lapisan yang memang perlu diubah
 
 Misalnya:
 
@@ -244,11 +230,9 @@ ubah method. Jika:
 
 > assumption fundamental salah,
 
-ubah strategy. Ini mencegah:
+ubah strategy. Cara ini membantu menghindari **overreaction**.
 
-> overreaction.
-
-## 7. Persistence bukan stubbornness
+## 7. Persistence bukan keras kepala
 
 Persistence:
 
@@ -260,13 +244,13 @@ Stubbornness:
 
 Kalimat sederhana:
 
-> **Persist on the goal; adapt the method.**
+> ****Pertahankan tujuan; sesuaikan caranya.****
 
 Tetapi ingat:
 
 > goal juga dapat berubah jika alasan dasarnya berubah.
 
-## 8. Adaptation bukan menyerah
+## 8. Mengubah cara bukan berarti menyerah
 
 Seseorang berkata:
 
@@ -278,9 +262,9 @@ Orang lain berkata:
 
 Tidak. Mengganti metode dapat berarti:
 
-> commitment terhadap outcome tetap ada.
+> komitmen terhadap hasil akhirnya tetap ada.
 
-Contoh:
+Contohnya:
 
 > metode A gagal.
 
@@ -292,15 +276,9 @@ Tetapi:
 
 > “Metode A tidak memberikan evidence yang kita butuhkan. Kita uji B.”
 
-## 9. Jangan jatuh cinta pada rencana sendiri
+## 9. Jangan terlalu melekat pada rencana sendiri
 
-Sebuah plan adalah:
-
-> alat.
-
-Bukan:
-
-> identitas.
+Rencana adalah **alat**. Jangan sampai berubah menjadi identitas yang harus dipertahankan demi gengsi.
 
 Jika pemimpin sudah mengumumkan:
 
@@ -314,21 +292,13 @@ jangan mempertahankannya hanya karena:
 
 > gengsi.
 
-Mengakui:
-
-> “Asumsi kita berubah”
-
-dapat menjadi:
-
-> kredibilitas,
-
-bukan kelemahan. Ini terhubung dengan:
+Mengatakan “asumsi kita berubah” bukan otomatis tanda kelemahan. Kadang justru itulah bentuk kredibilitas. Ini terhubung dengan:
 
 > Chapter 31 — Ownership dan Kredibilitas.
 
-## 10. Tetapi jangan mengubah arah hanya karena sulit
+## 10. Jangan mengubah arah hanya karena pelaksanaannya terasa sulit
 
-Adaptation juga dapat disalahgunakan. Contoh:
+Adaptasi juga bisa disalahgunakan. Contohnya:
 
 > dua minggu pertama hasil belum terlihat.
 
@@ -340,11 +310,9 @@ Padahal:
 
 > implementation belum cukup matang.
 
-Ini bukan adaptability. Ini:
+Itu bukan adaptability. Itu bisa jadi **ketidaksabaran**.
 
-> impatience.
-
-Tanyakan:
+Coba bedakan:
 
 > “Apakah evidence menunjukkan metode tidak bekerja?”
 
@@ -358,7 +326,7 @@ Strategi yang baik memiliki:
 
 > trigger.
 
-Contoh:
+Contohnya:
 
 > “Jika adoption tetap di bawah X setelah tiga periode pengukuran, kita review method.”
 
@@ -366,13 +334,7 @@ Atau:
 
 > “Jika regulasi berubah pada kondisi Y, kita review design.”
 
-Ini membuat adaptation:
-
-> evidence-triggered.
-
-Bukan:
-
-> mood-triggered.
+Dengan begitu perubahan dipicu oleh **bukti**, bukan sekadar oleh suasana hati.
 
 ## 12. Experiment
 
@@ -392,13 +354,9 @@ Misalnya:
 
 > implementasi satu workflow.
 
-Tujuannya:
+Tujuannya memperoleh pembelajaran dengan biaya dan risiko yang masih terkendali.
 
-> belajar dengan cost yang terkendali.
-
-Eksperimen bukan:
-
-> bukti sempurna.
+Eksperimen juga bukan bukti sempurna.
 
 Tetapi:
 
@@ -406,9 +364,7 @@ Tetapi:
 
 ## 13. Communicate the reason for change
 
-Perubahan arah tanpa penjelasan:
-
-> menciptakan rumor.
+Perubahan arah tanpa penjelasan mudah melahirkan rumor dan spekulasi.
 
 Orang bertanya:
 
@@ -436,13 +392,7 @@ Pemimpin dapat menjelaskan:
 
 > kapan dievaluasi lagi.
 
-Sekarang:
-
-> perubahan terlihat sebagai learning.
-
-Bukan:
-
-> kekacauan.
+Dengan penjelasan yang cukup, perubahan lebih mudah dibaca sebagai proses belajar, bukan sekadar kekacauan.
 
 ## 14. Jangan menyembunyikan sunk cost
 
@@ -454,7 +404,7 @@ perlu diperiksa. Resource masa lalu:
 
 > tidak selalu alasan untuk terus menginvestasikan resource masa depan.
 
-Pertanyaan:
+Coba tanyakan:
 
 > “Jika kita belum mengeluarkan biaya itu, apakah kita masih akan memilih melanjutkan?”
 
@@ -492,7 +442,7 @@ Tetapi:
 
 > alasan perubahan harus dapat dipahami.
 
-## 16. Learning loop
+## 16. Siklus belajar
 
 Adaptation membutuhkan:
 
@@ -504,13 +454,9 @@ Sederhananya:
 
 > Plan → Defend → Rationalize.
 
-Yang kedua adalah:
+Yang kedua cenderung menjadi cara mempertahankan keputusan lama.
 
-> cara mempertahankan ego.
-
-Yang pertama:
-
-> cara memperbarui model.
+Yang pertama memberi kita kesempatan memperbarui cara melihat masalah.
 
 ## 17. Failure bukan otomatis strategy failure
 
@@ -522,7 +468,7 @@ Outcome buruk dapat terjadi karena:
 - measurement salah;
 - interaction tidak diperkirakan.
 
-Karena itu:
+Jadi:
 
 > jangan langsung menyimpulkan strategy gagal.
 
@@ -530,7 +476,7 @@ Gunakan:
 
 > Chapter 26.
 
-Tanyakan:
+Coba bedakan:
 
 > “Apa sebenarnya yang gagal?”
 
@@ -568,7 +514,7 @@ Tanda yang perlu diperiksa:
 
 Bukan bukti otomatis. Tetapi:
 
-> signals.
+> sinyal yang perlu diperiksa.
 
 ## 19. Change log
 
@@ -612,7 +558,7 @@ Ini mengurangi:
 
 ## 20. Framework: Adaptation Loop
 
-Framework berikut adalah **sintesis kerja buku**, bukan taxonomy adaptation tervalidasi:
+Framework berikut adalah **sintesis kerja buku**, bukan taxonomy adaptation yang tervalidasi:
 
 **Observe → Compare → Diagnose Change → Preserve Core → Adjust → Communicate → Test → Learn**
 
@@ -710,16 +656,10 @@ Dan:
 
 > “Evidence yang akan membuat saya mengganti cara adalah ______.”
 
-Ini melatih:
-
-> commitment terhadap goal
-
-tanpa:
-
-> attachment terhadap method.
+Latihan ini menguatkan **komitmen pada tujuan tanpa keterikatan berlebihan pada metode**.
 
 ::: important Prinsip
-**Jangan tanyakan hanya “apakah kita konsisten?” Tanyakan: “kita sedang konsisten terhadap tujuan yang valid, atau hanya terhadap cara yang sudah kita pilih?”**
+**Jangan tanyakan hanya “apakah kita konsisten?” Coba bedakan: “kita sedang konsisten terhadap tujuan yang valid, atau hanya terhadap cara yang sudah kita pilih?”**
 :::
 
 ::: caution Hati-hati
