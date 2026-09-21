@@ -44,3 +44,39 @@
     font-size: 2.5rem;
   }
 }
+
+
+/* Semantic editorial callouts */
+:root[data-book-style='sky'] .vp-doc .custom-block.success {
+  border-color: rgba(46, 125, 50, 0.24);
+  background: linear-gradient(90deg, rgba(76, 175, 80, 0.11), rgba(76, 175, 80, 0.035));
+}
+
+:root[data-book-style='sky'] .vp-doc .custom-block.important {
+  border-color: rgba(25, 118, 210, 0.26);
+  background: linear-gradient(90deg, rgba(25, 118, 210, 0.10), rgba(25, 118, 210, 0.035));
+}
+
+:root[data-book-style='sky'] .vp-doc .custom-block.caution {
+  border-color: rgba(245, 158, 11, 0.30);
+  background: linear-gradient(90deg, rgba(245, 158, 11, 0.11), rgba(245, 158, 11, 0.035));
+}
+
+:root[data-book-style='sky'] .vp-doc .custom-block.warning {
+  background: linear-gradient(90deg, rgba(245, 158, 11, 0.12), rgba(245, 158, 11, 0.04));
+}
+
+:root[data-book-style='sky'] .vp-doc .custom-block.danger {
+  background: linear-gradient(90deg, rgba(211, 47, 47, 0.10), rgba(211, 47, 47, 0.035));
+}
+
+:root[data-book-style='sky'] .vp-doc .custom-block-title {
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+@media (max-width: 640px) {
+  :root[data-book-style='sky'] .vp-doc .custom-block {
+    padding: 10px 14px;
+  }
+}
