@@ -1,4 +1,6 @@
-# 07 — Fakta, Tafsir, dan Cerita di Kepala
+# Fakta, Tafsir, dan Cerita di Kepala
+
+> **Leader capability:** Leadership judgment dimulai dari kemampuan membedakan apa yang diketahui, apa yang ditafsirkan, dan apa yang masih perlu diverifikasi.
 
 > **Canonical concept:** READ.OBSERVATION  
 > **Related concept:** LITERACY.DISCIPLINE  
@@ -558,6 +560,16 @@ Dan satu pertanyaan yang layak dibawa ke banyak situasi:
 > **“Apa yang saya ketahui, apa yang saya simpulkan, dan apa yang belum saya ketahui?”**
 
 Itu adalah salah satu rem paling sederhana terhadap cerita yang terlalu cepat menjadi “kebenaran”.
+
+## Red Flags
+
+::: warning Risiko
+Jangan mengubah capability ini menjadi aturan absolut. Leadership selalu membutuhkan penyesuaian terhadap konteks, stakes, authority, evidence, dan dampak terhadap pihak lain.
+:::
+
+::: success Green Note
+**Carry forward:** capability ini harus membantu pembaca melihat situasi lebih jernih, memilih dengan lebih baik, bertindak dengan ownership, lalu belajar dari konsekuensinya.
+:::
 
 ## Evidence notes
 
