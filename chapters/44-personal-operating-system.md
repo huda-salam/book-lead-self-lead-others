@@ -1458,7 +1458,7 @@ Untuk menjadi sedikit lebih baik dalam menghadapi kenyataan berikutnya.
 - Habit formation membutuhkan repetition dan context yang relatif stabil, tetapi waktu pembentukan sangat bervariasi antar-individu dan perilaku. ([Singh et al., 2024](https://doi.org/10.3390/healthcare12232488))
 - Habit berbeda dari sekadar frekuensi perilaku; cue-context associations dan automaticity merupakan bagian penting dari konsep habit. ([Verplanken & Orbell, 2022](https://doi.org/10.1146/annurev-psych-020821-011744))
 - Implementation intentions dapat membantu menerjemahkan intention menjadi tindakan dalam kondisi tertentu, dengan efek yang bergantung pada konteks. ([Chen et al., 2015](https://doi.org/10.1016/j.psychres.2015.01.011))
-- Behavior-change interventions menggunakan cues, repetition, self-monitoring, dan desain konteks sebagai bagian dari strategi habit formation. citeturn0search2turn0search8
+- Behavior-change interventions menggunakan cues, repetition, self-monitoring, dan desain konteks sebagai bagian dari strategi habit formation. ([Zhu et al., 2024](https://doi.org/10.2196/54375))
 
 ## Sumber
 
