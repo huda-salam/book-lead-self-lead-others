@@ -6,12 +6,12 @@
 
 ## Mengapa Ini Penting
 
-Feedback sering dibicarakan seolah-olah sederhana: katakan apa yang salah, lalu minta orang memperbaikinya. Dalam praktik, feedback dapat gagal karena banyak hal: masalahnya belum jelas, orang yang memberi feedback tidak memahami konteks, penerima merasa diserang, standar tidak konsisten, atau percakapan sebenarnya bukan lagi tentang coaching tetapi sudah membutuhkan keputusan.
+Feedback sering terdengar sederhana: tunjukkan apa yang salah, lalu minta orang memperbaikinya. Kenyataannya jauh lebih rumit. Dalam praktik, feedback dapat gagal karena banyak hal: masalahnya belum jelas, orang yang memberi feedback tidak memahami konteks, penerima merasa diserang, standar tidak konsisten, atau percakapan sebenarnya bukan lagi tentang coaching tetapi sudah membutuhkan keputusan.
 
-Riset menunjukkan bahwa efek feedback tidak seragam. Meta-analysis klasik bahkan menemukan bahwa sebagian intervensi feedback dapat berdampak negatif pada performa. Review yang lebih baru juga menunjukkan bahwa karakteristik feedback, sumber, konteks, dan cara penyampaiannya perlu dibedakan. ([lihat Evidence notes](#evidence-notes))
+Penelitian menunjukkan bahwa feedback tidak selalu menghasilkan dampak yang sama. Meta-analysis klasik bahkan menemukan bahwa sebagian intervensi feedback dapat berdampak negatif pada performa. Review yang lebih baru juga menunjukkan bahwa karakteristik feedback, sumber, konteks, dan cara penyampaiannya perlu dibedakan. ([lihat Evidence notes](#evidence-notes))
 
 ::: success Green Note
-**Lensa pemimpin:** Feedback yang matang bukan sekadar “berani mengatakan yang pahit”. Ia membantu orang memahami apa yang perlu dipertahankan, diperbaiki, dipertanyakan, atau diputuskan.
+**Lensa pemimpin:** Feedback yang matang bukan sekadar keberanian mengatakan hal yang tidak enak didengar. Ia membantu orang memahami apa yang perlu dipertahankan, diperbaiki, dipertanyakan, atau diputuskan.
 :::
 
 ::: info Konteks
@@ -20,7 +20,7 @@ Bab ini tidak menawarkan satu formula feedback yang berlaku untuk semua situasi.
 
 ## Yang Sedang Kita Latih
 
-Pemimpin sedang melatih kemampuan untuk:
+Yang perlu dilatih pemimpin adalah:
 
 - membedakan observasi dari penilaian;
 - menentukan tujuan percakapan;
@@ -32,7 +32,7 @@ Pemimpin sedang melatih kemampuan untuk:
 
 ## 1. Feedback bukan sinonim kritik
 
-Feedback dapat berbentuk:
+Feedback sendiri bisa macam-macam:
 
 - apresiasi;
 - koreksi;
@@ -42,11 +42,11 @@ Feedback dapat berbentuk:
 - peringatan;
 - atau informasi tentang konsekuensi.
 
-Karena itu jangan memulai dengan asumsi:
+Jadi jangan memulai percakapan dengan anggapan bahwa:
 
 > “Saya harus memberi kritik.”
 
-Pertanyaan pertama:
+Lebih baik mulai dengan bertanya:
 
 > **“Informasi apa yang perlu dipertukarkan agar situasi menjadi lebih baik atau lebih jelas?”**
 
@@ -60,23 +60,23 @@ Sebelum berbicara, tanyakan:
 
 Contoh:
 
-**Tujuan buruk:**
+**Tujuan yang kurang membantu:**
 
 > “Saya ingin dia sadar bahwa cara kerjanya menyebalkan.”
 
-**Tujuan lebih operasional:**
+**Tujuan yang lebih jelas:**
 
 > “Saya ingin rapat berikutnya memiliki pembagian tugas yang jelas dan tidak ada keputusan yang tertunda karena informasi belum disiapkan.”
 
-Tujuan kedua memberi arah yang dapat diperiksa. Feedback yang hanya menjadi saluran kejengkelan sering menghasilkan percakapan tentang pribadi, bukan masalah.
+Tujuan kedua memberi arah yang dapat diperiksa. Kalau feedback hanya menjadi tempat melampiaskan kejengkelan, percakapan mudah bergeser dari masalah ke pribadi.
 
 ## 3. Pisahkan observasi dari cerita di kepala
 
-Lanjutkan disiplin Chapter 7. Misalnya:
+Mulai dari disiplin yang sudah dibahas di Chapter 7. Misalnya:
 
 > “Kamu tidak serius mengerjakan laporan.”
 
-Itu bukan observasi. Itu kesimpulan. Turunkan satu tingkat:
+Itu sudah merupakan kesimpulan, bukan pengamatan. Turunkan satu tingkat:
 
 > “Dalam tiga laporan terakhir, dua dikirim melewati tenggat yang sudah disepakati.”
 
@@ -121,7 +121,7 @@ Pemimpin dapat melihat hasil yang buruk tetapi belum mengetahui penyebabnya. Mis
 - kapasitas kurang;
 - atau memang eksekusi yang tidak disiplin.
 
-Jangan mengubah satu outcome menjadi satu diagnosis. Tanyakan:
+Satu hasil buruk belum cukup untuk menjelaskan penyebabnya. Tanyakan:
 
 > “Apa yang terjadi dari sisi Anda?”
 
@@ -129,7 +129,7 @@ Kemudian:
 
 > “Bagian mana yang menurut Anda memang menjadi tanggung jawab Anda?”
 
-Pertanyaan kedua penting karena mendengar konteks tidak berarti menghapus accountability.
+Pertanyaan ini penting: mendengar konteks tidak berarti menghapus accountability.
 
 ## 6. Mendengar penjelasan bukan berarti membatalkan standar
 
@@ -155,7 +155,7 @@ Feedback yang baik dapat terasa tidak nyaman. Jika standar memang harus dinaikka
 
 > “Saya menghargai usaha Anda, tetapi hasil ini belum memenuhi standar yang dibutuhkan. Kita perlu memperbaiki dua hal sebelum pekerjaan berikutnya.”
 
-Respect tidak berarti menghapus evaluasi. Psychological safety juga tidak berarti tidak ada accountability. Bukti tentang psychological safety lebih tepat dipahami sebagai kondisi yang dapat mendukung interpersonal risk-taking dan pembelajaran, bukan sebagai penghapusan standar atau konsekuensi. ([lihat Evidence notes](#evidence-notes))
+Menghormati orang tidak berarti menghapus evaluasi. Begitu pula psychological safety bukan berarti bebas dari accountability. Bukti tentang psychological safety lebih tepat dipahami sebagai kondisi yang dapat mendukung interpersonal risk-taking dan pembelajaran, bukan sebagai penghapusan standar atau konsekuensi. ([lihat Evidence notes](#evidence-notes))
 
 ## 8. Tetapi jangan menjadikan ketegasan sebagai pembenaran untuk mempermalukan
 
@@ -167,7 +167,7 @@ dengan:
 
 > “Dua bagian utama belum sesuai standar. Saya ingin kita perbaiki sebelum pekerjaan ini digunakan.”
 
-Kalimat kedua tetap tegas. Perbedaannya: fokus pada pekerjaan dan standar, bukan merendahkan identitas. Ini meneruskan Chapter 11:
+Kalimat kedua tetap tegas. Perbedaannya: fokus pada pekerjaan dan standar, bukan merendahkan identitas. Ini meneruskan gagasan Chapter 11:
 
 **kritik terhadap pekerjaan ≠ penghinaan terhadap orang.**
 
@@ -181,7 +181,7 @@ Dalam percakapan yang emosional, ada godaan untuk mencari kalimat terakhir.
 
 > “Kalau begitu terserah.”
 
-Pemimpin perlu berhenti bertanya:
+Di titik itu pemimpin perlu berhenti bertanya:
 
 > “Bagaimana saya bisa menang?”
 
@@ -189,11 +189,11 @@ dan menggantinya dengan:
 
 > **“Apa yang perlu menjadi jelas setelah percakapan ini?”**
 
-Kadang jawabannya adalah kesepakatan. Kadang klarifikasi. Kadang perubahan perilaku. Kadang keputusan. Kadang tidak ada kesepakatan, tetapi standar dan posisi masing-masing menjadi jelas.
+Kadang hasilnya adalah kesepakatan. Kadang hanya klarifikasi. Kadang perubahan perilaku. Kadang keputusan. Kadang tidak ada kesepakatan sama sekali. Itu juga bisa diterima, selama standar, posisi, dan keputusan yang diperlukan menjadi jelas.
 
-## 10. Beri ruang untuk tidak setuju
+## 10. Beri ruang untuk berbeda pendapat
 
-Feedback bukan proses satu arah. Penerima dapat berkata:
+Feedback bukan percakapan satu arah. Penerima dapat berkata:
 
 > “Saya melihat datanya berbeda.”
 
@@ -209,7 +209,7 @@ Jika tidak:
 
 > “Saya sudah cek kembali. Data yang tersedia tetap menunjukkan pola yang tadi saya sampaikan.”
 
-Keduanya adalah bentuk kepemimpinan yang sehat. Menerima koreksi bukan kehilangan wibawa. Menolak argumen setelah memeriksa bukti juga bukan berarti keras kepala.
+Keduanya tetap bisa menjadi bentuk kepemimpinan yang sehat. Menerima koreksi bukan kehilangan wibawa. Menolak argumen setelah memeriksa bukti juga bukan berarti keras kepala.
 
 ## 11. Bedakan coaching, feedback, warning, dan keputusan
 
@@ -241,7 +241,7 @@ Arah komunikasi berubah. Standar dasarnya tetap:
 
 **fakta → dampak → kebutuhan → permintaan.**
 
-## 13. Jangan menunda semua percakapan sulit
+## 13. Jangan menunggu terlalu lama untuk percakapan sulit
 
 Ada kecenderungan menunggu:
 
@@ -254,7 +254,7 @@ Masalahnya, penundaan dapat membuat:
 - konsekuensi membesar;
 - pemimpin kemudian berbicara dengan emosi yang lebih tinggi.
 
-Tetapi jangan pula memakai “harus segera dibicarakan” sebagai alasan untuk berbicara ketika informasi belum cukup. Gunakan prinsip proporsional:
+Tetapi jangan pula memakai “harus segera dibicarakan” sebagai alasan untuk berbicara ketika informasi belum cukup. Pegang prinsip sederhana:
 
 **semakin besar risiko menunggu, semakin kecil toleransi terhadap penundaan.**
 
@@ -284,7 +284,7 @@ Apa tanggapan, keberatan, atau informasi baru?
 Apa yang disepakati? Jika tidak sepakat, keputusan siapa yang diperlukan?
 
 ### Follow-up
-Kapan dan bagaimana perubahan akan diperiksa? Framework ini bukan skrip. Untuk percakapan sederhana, mungkin hanya perlu dua kalimat. Untuk masalah serius, seluruh rangkaian mungkin diperlukan.
+Kapan dan bagaimana perubahan akan diperiksa? Framework ini bukan skrip yang harus dibaca kata demi kata. Untuk percakapan sederhana, mungkin cukup dua kalimat. Untuk masalah serius, seluruh rangkaian mungkin diperlukan.
 
 ## 15. Contoh percakapan
 
@@ -308,7 +308,7 @@ Setelah konteks diperoleh:
 
 > “Baik. Untuk pekerjaan berikutnya, saya perlu Anda memberi sinyal paling lambat sehari sebelum tenggat jika ada risiko terlambat. Jika hambatannya berasal dari unit lain, kita eskalasi lebih awal.”
 
-Di sini feedback menghasilkan perubahan proses, bukan sekadar teguran.
+Dengan begitu, feedback tidak berhenti sebagai teguran; ia menghasilkan perubahan yang bisa diperiksa.
 
 ## 16. Ketika percakapan berubah menjadi konflik
 
@@ -324,7 +324,7 @@ Kembalikan:
 
 > “Kita bisa membahas perilaku saya juga. Untuk saat ini saya ingin menyelesaikan masalah yang sedang kita bicarakan.”
 
-Jika percakapan terus memburuk:
+Kalau percakapan terus memanas:
 
 > “Saya rasa kita tidak akan mendapatkan hasil yang baik kalau diteruskan dalam kondisi seperti ini. Kita jeda, lalu lanjutkan dengan data dan tujuan yang jelas.”
 
@@ -348,7 +348,7 @@ Jangan gunakan feedback sebagai ritual untuk menunda keputusan yang sebenarnya s
 :::
 
 ::: danger Batas
-Feedback tidak boleh menjadi alat mempermalukan, mengancam secara personal, membalas ketidaksetujuan, atau memaksa seseorang menerima interpretasi pemimpin tanpa kesempatan memeriksa fakta.
+Feedback tidak boleh dipakai untuk mempermalukan, membalas ketidaksetujuan, atau memaksa orang menerima interpretasi pemimpin tanpa kesempatan memeriksa fakta.
 :::
 
 ::: success Green Note
