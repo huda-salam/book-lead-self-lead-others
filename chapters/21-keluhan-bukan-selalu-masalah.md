@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Seorang bawahan berkata:
+Bayangkan seorang bawahan berkata:
 
 > “Pak, sistem ini bikin pekerjaan kita lambat.”
 
@@ -22,10 +22,10 @@ Seorang pimpinan berkata:
 
 > “Target kita tidak tercapai.”
 
-Semua pernyataan itu penting. Tetapi belum tentu semuanya adalah **problem statement**. Keluhan adalah pintu masuk. Bukan selalu diagnosis. Kalau pemimpin langsung memperlakukan kalimat pertama sebagai definisi masalah, ia bisa menghabiskan banyak energi untuk menyelesaikan masalah yang salah.
+Semua kalimat itu penting. Tetapi belum tentu sudah cukup untuk disebut **problem statement**. Keluhan adalah pintu masuk. Belum tentu diagnosis. Kalau kalimat pertama langsung dianggap sebagai definisi masalah, kita bisa menghabiskan banyak waktu menyelesaikan hal yang ternyata bukan masalah utamanya.
 
 ::: success Green Note
-**Dengarkan keluhannya. Jangan otomatis mewarisi diagnosisnya.**
+****Dengarkan keluhannya. Jangan otomatis mewarisi diagnosisnya.****
 :::
 
 ::: info Konteks
@@ -34,7 +34,7 @@ Chapter 10 membahas mendengar. Chapter 21 mulai mengubah informasi yang didengar
 
 ## Yang Sedang Kita Latih
 
-Pemimpin sedang melatih kemampuan untuk:
+Yang sedang dilatih adalah:
 
 - mendengar tanpa langsung menyetujui diagnosis;
 - membedakan keluhan dari problem;
@@ -44,11 +44,11 @@ Pemimpin sedang melatih kemampuan untuk:
 
 ## 1. Keluhan bukan sesuatu yang harus ditolak
 
-Kesalahan pertama adalah berkata:
+Kesalahan pertama biasanya sederhana:
 
 > “Jangan mengeluh. Cari solusi.”
 
-Kedengarannya produktif. Tetapi keluhan dapat mengandung informasi. Orang yang mengeluh mungkin sedang memberi tahu:
+Kedengarannya praktis. Padahal keluhan bisa membawa informasi yang justru kita perlukan. Orang yang mengeluh mungkin sedang memberi tahu:
 
 - ada hambatan;
 - ada risiko;
@@ -80,7 +80,7 @@ bisa berarti:
 - approval terlalu panjang;
 - atau orang sebenarnya tidak setuju dengan prosedurnya.
 
-Satu kalimat. Banyak kemungkinan. Karena itu jangan langsung memperbaiki server jika masalah sebenarnya approval.
+Satu kalimat bisa menyimpan banyak kemungkinan. Karena itu jangan langsung memperbaiki server jika masalah sebenarnya approval.
 
 ## 3. Bedakan empat lapisan
 
@@ -102,11 +102,11 @@ Gunakan pembedaan sederhana:
 
 > “Kita perlu menambah satu orang.”
 
-Keempatnya bukan hal yang sama. Menambah orang mungkin benar. Tetapi belum tentu.
+Empat hal ini jelas berbeda. Menambah orang mungkin benar. Tetapi belum tentu.
 
 ## 4. “Apa yang ingin berubah?”
 
-Pertanyaan sederhana ini sering sangat berguna. Jika seseorang berkata:
+Pertanyaan sederhana ini sering membuka persoalan yang sebenarnya. Jika seseorang berkata:
 
 > “Atasan tidak pernah mendengarkan.”
 
@@ -138,11 +138,11 @@ Jangan langsung:
 
 > “Itu hanya perasaan.”
 
-Perasaan adalah data tentang pengalaman seseorang. Tetapi perasaan tidak otomatis membuktikan kesimpulan tentang sistem. Respons yang lebih baik:
+Perasaan adalah data tentang pengalaman orang tersebut. Tetapi perasaan tidak otomatis membuktikan kesimpulan tentang sistem. Respons yang lebih baik:
 
 > “Saya ingin memahami bagian mana yang terasa tidak adil. Setelah itu kita lihat kriterianya dan datanya.”
 
-Ini mempertahankan dua hal:
+Dengan cara itu kita menjaga dua hal sekaligus:
 
 **pengalaman dihargai + klaim tetap diuji.**
 
@@ -199,7 +199,7 @@ Sekarang ada:
 
 Problem statement menjadi lebih berguna.
 
-## 8. Problem statement yang baik tidak harus sempurna
+## 8. Problem statement yang baik tidak harus sempurna sejak awal
 
 Jangan terjebak:
 
@@ -213,7 +213,7 @@ Kemudian diperiksa. Jika salah:
 
 > update.
 
-Kemampuan penting bukan membuat framing sempurna sejak awal. Tetapi:
+Yang penting bukan membuat framing sempurna sejak awal. Yang penting adalah:
 
 > **membuat framing yang cukup baik untuk mulai belajar.**
 
@@ -229,7 +229,7 @@ Mungkin:
 
 > “Tiga pekerjaan yang menjadi tanggung jawabnya tidak selesai sesuai tenggat.”
 
-Sekarang ada sesuatu yang dapat diperiksa. Mungkin memang ada masalah accountability. Mungkin juga ada hambatan lain. Tetapi kita tidak lagi bekerja dengan label.
+Sekarang kita punya sesuatu yang bisa diperiksa. Mungkin memang ada masalah accountability. Mungkin juga ada hambatan lain. Tetapi kita tidak lagi bekerja dengan label.
 
 ## 10. Keluhan tentang organisasi sering perlu diterjemahkan menjadi mekanisme
 
@@ -246,7 +246,7 @@ Mungkin:
 - aturan berbeda antarunit;
 - atau kewenangan tidak jelas.
 
-Sekarang ada objek yang dapat diperbaiki.
+Sekarang masalahnya punya objek yang bisa diperbaiki.
 
 ## 11. Jangan semua hal dijadikan problem
 
@@ -265,7 +265,7 @@ Tetapi jika format tersebut menyebabkan:
 - informasi penting hilang;
 - atau kewajiban tidak terpenuhi;
 
-barulah ada alasan untuk memeriksanya sebagai problem. Pemimpin perlu membedakan:
+barulah ada alasan untuk memeriksanya sebagai problem. Jadi bedakan:
 
 **tidak saya sukai** dari:
 
@@ -285,7 +285,7 @@ Masalah utamanya mungkin bukan sistem prioritas. Masalahnya:
 
 > tidak ada keputusan tentang apa yang boleh ditunda.
 
-Dalam kasus seperti ini, solusi teknis tidak cukup. Yang dibutuhkan adalah:
+Dalam kasus seperti ini, solusi teknis belum tentu cukup. Yang dibutuhkan mungkin justru:
 
 > **choice.**
 
@@ -352,11 +352,11 @@ Yang kedua membuka beberapa kemungkinan:
 - tambah kapasitas;
 - atau ubah target.
 
-Problem framing yang baik menjaga ruang pilihan tetap terbuka.
+Framing yang baik menjaga pilihan tetap terbuka.
 
 ## 16. Framework kerja: Listen → Translate → Bound → Test → Frame
 
-Framework ini adalah **sintesis kerja buku**, bukan taxonomy problem framing tervalidasi.
+Framework ini adalah **sintesis kerja buku**, bukan taxonomy problem framing yang tervalidasi.
 
 ### Listen
 
@@ -414,7 +414,7 @@ Turunkan:
 
 > “Pengguna harus memasukkan data yang sama pada dua aplikasi dan rata-rata membutuhkan tambahan 20 menit per transaksi.”
 
-Tujuannya bukan membuktikan keluhan salah. Tujuannya:
+Tujuannya bukan membuktikan keluhan salah. Tujuannya sederhana:
 
 > **membuatnya cukup konkret untuk diperiksa.**
 
@@ -432,7 +432,7 @@ Mungkin tidak langsung terlihat dalam KPI. Tetapi dapat dipelajari melalui:
 - survei;
 - atau kasus yang tidak pernah dilaporkan.
 
-Evidence bukan hanya spreadsheet.
+Bukti tidak selalu berbentuk spreadsheet.
 
 ## 19. Kapan harus berhenti framing?
 
@@ -446,7 +446,7 @@ jangan terus membuat definisi semakin sempurna. Gunakan:
 
 > **minimum sufficient framing.**
 
-Cukup jelas untuk memilih langkah berikutnya. Jika informasi baru muncul, framing dapat diperbarui.
+Cukup jelas untuk menentukan langkah berikutnya. Jika informasi baru muncul, framing dapat diperbarui.
 
 ## 20. Problem Framing Card
 
@@ -488,7 +488,7 @@ Jangan menggunakan problem framing untuk menghapus pengalaman orang, menutupi pe
 :::
 
 ::: success Green Note
-**Carry forward:** Keluhan adalah informasi. Diagnosis belum tentu. Dengarkan dengan serius, terjemahkan dengan hati-hati, uji dengan bukti, lalu buat problem statement yang cukup jelas untuk bergerak.
+**Carry forward:** **Keluhan adalah informasi. Diagnosis belum tentu.** Dengarkan dengan serius, terjemahkan dengan hati-hati, uji dengan bukti, lalu buat problem statement yang cukup jelas untuk bergerak.
 :::
 
 ## Evidence notes
