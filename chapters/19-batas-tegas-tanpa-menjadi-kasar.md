@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Ada dua kegagalan yang sering muncul ketika seorang pemimpin harus menetapkan batas. Yang pertama:
+Ketika harus menetapkan batas, pemimpin biasanya jatuh ke salah satu dari dua sisi. Yang pertama:
 
 > terlalu keras.
 
@@ -14,7 +14,7 @@ Masalahnya disampaikan dengan intimidasi, penghinaan, atau ancaman. Yang kedua:
 
 > terlalu kabur.
 
-Pemimpin ingin menjaga hubungan sehingga standar tidak pernah benar-benar disebutkan. Keduanya memiliki biaya. Pemimpin perlu mampu mengatakan:
+Pemimpin ingin menjaga hubungan sehingga standar tidak pernah benar-benar disebutkan. Keduanya punya biaya. Pemimpin perlu mampu mengatakan:
 
 > “Tidak.”
 
@@ -26,7 +26,7 @@ tanpa mempermalukan. Dan perlu mengatakan:
 
 > “Jika kondisi ini terjadi lagi, kita akan menjalankan prosedur X.”
 
-tanpa membuat ancaman personal. Batas bukan alat untuk menunjukkan siapa yang berkuasa. Batas adalah cara membuat ruang tindakan menjadi jelas.
+tanpa membuat ancaman personal. Batas bukan cara menunjukkan siapa yang lebih berkuasa. Batas membuat orang tahu apa yang boleh, apa yang tidak, dan apa yang terjadi setelahnya.
 
 ::: success Green Note
 **Tegas pada standar. Hormat pada orang.**
@@ -38,7 +38,7 @@ Chapter 18 membahas menurunkan suhu konflik. Chapter 19 membahas apa yang dilaku
 
 ## Yang Sedang Kita Latih
 
-Pemimpin sedang melatih kemampuan untuk:
+Yang sedang dilatih adalah:
 
 - membedakan preferensi dari standar;
 - menyatakan batas tanpa agresi;
@@ -48,11 +48,7 @@ Pemimpin sedang melatih kemampuan untuk:
 
 ## 1. Batas bukan berarti “saya harus menang”
 
-Kalimat:
-
-> “Saya pimpinan di sini.”
-
-bisa menghentikan percakapan. Tetapi belum tentu menyelesaikan masalah. Batas yang baik menjelaskan:
+Kalimat “Saya pimpinan di sini” mungkin bisa menghentikan percakapan. Tetapi itu belum tentu menyelesaikan persoalan. Batas yang baik setidaknya menjelaskan:
 
 > apa yang tidak dapat diterima, mengapa, dan apa yang terjadi berikutnya.
 
@@ -104,7 +100,7 @@ menjadi:
 
 ## 3. Assertive bukan aggressive
 
-Secara praktis, kita dapat membedakan:
+Secara praktis, bedanya bisa dilihat seperti ini:
 
 **Pasif**
 
@@ -142,7 +138,7 @@ Semakin konkret objeknya, semakin kecil ruang untuk perdebatan tentang maksud.
 
 ## 5. Gunakan struktur sederhana
 
-Framework berikut adalah **sintesis kerja buku**, bukan model tervalidasi:
+Framework berikut adalah **sintesis kerja buku**, bukan model yang tervalidasi secara universal:
 
 **Observe → Name → Standard → Limit → Consequence/Next Step → Follow Through → Review**
 
@@ -178,7 +174,7 @@ Apa yang dilakukan?
 
 ### Follow Through
 
-Jalankan apa yang sudah dikatakan.
+Setelah batas ditetapkan, jalankan apa yang memang sudah dikatakan.
 
 ### Review
 
@@ -198,7 +194,7 @@ Yang kedua dapat diprediksi. Yang pertama personal. Pemimpin sebaiknya tidak men
 
 ## 7. Jangan langsung menghukum sebelum memahami penyebab
 
-Batas bukan berarti:
+Menetapkan batas bukan berarti:
 
 > “Sekali salah, langsung sanksi.”
 
@@ -212,7 +208,7 @@ Kembali ke Chapter 17. Kegagalan dapat berasal dari:
 - sistem;
 - atau konteks.
 
-Jika seseorang terlambat karena prosedur yang dirancang buruk, hukuman personal mungkin hanya memindahkan masalah. Sebaliknya, jika standar sudah jelas, sumber daya memadai, hambatan diketahui, dan pelanggaran berulang, accountability dapat menjadi lebih relevan.
+Kalau keterlambatan sebenarnya disebabkan prosedur yang buruk, hukuman kepada orangnya mungkin tidak menyelesaikan apa-apa. Sebaliknya, jika standar sudah jelas, sumber daya memadai, hambatan diketahui, dan pelanggaran berulang, accountability dapat menjadi lebih relevan.
 
 Batas yang baik tidak menghapus diagnosis.
 
@@ -222,9 +218,9 @@ Ada orang yang bangga:
 
 > “Saya memang orangnya keras.”
 
-Itu bukan bukti kepemimpinan. Pemimpin tidak dibayar untuk terlihat keras. Pemimpin dibutuhkan untuk membuat standar dan keputusan menjadi jelas. Kadang bentuk yang tepat adalah keras. Kadang cukup singkat. Kadang justru perlu percakapan panjang.
+Itu bukan bukti kepemimpinan. Pemimpin tidak perlu membuktikan ketegasan dengan terlihat keras. Pemimpin dibutuhkan untuk membuat standar dan keputusan menjadi jelas. Kadang bentuk yang tepat adalah keras. Kadang cukup singkat. Kadang justru perlu percakapan panjang.
 
-Pertanyaan yang lebih baik:
+Pertanyaan yang lebih berguna:
 
 > “Apa bentuk ketegasan yang diperlukan situasi ini?”
 
@@ -246,7 +242,7 @@ Ini masih boundary. Bedanya objeknya adalah perilaku diri sendiri. Dalam konteks
 
 ## 10. Batas dan hubungan tidak selalu berlawanan
 
-Batas yang jelas justru dapat mengurangi ketidakpastian. Orang tahu:
+Batas yang jelas justru bisa mengurangi ketidakpastian. Orang tahu:
 
 - apa yang diharapkan;
 - apa yang tidak dapat diterima;
@@ -275,7 +271,7 @@ Tetapi ketidakjelasan juga memiliki biaya. Alternatif:
 
 > “Saya ingin membahas ini secara langsung. Standarnya sudah kita sepakati. Saya ingin memahami apa yang membuatnya tidak tercapai, lalu kita tentukan langkah berikutnya.”
 
-Ada accountability. Ada ruang diagnosis.
+Di sini accountability tetap ada, tetapi kita masih memberi ruang untuk memahami penyebabnya.
 
 ## 12. Ketika atasan melanggar batas
 
@@ -283,7 +279,7 @@ Batas tidak hanya berlaku ke bawah. Misalnya:
 
 > “Saya siap menjalankan keputusan tersebut. Saya perlu menyampaikan bahwa ada risiko X dan kewajiban Y yang perlu dipertimbangkan. Jika keputusan tetap demikian, saya ingin memastikan arahan tersebut tercatat.”
 
-Ini bukan pembangkangan. Ini menjaga informasi, risiko, dan akuntabilitas. Jika persoalannya serius atau melanggar aturan, gunakan jalur eskalasi yang sah.
+Ini bukan pembangkangan. Kita sedang menjaga informasi, risiko, dan akuntabilitas tetap terlihat. Jika persoalannya serius atau melanggar aturan, gunakan jalur eskalasi yang sah.
 
 ## 13. Ketika rekan kerja melanggar batas
 
@@ -303,7 +299,7 @@ Masalah tetap disebut. Tetapi tidak diperluas menjadi serangan karakter.
 
 ## 14. Jangan gunakan boundary sebagai senjata
 
-Boundary dapat disalahgunakan. Contohnya:
+Batas juga bisa disalahgunakan. Contohnya:
 
 > “Batas saya adalah Anda tidak boleh mengkritik saya.”
 
@@ -311,15 +307,15 @@ Itu bukan otomatis boundary yang sah. Atau:
 
 > “Saya tidak menerima pertanyaan tentang keputusan saya.”
 
-Itu dapat menghilangkan mekanisme koreksi. Batas perlu memiliki dasar yang dapat dijelaskan. Pertanyaan uji:
+Itu dapat menghilangkan mekanisme koreksi. Karena itu setiap batas perlu punya alasan yang bisa dijelaskan. Pertanyaan uji:
 
 > **“Batas ini melindungi apa?”**
 
-Jika jawabannya:
+Kalau jawabannya:
 
 > keselamatan, aturan, kapasitas, peran, martabat, integritas, atau tujuan kerja,
 
-dasarnya mungkin cukup kuat. Jika jawabannya:
+dasarnya mungkin cukup kuat. Kalau jawabannya:
 
 > “supaya tidak ada yang mempertanyakan saya,”
 
@@ -340,13 +336,13 @@ Sebelum menetapkan batas, tanyakan:
 9. Apakah saya memiliki kewenangan menjalankannya?
 10. Apakah saya siap konsisten?
 
-Pertanyaan terakhir sering paling sulit. Jangan menetapkan:
+Pertanyaan terakhir biasanya justru yang paling sulit. Jangan mengatakan:
 
 > “Kalau terlambat sekali lagi, akan ada tindakan.”
 
 jika Anda tahu Anda tidak akan melakukan apa pun.
 
-## 16. Batas yang konsisten lebih kredibel daripada batas yang keras
+## 16. Batas yang konsisten lebih meyakinkan daripada batas yang keras
 
 Orang belajar bukan hanya dari apa yang pemimpin katakan. Mereka belajar dari:
 
@@ -366,7 +362,7 @@ Konsistensi tidak berarti semua kasus harus identik. Perbedaan kasus dapat membe
 
 ## 17. Kapan boundary harus berubah?
 
-Boundary bukan benda sakral. Jika:
+Batas juga bukan benda sakral. Jika:
 
 - aturan berubah;
 - informasi baru muncul;
@@ -384,7 +380,7 @@ Itu berbeda dari:
 
 ## 18. Batas dalam situasi serius
 
-Untuk:
+Untuk kasus seperti:
 
 - keselamatan;
 - fraud;
@@ -432,7 +428,7 @@ Ubah menjadi:
 
 > “Kejadian ini tidak boleh terulang. Mari tentukan perubahan proses yang akan mencegahnya.”
 
-Tujuannya bukan membuat kalimat lebih lembut. Tujuannya membuat:
+Tujuannya bukan sekadar membuat kalimat terdengar lebih lembut. Tujuannya membuat:
 
 > **standar lebih jelas, serangan personal lebih sedikit, dan tindakan lebih dapat dipertanggungjawabkan.**
 
