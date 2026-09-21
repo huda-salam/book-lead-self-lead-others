@@ -1,69 +1,82 @@
-import { defineConfig } from 'vitepress'
+:root {
+  --vp-font-family-base: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --vp-font-family-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+}
 
-const chapters = [
-  ['Bab 1 — Siapa yang Sebenarnya Mengendalikan Respons Saya?', '/chapters/01-siapa-yang-sebenarnya-mengendalikan-respons-saya'],
-  ['Bab 2 — Ego, Emosi, dan Jeda', '/chapters/02-ego-emosi-dan-jeda'],
-  ['Bab 3 — Rendah Hati Tanpa Merendahkan Diri', '/chapters/03-rendah-hati-tanpa-merendahkan-diri'],
-  ['Bab 4 — Tetap Berdiri Ketika Keadaan Tidak Sesuai Harapan', '/chapters/04-tetap-berdiri-ketika-keadaan-tidak-sesuai-harapan'],
-  ['Bab 5 — Positive, Tetapi Tidak Menipu Diri', '/chapters/05-positive-tetapi-tidak-menipu-diri'],
-  ['Bab 6 — Jangan Langsung Menjawab', '/chapters/06-jangan-langsung-menjawab'],
-  ['Bab 7 — Fakta, Tafsir, dan Cerita di Kepala', '/chapters/07-fakta-tafsir-dan-cerita-di-kepala'],
-  ['Bab 8 — Membaca Orang Tanpa Sok Tahu', '/chapters/08-membaca-orang-tanpa-sok-tahu'],
-  ['Bab 9 — Memilih Respons', '/chapters/09-memilih-respons-bicara-diam-bertanya-menunda-menolak-atau-eskalasi'],
-  ['Bab 10 — Mendengar Tanpa Ikut Terbakar', '/chapters/10-mendengar-tanpa-ikut-terbakar'],
-  ['Bab 11 — Menghargai dan Berbeda Pendapat', '/chapters/11-menghargai-dan-berbeda-pendapat']
-]
+.VPHero .name {
+  letter-spacing: -0.04em;
+}
 
-export default defineConfig({
-  lang: 'id-ID',
-  title: 'Memimpin Diri, Memimpin Sesama',
-  titleTemplate: ':title · Lead Self. Lead Others.',
-  description: 'Panduan praktis dan analitis untuk memimpin diri dan sesama.',
-  base: '/book-lead-self-lead-others/',
-  cleanUrls: true,
-  srcExclude: [
-    'foundation/**',
-    'research/**',
-    'README.md',
-    '**/README.md'
-  ],
-  themeConfig: {
-    siteTitle: 'Lead Self. Lead Others.',
-    nav: [
-      { text: 'Buku', link: '/chapters/01-siapa-yang-sebenarnya-mengendalikan-respons-saya' },
-      { text: 'GitHub', link: 'https://github.com/huda-salam/book-lead-self-lead-others' }
-    ],
-    sidebar: [
-      {
-        text: 'Bagian I — Memimpin Diri',
-        collapsed: false,
-        items: chapters.slice(0, 5).map(([text, link]) => ({ text, link }))
-      },
-      {
-        text: 'Bagian II — Membaca Situasi',
-        collapsed: false,
-        items: chapters.slice(5, 9).map(([text, link]) => ({ text, link }))
-      },
-      {
-        text: 'Bagian III — Komunikasi',
-        collapsed: false,
-        items: chapters.slice(9).map(([text, link]) => ({ text, link }))
-      }
-    ],
-    outline: [2, 3],
-    search: {
-      provider: 'local'
-    },
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/huda-salam/book-lead-self-lead-others' }
-    ],
-    footer: {
-      message: 'Lead Self. Lead Others.',
-      copyright: 'Draft berkembang — sumber dan status epistemik mengikuti Book OS.'
-    },
-    editLink: {
-      pattern: 'https://github.com/huda-salam/book-lead-self-lead-others/edit/main/:path',
-      text: 'Edit halaman ini di GitHub'
-    }
+.VPHero .text {
+  max-width: 760px;
+  line-height: 1.25;
+}
+
+.VPFeature {
+  border-radius: 16px;
+  transition: transform 160ms ease, border-color 160ms ease;
+}
+
+.VPFeature:hover {
+  transform: translateY(-2px);
+}
+
+.vp-doc h2 {
+  letter-spacing: -0.02em;
+}
+
+.vp-doc blockquote {
+  border-radius: 10px;
+  padding: 12px 18px;
+}
+
+.vp-doc table {
+  display: table;
+  width: 100%;
+}
+
+.vp-doc .custom-block {
+  border-radius: 10px;
+}
+
+@media (max-width: 640px) {
+  .VPHero .name {
+    font-size: 2.5rem;
   }
-})
+}
+
+
+/* Semantic editorial callouts */
+:root[data-book-style='sky'] .vp-doc .custom-block.success {
+  border-color: rgba(46, 125, 50, 0.24);
+  background: linear-gradient(90deg, rgba(76, 175, 80, 0.11), rgba(76, 175, 80, 0.035));
+}
+
+:root[data-book-style='sky'] .vp-doc .custom-block.important {
+  border-color: rgba(25, 118, 210, 0.26);
+  background: linear-gradient(90deg, rgba(25, 118, 210, 0.10), rgba(25, 118, 210, 0.035));
+}
+
+:root[data-book-style='sky'] .vp-doc .custom-block.caution {
+  border-color: rgba(245, 158, 11, 0.30);
+  background: linear-gradient(90deg, rgba(245, 158, 11, 0.11), rgba(245, 158, 11, 0.035));
+}
+
+:root[data-book-style='sky'] .vp-doc .custom-block.warning {
+  background: linear-gradient(90deg, rgba(245, 158, 11, 0.12), rgba(245, 158, 11, 0.04));
+}
+
+:root[data-book-style='sky'] .vp-doc .custom-block.danger {
+  background: linear-gradient(90deg, rgba(211, 47, 47, 0.10), rgba(211, 47, 47, 0.035));
+}
+
+:root[data-book-style='sky'] .vp-doc .custom-block-title {
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+@media (max-width: 640px) {
+  :root[data-book-style='sky'] .vp-doc .custom-block {
+    padding: 10px 14px;
+  }
+}
