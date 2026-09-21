@@ -68,7 +68,7 @@ Keempatnya dapat terjadi sangat cepat sehingga terasa seperti satu rangkaian oto
 
 Pemisahan ini bukan permainan istilah. Ia memberi ruang untuk berpikir.
 
-Literatur tentang emosi dalam organisasi menggambarkan emosi sebagai proses yang melibatkan pemberian makna pada situasi, pengalaman emosional, serta konsekuensinya terhadap perilaku dan kognisi. citeturn0search2turn0search9 Literatur self-regulation di tempat kerja juga memandang pengaturan diri sebagai proses yang berlangsung dari waktu ke waktu, dengan tujuan, tuntutan, pengetahuan, dan konteks yang saling berinteraksi. citeturn0search1turn0search13
+Literatur tentang emosi dalam organisasi menggambarkan emosi sebagai proses yang melibatkan pemberian makna pada situasi, pengalaman emosional, serta konsekuensinya terhadap perilaku dan kognisi. ([lihat Evidence notes](#evidence-notes)) Literatur self-regulation di tempat kerja juga memandang pengaturan diri sebagai proses yang berlangsung dari waktu ke waktu, dengan tujuan, tuntutan, pengetahuan, dan konteks yang saling berinteraksi. ([lihat Evidence notes](#evidence-notes))
 
 Karena itu, respons yang matang tidak dimulai dari pertanyaan “Apa yang ingin saya katakan?”, tetapi dari pertanyaan:
 
@@ -88,7 +88,7 @@ Dalam pekerjaan, kita berhadapan dengan keputusan orang lain, struktur kewenanga
 
 Karena itu, **agency** lebih tepat dipahami sebagai ruang untuk memilih dan memengaruhi tindakan dalam kondisi tertentu, bukan kekuasaan total atas hasil.
 
-**Evidence menunjukkan** bahwa self-regulation di tempat kerja merupakan proses dinamis untuk mengelola kesenjangan terhadap tujuan/standar sambil menghadapi tuntutan dan tujuan yang bersaing. citeturn0search1turn0search13 **Dalam kerangka buku ini**, implikasinya adalah agency lebih berguna dipahami sebagai ruang tindakan yang nyata daripada sebagai kontrol total atas hasil.
+**Evidence menunjukkan** bahwa self-regulation di tempat kerja merupakan proses dinamis untuk mengelola kesenjangan terhadap tujuan/standar sambil menghadapi tuntutan dan tujuan yang bersaing. ([lihat Evidence notes](#evidence-notes)) **Dalam kerangka buku ini**, implikasinya adalah agency lebih berguna dipahami sebagai ruang tindakan yang nyata daripada sebagai kontrol total atas hasil.
 
 Dengan kata lain:
 
@@ -303,7 +303,7 @@ Karena itu:
 
 > **Memilih respons yang baik belum sama dengan mampu menjalankannya.**
 
-**Evidence menunjukkan** bahwa self-regulation berkaitan dengan menjaga perilaku tetap terhubung dengan tujuan di tengah tuntutan dan gangguan yang bersaing. citeturn0search1turn0search13 **Dalam arsitektur buku ini**, hubungan tersebut menjadi jembatan awal antara SELF.RESPONSE dan SELF.DISCIPLINE.
+**Evidence menunjukkan** bahwa self-regulation berkaitan dengan menjaga perilaku tetap terhubung dengan tujuan di tengah tuntutan dan gangguan yang bersaing. ([lihat Evidence notes](#evidence-notes)) **Dalam arsitektur buku ini**, hubungan tersebut menjadi jembatan awal antara SELF.RESPONSE dan SELF.DISCIPLINE.
 
 Misalnya kita sudah memutuskan:
 
