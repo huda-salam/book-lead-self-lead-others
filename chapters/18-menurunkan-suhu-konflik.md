@@ -36,7 +36,7 @@ Tujuannya lebih sederhana:
 
 > **Turunkan suhu yang tidak perlu agar masalah yang perlu diselesaikan kembali terlihat.**
 
-Penelitian tentang conflict management menekankan bahwa pembahasan terbuka, mendengarkan pandangan pihak lain, dan memahami perbedaan dapat mendukung pengelolaan konflik secara konstruktif—tetapi kondisi dan batasnya tetap penting. citeturn0search3
+Penelitian tentang conflict management menekankan bahwa pembahasan terbuka, mendengarkan pandangan pihak lain, dan memahami perbedaan dapat mendukung pengelolaan konflik secara konstruktif—tetapi kondisi dan batasnya tetap penting. ([lihat Evidence notes](#evidence-notes))
 
 ::: success Green Note
 **Turunkan suhu, jangan turunkan standar.**
@@ -329,7 +329,7 @@ Pihak ketiga dapat membantu ketika:
 - proses membutuhkan mediator;
 - atau ada kepentingan yang sulit dipisahkan dari hubungan personal.
 
-Literatur peacemaking di tempat kerja menunjukkan bahwa bantuan pihak ketiga dapat mencakup dimensi relasional, prosedural, emosional, dan substantif. citeturn0search1
+Literatur peacemaking di tempat kerja menunjukkan bahwa bantuan pihak ketiga dapat mencakup dimensi relasional, prosedural, emosional, dan substantif. ([lihat Evidence notes](#evidence-notes))
 
 Pihak ketiga bukan selalu “hakim”.
 
@@ -354,7 +354,7 @@ jangan menjadikan “ayo kita bicara baik-baik” sebagai satu-satunya mekanisme
 
 Keselamatan dan mekanisme formal harus didahulukan sesuai konteks.
 
-Dalam konteks workplace violence, penelitian intervensi menunjukkan bahwa pelatihan komunikasi saja memiliki keterbatasan; intervensi yang lebih luas dapat diperlukan. Temuan ini berasal dari konteks layanan kesehatan dan tidak boleh digeneralisasi begitu saja ke semua konflik kantor. citeturn0search13
+Dalam konteks workplace violence, penelitian intervensi menunjukkan bahwa pelatihan komunikasi saja memiliki keterbatasan; intervensi yang lebih luas dapat diperlukan. Temuan ini berasal dari konteks layanan kesehatan dan tidak boleh digeneralisasi begitu saja ke semua konflik kantor. ([lihat Evidence notes](#evidence-notes))
 
 ::: warning Risiko
 De-eskalasi bukan alasan untuk menunda tindakan ketika ada risiko keselamatan, pelanggaran serius, atau kewajiban formal yang harus segera dijalankan.
