@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Di organisasi, konflik sering dimulai dengan kalimat sederhana:
+Di organisasi, benturan kepentingan sering terdengar sangat sederhana:
 
 > “Kalau ini dilakukan, pekerjaan kami akan bertambah.”
 
@@ -14,11 +14,11 @@ Pihak lain menjawab:
 
 > “Kalau tidak dilakukan, risiko kami yang bertambah.”
 
-Keduanya bisa benar. Masalahnya:
+Keduanya bisa benar. Persoalannya:
 
 > sumber daya terbatas.
 
-Waktu terbatas. Orang terbatas. Anggaran terbatas. Authority terbatas. Perhatian pimpinan juga terbatas. Maka leadership bukan hanya kemampuan membuat orang sepakat. Kadang leadership berarti:
+Waktu terbatas. Orang terbatas. Anggaran terbatas. Kewenangan juga terbatas. Perhatian pimpinan juga terbatas. Maka leadership bukan hanya kemampuan membuat orang sepakat. Kadang leadership berarti:
 
 > **membuat pilihan ketika kepentingan yang legitimate memang tidak dapat dipenuhi semuanya.**
 
@@ -32,7 +32,7 @@ Chapter 28 membantu membaca siapa memiliki kepentingan dan pengaruh. Chapter 29 
 
 ## Yang Sedang Kita Latih
 
-Pemimpin sedang melatih kemampuan untuk:
+Yang perlu dilatih adalah:
 
 - membedakan position dan interest;
 - memahami constraint;
@@ -72,7 +72,7 @@ Maka conflict mungkin berasal dari:
 
 Tidak ada satu pun yang harus dianggap jahat.
 
-## 2. Position ≠ Interest
+## 2. Posisi tidak selalu sama dengan kepentingan
 
 Position:
 
@@ -90,11 +90,11 @@ Atau:
 
 > “Kami belum memiliki kapasitas untuk menjalankannya.”
 
-Position memberi tahu:
+Posisi memberi tahu kita:
 
 > apa yang dikatakan.
 
-Interest membantu memahami:
+Kepentingan membantu menjelaskan:
 
 > mengapa.
 
@@ -140,9 +140,7 @@ ke:
 
 ## 4. Tidak semua interest harus dipenuhi
 
-Ini penting. Memahami kepentingan seseorang:
-
-> tidak berarti kita harus memenuhi kepentingannya.
+Ini penting. Memahami kepentingan seseorang tidak otomatis berarti kita harus memenuhinya.
 
 Misalnya seseorang ingin:
 
@@ -152,9 +150,7 @@ Pemimpin dapat memahami alasan tersebut. Tetapi tetap mengatakan:
 
 > “Saya paham kebutuhan waktunya. Tetapi control ini bukan bagian yang dapat kita hilangkan.”
 
-Empathy:
-
-> tidak sama dengan concession.
+Memahami alasan seseorang juga tidak otomatis berarti kita harus mengabulkan permintaannya.
 
 Ini konsisten dengan Chapter 10, 11, 15, dan 19.
 
@@ -182,17 +178,15 @@ sementara:
 
 > transaksi high-risk tetap melalui kontrol penuh.
 
-Di sini conflict menghasilkan:
+Di sini benturan itu bisa membuka:
 
-> **design problem.**
+> ****masalah desain.****
 
-Bukan sekadar:
+Bukan sekadar adu argumen.
 
-> argument.
+Tetapi jangan menganggap semua konflik bisa diselesaikan dengan desain yang rapi.
 
-Tetapi jangan menganggap semua konflik dapat diselesaikan seperti ini.
-
-## 6. Ada konflik yang memang zero-sum
+## 6. Ada konflik yang memang tidak bisa membuat semua pihak mendapatkan apa yang mereka inginkan
 
 Contoh:
 
@@ -206,7 +200,7 @@ anggaran hanya cukup untuk:
 
 > satu dari dua program.
 
-Dalam situasi seperti ini:
+Dalam situasi seperti ini, yang perlu dilakukan adalah:
 
 > “win-win”
 
@@ -216,7 +210,7 @@ bisa menjadi slogan yang tidak membantu. Pemimpin perlu mengatakan:
 
 Kemudian:
 
-> gunakan criteria yang legitimate.
+> gunakan kriteria yang dapat dipertanggungjawabkan.
 
 ## 7. Hard constraint vs preference
 
@@ -240,11 +234,11 @@ Misalnya:
 - format yang lebih nyaman;
 - preferensi jadwal.
 
-Jika semuanya diperlakukan sebagai:
+Kalau semuanya diperlakukan sebagai:
 
-> “kepentingan yang sama penting,”
+> “kepentingan yang sama-sama tidak bisa digeser,”
 
-keputusan menjadi kabur. Pemimpin perlu bertanya:
+keputusan justru menjadi kabur. Pemimpin perlu bertanya:
 
 > “Mana yang tidak dapat dinegosiasikan?”
 
@@ -264,7 +258,7 @@ Pilihan B:
 
 > aman, tetapi lebih lambat.
 
-Jangan menyembunyikan trade-off dengan bahasa:
+Jangan menyembunyikan trade-off di balik kalimat seperti:
 
 > “Kita cari solusi terbaik.”
 
@@ -274,7 +268,7 @@ Lebih jujur:
 
 Ini membuat keputusan:
 
-> lebih dapat dipertanggungjawabkan.
+> lebih mudah dipertanggungjawabkan.
 
 ## 9. Jangan hanya bertanya “siapa yang menang?”
 
@@ -296,15 +290,15 @@ Pertanyaan yang lebih berguna:
 
 > Apa yang terjadi jika tidak ada agreement?
 
-Dengan begitu conflict dipindahkan dari:
+Dengan begitu, benturan tadi bergeser dari:
 
-> personal contest
+> pertarungan pribadi
 
 ke:
 
-> decision problem.
+> masalah keputusan.
 
-## 10. Alternatives matter
+## 10. Alternatif tetap penting
 
 Jika A dan B hanya memiliki:
 
@@ -338,7 +332,7 @@ Dalam negosiasi, penting mengetahui:
 
 > apa yang terjadi jika tidak ada kesepakatan?
 
-Secara sederhana:
+Sederhananya:
 
 > **Apa alternatif realistis saya jika agreement tidak terjadi?**
 
@@ -346,9 +340,7 @@ Jangan membayangkan alternatif sempurna. Cari:
 
 > alternative yang benar-benar tersedia.
 
-Semakin sedikit alternatif yang dimiliki suatu pihak:
-
-> semakin besar dependency-nya.
+Semakin sedikit alternatif yang dimiliki seseorang, semakin besar ketergantungannya pada pihak lain.
 
 Ini menghubungkan Chapter 29 dengan power map Chapter 28.
 
@@ -366,13 +358,9 @@ Atau:
 
 > tidak benar-benar siap melakukan ancaman tersebut.
 
-Ini menciptakan:
+Cara seperti itu justru merusak kredibilitas.
 
-> credibility problem.
-
-Lebih baik:
-
-> jelaskan constraint dan consequence yang benar-benar legitimate.
+Lebih baik jelaskan batasan dan konsekuensi yang memang nyata serta sah.
 
 ## 13. Process legitimacy
 
@@ -385,7 +373,7 @@ Tidak semua orang harus setuju dengan hasil. Tetapi proses yang baik biasanya le
 - trade-off tidak disembunyikan;
 - dan penerapan konsisten dengan aturan yang relevan.
 
-Ini bukan jaminan semua orang akan menerima keputusan. Tetapi membantu membedakan:
+Ini tentu tidak menjamin semua orang akan menerima hasilnya. Tetapi membantu membedakan:
 
 > keputusan yang tidak disukai
 
@@ -395,7 +383,7 @@ dari:
 
 ## 14. Framework: Interest Conflict Map
 
-Framework berikut adalah **sintesis kerja buku**, bukan taxonomy negosiasi tervalidasi:
+Framework berikut adalah **sintesis kerja buku**, bukan taxonomy negosiasi yang tervalidasi:
 
 **Issue → Actors → Positions → Interests → Constraints → Alternatives → Trade-offs → Agreement/Decision → Follow-through**
 
@@ -461,7 +449,7 @@ Petakan:
 
 **Reversibility** Bisakah sebagian dana dialihkan kemudian?
 
-**Trade-off** Apa yang sengaja tidak dibiayai? Sekarang keputusan lebih transparan.
+**Trade-off** Apa yang sengaja tidak dibiayai? Dengan begitu alasan keputusan lebih mudah dilihat.
 
 ## 16. Ketika tidak ada agreement
 
@@ -562,11 +550,11 @@ menjadi:
 
 > masalah yang dapat dianalisis.
 
-Tetapi jika setelah dianalisis ternyata memang:
+Tetapi kalau setelah dianalisis ternyata memang:
 
-> dua kepentingan tidak kompatibel,
+> dua kepentingan memang tidak bisa dipenuhi sekaligus,
 
-jangan memaksakan narasi bahwa selalu ada win-win.
+jangan memaksakan cerita bahwa selalu ada jalan win-win.
 
 ## 20. Leadership saat harus memilih
 
@@ -574,13 +562,11 @@ Pemimpin kadang perlu mengatakan:
 
 > “Saya memahami alasan Anda. Saya tetap memilih opsi ini karena constraint X dan evidence Y.”
 
-Ini bukan kegagalan komunikasi. Ini dapat menjadi:
+Ini bukan kegagalan komunikasi. Ini bisa menjadi:
 
-> **decision with respect.**
+> ****keputusan yang tetap menghormati pihak yang berbeda.****
 
-Tidak semua orang harus mendapatkan apa yang mereka inginkan. Tetapi mereka berhak mendapatkan:
-
-> proses dan alasan yang dapat dipertanggungjawabkan sesuai konteks.
+Tidak semua orang akan mendapatkan apa yang mereka inginkan. Tetapi proses dan alasan keputusannya tetap perlu dapat dipertanggungjawabkan.
 
 ::: warning Risiko
 Jangan mengubah pemahaman terhadap interest menjadi kewajiban untuk memenuhi semua interest. Leadership tetap membutuhkan prioritas, batas, dan keputusan.
