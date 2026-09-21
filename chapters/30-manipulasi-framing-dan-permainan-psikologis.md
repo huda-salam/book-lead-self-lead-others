@@ -6,7 +6,7 @@
 
 ## Mengapa Ini Penting
 
-Ada kalanya seseorang berkata:
+Kadang seseorang berkata:
 
 > “Ini kesempatan terakhir. Kalau sekarang tidak setuju, semuanya akan terlambat.”
 
@@ -14,7 +14,7 @@ Mungkin benar. Mungkin juga:
 
 > urgency sedang digunakan untuk membuat Anda berhenti bertanya.
 
-Ada kalanya seseorang berkata:
+Kadang seseorang berkata:
 
 > “Semua orang sudah setuju.”
 
@@ -22,7 +22,7 @@ Mungkin benar. Mungkin juga:
 
 > tidak semua orang pernah ditanya.
 
-Ada kalanya seseorang berkata:
+Kadang seseorang berkata:
 
 > “Anda sendiri yang bilang begitu minggu lalu.”
 
@@ -30,13 +30,13 @@ Mungkin benar. Mungkin juga:
 
 > konteksnya berbeda.
 
-Pemimpin membutuhkan kemampuan untuk membedakan:
+Yang perlu kita bedakan adalah:
 
 > **persuasion, framing, pressure, dan manipulation.**
 
-Bukan agar menjadi curiga kepada semua orang. Tetapi agar:
+Tujuannya bukan membuat kita curiga kepada semua orang. Tujuannya menjaga:
 
-> **agency tidak hilang hanya karena situasi dibuat terasa mendesak, personal, atau membingungkan.**
+> **agency agar tidak hilang hanya karena situasi dibuat terasa mendesak, personal, atau membingungkan.**
 
 ::: success Green Note
 **Defensive literacy bukan kemampuan membaca pikiran orang. Ia adalah kemampuan menjaga kualitas proses berpikir ketika berada di bawah tekanan sosial.**
@@ -48,7 +48,7 @@ Chapter 28 membahas power dan influence. Chapter 29 membahas konflik kepentingan
 
 ## Yang Sedang Kita Latih
 
-Pemimpin sedang melatih kemampuan untuk:
+Yang perlu dilatih adalah:
 
 - mengenali sinyal tekanan;
 - memisahkan claim dari interpretation;
@@ -59,9 +59,9 @@ Pemimpin sedang melatih kemampuan untuk:
 - menetapkan boundary;
 - dan melakukan eskalasi ketika diperlukan.
 
-## 1. Framing tidak otomatis manipulasi
+## 1. Framing tidak otomatis berarti manipulasi
 
-Setiap komunikasi menggunakan framing. Ketika Anda berkata:
+Setiap komunikasi memang menggunakan framing. Ketika Anda berkata:
 
 > “Biaya proyek ini Rp500 juta.”
 
@@ -77,7 +77,7 @@ Anda memilih:
 
 > unit waktu.
 
-Keduanya dapat benar. Masalah muncul ketika framing:
+Keduanya bisa benar. Masalah muncul ketika framing:
 
 > membuat informasi penting hilang,
 
@@ -85,9 +85,7 @@ atau:
 
 > menciptakan kesan yang secara material menyesatkan.
 
-Jadi:
-
-> **framing ≠ manipulation.**
+Jadi, **framing tidak sama dengan manipulasi.**
 
 Pertanyaannya:
 
@@ -97,13 +95,13 @@ Pertanyaannya:
 
 > apakah omission tersebut relevan terhadap keputusan?
 
-## 2. Persuasion bukan otomatis manipulasi
+## 2. Persuasi juga tidak otomatis berarti manipulasi
 
-Persuasion dapat berbentuk:
+Persuasi bisa sesederhana:
 
 > “Berikut evidence dan alasan saya. Silakan Anda nilai.”
 
-Manipulation lebih problematik ketika prosesnya:
+Manipulasi menjadi lebih bermasalah ketika caranya:
 
 > sengaja mengurangi kemampuan pihak lain untuk menilai secara bebas,
 
@@ -115,7 +113,7 @@ misalnya melalui:
 - exploitation of vulnerability;
 - manufactured pressure.
 
-Namun jangan mencari satu “kalimat manipulatif”. Konteks sangat penting.
+Jangan mencari satu “kalimat manipulatif” seolah konteks tidak penting. Konteks sangat penting.
 
 ## 3. Sinyal tekanan
 
@@ -169,11 +167,9 @@ Pertanyaan:
 
 > apa claim utama dan evidence terpenting?
 
-Sinyal bukan bukti. Ia adalah:
+Sinyal belum merupakan bukti. Anggap ia sebagai **alasan untuk memeriksa**.
 
-> **reason untuk memeriksa.**
-
-## 4. Claim, evidence, interpretation
+## 4. Klaim, bukti, dan tafsir
 
 Ketika percakapan menjadi panas, pisahkan:
 
@@ -205,7 +201,7 @@ Ketika seseorang mengatakan:
 
 > “Semua orang tahu ini bermasalah.”
 
-Jangan langsung melawan. Tanyakan:
+Tidak perlu langsung membantah. Tanyakan:
 
 > “Masalah yang mana?”
 
@@ -217,9 +213,7 @@ Jangan langsung melawan. Tanyakan:
 
 > “Siapa yang terdampak?”
 
-Pertanyaan konkret sering menurunkan:
-
-> kabut retoris.
+Pertanyaan konkret sering membuat kabut retoris menjadi lebih terlihat.
 
 ## 6. Verify independently
 
@@ -237,7 +231,7 @@ Cari:
 
 Bukan karena semua orang tidak dapat dipercaya. Tetapi karena:
 
-> **single-source information creates avoidable risk.**
+> **Mengandalkan satu sumber untuk keputusan penting menambah risiko yang sebenarnya bisa dihindari.**
 
 ## 7. Cari informasi yang hilang
 
@@ -255,7 +249,7 @@ Kemudian:
 
 Ini menghubungkan Chapter 30 dengan Chapter 22:
 
-> falsification/stress-testing.
+> mencari bukti yang bisa menggugurkan asumsi.
 
 ## 8. Urgency versus importance
 
@@ -347,13 +341,7 @@ Respons yang lebih baik:
 
 > “Pengalaman Anda sangat relevan. Untuk keputusan ini, saya ingin mencocokkannya dengan data terbaru.”
 
-Respect:
-
-> tetap ada.
-
-Critical thinking:
-
-> juga tetap ada.
+**Rasa hormat tetap ada. Sikap kritis juga tetap ada.**
 
 ## 12. Emotional pressure
 
@@ -408,7 +396,7 @@ Fokus pada:
 
 ## 14. Manipulation detection bukan mind-reading
 
-Jangan:
+Hindari langsung menyimpulkan:
 
 > “Dia sengaja memanipulasi saya.”
 
@@ -422,13 +410,7 @@ Lebih baik:
 
 > “Claim tersebut belum didukung evidence.”
 
-Sekarang Anda memiliki:
-
-> sesuatu yang dapat diperiksa.
-
-Bukan:
-
-> cerita tentang motif orang.
+Sekarang kita punya sesuatu yang bisa diperiksa, bukan sekadar cerita tentang motif orang.
 
 ## 15. Defensive response
 
@@ -560,15 +542,15 @@ Respect terhadap hierarchy:
 
 ## 19. Defensive literacy bukan paranoia
 
-Paranoia mengatakan:
+Kecurigaan berlebihan berkata:
 
 > “Pasti ada permainan.”
 
-Literacy mengatakan:
+Literasi berkata:
 
 > “Saya belum tahu. Mari periksa.”
 
-Ini perbedaan besar. Pemimpin yang terlalu naif:
+Perbedaannya penting. Pemimpin yang terlalu naif:
 
 > mudah dipengaruhi.
 
@@ -576,9 +558,9 @@ Pemimpin yang terlalu curiga:
 
 > sulit bekerja sama.
 
-Targetnya:
+Yang dicari:
 
-> **calibrated trust.**
+> ****kepercayaan yang terkalibrasi.****
 
 Percaya:
 
@@ -596,7 +578,7 @@ Eskalasi:
 
 > ketika boundary dilampaui.
 
-## 20. Kapan berhenti berdiskusi?
+## 20. Kapan berhenti berdiskusi dan beralih ke mekanisme lain?
 
 Tidak semua situasi perlu terus dibahas. Jika ada:
 
@@ -644,9 +626,9 @@ Setelah percakapan penting, tanyakan:
 
 **Apakah saya mengubah keputusan karena evidence atau karena pressure?**
 
-**Apa yang perlu diverifikasi?** Latihan ini bukan untuk membuat Anda curiga. Tujuannya:
+**Apa yang perlu diverifikasi?** Latihan ini bukan untuk membuat kita curiga. Tujuannya:
 
-> mengetahui apakah keputusan Anda tetap milik Anda.
+> memeriksa apakah keputusan itu masih benar-benar milik kita, bukan hasil tekanan sesaat.
 
 ## 22. Penutup Part VI
 
@@ -670,19 +652,19 @@ Urutannya penting. Karena jika Anda langsung belajar:
 
 > “politik organisasi,”
 
-tanpa memahami sistem, Anda mudah menjadi:
+tanpa memahami sistem, kita mudah menjadi:
 
 > sinis.
 
-Jika langsung belajar:
+Kalau kita langsung belajar:
 
 > “cara menghadapi orang manipulatif,”
 
-Anda mudah melihat:
+kita mudah melihat:
 
 > manipulasi di mana-mana.
 
-Pemimpin membutuhkan posisi yang lebih matang:
+Posisi yang lebih matang adalah:
 
 > **lihat sistem → pahami kepentingan → baca power → verifikasi → jaga agency → bertindak secara legitimate.**
 
