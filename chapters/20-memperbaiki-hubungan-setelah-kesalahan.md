@@ -1,18 +1,12 @@
 # Memperbaiki Hubungan Setelah Kesalahan
 
-> **Leader capability:** Memperbaiki kerusakan hubungan setelah kesalahan, konflik, atau pelanggaran kepercayaan tanpa menyangkal kejadian, menghapus accountability, atau memaksa orang lain segera memaafkan.
+> **Yang dilatih:** Memperbaiki kerusakan hubungan setelah kesalahan, konflik, atau pelanggaran kepercayaan tanpa menyangkal kejadian, menghapus accountability, atau memaksa orang lain segera memaafkan.
 
 > **Canonical concept:** REL.REPAIR
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
-Tidak ada leader yang selalu benar.
-
-Tidak ada tim yang tidak pernah salah.
-
-Tidak ada hubungan kerja yang bebas dari salah paham, keputusan buruk, kata-kata yang keliru, atau ekspektasi yang tidak terpenuhi.
-
-Yang membedakan hubungan yang matang bukan ketiadaan kesalahan.
+Tidak ada leader yang selalu benar. Tidak ada tim yang tidak pernah salah. Tidak ada hubungan kerja yang bebas dari salah paham, keputusan buruk, kata-kata yang keliru, atau ekspektasi yang tidak terpenuhi. Yang membedakan hubungan yang matang bukan ketiadaan kesalahan.
 
 Salah satunya adalah:
 
@@ -26,15 +20,7 @@ Ada yang langsung meminta maaf:
 
 > “Ya sudah, saya minta maaf.”
 
-lalu berharap masalah selesai.
-
-Ada pula yang menghilang sampai suasana reda.
-
-Ketiganya dapat gagal memperbaiki akar masalah.
-
-Repair membutuhkan lebih dari permintaan maaf.
-
-Ia membutuhkan pengakuan, ownership, tindakan korektif, dan bukti perilaku yang lebih baik.
+lalu berharap masalah selesai. Ada pula yang menghilang sampai suasana reda. Ketiganya dapat gagal memperbaiki akar masalah. Repair membutuhkan lebih dari permintaan maaf. Ia membutuhkan pengakuan, ownership, tindakan korektif, dan bukti perilaku yang lebih baik.
 
 ::: success Green Note
 **Repair bukan menghapus masa lalu. Repair membuat masa depan lebih dapat dipercaya.**
@@ -44,7 +30,7 @@ Ia membutuhkan pengakuan, ownership, tindakan korektif, dan bukti perilaku yang 
 Chapter 16 membahas trust, psychological safety, accountability, dan respect. Chapter 17–19 membahas konflik, de-eskalasi, dan boundary. Chapter 20 berfokus pada apa yang dilakukan setelah kerusakan atau kesalahan terjadi.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 Leader sedang melatih kemampuan untuk:
 
@@ -56,23 +42,15 @@ Leader sedang melatih kemampuan untuk:
 
 ## 1. Kesalahan bukan akhir hubungan
 
-Bayangkan seorang leader memberikan informasi yang salah kepada tim.
-
-Kesalahan pertama adalah informasinya.
-
-Kesalahan kedua dapat terjadi setelahnya:
+Bayangkan seorang leader memberikan informasi yang salah kepada tim. Kesalahan pertama adalah informasinya. Kesalahan kedua dapat terjadi setelahnya:
 
 > “Saya tidak mungkin salah.”
 
-Jika ia mempertahankan cerita tersebut meskipun bukti sudah jelas, kerusakan dapat bertambah.
-
-Sebaliknya:
+Jika ia mempertahankan cerita tersebut meskipun bukti sudah jelas, kerusakan dapat bertambah. Sebaliknya:
 
 > “Informasi yang saya sampaikan kemarin salah. Saya akan koreksi sekarang dan menjelaskan apa yang berubah.”
 
-Ini belum memperbaiki semuanya.
-
-Tetapi sudah memulai proses repair.
+Ini belum memperbaiki semuanya. Tetapi sudah memulai proses repair.
 
 ## 2. Mengakui bukan berarti merendahkan diri
 
@@ -92,11 +70,7 @@ lebih berguna daripada:
 
 > “Saya memang selalu begini.”
 
-Yang pertama menunjukkan ownership terhadap perilaku.
-
-Yang kedua dapat berubah menjadi label terhadap diri sendiri.
-
-Leader membutuhkan kemampuan untuk berkata:
+Yang pertama menunjukkan ownership terhadap perilaku. Yang kedua dapat berubah menjadi label terhadap diri sendiri. Leader membutuhkan kemampuan untuk berkata:
 
 > **“Saya salah pada bagian ini.”**
 
@@ -110,11 +84,7 @@ Ketika terjadi kerusakan, orang sering buru-buru menjelaskan:
 
 > “Saya sebenarnya bermaksud baik.”
 
-Mungkin benar.
-
-Tetapi pihak lain mungkin mengalami dampak yang berbeda.
-
-Lebih baik mulai:
+Mungkin benar. Tetapi pihak lain mungkin mengalami dampak yang berbeda. Lebih baik mulai:
 
 > “Kemarin saya memotong pembicaraan Anda di depan tim.”
 
@@ -124,25 +94,15 @@ baru kemudian:
 
 Urutannya penting.
 
-**Impact first, intention second.**
-
-Bukan berarti niat tidak relevan.
-
-Tetapi niat tidak otomatis menghapus dampak.
+**Impact first, intention second.** Bukan berarti niat tidak relevan. Tetapi niat tidak otomatis menghapus dampak.
 
 ## 4. Apology bukan tombol reset
 
-Permintaan maaf dapat menjadi bagian dari repair.
-
-Tetapi:
+Permintaan maaf dapat menjadi bagian dari repair. Tetapi:
 
 > “Maaf ya.”
 
-tidak otomatis membuat kepercayaan kembali seperti semula.
-
-Semakin besar kerusakannya, semakin besar kebutuhan akan tindakan setelah kata-kata.
-
-Misalnya:
+tidak otomatis membuat kepercayaan kembali seperti semula. Semakin besar kerusakannya, semakin besar kebutuhan akan tindakan setelah kata-kata. Misalnya:
 
 > “Saya salah menyebarkan informasi yang belum diverifikasi. Saya akan mengoreksi informasi itu kepada semua penerima dan mulai sekarang saya akan melakukan verifikasi sebelum mengirim.”
 
@@ -155,11 +115,7 @@ Sekarang ada:
 
 ## 5. Jangan meminta maaf untuk sesuatu yang bukan tanggung jawab Anda
 
-Ownership bukan berarti mengambil semua kesalahan.
-
-Misalnya dua pihak terlibat dalam konflik.
-
-Leader dapat berkata:
+Ownership bukan berarti mengambil semua kesalahan. Misalnya dua pihak terlibat dalam konflik. Leader dapat berkata:
 
 > “Saya bertanggung jawab karena cara saya menyampaikan kritik tadi terlalu tajam.”
 
@@ -167,9 +123,7 @@ Tidak perlu menambahkan:
 
 > “Berarti semua ini salah saya.”
 
-Jika pihak lain juga memiliki kontribusi, kontribusi itu tetap perlu dibahas.
-
-Repair membutuhkan tanggung jawab yang **akurat**, bukan rasa bersalah yang total.
+Jika pihak lain juga memiliki kontribusi, kontribusi itu tetap perlu dibahas. Repair membutuhkan tanggung jawab yang **akurat**, bukan rasa bersalah yang total.
 
 ## 6. Bedakan lima hal
 
@@ -227,9 +181,7 @@ Ubah proses.
 
 ### Rebuild
 
-Tunjukkan perilaku baru secara konsisten.
-
-Bukan sekali.
+Tunjukkan perilaku baru secara konsisten. Bukan sekali.
 
 ### Review
 
@@ -273,11 +225,7 @@ dan:
 
 > “Saya melakukan itu karena deadline, jadi Anda tidak boleh keberatan.”
 
-Kalimat pertama adalah konteks.
-
-Kalimat kedua mengubah konteks menjadi pembenaran.
-
-Leader dapat menjelaskan:
+Kalimat pertama adalah konteks. Kalimat kedua mengubah konteks menjadi pembenaran. Leader dapat menjelaskan:
 
 > mengapa sesuatu terjadi
 
@@ -287,11 +235,7 @@ tanpa menyimpulkan:
 
 ## 10. Dampak dan niat dapat sama-sama benar
 
-Mungkin Anda tidak bermaksud merendahkan seseorang.
-
-Tetapi mereka merasa direndahkan.
-
-Tidak perlu memilih:
+Mungkin Anda tidak bermaksud merendahkan seseorang. Tetapi mereka merasa direndahkan. Tidak perlu memilih:
 
 > “Niat saya baik”
 
@@ -311,23 +255,13 @@ Kalimat:
 
 > “Saya sudah minta maaf. Masa masih marah?”
 
-dapat menghentikan proses repair.
-
-Permintaan maaf adalah tindakan Anda.
-
-Memaafkan adalah keputusan pihak lain.
-
-Bahkan ketika seseorang menerima permintaan maaf, kepercayaan belum tentu langsung pulih.
-
-Leader perlu siap menerima:
+dapat menghentikan proses repair. Permintaan maaf adalah tindakan Anda. Memaafkan adalah keputusan pihak lain. Bahkan ketika seseorang menerima permintaan maaf, kepercayaan belum tentu langsung pulih. Leader perlu siap menerima:
 
 > “Saya mengerti. Saya butuh waktu.”
 
 ## 12. Trust dibangun kembali melalui prediktabilitas
 
-Jika sebelumnya leader sering mengubah keputusan tanpa penjelasan, satu percakapan tidak cukup.
-
-Orang perlu melihat:
+Jika sebelumnya leader sering mengubah keputusan tanpa penjelasan, satu percakapan tidak cukup. Orang perlu melihat:
 
 - keputusan lebih konsisten;
 - informasi lebih transparan;
@@ -349,9 +283,7 @@ Lebih baik:
 
 ## 13. Repair tidak selalu berarti kembali seperti dulu
 
-Ini penting.
-
-Ada hubungan yang setelah kerusakan:
+Ini penting. Ada hubungan yang setelah kerusakan:
 
 - tetap berlanjut;
 - berubah batasnya;
@@ -371,15 +303,11 @@ Itu tetap dapat menjadi hasil yang konstruktif.
 
 ## 14. Ketika Anda adalah pihak yang terluka
 
-Leader juga perlu tahu cara menerima repair.
-
-Tidak harus langsung berkata:
+Leader juga perlu tahu cara menerima repair. Tidak harus langsung berkata:
 
 > “Tidak apa-apa.”
 
-Jika memang belum baik-baik saja.
-
-Dapat mengatakan:
+Jika memang belum baik-baik saja. Dapat mengatakan:
 
 > “Saya menghargai Anda sudah mengakuinya. Saya perlu waktu untuk melihat perubahan berikutnya.”
 
@@ -391,9 +319,7 @@ Menerima permintaan maaf tidak berarti menghapus kebutuhan akan accountability.
 
 ## 15. Ketika orang lain tidak mau memperbaiki
 
-Repair membutuhkan setidaknya sebagian kemauan dari pihak yang terlibat.
-
-Jika seseorang:
+Repair membutuhkan setidaknya sebagian kemauan dari pihak yang terlibat. Jika seseorang:
 
 - menyangkal fakta yang jelas;
 - mengulang perilaku yang sama;
@@ -402,19 +328,11 @@ Jika seseorang:
 
 leader mungkin perlu kembali ke:
 
-**boundary → accountability → escalation**
-
-bukan terus mengulang percakapan repair.
+**boundary → accountability → escalation** bukan terus mengulang percakapan repair.
 
 ## 16. Repair setelah konflik publik
 
-Kesalahan yang terjadi di depan banyak orang kadang membutuhkan koreksi di depan orang yang sama.
-
-Misalnya Anda mengkritik bawahan secara tidak tepat di rapat.
-
-Koreksi pribadi mungkin belum cukup.
-
-Anda dapat berkata di forum berikutnya:
+Kesalahan yang terjadi di depan banyak orang kadang membutuhkan koreksi di depan orang yang sama. Misalnya Anda mengkritik bawahan secara tidak tepat di rapat. Koreksi pribadi mungkin belum cukup. Anda dapat berkata di forum berikutnya:
 
 > “Kemarin saya menyampaikan kritik kepada X dengan cara yang tidak tepat. Substansi masalah tetap perlu kita perbaiki, tetapi cara saya menyampaikannya salah.”
 
@@ -422,9 +340,7 @@ Ini menunjukkan bahwa:
 
 > accountability juga terlihat oleh orang yang menyaksikan kesalahan.
 
-Tidak perlu membuat permintaan maaf menjadi pertunjukan.
-
-Cukup koreksi secara proporsional.
+Tidak perlu membuat permintaan maaf menjadi pertunjukan. Cukup koreksi secara proporsional.
 
 ## 17. Repair tanpa menghapus standar
 
@@ -432,11 +348,7 @@ Contoh:
 
 > “Saya minta maaf karena cara saya menyampaikan teguran kemarin terlalu keras. Standarnya tetap berlaku. Yang perlu saya ubah adalah cara saya menyampaikannya.”
 
-Ini bentuk leadership yang penting.
-
-Mengakui kesalahan komunikasi tidak berarti menarik kembali standar yang benar.
-
-Begitu juga:
+Ini bentuk leadership yang penting. Mengakui kesalahan komunikasi tidak berarti menarik kembali standar yang benar. Begitu juga:
 
 > “Saya salah dalam keputusan ini.”
 
@@ -444,9 +356,7 @@ tidak otomatis berarti:
 
 > “Semua kritik terhadap keputusan itu tidak relevan.”
 
-Akui yang salah.
-
-Pertahankan yang masih benar.
+Akui yang salah. Pertahankan yang masih benar.
 
 ## 18. Repair test
 
@@ -467,9 +377,7 @@ Pertanyaan terakhir penting.
 
 ## 19. Ketika repair tidak cukup
 
-Ada keadaan ketika tujuan utama bukan memulihkan hubungan, melainkan melindungi orang, organisasi, atau integritas proses.
-
-Misalnya:
+Ada keadaan ketika tujuan utama bukan memulihkan hubungan, melainkan melindungi orang, organisasi, atau integritas proses. Misalnya:
 
 - kekerasan;
 - pelecehan;
@@ -479,13 +387,9 @@ Misalnya:
 - pelanggaran hukum;
 - atau penyalahgunaan kewenangan yang serius.
 
-Dalam situasi seperti ini, jangan menggunakan “repair” untuk menekan pihak yang dirugikan agar kembali dekat dengan pelaku.
+Dalam situasi seperti ini, jangan menggunakan “repair” untuk menekan pihak yang dirugikan agar kembali dekat dengan pelaku. Repair harus tunduk pada:
 
-Repair harus tunduk pada:
-
-**safety → accountability → formal process → appropriate relationship decision**
-
-sesuai konteks.
+**safety → accountability → formal process → appropriate relationship decision** sesuai konteks.
 
 ::: warning Risiko
 Jangan memaksa rekonsiliasi ketika keselamatan, martabat, atau proses formal membutuhkan jarak atau tindakan lain.
@@ -497,31 +401,25 @@ Permintaan maaf bukan penghapus konsekuensi. Dan repair bukan alasan untuk melew
 
 ## 20. Latihan: satu kesalahan, lima langkah
 
-Ambil satu kesalahan nyata.
+Ambil satu kesalahan nyata. Tuliskan:
 
-Tuliskan:
-
-**Acknowledge**  
+**Acknowledge**
 Apa yang terjadi?
 
-**Own**  
+**Own**
 Bagian mana yang menjadi tanggung jawab saya?
 
-**Repair**  
+**Repair**
 Apa yang dapat saya perbaiki sekarang?
 
-**Prevent**  
+**Prevent**
 Apa yang perlu diubah agar tidak berulang?
 
-**Rebuild**  
-Perilaku apa yang harus konsisten terlihat?
+**Rebuild**
+Perilaku apa yang harus konsisten terlihat? Lalu tambahkan:
 
-Lalu tambahkan:
-
-**Review**  
-Kapan saya akan melihat apakah perbaikan benar-benar terjadi?
-
-Latihan ini mengubah:
+**Review**
+Kapan saya akan melihat apakah perbaikan benar-benar terjadi? Latihan ini mengubah:
 
 > “Saya sudah minta maaf.”
 
