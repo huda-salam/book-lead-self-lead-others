@@ -69,7 +69,7 @@ Jabatan dapat memberi tanggung jawab dan akses informasi.
 
 Tetapi tidak satu pun dari hal tersebut membuat seseorang kebal terhadap kesalahan.
 
-Penelitian tentang humble leadership menemukan hubungan dengan sejumlah outcome relasional dan perilaku, termasuk kepuasan pengikut terhadap pemimpin dan participative decision making. Hubungan dengan follower/team performance juga ditemukan dalam sebagian analisis, sementara hubungan dengan kinerja pemimpin sendiri dan kinerja organisasi lebih tidak konsisten. Literatur tersebut juga menyoroti persoalan pengukuran dan operationalization humility. citeturn0search1
+Penelitian tentang humble leadership menemukan hubungan dengan sejumlah outcome relasional dan perilaku, termasuk kepuasan pengikut terhadap pemimpin dan participative decision making. Hubungan dengan follower/team performance juga ditemukan dalam sebagian analisis, sementara hubungan dengan kinerja pemimpin sendiri dan kinerja organisasi lebih tidak konsisten. Literatur tersebut juga menyoroti persoalan pengukuran dan operationalization humility. ([lihat Evidence notes](#evidence-notes))
 
 Karena itu, buku ini tidak akan mengatakan:
 
