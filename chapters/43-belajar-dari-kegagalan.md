@@ -341,7 +341,7 @@ Kadang ia muncul sebagai:
 
 Sinyal kecil dapat penting.
 
-Sitkin (1992), misalnya, membahas *small losses* sebagai kondisi yang dapat menyediakan peluang belajar dengan biaya yang lebih terbatas daripada kegagalan besar. citeturn0search2
+Sitkin (1992), misalnya, membahas *small losses* sebagai kondisi yang dapat menyediakan peluang belajar dengan biaya yang lebih terbatas daripada kegagalan besar. [Sitkin, 1992](https://scholars.duke.edu/publication/913886)
 
 Tetapi jangan mengubahnya menjadi:
 
@@ -560,7 +560,7 @@ Accountability bergerak ke:
 
 > **“Apa yang menjadi tanggung jawab, apa buktinya, dan apa yang harus diperbaiki?”**
 
-Cannon dan Edmondson menunjukkan bahwa hambatan sosial maupun teknis dapat membuat organisasi sulit mengidentifikasi dan menganalisis failure. Karena itu pembelajaran dari failure membutuhkan lebih dari sekadar niat baik. citeturn0search3
+Cannon dan Edmondson menunjukkan bahwa hambatan sosial maupun teknis dapat membuat organisasi sulit mengidentifikasi dan menganalisis failure. Karena itu pembelajaran dari failure membutuhkan lebih dari sekadar niat baik. [Cannon & Edmondson, 2005](https://doi.org/10.1016/j.lrp.2005.04.005)
 
 ## 13. Failure bukan bukti incompetence
 
@@ -754,7 +754,7 @@ Yang lebih masuk akal:
 
 > menciptakan eksperimen dengan downside yang dapat dikendalikan ketika konteks memungkinkan.
 
-Ini sejalan dengan pembahasan Sitkin tentang *small losses*, tetapi jangan memperluasnya menjadi pembenaran untuk menoleransi harm yang seharusnya dapat dicegah. citeturn0search2
+Ini sejalan dengan pembahasan Sitkin tentang *small losses*, tetapi jangan memperluasnya menjadi pembenaran untuk menoleransi harm yang seharusnya dapat dicegah. [Sitkin, 1992](https://scholars.duke.edu/publication/913886)
 
 ## 19. Framework: Failure-to-Learning Loop
 
@@ -1058,14 +1058,14 @@ Tidak semua failure harus diulang. Tidak semua tujuan layak dipertahankan. Tidak
 
 ## Evidence notes
 
-- Small losses and learning from failure — Sitkin (1992). citeturn0search2
-- Organizational barriers to identifying, analyzing, and learning from failure — Cannon & Edmondson (2005). citeturn0search3
-- Debrief / after-action review evidence — Tannenbaum & Cerasoli (2013). citeturn0search0
+- Small losses and learning from failure — Sitkin (1992). [Sitkin, 1992](https://scholars.duke.edu/publication/913886)
+- Organizational barriers to identifying, analyzing, and learning from failure — Cannon & Edmondson (2005). [Cannon & Edmondson, 2005](https://doi.org/10.1016/j.lrp.2005.04.005)
+- Debrief / after-action review evidence — Tannenbaum & Cerasoli (2013). [Tannenbaum & Cerasoli, 2013](https://doi.org/10.1177/0018720812448394)
 - Decision-quality vs outcome-quality and hindsight discipline — connected to Chapter 40.
 - Persistence, disengagement, and adaptation — connected to Chapters 4 and 39.
 
 ## Sumber
 
-- Sitkin, S. B. (1992). *Learning Through Failure: The Strategy of Small Losses*. Research in Organizational Behavior, 14, 231–266. citeturn0search2
-- Cannon, M. D., & Edmondson, A. C. (2005). *Failing to Learn and Learning to Fail (Intelligently): How Great Organizations Put Failure to Work to Innovate and Improve*. Long Range Planning, 38(3), 299–319. citeturn0search3
-- Tannenbaum, S. I., & Cerasoli, C. P. (2013). *Do Team and Individual Debriefs Enhance Performance? A Meta-Analysis*. Human Factors, 55(1), 231–245. citeturn0search0
+- Sitkin, S. B. (1992). *Learning Through Failure: The Strategy of Small Losses*. Research in Organizational Behavior, 14, 231–266. [Sitkin, 1992](https://scholars.duke.edu/publication/913886)
+- Cannon, M. D., & Edmondson, A. C. (2005). *Failing to Learn and Learning to Fail (Intelligently): How Great Organizations Put Failure to Work to Innovate and Improve*. Long Range Planning, 38(3), 299–319. [Cannon & Edmondson, 2005](https://doi.org/10.1016/j.lrp.2005.04.005)
+- Tannenbaum, S. I., & Cerasoli, C. P. (2013). *Do Team and Individual Debriefs Enhance Performance? A Meta-Analysis*. Human Factors, 55(1), 231–245. [Tannenbaum & Cerasoli, 2013](https://doi.org/10.1177/0018720812448394)
