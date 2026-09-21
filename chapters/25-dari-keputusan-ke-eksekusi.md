@@ -36,7 +36,7 @@ Chapter 24 membahas memilih. Chapter 25 membahas menerjemahkan pilihan menjadi p
 
 ## Yang Sedang Kita Latih
 
-Leader sedang melatih kemampuan untuk:
+Pemimpin sedang melatih kemampuan untuk:
 
 - menerjemahkan keputusan menjadi outcome;
 - menetapkan ownership;
@@ -197,7 +197,7 @@ Kita tidak perlu menunggu satu bulan untuk tahu ada masalah. Leading indicators 
 - jumlah exception;
 - jumlah pekerjaan yang menunggu approval.
 
-Ini membantu leader melihat:
+Ini membantu pemimpin melihat:
 
 > apakah execution bergerak ke arah yang benar.
 
@@ -404,7 +404,7 @@ Gunakan diagnosis:
 
 **Resource?** Kekurangan alat/anggaran?
 
-**Assumption?** Asumsi awal ternyata salah? Ini mencegah leader menghukum orang untuk masalah sistem.
+**Assumption?** Asumsi awal ternyata salah? Ini mencegah pemimpin menghukum orang untuk masalah sistem.
 
 ## 16. Ketika owner gagal
 
@@ -476,7 +476,7 @@ Jangan mengubah commitment menjadi tekanan tanpa batas. Jika kapasitas, risiko, 
 :::
 
 ::: success Green Note
-**Carry forward:** Setelah keputusan dibuat, pertanyaan leader berubah dari “apa yang kita pilih?” menjadi “apa yang harus terjadi agar pilihan ini menjadi kenyataan?”
+**Carry forward:** Setelah keputusan dibuat, pertanyaan pemimpin berubah dari “apa yang kita pilih?” menjadi “apa yang harus terjadi agar pilihan ini menjadi kenyataan?”
 :::
 
 ## Evidence notes
