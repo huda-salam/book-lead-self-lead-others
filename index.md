@@ -2,7 +2,7 @@
 layout: home
 title: Memimpin Diri, Memimpin Sesama
 titleTemplate: Lead Self. Lead Others.
-description: Buku praktis dan analitis tentang leader mindset: membaca realitas, memilih, bertindak, memimpin orang, dan belajar dari konsekuensi.
+description: "Buku praktis dan analitis tentang leader mindset: membaca realitas, memilih, bertindak, memimpin orang, dan belajar dari konsekuensi."
 hero:
   name: Memimpin Diri, Memimpin Sesama
   text: Lead Self. Lead Others.
