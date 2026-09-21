@@ -27,7 +27,7 @@ Mereka berhubungan, tetapi bukan hal yang sama.
 :::
 
 ::: info Konteks
-Psychological safety dalam literatur merujuk pada persepsi bahwa lingkungan aman untuk mengambil risiko interpersonal. Itu bukan berarti lingkungan bebas tekanan, bebas evaluasi, atau bebas konsekuensi. citeturn0search0turn0search2
+Psychological safety dalam literatur merujuk pada persepsi bahwa lingkungan aman untuk mengambil risiko interpersonal. Itu bukan berarti lingkungan bebas tekanan, bebas evaluasi, atau bebas konsekuensi. ([lihat Evidence notes](#evidence-notes))
 :::
 
 ## Kapabilitas yang Sedang Dilatih
