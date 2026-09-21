@@ -1,18 +1,18 @@
 # Memimpin Diri Dimulai dari Cara Merespons
 
-> **Yang dilatih:** Kemampuan yang dilatih bukan sekadar menahan reaksi. Pemimpin perlu mengenali ruang pengaruhnya, memahami apa yang sedang terjadi, lalu memilih tindakan yang paling sesuai dengan tujuan, konteks, risiko, dan kewenangan.
+> **Yang dilatih:** Melatih diri untuk melihat apa yang masih bisa dipengaruhi, memahami apa yang sedang terjadi, lalu memilih tindakan yang sesuai dengan tujuan, konteks, risiko, dan kewenangan.
 
 > **Canonical concept:** SELF.RESPONSE  
 ## Mengapa Ini Penting
 
-Kemampuan yang dilatih bukan sekadar menahan reaksi. Pemimpin perlu mengenali ruang pengaruhnya, memahami apa yang sedang terjadi, lalu memilih tindakan yang paling sesuai dengan tujuan, konteks, risiko, dan kewenangan.
+Bab ini melatih satu hal yang mendasar: mengenali ruang pengaruh kita, memahami apa yang sedang terjadi, lalu memilih tindakan yang sesuai dengan tujuan, konteks, risiko, dan kewenangan.
 
 ::: success Green Note
-**Lensa pemimpin:** Respons adalah salah satu capability leadership. Ia penting karena kualitas keputusan sering terlihat ketika tekanan datang, tetapi ia bukan keseluruhan kepemimpinan.
+**Lensa kepemimpinan:** Respons adalah salah satu kemampuan yang penting dalam kepemimpinan. Kualitasnya sering terlihat ketika tekanan datang, tetapi respons bukan keseluruhan kepemimpinan.
 :::
 
 ::: info Konteks
-**Canonical concept:** `SELF.RESPONSE`. Dalam arsitektur buku, konsep ini adalah bagian dari mindset kepemimpinan, bukan tujuan akhir buku.
+**Canonical concept:** `SELF.RESPONSE`. Dalam arsitektur buku, konsep ini adalah bagian dari mindset kepemimpinan, bukan tujuan akhir pembahasan.
 :::
 
 ## Yang Sedang Kita Latih
