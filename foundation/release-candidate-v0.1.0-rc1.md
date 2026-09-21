@@ -25,7 +25,7 @@ English brand: **Lead Self. Lead Others.**
 | Runtime citation-marker cleanup | PASS |
 | Red-team boundary review | PASS WITH CONDITIONS |
 | VitePress build | PASS |
-| Latest GitHub Actions run | PASS — run #150 |
+| Latest GitHub Actions run | PASS on pre-voice candidate; post-voice confirmation pending |
 | Public HTTP smoke test | NOT VERIFIED FROM CURRENT ENVIRONMENT |
 | Release tag | PENDING |
 
@@ -52,6 +52,6 @@ Reader testing should focus on whether the book is:
 
 ## RC decision
 
-**READY FOR READER TESTING.**
+**READY FOR READER TESTING AFTER POST-VOICE CI CONFIRMATION.**
 
 The next changes should be driven primarily by reader evidence rather than additional chapter expansion.
