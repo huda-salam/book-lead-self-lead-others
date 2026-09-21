@@ -1,12 +1,10 @@
 # Personal Operating System: Response, Practice, Review, Habit
 
-> **Reasoning capability:** Mengubah prinsip buku menjadi sistem praktik pribadi yang dapat digunakan, ditinjau, diperbaiki, dan dipakai kembali ketika keadaan berubah.
+> **Yang dilatih:** Mengubah prinsip buku menjadi sistem praktik pribadi yang dapat digunakan, ditinjau, diperbaiki, dan dipakai kembali ketika keadaan berubah.
 
 > **Canonical concept:** PRACTICE.OS
 
-Buku ini dapat berakhir dengan dua cara.
-
-Cara pertama:
+Buku ini dapat berakhir dengan dua cara. Cara pertama:
 
 > pembaca selesai membaca dan merasa banyak hal yang masuk akal.
 
@@ -14,9 +12,7 @@ Cara kedua:
 
 > pembaca mulai melakukan sesuatu secara berbeda ketika realitas datang.
 
-Yang kedua lebih penting.
-
-Karena leadership bukan hanya:
+Yang kedua lebih penting. Karena leadership bukan hanya:
 
 > apa yang kita ketahui.
 
@@ -24,15 +20,7 @@ Leadership terlihat pada:
 
 > **apa yang kita lakukan ketika situasi nyata datang sebelum kita sempat membuka buku.**
 
-Maka seluruh buku perlu dipadatkan menjadi satu sistem.
-
-Bukan sistem yang sempurna.
-
-Bukan formula psikologi.
-
-Bukan rutinitas yang harus dijalankan tanpa berpikir.
-
-Melainkan:
+Maka seluruh buku perlu dipadatkan menjadi satu sistem. Bukan sistem yang sempurna. Bukan formula psikologi. Bukan rutinitas yang harus dijalankan tanpa berpikir. Melainkan:
 
 > **Personal Operating System.**
 
@@ -74,19 +62,13 @@ Lalu bergerak ke:
 
 Sekarang semuanya dapat dipadatkan:
 
-**SEE → UNDERSTAND → DECIDE → ACT → LEARN**
-
-Ini adalah **working synthesis buku**, bukan taxonomy akademik tervalidasi.
-
-Dan pada level praktik:
+**SEE → UNDERSTAND → DECIDE → ACT → LEARN** Ini adalah **working synthesis buku**, bukan taxonomy akademik tervalidasi. Dan pada level praktik:
 
 **Response → Practice → Review → Habit**
 
 ## 2. Response: apa yang saya lakukan ketika sesuatu terjadi?
 
-Respons adalah pintu masuk.
-
-Sebelum bicara:
+Respons adalah pintu masuk. Sebelum bicara:
 
 > pause.
 
@@ -122,9 +104,7 @@ Bukan berarti:
 
 > selalu lambat.
 
-Kadang keputusan harus cepat.
-
-Tetapi:
+Kadang keputusan harus cepat. Tetapi:
 
 > **cepat bukan berarti otomatis.**
 
@@ -172,9 +152,7 @@ Dalam situasi sulit, gunakan kartu mental sederhana:
 
 > Apa yang saya pelajari?
 
-Ini bukan checklist yang harus dibaca setiap kali.
-
-Dengan latihan:
+Ini bukan checklist yang harus dibaca setiap kali. Dengan latihan:
 
 > sebagian langkah dapat menjadi pola berpikir yang lebih cepat.
 
@@ -184,9 +162,7 @@ Kita dapat membaca:
 
 > komunikasi.
 
-Tetapi tidak otomatis menjadi komunikator yang baik.
-
-Kita dapat memahami:
+Tetapi tidak otomatis menjadi komunikator yang baik. Kita dapat memahami:
 
 > conflict management.
 
@@ -198,39 +174,29 @@ Karena itu:
 
 > **knowledge → practice → feedback → adjustment.**
 
-Latihan perlu berada dekat dengan situasi nyata.
-
-Misalnya ingin memperbaiki:
+Latihan perlu berada dekat dengan situasi nyata. Misalnya ingin memperbaiki:
 
 ### Listening
 
-Jangan hanya membaca tentang listening.
-
-Latih:
+Jangan hanya membaca tentang listening. Latih:
 
 > satu percakapan per hari tanpa memotong.
 
 ### Softening language
 
-Jangan hanya menyimpan daftar kalimat.
-
-Latih:
+Jangan hanya menyimpan daftar kalimat. Latih:
 
 > ubah satu kalimat frontal menjadi kalimat yang tetap tegas tetapi memberi ruang.
 
 ### Emotional regulation
 
-Jangan menunggu marah besar.
-
-Latih:
+Jangan menunggu marah besar. Latih:
 
 > mengenali early signal.
 
 ### Strategic thinking
 
-Jangan hanya membaca teori.
-
-Latih:
+Jangan hanya membaca teori. Latih:
 
 > tulis second-order consequence dari satu keputusan per minggu.
 
@@ -274,9 +240,7 @@ Atau:
 
 > setiap kali memberi instruksi, saya memastikan outcome dan authority jelas.
 
-Target kecil bukan berarti target remeh.
-
-Ia berarti:
+Target kecil bukan berarti target remeh. Ia berarti:
 
 > **behavior dapat diamati dan dilatih.**
 
@@ -286,9 +250,7 @@ Niat:
 
 > “Saya ingin lebih tenang.”
 
-Terlalu abstrak.
-
-Ubah menjadi:
+Terlalu abstrak. Ubah menjadi:
 
 > **Jika saya merasa ingin langsung membalas karena tidak setuju, maka saya akan bertanya satu pertanyaan klarifikasi sebelum menyampaikan posisi saya.**
 
@@ -312,9 +274,7 @@ Format seperti ini disebut:
 
 > **implementation intention.**
 
-Evidence menunjukkan format if–then dapat membantu menghubungkan situasi dengan tindakan tertentu, meskipun efeknya bergantung pada konteks dan karakteristik individu. ([Chen et al., 2015](https://doi.org/10.1016/j.psychres.2015.01.011))
-
-Jadi:
+Evidence menunjukkan format if–then dapat membantu menghubungkan situasi dengan tindakan tertentu, meskipun efeknya bergantung pada konteks dan karakteristik individu. ([Chen et al., 2015](https://doi.org/10.1016/j.psychres.2015.01.011)) Jadi:
 
 > bukan mantra.
 
@@ -324,11 +284,7 @@ Ia adalah:
 
 ## 7. Review: pengalaman belum tentu menjadi pembelajaran
 
-Kita menjalani hari.
-
-Banyak hal terjadi.
-
-Tetapi:
+Kita menjalani hari. Banyak hal terjadi. Tetapi:
 
 > experience ≠ learning.
 
@@ -400,9 +356,7 @@ Lima menit dapat cukup sebagai awal.
 
 > Siapa atau apa yang membantu saya hari ini?
 
-Ini bukan ritual kesempurnaan.
-
-Jika suatu hari tidak dilakukan:
+Ini bukan ritual kesempurnaan. Jika suatu hari tidak dilakukan:
 
 > kembali lagi.
 
@@ -416,9 +370,7 @@ menjadi alasan:
 
 ## 9. Weekly Review: lihat pola
 
-Review harian melihat kejadian.
-
-Review mingguan melihat:
+Review harian melihat kejadian. Review mingguan melihat:
 
 > **pattern.**
 
@@ -514,9 +466,7 @@ Habit sering dibayangkan:
 
 > melakukan sesuatu tanpa berpikir.
 
-Dalam literatur, habit lebih spesifik: perilaku menjadi semakin dipicu oleh konteks atau cue melalui pengulangan, sehingga lebih otomatis. ([Verplanken & Orbell, 2022](https://doi.org/10.1146/annurev-psych-020821-011744))
-
-Ini berguna untuk:
+Dalam literatur, habit lebih spesifik: perilaku menjadi semakin dipicu oleh konteks atau cue melalui pengulangan, sehingga lebih otomatis. ([Verplanken & Orbell, 2022](https://doi.org/10.1146/annurev-psych-020821-011744)) Ini berguna untuk:
 
 - olahraga;
 - membaca;
@@ -527,9 +477,7 @@ Ini berguna untuk:
 - prosedur keselamatan;
 - rutinitas kerja.
 
-Tetapi jangan membuat semua hal menjadi otomatis.
-
-Untuk:
+Tetapi jangan membuat semua hal menjadi otomatis. Untuk:
 
 - ethical dilemmas;
 - strategic shifts;
@@ -555,9 +503,7 @@ Kita sering mendengar:
 
 > “Habit terbentuk dalam 21 hari.”
 
-Jadikan ini peringatan.
-
-Review sistematis/meta-analysis 2024 atas 20 studi dan 2.601 peserta menemukan variasi waktu yang sangat besar. Beberapa studi melaporkan median sekitar 59–66 hari dan mean 106–154 hari, dengan variasi individual yang sangat lebar. Banyak studi juga memiliki risiko bias tinggi. ([Singh et al., 2024](https://doi.org/10.3390/healthcare12232488))
+Jadikan ini peringatan. Review sistematis/meta-analysis 2024 atas 20 studi dan 2.601 peserta menemukan variasi waktu yang sangat besar. Beberapa studi melaporkan median sekitar 59–66 hari dan mean 106–154 hari, dengan variasi individual yang sangat lebar. Banyak studi juga memiliki risiko bias tinggi. ([Singh et al., 2024](https://doi.org/10.3390/healthcare12232488))
 
 Maka:
 
@@ -631,9 +577,7 @@ Misalnya:
 
 > review membutuhkan template 12 halaman.
 
-Mungkin terlalu berat.
-
-Sederhanakan:
+Mungkin terlalu berat. Sederhanakan:
 
 > satu halaman.
 
@@ -651,9 +595,7 @@ Bukan:
 
 ## 15. Recovery adalah bagian dari sistem
 
-Tidak ada sistem pribadi yang berjalan sempurna.
-
-Akan ada:
+Tidak ada sistem pribadi yang berjalan sempurna. Akan ada:
 
 - hari buruk;
 - pekerjaan mendadak;
@@ -688,9 +630,7 @@ Prinsipnya:
 
 > **reduce the dose, not abandon the practice.**
 
-Tetapi jangan membuat ini menjadi pembenaran untuk terus-menerus memilih versi minimum.
-
-Review harus melihat:
+Tetapi jangan membuat ini menjadi pembenaran untuk terus-menerus memilih versi minimum. Review harus melihat:
 
 > apakah minimum mode menjadi recovery,
 
@@ -708,9 +648,7 @@ Consistency adalah:
 
 > pola eksekusi yang relatif dapat diandalkan terhadap standar atau tujuan.
 
-Metode dapat berubah.
-
-Contoh:
+Metode dapat berubah. Contoh:
 
 Tujuan:
 
@@ -738,9 +676,7 @@ Ini selaras dengan prinsip:
 
 ## 17. Personal scorecard
 
-Jangan membuat scorecard terlalu besar.
-
-Gunakan lima dimensi:
+Jangan membuat scorecard terlalu besar. Gunakan lima dimensi:
 
 | Dimensi | Pertanyaan |
 |---|---|
@@ -855,19 +791,13 @@ Pertama:
 
 Gunakan:
 
-**Expected → Actual → Information at the time → Assumptions → Mechanism → Control/Influence/External → Learning → Change → Test**
-
-Ini adalah penerapan langsung Chapter 43.
-
-Dengan demikian:
+**Expected → Actual → Information at the time → Assumptions → Mechanism → Control/Influence/External → Learning → Change → Test** Ini adalah penerapan langsung Chapter 43. Dengan demikian:
 
 > failure masuk kembali ke operating system.
 
 ## 21. Personal Relationship Review
 
-Leadership bukan hanya task management.
-
-Seminggu sekali tanyakan:
+Leadership bukan hanya task management. Seminggu sekali tanyakan:
 
 > Siapa yang mungkin merasa tidak didengar?
 
@@ -901,13 +831,7 @@ Kadang perlu:
 
 ## 22. Personal leadership rulebook
 
-Pada akhirnya, tulis beberapa aturan pribadi.
-
-Bukan 100 aturan.
-
-Mungkin 10.
-
-Contoh:
+Pada akhirnya, tulis beberapa aturan pribadi. Bukan 100 aturan. Mungkin 10. Contoh:
 
 > **1. Saya tidak harus menjawab segera hanya karena orang lain ingin jawaban segera.**
 
@@ -929,9 +853,7 @@ Contoh:
 
 > **10. Saya akan meninjau tindakan saya sebelum terlalu cepat menilai tindakan orang lain.**
 
-Aturan ini bukan hukum.
-
-Ia adalah:
+Aturan ini bukan hukum. Ia adalah:
 
 > **default operating principles.**
 
@@ -939,9 +861,7 @@ Dan default dapat diubah ketika evidence mengharuskannya.
 
 ## 23. Dalam budaya Jawa: eling, andhap asor, tepa selira—tanpa kehilangan ketegasan
 
-Operating system juga perlu hidup dalam konteks budaya.
-
-Dalam praktik Jawa, kita mengenal nilai seperti:
+Operating system juga perlu hidup dalam konteks budaya. Dalam praktik Jawa, kita mengenal nilai seperti:
 
 > **eling** — sadar dan ingat posisi diri;
 
@@ -951,11 +871,7 @@ Dalam praktik Jawa, kita mengenal nilai seperti:
 
 > **aja dumeh** — tidak mentang-mentang memiliki posisi atau kuasa.
 
-Nilai seperti ini dapat menjadi pengingat yang kuat.
-
-Tetapi jangan salah tafsir.
-
-Andhap asor bukan berarti:
+Nilai seperti ini dapat menjadi pengingat yang kuat. Tetapi jangan salah tafsir. Andhap asor bukan berarti:
 
 > tidak boleh tegas.
 
@@ -999,9 +915,7 @@ Prinsip seperti:
 
 > dan bertanggung jawab
 
-bukan sekadar teknik komunikasi.
-
-Ia menjadi:
+bukan sekadar teknik komunikasi. Ia menjadi:
 
 > **arah penggunaan kemampuan.**
 
@@ -1019,9 +933,7 @@ Efektivitas tanpa integritas dapat membuat seseorang:
 
 ## 25. Jangan jadikan sistem ini identitas baru untuk ego
 
-Ini jebakan terakhir.
-
-Setelah membaca buku tentang:
+Ini jebakan terakhir. Setelah membaca buku tentang:
 
 > humility,
 
@@ -1053,9 +965,7 @@ kita dapat menjadi:
 
 > sinis terhadap semua kepentingan.
 
-Itu bukan maturity.
-
-Itu:
+Itu bukan maturity. Itu:
 
 > **ego yang berganti kostum.**
 
@@ -1147,9 +1057,7 @@ Hentikan atau ubah pendekatan ketika:
 - opportunity cost terlalu tinggi;
 - atau metode terbukti tidak viable.
 
-Ini bukan kegagalan sistem.
-
-Justru:
+Ini bukan kegagalan sistem. Justru:
 
 > **kemampuan memutus pola yang salah adalah bagian dari sistem.**
 
@@ -1277,9 +1185,7 @@ Kejar:
 
 > **return speed.**
 
-Seberapa cepat Anda kembali ketika keluar dari pola?
-
-Itu lebih dekat dengan sistem nyata daripada kesempurnaan.
+Seberapa cepat Anda kembali ketika keluar dari pola? Itu lebih dekat dengan sistem nyata daripada kesempurnaan.
 
 ## 30. Ukuran keberhasilan buku ini
 
@@ -1317,9 +1223,7 @@ Jika ya:
 
 > sistem mulai bekerja.
 
-Bukan sempurna.
-
-Tetapi:
+Bukan sempurna. Tetapi:
 
 > bergerak.
 
@@ -1349,9 +1253,7 @@ Bukan pula tentang:
 
 > menjadi pemimpin yang disukai semua orang.
 
-Lebih sederhana.
-
-Kita ingin menjadi orang yang:
+Lebih sederhana. Kita ingin menjadi orang yang:
 
 > **melihat lebih jernih;**
 
@@ -1379,21 +1281,7 @@ Karena pada akhirnya:
 
 > **memimpin diri adalah pekerjaan yang tidak pernah benar-benar selesai.**
 
-Hari ini kita mungkin merespons dengan baik.
-
-Besok mungkin kita terpeleset.
-
-Hari ini kita memahami orang lain.
-
-Besok kita mungkin salah membaca.
-
-Hari ini kita mengambil keputusan yang tepat.
-
-Besok outcome mungkin tetap buruk.
-
-Tidak apa-apa.
-
-Yang penting bukan:
+Hari ini kita mungkin merespons dengan baik. Besok mungkin kita terpeleset. Hari ini kita memahami orang lain. Besok kita mungkin salah membaca. Hari ini kita mengambil keputusan yang tepat. Besok outcome mungkin tetap buruk. Tidak apa-apa. Yang penting bukan:
 
 > tidak pernah salah.
 
@@ -1446,11 +1334,7 @@ Itulah mungkin bentuk leadership yang paling realistis:
 > **RETURN** — Apa respons saya pada situasi berikutnya?
 
 ::: success Green Note
-**SEE. UNDERSTAND. DECIDE. ACT. LEARN.**
-
-Bukan untuk menjadi sempurna.
-
-Untuk menjadi sedikit lebih baik dalam menghadapi kenyataan berikutnya.
+**SEE. UNDERSTAND. DECIDE. ACT. LEARN.** Bukan untuk menjadi sempurna. Untuk menjadi sedikit lebih baik dalam menghadapi kenyataan berikutnya.
 :::
 
 ## Evidence notes
