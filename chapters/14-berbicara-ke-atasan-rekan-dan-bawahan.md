@@ -10,7 +10,7 @@ Kalimat yang sama tidak selalu bekerja dengan cara yang sama pada orang yang ber
 
 Berbicara kepada atasan dapat memiliki risiko karena ada perbedaan kewenangan dan ketergantungan. Berbicara kepada rekan membutuhkan koordinasi tanpa selalu memiliki otoritas langsung. Berbicara kepada bawahan membawa tanggung jawab tambahan: kejelasan instruksi, ruang bertanya, dan penggunaan kewenangan secara proporsional.
 
-Riset tentang employee voice menunjukkan bahwa hierarki, power, status, dan konteks memengaruhi keputusan orang untuk berbicara serta bagaimana pesan diterima. Karena itu komunikasi organisasi tidak cukup dipahami sebagai soal “gaya bicara pribadi”. citeturn0search0turn0search2
+Riset tentang employee voice menunjukkan bahwa hierarki, power, status, dan konteks memengaruhi keputusan orang untuk berbicara serta bagaimana pesan diterima. Karena itu komunikasi organisasi tidak cukup dipahami sebagai soal “gaya bicara pribadi”. ([lihat Evidence notes](#evidence-notes))
 
 ::: success Green Note
 **Leader lens:** Beradaptasi dengan audiens bukan berarti menjadi orang berbeda untuk setiap orang. Yang berubah terutama adalah cara menyampaikan; standar terhadap fakta, alasan, dan tanggung jawab tetap dijaga.
@@ -57,7 +57,7 @@ Adaptasi audiens bukan lisensi untuk mengubah fakta agar nyaman bagi penerima.
 
 ## 2. Berbicara kepada atasan: hormat tanpa kehilangan judgment
 
-Dalam organisasi hierarkis, orang dapat memiliki alasan untuk berhati-hati ketika berbicara ke atas. Literatur voice menunjukkan bahwa hierarchy, power, dan status dapat memengaruhi risiko yang dirasakan dan perilaku speak-up. citeturn0search0turn0search7
+Dalam organisasi hierarkis, orang dapat memiliki alasan untuk berhati-hati ketika berbicara ke atas. Literatur voice menunjukkan bahwa hierarchy, power, dan status dapat memengaruhi risiko yang dirasakan dan perilaku speak-up. ([lihat Evidence notes](#evidence-notes))
 
 Karena itu ada dua ekstrem yang perlu dihindari.
 
@@ -153,7 +153,7 @@ Instruksi menjadi lebih jelas tanpa perlu meninggikan suara.
 
 ## 7. Bawahan tidak membutuhkan leader yang selalu benar
 
-Supervisor-subordinate communication dapat menciptakan kondisi di mana bawahan enggan berbeda pendapat atau memilih diam. citeturn0search7
+Supervisor-subordinate communication dapat menciptakan kondisi di mana bawahan enggan berbeda pendapat atau memilih diam. ([lihat Evidence notes](#evidence-notes))
 
 Karena itu sesekali leader perlu secara eksplisit membuka ruang koreksi:
 
