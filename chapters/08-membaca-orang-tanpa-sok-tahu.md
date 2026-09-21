@@ -1,4 +1,6 @@
-# 08 — Membaca Orang Tanpa Sok Tahu
+# Membaca Orang Tanpa Sok Tahu
+
+> **Leader capability:** Leader harus mampu membaca perspektif orang lain tanpa berubah menjadi pembaca pikiran.
 
 > **Canonical concept:** READ.PERSPECTIVE
 > **Status:** Draft v0.1
@@ -242,6 +244,16 @@ Latihan ini adalah alat belajar buku, bukan instrumen psikologis tervalidasi.
 
 Pertanyaan latihan:
 > **“Apa yang saya kira dia lihat—dan apa yang bisa saya tanyakan untuk mengetahui apakah saya benar?”**
+
+## Red Flags
+
+::: warning Risiko
+Jangan mengubah capability ini menjadi aturan absolut. Leadership selalu membutuhkan penyesuaian terhadap konteks, stakes, authority, evidence, dan dampak terhadap pihak lain.
+:::
+
+::: success Green Note
+**Carry forward:** capability ini harus membantu pembaca melihat situasi lebih jernih, memilih dengan lebih baik, bertindak dengan ownership, lalu belajar dari konsekuensinya.
+:::
 
 ## Evidence notes
 
