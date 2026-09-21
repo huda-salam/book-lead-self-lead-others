@@ -1,10 +1,9 @@
 # Fakta, Tafsir, dan Cerita di Kepala
 
-> **Leader capability:** Leadership judgment dimulai dari kemampuan membedakan apa yang diketahui, apa yang ditafsirkan, dan apa yang masih perlu diverifikasi.
+> **Yang dilatih:** Leadership judgment dimulai dari kemampuan membedakan apa yang diketahui, apa yang ditafsirkan, dan apa yang masih perlu diverifikasi.
 
 > **Canonical concept:** READ.OBSERVATION  
 > **Related concept:** LITERACY.DISCIPLINE  
-> **Status:** Draft v0.1
 
 ## 1. Kita jarang bereaksi hanya terhadap fakta
 
@@ -12,25 +11,15 @@ Seseorang berkata:
 
 > “Besok kita perlu membicarakan pekerjaan ini.”
 
-Kalimatnya sederhana.
-
-Tetapi di kepala kita mungkin langsung muncul:
+Kalimatnya sederhana. Tetapi di kepala kita mungkin langsung muncul:
 
 > “Dia pasti mau memarahi saya.”
 
-Lalu muncul emosi: tegang, khawatir, defensif.
-
-Kemudian kita masuk ke pertemuan dengan sikap bertahan.
-
-Padahal kita belum tahu apa yang sebenarnya ingin dibicarakan.
-
-Di sinilah salah satu sumber masalah manusia bekerja:
+Lalu muncul emosi: tegang, khawatir, defensif. Kemudian kita masuk ke pertemuan dengan sikap bertahan. Padahal kita belum tahu apa yang sebenarnya ingin dibicarakan. Di sinilah salah satu sumber masalah manusia bekerja:
 
 > **Kita sering merespons bukan hanya terhadap apa yang terjadi, tetapi juga terhadap arti yang kita berikan kepada apa yang terjadi.**
 
-Bab ini tidak meminta kita menjadi mesin yang hanya percaya pada data.
-
-Ia mengajarkan satu disiplin sederhana:
+Bab ini tidak meminta kita menjadi mesin yang hanya percaya pada data. Ia mengajarkan satu disiplin sederhana:
 
 > **Pisahkan apa yang teramati dari apa yang kita tafsirkan, lalu tandai apa yang belum kita ketahui.**
 
@@ -64,9 +53,7 @@ Apa yang belum kita ketahui?
 
 > “Saya belum tahu tujuan sebenarnya dari pertemuan.”
 
-Empat lapisan ini tidak sama.
-
-Kesalahan sering terjadi ketika tafsir diperlakukan sebagai observasi.
+Empat lapisan ini tidak sama. Kesalahan sering terjadi ketika tafsir diperlakukan sebagai observasi.
 
 ## 3. “Saya tahu” sering sebenarnya berarti “saya menyimpulkan”
 
@@ -82,11 +69,7 @@ Perhatikan:
 
 > “Dia memang manipulatif.”
 
-Kalimat-kalimat ini mungkin benar.
-
-Tetapi masing-masing mengandung tingkat inferensi yang berbeda.
-
-Pertanyaan pertama bukan:
+Kalimat-kalimat ini mungkin benar. Tetapi masing-masing mengandung tingkat inferensi yang berbeda. Pertanyaan pertama bukan:
 
 > “Apakah saya benar?”
 
@@ -124,13 +107,7 @@ Ada kesalahan baru jika kita berpikir:
 
 > “Kalau tafsir berbahaya, berarti kita harus menghilangkan semua tafsir.”
 
-Tidak mungkin.
-
-Manusia harus menafsirkan situasi untuk bertindak.
-
-Masalahnya bukan memiliki interpretasi.
-
-Masalahnya adalah:
+Tidak mungkin. Manusia harus menafsirkan situasi untuk bertindak. Masalahnya bukan memiliki interpretasi. Masalahnya adalah:
 
 > **melupakan bahwa interpretasi adalah interpretasi.**
 
@@ -142,15 +119,11 @@ Ini berbeda dari:
 
 > “Dia keberatan.”
 
-Yang pertama menyimpan ketidakpastian.
-
-Yang kedua menyajikan kesimpulan sebagai fakta.
+Yang pertama menyimpan ketidakpastian. Yang kedua menyajikan kesimpulan sebagai fakta.
 
 ## 5. Dari fakta ke cerita
 
-Bayangkan seseorang tidak membalas pesan selama satu hari.
-
-Observasi:
+Bayangkan seseorang tidak membalas pesan selama satu hari. Observasi:
 
 > “Pesan belum dibalas.”
 
@@ -168,21 +141,13 @@ Kemudian:
 
 Perhatikan pergerakannya:
 
-**pesan belum dibalas → mengabaikan → tidak menghargai → tidak dapat dipercaya.**
-
-Setiap langkah menambah inferensi.
-
-Semakin jauh kita bergerak dari observasi, semakin penting evidence tambahan.
-
-Bukan berarti kesimpulan terakhir pasti salah.
+**pesan belum dibalas → mengabaikan → tidak menghargai → tidak dapat dipercaya.** Setiap langkah menambah inferensi. Semakin jauh kita bergerak dari observasi, semakin penting evidence tambahan. Bukan berarti kesimpulan terakhir pasti salah.
 
 Tetapi **beban pembuktiannya semakin besar**.
 
 ## 6. Literacy discipline
 
-Di sinilah konsep LITERACY.DISCIPLINE bekerja.
-
-Prinsipnya:
+Di sinilah konsep LITERACY.DISCIPLINE bekerja. Prinsipnya:
 
 > **Kekuatan kesimpulan tidak boleh lebih besar daripada kualitas, cakupan, dan kebaruan pengetahuan yang mendukungnya.**
 
@@ -198,15 +163,11 @@ Sejauh mana evidence tersebut berlaku?
 
 ### Currency
 
-Apakah informasi masih relevan dengan keadaan sekarang?
-
-Misalnya:
+Apakah informasi masih relevan dengan keadaan sekarang? Misalnya:
 
 > “Metode ini berhasil tahun lalu.”
 
-Evidence itu mungkin valid.
-
-Tetapi belum otomatis mendukung:
+Evidence itu mungkin valid. Tetapi belum otomatis mendukung:
 
 > “Metode ini pasti berhasil tahun ini.”
 
@@ -218,29 +179,17 @@ Setelah belajar membedakan fakta dan tafsir, ada jebakan berikutnya:
 
 > “Kalau kita tidak tahu, berarti semua kemungkinan sama-sama mungkin.”
 
-Tidak.
-
-Misalnya seseorang terlambat datang.
-
-Kita belum tahu alasannya.
-
-Tetapi beberapa penjelasan mungkin lebih masuk akal daripada yang lain berdasarkan konteks.
-
-Jika sebelumnya ia memberi tahu bahwa kendaraannya bermasalah, penjelasan itu memiliki dasar lebih kuat daripada teori bahwa ia sengaja ingin mempermalukan kita.
+Tidak. Misalnya seseorang terlambat datang. Kita belum tahu alasannya. Tetapi beberapa penjelasan mungkin lebih masuk akal daripada yang lain berdasarkan konteks. Jika sebelumnya ia memberi tahu bahwa kendaraannya bermasalah, penjelasan itu memiliki dasar lebih kuat daripada teori bahwa ia sengaja ingin mempermalukan kita.
 
 Jadi:
 
 > **uncertainty ≠ equal plausibility.**
 
-Literacy discipline bukan menghapus kesimpulan.
-
-Ia membuat **tingkat keyakinan proporsional terhadap evidence**.
+Literacy discipline bukan menghapus kesimpulan. Ia membuat **tingkat keyakinan proporsional terhadap evidence**.
 
 ## 8. Evidence bukan hanya “ada sumber”
 
-Sebuah link tidak otomatis membuat sebuah klaim benar.
-
-Kita perlu bertanya:
+Sebuah link tidak otomatis membuat sebuah klaim benar. Kita perlu bertanya:
 
 - Siapa yang mengatakan?
 - Bagaimana data diperoleh?
@@ -248,12 +197,10 @@ Kita perlu bertanya:
 - Kapan data dikumpulkan?
 - Apakah konteksnya sama?
 - Apakah sumber primer atau sekunder?
-- Apakah ada alternative explanation?
+- Apakah ada penjelasan alternatif?
 - Seberapa langsung evidence mendukung klaim?
 
-Ini terutama penting ketika kita menggunakan internet.
-
-Misalnya:
+Ini terutama penting ketika kita menggunakan internet. Misalnya:
 
 > “Sebuah artikel mengatakan metode X efektif.”
 
@@ -265,7 +212,7 @@ Pertanyaan berikutnya:
 
 > Dibandingkan apa?
 
-> Outcome apa yang diukur?
+> Hasil apa yang diukur?
 
 > Berapa lama?
 
@@ -279,9 +226,7 @@ Misalnya:
 
 > “Penjualan turun 20%.”
 
-Kita tahu angka itu.
-
-Tetapi belum tahu:
+Kita tahu angka itu. Tetapi belum tahu:
 
 - periode pembanding;
 - perubahan harga;
@@ -291,21 +236,13 @@ Tetapi belum tahu:
 - masalah stok;
 - perubahan kompetitor.
 
-Tanpa konteks, angka yang benar dapat menghasilkan kesimpulan yang salah.
-
-Maka:
+Tanpa konteks, angka yang benar dapat menghasilkan kesimpulan yang salah. Maka:
 
 > **missing information harus menjadi objek perhatian, bukan ruang kosong yang diisi dengan asumsi.**
 
 ## 10. Pisahkan data dari cerita tanpa kehilangan makna
 
-Dalam kehidupan nyata kita tidak mungkin membuat tabel untuk setiap percakapan.
-
-Tujuannya bukan formalitas.
-
-Tujuannya membangun kebiasaan mental.
-
-Ketika mendengar:
+Dalam kehidupan nyata kita tidak mungkin membuat tabel untuk setiap percakapan. Tujuannya bukan formalitas. Tujuannya membangun kebiasaan mental. Ketika mendengar:
 
 > “Dia tidak mau membantu.”
 
@@ -317,17 +254,11 @@ Mungkin:
 
 > “Dia belum mengirim data yang saya minta sampai hari ini.”
 
-Sekarang kita memiliki sesuatu yang dapat diperiksa.
-
-Kemudian:
+Sekarang kita memiliki sesuatu yang dapat diperiksa. Kemudian:
 
 > “Mengapa?”
 
-Baru kita mencari penjelasan.
-
-Perubahan ini tampak kecil.
-
-Tetapi ia mengubah konflik dari:
+Baru kita mencari penjelasan. Perubahan ini tampak kecil. Tetapi ia mengubah konflik dari:
 
 > **serangan terhadap karakter**
 
@@ -347,13 +278,7 @@ Kata-kata seperti:
 - tidak kompeten;
 - tidak kooperatif;
 
-sering dipakai terlalu cepat.
-
-Label dapat berguna sebagai shorthand.
-
-Tetapi label juga dapat menutup penyelidikan.
-
-Misalnya:
+sering dipakai terlalu cepat. Label dapat berguna sebagai shorthand. Tetapi label juga dapat menutup penyelidikan. Misalnya:
 
 > “Dia tidak kooperatif.”
 
@@ -366,19 +291,11 @@ Pertanyaan yang lebih berguna:
 - Apakah tujuan kedua pihak sebenarnya berbeda?
 - Apa evidence bahwa ia menolak kerja sama, bukan menolak cara tertentu?
 
-Ini tidak berarti kita harus membela orang tersebut.
-
-Kita sedang memastikan bahwa tindakan kita tidak dibangun di atas diagnosis yang belum diperiksa.
+Ini tidak berarti kita harus membela orang tersebut. Kita sedang memastikan bahwa tindakan kita tidak dibangun di atas diagnosis yang belum diperiksa.
 
 ## 12. Alternative explanation
 
-Salah satu latihan paling berguna adalah mencari minimal satu penjelasan alternatif.
-
-Bukan sepuluh.
-
-Satu atau dua sudah cukup untuk memaksa pikiran keluar dari jalur tunggal.
-
-Contoh:
+Salah satu latihan paling berguna adalah mencari minimal satu penjelasan alternatif. Bukan sepuluh. Satu atau dua sudah cukup untuk memaksa pikiran keluar dari jalur tunggal. Contoh:
 
 > “Dia tidak membalas karena mengabaikan saya.”
 
@@ -398,9 +315,7 @@ Kemudian:
 
 > **Apa informasi yang membedakan hipotesis-hipotesis tersebut?**
 
-Alternative explanation bukan latihan untuk membuat semua cerita sama-sama benar.
-
-Ia adalah cara mencari **informasi pembeda**.
+Alternative explanation bukan latihan untuk membuat semua cerita sama-sama benar. Ia adalah cara mencari **informasi pembeda**.
 
 ## 13. Dari interpretasi ke pertanyaan
 
@@ -428,9 +343,7 @@ coba:
 
 > “Saya belum tahu posisi beliau. Apa yang sudah disampaikan sebelumnya?”
 
-Pertanyaan yang baik tidak selalu menghasilkan jawaban yang kita sukai.
-
-Tetapi ia memberi kesempatan kepada realitas untuk **mengoreksi cerita di kepala kita**.
+Pertanyaan yang baik tidak selalu menghasilkan jawaban yang kita sukai. Tetapi ia memberi kesempatan kepada realitas untuk **mengoreksi cerita di kepala kita**.
 
 ## 14. Ketika evidence bertentangan dengan cerita
 
@@ -442,9 +355,7 @@ Lalu ternyata:
 
 > dia sebenarnya sedang menghadapi masalah lain dan sudah memberi tahu rekan lain.
 
-Apa yang harus dilakukan?
-
-Bukan:
+Apa yang harus dilakukan? Bukan:
 
 > “Saya bodoh karena salah.”
 
@@ -452,19 +363,13 @@ Tetapi:
 
 > **“Model saya perlu diperbarui.”**
 
-Humility dari Chapter 3 masuk kembali di sini.
+Humility dari Chapter 3 masuk kembali di sini. Literacy discipline memberi prosedur:
 
-Literacy discipline memberi prosedur:
-
-**klaim → evidence → scope → alternative → update**
-
-Humility membuat kita bersedia melakukan update.
+**klaim → evidence → scope → alternative → update** Humility membuat kita bersedia melakukan update.
 
 ## 15. Latihan: Observation Log
 
-Pilih satu kejadian yang membuat Anda kesal.
-
-Tulis:
+Pilih satu kejadian yang membuat Anda kesal. Tulis:
 
 ### Observation
 Apa yang benar-benar terjadi?
@@ -488,9 +393,7 @@ Apa yang belum saya tahu?
 Informasi apa yang paling membantu membedakan hipotesis?
 
 ### Response
-Apa tindakan yang proporsional sekarang?
-
-Latihan ini adalah **alat belajar buku**, bukan alat ukur psikologis tervalidasi.
+Apa tindakan yang proporsional sekarang? Latihan ini adalah **alat belajar buku**, bukan alat ukur psikologis tervalidasi.
 
 ## 16. Latihan: Turunkan satu tingkat kepastian
 
@@ -510,34 +413,22 @@ Jika evidence lemah:
 
 > “Saya belum tahu apakah itu disengaja.”
 
-Perubahan bahasa ini bukan sekadar sopan.
-
-Ia mengubah hubungan kita dengan ketidakpastian.
+Perubahan bahasa ini bukan sekadar sopan. Ia mengubah hubungan kita dengan ketidakpastian.
 
 ## 17. Jangan terjebak analisis tanpa akhir
 
-Literacy discipline memiliki sisi gelap.
-
-Orang dapat terus:
+Literacy discipline memiliki sisi gelap. Orang dapat terus:
 
 - mencari sumber;
 - mencari alternatif;
 - mempertanyakan data;
 - membaca artikel;
 
-tetapi tidak pernah mengambil keputusan.
-
-Itu bukan disiplin literasi.
-
-Itu dapat menjadi **analysis avoidance**.
-
-Maka setelah pemeriksaan:
+tetapi tidak pernah mengambil keputusan. Itu bukan disiplin literasi. Itu dapat menjadi **analysis avoidance**. Maka setelah pemeriksaan:
 
 > **Apa keputusan yang perlu dibuat dengan informasi yang tersedia sekarang?**
 
-Tidak semua ketidakpastian harus dihilangkan.
-
-Keputusan yang baik sering berarti:
+Tidak semua ketidakpastian harus dihilangkan. Keputusan yang baik sering berarti:
 
 > **bertindak dengan ketidakpastian yang diketahui dan dikelola.**
 
@@ -571,7 +462,7 @@ Jangan mengubah capability ini menjadi aturan absolut. Leadership selalu membutu
 **Carry forward:** capability ini harus membantu pembaca melihat situasi lebih jernih, memilih dengan lebih baik, bertindak dengan ownership, lalu belajar dari konsekuensinya.
 :::
 
-## Evidence notes
+## Catatan evidence
 
 - Lord, Diefendorff, Schmidt & Hall (2010), *Self-Regulation at Work*, Annual Review of Psychology. DOI: 10.1146/annurev.psych.093008.100314.
 - Neal, Ballard & Vancouver (2017), *Dynamic Self-Regulation and Multiple-Goal Pursuit*, Annual Review of Organizational Psychology and Organizational Behavior. DOI: 10.1146/annurev-orgpsych-032516-113156.
