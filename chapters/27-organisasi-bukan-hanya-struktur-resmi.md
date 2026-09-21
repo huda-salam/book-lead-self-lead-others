@@ -1,14 +1,12 @@
 # Organisasi Bukan Hanya Struktur Resmi
 
-> **Leader capability:** Mampu membaca organisasi sebagai sistem yang terdiri dari struktur formal, pekerjaan nyata, informasi, insentif, norma, jaringan, dan proses keputusan.
+> **Yang dilatih:** Mampu membaca organisasi sebagai sistem yang terdiri dari struktur formal, pekerjaan nyata, informasi, insentif, norma, jaringan, dan proses keputusan.
 
 > **Canonical concept:** ORG.SYSTEM
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
-Lihat sebuah organisasi.
-
-Ada:
+Lihat sebuah organisasi. Ada:
 
 > Kepala.
 
@@ -20,9 +18,7 @@ Ada:
 
 > Staf.
 
-Semua terlihat jelas di organigram.
-
-Tetapi kemudian muncul pertanyaan:
+Semua terlihat jelas di organigram. Tetapi kemudian muncul pertanyaan:
 
 > Mengapa keputusan ini selalu terlambat?
 
@@ -34,13 +30,9 @@ Tetapi kemudian muncul pertanyaan:
 
 > Mengapa prosedur yang sebenarnya sudah tidak cocok tetap dilakukan?
 
-Organigram tidak selalu menjawab pertanyaan-pertanyaan tersebut.
+Organigram tidak selalu menjawab pertanyaan-pertanyaan tersebut. Karena organisasi memiliki dua wajah:
 
-Karena organisasi memiliki dua wajah:
-
-**formal structure**
-
-dan
+**formal structure** dan
 
 **actual system of work.**
 
@@ -52,7 +44,7 @@ dan
 Bab ini bukan mengajarkan politik organisasi. Bab ini memberi dasar untuk memahami sistem organisasi sebelum masuk ke power, interests, dan defensive politics pada Chapter 28–30.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 Leader sedang melatih kemampuan untuk:
 
@@ -66,9 +58,7 @@ Leader sedang melatih kemampuan untuk:
 
 ## 1. Organigram adalah peta, bukan seluruh wilayah
 
-Organigram berguna.
-
-Ia menunjukkan:
+Organigram berguna. Ia menunjukkan:
 
 - struktur;
 - reporting line;
@@ -98,21 +88,15 @@ Karena itu:
 
 ## 2. Baca pekerjaan, bukan hanya jabatan
 
-Dua orang dapat memiliki jabatan berbeda tetapi pekerjaan mereka sangat bergantung satu sama lain.
+Dua orang dapat memiliki jabatan berbeda tetapi pekerjaan mereka sangat bergantung satu sama lain. Sebaliknya:
 
-Sebaliknya:
-
-dua unit dapat terlihat berdekatan dalam struktur tetapi hampir tidak memiliki dependency operasional.
-
-Pertanyaan leader:
+dua unit dapat terlihat berdekatan dalam struktur tetapi hampir tidak memiliki dependency operasional. Pertanyaan leader:
 
 > “Apa yang sebenarnya harus terjadi dari awal sampai akhir?”
 
 Misalnya:
 
-**Input → Verifikasi → Approval → Processing → Output**
-
-Kemudian tanyakan:
+**Input → Verifikasi → Approval → Processing → Output** Kemudian tanyakan:
 
 > siapa yang melakukan setiap tahap?
 
@@ -128,9 +112,7 @@ Dengan begitu kita mulai melihat:
 
 ## 3. Information flow
 
-Ada organisasi yang masalah utamanya bukan kekurangan orang.
-
-Tetapi:
+Ada organisasi yang masalah utamanya bukan kekurangan orang. Tetapi:
 
 > informasi berhenti di tengah.
 
@@ -146,37 +128,23 @@ Pimpinan hanya mengetahui:
 
 > target belum tercapai.
 
-Informasi bergerak ke atas dalam bentuk yang semakin ringkas.
-
-Kadang itu wajar.
-
-Tetapi kadang:
+Informasi bergerak ke atas dalam bentuk yang semakin ringkas. Kadang itu wajar. Tetapi kadang:
 
 > informasi penting hilang dalam perjalanan.
 
 Karena itu leader perlu bertanya:
 
-**Who knows?**
+**Who knows?** Siapa yang memiliki informasi?
 
-Siapa yang memiliki informasi?
+**Who needs to know?** Siapa yang membutuhkan informasi untuk mengambil keputusan?
 
-**Who needs to know?**
+**When?** Kapan informasi tersebut masih berguna?
 
-Siapa yang membutuhkan informasi untuk mengambil keputusan?
-
-**When?**
-
-Kapan informasi tersebut masih berguna?
-
-**What is lost?**
-
-Apa yang hilang ketika informasi berpindah?
+**What is lost?** Apa yang hilang ketika informasi berpindah?
 
 ## 4. Authority tidak sama dengan information
 
-Orang dengan authority tertinggi belum tentu memiliki informasi paling detail.
-
-Orang yang paling dekat dengan pekerjaan sering melihat:
+Orang dengan authority tertinggi belum tentu memiliki informasi paling detail. Orang yang paling dekat dengan pekerjaan sering melihat:
 
 > masalah lebih cepat.
 
@@ -204,15 +172,11 @@ Ada orang yang tahu:
 
 > siapa yang harus diajak bicara.
 
-Mereka mungkin tidak memiliki posisi formal tertinggi.
-
-Tetapi mereka memiliki:
+Mereka mungkin tidak memiliki posisi formal tertinggi. Tetapi mereka memiliki:
 
 > **informal influence.**
 
-Ini tidak otomatis buruk.
-
-Informal network dapat membantu:
+Ini tidak otomatis buruk. Informal network dapat membantu:
 
 - koordinasi;
 - penyebaran informasi;
@@ -237,9 +201,7 @@ Dan:
 
 ## 6. Norma: “begitulah cara kami bekerja”
 
-Setiap organisasi memiliki kebiasaan.
-
-Misalnya:
+Setiap organisasi memiliki kebiasaan. Misalnya:
 
 > “Kalau mau cepat, jangan lewat jalur itu.”
 
@@ -251,9 +213,7 @@ Atau:
 
 > “Kalau atasan belum bertanya, jangan terlalu banyak bicara.”
 
-Norma seperti ini dapat membantu koordinasi.
-
-Tetapi dapat juga menghasilkan:
+Norma seperti ini dapat membantu koordinasi. Tetapi dapat juga menghasilkan:
 
 > information hiding.
 
@@ -271,11 +231,7 @@ Ini lebih berguna daripada langsung berkata:
 
 ## 7. Routines dapat membantu sekaligus membatasi
 
-Rutin membuat pekerjaan lebih mudah.
-
-Jika setiap transaksi harus dimulai dari langkah yang sama, orang tidak perlu merancang proses dari nol.
-
-Tetapi routine juga dapat menjadi:
+Rutin membuat pekerjaan lebih mudah. Jika setiap transaksi harus dimulai dari langkah yang sama, orang tidak perlu merancang proses dari nol. Tetapi routine juga dapat menjadi:
 
 > kebiasaan yang terus berjalan setelah konteks berubah.
 
@@ -283,11 +239,7 @@ Misalnya:
 
 > laporan dibuat karena dulu pimpinan membutuhkannya.
 
-Sekarang informasi yang sama sudah tersedia real-time.
-
-Tetapi laporan tetap dibuat.
-
-Pertanyaan leader:
+Sekarang informasi yang sama sudah tersedia real-time. Tetapi laporan tetap dibuat. Pertanyaan leader:
 
 > “Masalah apa yang sebenarnya ingin diselesaikan oleh routine ini?”
 
@@ -315,9 +267,7 @@ Unit B dinilai dari:
 
 > ketepatan.
 
-Jika A mempercepat pekerjaan dengan mengirim data yang belum lengkap, B akan menanggung pekerjaan tambahan.
-
-Dari sudut A:
+Jika A mempercepat pekerjaan dengan mengirim data yang belum lengkap, B akan menanggung pekerjaan tambahan. Dari sudut A:
 
 > target tercapai.
 
@@ -337,13 +287,7 @@ Bayangkan:
 
 **Unit B:** harus melakukan rework.
 
-**Unit C:** menerima lebih banyak complaint.
-
-Setiap unit mungkin memiliki alasan yang masuk akal.
-
-Tetapi hasil akhirnya buruk.
-
-Pertanyaan leader bukan:
+**Unit C:** menerima lebih banyak complaint. Setiap unit mungkin memiliki alasan yang masuk akal. Tetapi hasil akhirnya buruk. Pertanyaan leader bukan:
 
 > “Siapa yang salah?”
 
@@ -359,11 +303,7 @@ Banyak masalah organisasi muncul ketika pekerjaan berpindah:
 
 > A → B
 
-Bukan ketika A atau B bekerja sendiri.
-
-Mengapa?
-
-Karena pada handoff muncul pertanyaan:
+Bukan ketika A atau B bekerja sendiri. Mengapa? Karena pada handoff muncul pertanyaan:
 
 - apa yang harus diserahkan?
 - dalam format apa?
@@ -390,9 +330,7 @@ Leader perlu membuat:
 
 ## 11. Decision rights
 
-Tidak semua masalah membutuhkan rapat.
-
-Pertanyaan yang lebih mendasar:
+Tidak semua masalah membutuhkan rapat. Pertanyaan yang lebih mendasar:
 
 > “Siapa sebenarnya yang boleh memutuskan?”
 
@@ -456,11 +394,7 @@ Siapa dapat memutuskan apa?
 
 ### Feedback
 
-Bagaimana sistem mengetahui bahwa sesuatu berjalan atau gagal?
-
-Framework ini bukan alat untuk memberi label organisasi.
-
-Ia adalah:
+Bagaimana sistem mengetahui bahwa sesuatu berjalan atau gagal? Framework ini bukan alat untuk memberi label organisasi. Ia adalah:
 
 > **peta pertanyaan.**
 
@@ -470,11 +404,7 @@ Kalimat:
 
 > “Ini masalah budaya.”
 
-sering terlalu cepat.
-
-Budaya mungkin relevan.
-
-Tetapi tanyakan dulu:
+sering terlalu cepat. Budaya mungkin relevan. Tetapi tanyakan dulu:
 
 > Apakah struktur mendorong perilaku itu?
 
@@ -498,57 +428,33 @@ kadang merupakan:
 
 > **system response.**
 
-Ini tidak berarti individu bebas dari accountability.
-
-Artinya:
+Ini tidak berarti individu bebas dari accountability. Artinya:
 
 > diagnosis perlu lebih lengkap.
 
 ## 14. System mapping sederhana
 
-Ambil satu masalah organisasi.
+Ambil satu masalah organisasi. Tulis:
 
-Tulis:
+**Actor** Siapa yang terlibat?
 
-**Actor**
+**Work** Apa yang mereka lakukan?
 
-Siapa yang terlibat?
+**Information** Informasi apa yang mereka miliki?
 
-**Work**
+**Decision** Keputusan apa yang dapat mereka buat?
 
-Apa yang mereka lakukan?
+**Dependency** Siapa yang mereka tunggu?
 
-**Information**
+**Incentive** Apa yang membuat mereka memprioritaskan sesuatu?
 
-Informasi apa yang mereka miliki?
+**Norm** Apa yang dianggap “cara normal”?
 
-**Decision**
-
-Keputusan apa yang dapat mereka buat?
-
-**Dependency**
-
-Siapa yang mereka tunggu?
-
-**Incentive**
-
-Apa yang membuat mereka memprioritaskan sesuatu?
-
-**Norm**
-
-Apa yang dianggap “cara normal”?
-
-**Feedback**
-
-Bagaimana mereka tahu hasilnya?
-
-Sekarang bandingkan dengan:
+**Feedback** Bagaimana mereka tahu hasilnya? Sekarang bandingkan dengan:
 
 > **org chart.**
 
-Apa yang terlihat di system map tetapi tidak terlihat di organigram?
-
-Di situlah sering ditemukan:
+Apa yang terlihat di system map tetapi tidak terlihat di organigram? Di situlah sering ditemukan:
 
 > bottleneck.
 
@@ -597,9 +503,7 @@ Tetapi organisasi tetap membutuhkan:
 - dokumentasi;
 - dan kontrol.
 
-Informal coordination dapat membantu sistem formal.
-
-Ia tidak otomatis boleh menggantikannya.
+Informal coordination dapat membantu sistem formal. Ia tidak otomatis boleh menggantikannya.
 
 ## 17. Latihan: lihat organisasi dari tiga kamera
 
@@ -615,11 +519,7 @@ Apa yang benar-benar terjadi?
 
 ### Kamera 3 — Incentive
 
-Mengapa orang memiliki alasan untuk bekerja seperti itu?
-
-Bandingkan.
-
-Jika ketiganya berbeda jauh:
+Mengapa orang memiliki alasan untuk bekerja seperti itu? Bandingkan. Jika ketiganya berbeda jauh:
 
 > jangan buru-buru menyalahkan orang.
 
