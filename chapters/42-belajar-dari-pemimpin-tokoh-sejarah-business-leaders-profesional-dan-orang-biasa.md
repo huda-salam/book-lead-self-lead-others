@@ -1,12 +1,10 @@
 # Belajar dari Pemimpin, Tokoh Sejarah, Business Leaders, Profesional, dan Orang Biasa
 
-> **Reasoning capability:** Belajar dari manusia nyata tanpa mengubah keberhasilan menjadi bukti keunggulan pribadi, tanpa hero worship, dan tanpa mengabaikan konteks, seleksi, serta ketidakpastian.
+> **Yang dilatih:** Belajar dari manusia nyata tanpa mengubah keberhasilan menjadi bukti keunggulan pribadi, tanpa hero worship, dan tanpa mengabaikan konteks, seleksi, serta ketidakpastian.
 
 > **Canonical concept:** CASE.HUMAN_EXEMPLARS
 
-Setelah belajar dari Nabi dan Sahabat, kita masuk ke wilayah yang berbeda.
-
-Di sini kita mempelajari:
+Setelah belajar dari Nabi dan Sahabat, kita masuk ke wilayah yang berbeda. Di sini kita mempelajari:
 
 - pemimpin politik dan pemerintahan;
 - tokoh sejarah;
@@ -96,9 +94,7 @@ Maka:
 
 ## 2. Outcome bukan bukti bahwa semua behavior-nya benar
 
-Bayangkan seorang entrepreneur berhasil besar.
-
-Ia berkata:
+Bayangkan seorang entrepreneur berhasil besar. Ia berkata:
 
 > “Saya tidur hanya empat jam sehari.”
 
@@ -141,9 +137,7 @@ Kalimat:
 
 > “Dia visioner.”
 
-terlalu abstrak.
-
-Tanyakan:
+terlalu abstrak. Tanyakan:
 
 > Apa yang ia lakukan?
 
@@ -199,9 +193,7 @@ Behavior yang baik di satu konteks:
 
 Contoh:
 
-Seorang CEO terkenal mengambil keputusan sangat cepat.
-
-Kita dapat bertanya:
+Seorang CEO terkenal mengambil keputusan sangat cepat. Kita dapat bertanya:
 
 > Apakah situasinya reversible?
 
@@ -275,9 +267,7 @@ Apakah membaca:
 
 > menyebabkan keberhasilan?
 
-Belum tentu.
-
-Mungkin:
+Belum tentu. Mungkin:
 
 > orang yang berhasil punya waktu, akses, dan kebiasaan yang berbeda.
 
@@ -309,21 +299,15 @@ Jika seseorang hebat dalam satu hal:
 
 > kita cenderung menganggap ia hebat dalam banyak hal.
 
-Seorang entrepreneur berhasil membangun perusahaan.
-
-Lalu:
+Seorang entrepreneur berhasil membangun perusahaan. Lalu:
 
 > kita menganggap pendapatnya tentang parenting benar.
 
-Seorang atlet hebat.
-
-Lalu:
+Seorang atlet hebat. Lalu:
 
 > kita menganggap pandangannya tentang bisnis pasti benar.
 
-Seorang pejabat sukses menjalankan program.
-
-Lalu:
+Seorang pejabat sukses menjalankan program. Lalu:
 
 > kita menganggap semua keputusannya tepat.
 
@@ -345,9 +329,7 @@ Kita sering membaca sejarah sebagai:
 
 > pahlawan vs penjahat.
 
-Padahal manusia dan institusi lebih kompleks.
-
-Untuk tokoh sejarah, tanyakan:
+Padahal manusia dan institusi lebih kompleks. Untuk tokoh sejarah, tanyakan:
 
 - apa sumber utamanya?
 - siapa yang menulis?
@@ -362,9 +344,7 @@ Jangan menyimpulkan:
 
 > “Dia orang baik.”
 
-Dari satu tindakan.
-
-Lebih berguna:
+Dari satu tindakan. Lebih berguna:
 
 > **“Dalam episode ini, ia memilih X ketika menghadapi Y, dengan informasi dan constraint Z.”**
 
@@ -428,9 +408,7 @@ Tetapi:
 
 > expertise selalu memiliki domain.
 
-Seorang ahli teknis dapat sangat baik membaca sistem.
-
-Itu tidak otomatis membuatnya ahli:
+Seorang ahli teknis dapat sangat baik membaca sistem. Itu tidak otomatis membuatnya ahli:
 
 > negosiasi,
 
@@ -446,9 +424,7 @@ Belajar secara sehat berarti:
 
 ## 11. Orang biasa juga dapat menjadi exemplar
 
-Ini penting.
-
-Jika kita hanya belajar dari:
+Ini penting. Jika kita hanya belajar dari:
 
 > CEO,
 
@@ -458,9 +434,7 @@ Jika kita hanya belajar dari:
 
 > ilmuwan terkenal,
 
-kita dapat membangun bias bahwa leadership hanya terjadi pada posisi tinggi.
-
-Padahal kita dapat belajar dari:
+kita dapat membangun bias bahwa leadership hanya terjadi pada posisi tinggi. Padahal kita dapat belajar dari:
 
 > pegawai yang tetap jujur ketika tidak ada yang melihat;
 
@@ -490,9 +464,7 @@ mudah berubah menjadi:
 
 > “Penderitaan membuat orang kuat.”
 
-Tidak sesederhana itu.
-
-Kesulitan dapat:
+Tidak sesederhana itu. Kesulitan dapat:
 
 - mengembangkan kemampuan;
 - membuka peluang belajar;
@@ -505,9 +477,7 @@ Jadi jangan membuat:
 
 > suffering → success
 
-sebagai hukum.
-
-Tanyakan:
+sebagai hukum. Tanyakan:
 
 > Apa yang sebenarnya dilakukan orang tersebut terhadap kondisi itu?
 
@@ -519,9 +489,7 @@ Tanyakan:
 
 ## 13. Success does not prove the method
 
-Ini salah satu prinsip utama chapter ini.
-
-Jika:
+Ini salah satu prinsip utama chapter ini. Jika:
 
 > A melakukan X → berhasil.
 
@@ -606,9 +574,7 @@ tetapi:
 
 > tidak cukup untuk menjelaskan outcome.
 
-Ini bukan untuk meremehkan kerja keras.
-
-Ini untuk:
+Ini bukan untuk meremehkan kerja keras. Ini untuk:
 
 > **memperbaiki causal reasoning.**
 
@@ -668,9 +634,7 @@ Contoh:
 
 > **Check-in rutin dapat membantu ketika information latency menjadi bottleneck; tetapi terlalu banyak check-in dapat menjadi overhead atau micromanagement jika autonomy dan information flow sudah memadai.**
 
-Ini lebih membosankan daripada quote.
-
-Tetapi:
+Ini lebih membosankan daripada quote. Tetapi:
 
 > lebih berguna.
 
@@ -706,9 +670,7 @@ Kapan lesson mungkin tidak berlaku?
 
 ### Transfer
 
-Apa yang dapat kita adaptasi ke konteks sendiri?
-
-Perhatikan:
+Apa yang dapat kita adaptasi ke konteks sendiri? Perhatikan:
 
 > **transfer datang paling akhir.**
 
@@ -770,9 +732,7 @@ Ambil artikel:
 
 > “10 habits of successful leaders.”
 
-Jangan langsung membuat daftar kebiasaan.
-
-Buat tabel:
+Jangan langsung membuat daftar kebiasaan. Buat tabel:
 
 | Claim | Evidence | Alternative | Boundary |
 |---|---|---|---|
@@ -793,17 +753,13 @@ Jika tidak cukup:
 
 > tulis “unknown”.
 
-Itu bukan kegagalan.
-
-Itu:
+Itu bukan kegagalan. Itu:
 
 > **literacy discipline.**
 
 ## 21. Latihan: belajar tanpa meniru
 
-Pilih satu tokoh yang Anda kagumi.
-
-Tulis tiga hal:
+Pilih satu tokoh yang Anda kagumi. Tulis tiga hal:
 
 ### Yang saya kagumi
 
