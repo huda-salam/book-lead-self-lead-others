@@ -1,14 +1,12 @@
 # Memimpin Saat Tekanan Tinggi
 
-> **Leader capability:** Menjaga kualitas judgment, koordinasi, komunikasi, dan tindakan ketika waktu sempit, informasi tidak lengkap, stakes tinggi, dan tekanan meningkat.
+> **Yang dilatih:** Menjaga kualitas judgment, koordinasi, komunikasi, dan tindakan ketika waktu sempit, informasi tidak lengkap, stakes tinggi, dan tekanan meningkat.
 
 > **Canonical concept:** LEAD.PRESSURE
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
-Leadership tidak selalu terjadi dalam ruang yang tenang.
-
-Kadang:
+Leadership tidak selalu terjadi dalam ruang yang tenang. Kadang:
 
 > target jatuh,
 
@@ -44,7 +42,7 @@ Tekanan menguji sesuatu yang berbeda dari sekadar pengetahuan:
 Chapter ini bukan panduan incident response atau crisis management teknis. Fokusnya adalah capability leader ketika tekanan tinggi. Mekanisme spesifik tetap bergantung pada jenis organisasi, risiko, SOP, dan kewenangan.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 - stabilisasi;
 - prioritisasi;
@@ -156,9 +154,7 @@ Gunakan empat kelompok sederhana:
 | Useful, noncritical | Tunda |
 | Tidak perlu | Hentikan |
 
-Ini bukan taxonomy ilmiah.
-
-Ini:
+Ini bukan taxonomy ilmiah. Ini:
 
 > alat bantu berpikir ketika kapasitas terbatas.
 
@@ -202,9 +198,7 @@ Maka sederhanakan:
 
 > Kapan update berikutnya?
 
-Tidak perlu selalu membuat rapat panjang.
-
-Kadang:
+Tidak perlu selalu membuat rapat panjang. Kadang:
 
 > lima menit yang jelas
 
@@ -258,9 +252,7 @@ bukan otomatis:
 
 > “Siapa yang salah?”
 
-Pertanggungjawaban tetap ada.
-
-Tetapi:
+Pertanggungjawaban tetap ada. Tetapi:
 
 > diagnosis dan stabilisasi perlu dilakukan terlebih dahulu ketika situasi masih berjalan.
 
@@ -270,9 +262,7 @@ Ada kesalahpahaman:
 
 > leader yang tenang harus selalu lembut dan tidak banyak bicara.
 
-Tidak.
-
-Leader dapat berkata:
+Tidak. Leader dapat berkata:
 
 > “Stop dulu pekerjaan ini.”
 
@@ -296,9 +286,7 @@ Sebaliknya:
 
 > tekanan bukan lisensi untuk membentak.
 
-Nada tinggi tidak otomatis mempercepat sistem.
-
-Kadang justru:
+Nada tinggi tidak otomatis mempercepat sistem. Kadang justru:
 
 > orang berhenti memberi informasi.
 
@@ -336,21 +324,15 @@ Untuk keputusan:
 
 > reversible dan low-risk,
 
-threshold informasi dapat lebih rendah.
-
-Untuk keputusan:
+threshold informasi dapat lebih rendah. Untuk keputusan:
 
 > irreversible dan high-risk,
 
-threshold perlu lebih tinggi.
-
-Ini menyambung Chapter 9 dan Chapter 24.
+threshold perlu lebih tinggi. Ini menyambung Chapter 9 dan Chapter 24.
 
 ## 11. Jangan menciptakan kepanikan tambahan
 
-Leader punya efek sosial.
-
-Jika leader berkata:
+Leader punya efek sosial. Jika leader berkata:
 
 > “Gawat! Ini kacau!”
 
@@ -358,9 +340,7 @@ tim mungkin menangkap:
 
 > ancaman,
 
-bahkan sebelum mengetahui fakta.
-
-Bandingkan:
+bahkan sebelum mengetahui fakta. Bandingkan:
 
 > “Situasinya serius. Saat ini kita fokus pada tiga hal…”
 
@@ -382,9 +362,7 @@ Dalam tekanan:
 
 > leader kadang mengambil semua pekerjaan.
 
-Itu terasa cepat.
-
-Tetapi bisa menciptakan:
+Itu terasa cepat. Tetapi bisa menciptakan:
 
 > bottleneck.
 
@@ -406,9 +384,7 @@ Leader kemudian:
 
 > dan melakukan escalation bila diperlukan.
 
-Development orang lain dibahas di Chapter 33.
-
-Delegation sebagai mekanisme dibahas di Chapter 36.
+Development orang lain dibahas di Chapter 33. Delegation sebagai mekanisme dibahas di Chapter 36.
 
 ## 13. Eskalasi bukan tanda gagal
 
@@ -416,9 +392,7 @@ Ada leader yang menganggap:
 
 > “Saya harus menyelesaikan semuanya sendiri.”
 
-Itu bukan ownership.
-
-Ownership berarti:
+Itu bukan ownership. Ownership berarti:
 
 > memastikan masalah ditangani pada level yang tepat.
 
@@ -436,9 +410,7 @@ maka:
 
 Gunakan format:
 
-**Fakta → Dampak → Tindakan yang sudah dilakukan → Risiko → Opsi → Keputusan yang dibutuhkan**
-
-Bukan:
+**Fakta → Dampak → Tindakan yang sudah dilakukan → Risiko → Opsi → Keputusan yang dibutuhkan** Bukan:
 
 > “Pak, ini bermasalah. Mohon arahan.”
 
@@ -486,9 +458,7 @@ Contoh:
 
 > “Sistem pembayaran terganggu sejak 09.42. Saat ini fokus kita mencegah transaksi ganda dan menjaga layanan minimum. Tim A melakukan verifikasi transaksi. Tim B mengecek service pembayaran. Saya eskalasi ke vendor. Update berikutnya pukul 10.00. Penyebab utama belum terkonfirmasi.”
 
-Pendek.
-
-Tetapi:
+Pendek. Tetapi:
 
 > informatif.
 
@@ -561,35 +531,19 @@ Setelah kejadian:
 
 Tanyakan:
 
-**Outcome**
+**Outcome** Apa yang terjadi?
 
-Apa yang terjadi?
+**Expectation** Apa yang kita harapkan?
 
-**Expectation**
+**Decision** Keputusan apa yang dibuat?
 
-Apa yang kita harapkan?
+**Information** Apa yang diketahui saat itu?
 
-**Decision**
+**Execution** Apa yang dilakukan?
 
-Keputusan apa yang dibuat?
+**Context** Apa yang berubah?
 
-**Information**
-
-Apa yang diketahui saat itu?
-
-**Execution**
-
-Apa yang dilakukan?
-
-**Context**
-
-Apa yang berubah?
-
-**Update**
-
-Apa yang perlu diubah?
-
-Ini terhubung langsung dengan:
+**Update** Apa yang perlu diubah? Ini terhubung langsung dengan:
 
 > Chapter 26 — Ketika Keputusan Tidak Menghasilkan Outcome yang Diinginkan.
 
@@ -639,35 +593,19 @@ Belajar dari kejadian.
 
 Ketika menghadapi situasi tertekan, tulis:
 
-**What happened?**
+**What happened?** Apa fakta yang diketahui?
 
-Apa fakta yang diketahui?
+**What matters now?** Apa satu sampai tiga prioritas?
 
-**What matters now?**
+**What is unknown?** Apa yang belum diketahui?
 
-Apa satu sampai tiga prioritas?
+**Who owns what?** Siapa melakukan apa?
 
-**What is unknown?**
+**What decision is needed?** Keputusan minimum apa?
 
-Apa yang belum diketahui?
+**What can wait?** Apa yang sengaja ditunda?
 
-**Who owns what?**
-
-Siapa melakukan apa?
-
-**What decision is needed?**
-
-Keputusan minimum apa?
-
-**What can wait?**
-
-Apa yang sengaja ditunda?
-
-**When do we review?**
-
-Kapan keputusan dievaluasi?
-
-Latihan ini sengaja:
+**When do we review?** Kapan keputusan dievaluasi? Latihan ini sengaja:
 
 > sederhana.
 
