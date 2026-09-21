@@ -1,17 +1,17 @@
 # Positive, Tetapi Tidak Menipu Diri
 
-> **Yang dilatih:** Pemimpin membutuhkan orientasi konstruktif tanpa kehilangan kontak dengan fakta, risiko, dan ketidakpastian.
+> **Yang dilatih:** tetap mencari jalan ke depan tanpa memaksa kenyataan terlihat lebih baik daripada yang sebenarnya.
 
 > **Canonical concept:** SELF.POSITIVE_REALISM  
 > **Related concepts:** SELF.RESILIENCE, LITERACY.DISCIPLINE, SELF.HUMILITY  
 
 ## 1. Positif tidak sama dengan mengatakan semuanya akan baik-baik saja
 
-Ada nasihat yang terdengar baik:
+Ada nasihat yang sering kita dengar:
 
 > “Tetap positif.”
 
-Masalahnya, kalimat itu dapat berarti dua hal yang sangat berbeda. Pertama:
+Masalahnya, kalimat ini bisa berarti dua hal yang sangat berbeda. Pertama:
 
 > “Jangan biarkan masalah membuatmu kehilangan kemampuan untuk bertindak.”
 
@@ -19,7 +19,7 @@ Ini berguna. Kedua:
 
 > “Jangan terlalu memikirkan masalah. Pasti semuanya akan baik-baik saja.”
 
-Ini bisa berbahaya. Buku ini memilih yang pertama.
+Ini bisa berbahaya. Di buku ini, yang dimaksud adalah yang pertama.
 
 **Positive realism** bukan optimisme kosong. Ia adalah orientasi konstruktif yang tetap bersedia melihat keadaan buruk, risiko, ketidakpastian, dan kemungkinan gagal. Kita tidak perlu berkata:
 
@@ -33,7 +33,7 @@ Itulah perbedaan antara **harapan yang tetap terhubung dengan realitas** dan sek
 
 ---
 
-## 2. Optimisme dan realism bukan pasangan yang harus saling membunuh
+## 2. Optimisme tidak harus bertentangan dengan realisme
 
 Optimisme sering dipahami sebagai kecenderungan mengharapkan hasil yang baik. Realism mengharuskan kita memperhatikan evidence yang tersedia. Keduanya dapat bertemu. Misalnya:
 
@@ -45,7 +45,7 @@ dapat hidup berdampingan dengan:
 
 Masalah muncul ketika keyakinan terhadap hasil membuat kita mengabaikan evidence yang bertentangan. Penelitian mengenai unrealistic optimism menunjukkan bahwa orang dapat memperkirakan masa depan secara terlalu menguntungkan, dan bias semacam itu dapat berkaitan dengan keputusan, perilaku, serta respons emosional terhadap hasil yang tidak sesuai harapan. Namun literatur tersebut juga menekankan bahwa bentuk, pengukuran, dan konsekuensi optimism bias memiliki batas dan konteks yang berbeda. ([lihat Catatan evidence](#evidence-notes))
 
-Maka prinsip buku bukan:
+Jadi prinsipnya bukan:
 
 > “Jangan optimis.”
 
@@ -79,7 +79,7 @@ Itu tidak pesimistis. Juga tidak optimistis dalam arti meramal hasil. Ia **konst
 
 ## 4. Empat kotak yang perlu dipisahkan
 
-Ketika menghadapi sebuah situasi, jangan langsung bertanya:
+Ketika menghadapi masalah, jangan buru-buru memberi cap “positif” atau “negatif”.
 
 > “Positif atau negatif?”
 
@@ -109,7 +109,7 @@ Sebuah proyek terlambat.
 
 **Belum diketahui:** apakah vendor dapat mengejar keterlambatan.
 
-**Masih dapat diubah:** scope tahap pertama, urutan pekerjaan, alokasi orang, dan frekuensi checkpoint. Sekarang kita memiliki gambaran yang lebih berguna daripada:
+**Masih dapat diubah:** scope tahap pertama, urutan pekerjaan, alokasi orang, dan frekuensi checkpoint. Dengan begitu, gambaran kita menjadi lebih utuh daripada sekadar mengatakan:
 
 > “Proyek ini masih aman.”
 
@@ -121,7 +121,7 @@ atau:
 
 ## 5. Jangan mengubah “belum tahu” menjadi “pasti”
 
-Positive realism sangat dekat dengan literacy discipline. Misalnya:
+Di sinilah positive realism bertemu dengan disiplin literasi: tetap terbuka pada kemungkinan, tetapi tidak mengisi kekosongan informasi dengan keyakinan. Misalnya:
 
 > “Belum ada keluhan dari pengguna.”
 
@@ -137,7 +137,7 @@ Mungkin mereka puas. Mungkin juga:
 - menganggap keluhan tidak akan ditindaklanjuti;
 - atau masalahnya belum muncul.
 
-Karena itu:
+Jadi:
 
 > **Tidak adanya evidence negatif bukan otomatis evidence positif.**
 
@@ -236,7 +236,7 @@ Jika biaya percobaan kecil dan dapat dibatalkan, peluang kecil mungkin tetap lay
 
 > “Selalu pilih opsi paling aman.”
 
-Realism adalah:
+Realisme berarti:
 
 > **menilai peluang, biaya, risiko, reversibility, dan alternatif secara proporsional terhadap stakes.**
 
@@ -246,11 +246,7 @@ Ini akan dikembangkan lebih jauh dalam bab keputusan dan trade-off.
 
 ## 9. Harapan adalah sumber tindakan, bukan pengganti evidence
 
-Kita membutuhkan harapan. Tanpa harapan, masalah mudah berubah menjadi:
-
-> “Percuma.”
-
-Tetapi harapan tidak boleh menggantikan pemeriksaan. Formula yang lebih sehat:
+Harapan tetap diperlukan. Tanpa harapan, kita mudah berhenti sebelum mencoba. Tetapi harapan tidak boleh dipakai untuk menggantikan pemeriksaan. Formula yang lebih sehat:
 
 > **Hope → Action → Feedback → Update**
 
@@ -270,7 +266,7 @@ Dan:
 
 > “Kapan kita memeriksanya?”
 
-Dengan begitu, harapan menjadi **energi untuk melakukan eksperimen**, bukan alasan untuk mempertahankan keyakinan.
+Dengan begitu, harapan menjadi **energi untuk bertindak**, bukan alasan untuk menolak feedback.
 
 ---
 
@@ -342,9 +338,7 @@ tanpa menyimpulkan:
 
 > “Karena saya takut, saya tidak boleh mencoba.”
 
-Ini kembali ke Chapter 2:
-
-**emosi adalah informasi, bukan perintah.**
+Ini kembali ke Chapter 2: **emosi adalah informasi, bukan perintah.**
 
 ---
 
@@ -368,7 +362,7 @@ Informasi apa yang paling berguna untuk diperoleh berikutnya?
 
 ### Action
 
-Apa tindakan paling proporsional sekarang? Latihan ini adalah **pedagogical tool**, bukan alat ukur psikologis tervalidasi.
+Apa tindakan paling proporsional sekarang? Latihan ini adalah alat bantu berpikir, bukan alat ukur psikologis yang tervalidasi.
 
 ---
 
@@ -398,7 +392,7 @@ ubah menjadi:
 
 > “Saya menduga dia mungkin tidak bersedia membantu. Saya belum tahu alasannya.”
 
-Dengan perubahan kecil ini, kita mengurangi jarak antara **keyakinan** dan **evidence**. Ini juga menyiapkan pembaca untuk Chapter 7:
+Perubahan ini membantu kita memisahkan **keyakinan** dari **bukti** yang mendukungnya. Ini juga menyiapkan pembaca untuk Chapter 7:
 
 **Fakta, Tafsir, dan Cerita di Kepala.**
 
@@ -442,11 +436,11 @@ Apa yang sebenarnya akan dilakukan? Jika tiga pertanyaan ini tidak memiliki jawa
 
 > **Sikap konstruktif berarti tetap mencari ruang tindakan tanpa memalsukan keadaan.**
 
-Kalimat yang paling penting:
+Kalau ada satu kalimat yang perlu dibawa dari bab ini:
 
 > **“Lihat keadaan sebagaimana adanya; pertahankan ruang untuk kemungkinan; lalu pilih tindakan yang masih masuk akal.”**
 
-Itulah positive realism yang ingin dilatih buku ini.
+Itulah bentuk positive realism yang ingin kita latih.
 
 ## Red Flags
 
