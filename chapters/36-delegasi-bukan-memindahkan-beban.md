@@ -27,7 +27,7 @@ Delegasi yang sehat berada di antara keduanya:
 > **beri ownership tanpa meninggalkan orangnya.**
 
 ::: success Green Note
-**Delegasi bukan cara memindahkan beban dari meja leader ke meja orang lain. Delegasi adalah cara memindahkan pekerjaan dan authority dengan kondisi yang membuat pekerjaan dapat dipertanggungjawabkan.**
+**Delegasi bukan cara memindahkan beban dari meja pemimpin ke meja orang lain. Delegasi adalah cara memindahkan pekerjaan dan authority dengan kondisi yang membuat pekerjaan dapat dipertanggungjawabkan.**
 :::
 
 ::: info Konteks
@@ -105,13 +105,13 @@ Contoh:
 
 tetapi:
 
-> semua keputusan kecil harus menunggu approval leader.
+> semua keputusan kecil harus menunggu approval pemimpin.
 
 Itu bukan empowerment. Itu:
 
 > responsibility without authority.
 
-Leader perlu menjelaskan:
+Pemimpin perlu menjelaskan:
 
 > “Apa yang boleh Anda putuskan sendiri?”
 
@@ -135,7 +135,7 @@ Batas adalah:
 
 ## 5. Tidak semua hal harus didelegasikan
 
-Beberapa hal memang lebih tepat tetap pada leader:
+Beberapa hal memang lebih tepat tetap pada pemimpin:
 
 - keputusan yang secara formal hanya dapat dibuat oleh role tertentu;
 - informasi yang sangat sensitif;
@@ -225,7 +225,7 @@ Ini bukan taxonomy universal. Ini:
 
 ## 8. Checkpoint bukan micromanagement
 
-Leader kadang takut:
+Pemimpin kadang takut:
 
 > “Kalau saya check, nanti dibilang micromanage.”
 
@@ -233,7 +233,7 @@ Tidak. Micromanagement bukan sekadar:
 
 > melakukan checkpoint.
 
-Masalahnya adalah ketika leader:
+Masalahnya adalah ketika pemimpin:
 
 > terus mengambil alih keputusan yang sudah didelegasikan,
 
@@ -277,7 +277,7 @@ yang sudah digunakan dalam Chapter 9 dan 24.
 
 ## 10. Jangan mengambil alih hanya karena hasil pertama belum sempurna
 
-Leader melihat draft:
+Pemimpin melihat draft:
 
 > “Ini kurang bagus. Saya saja.”
 
@@ -319,7 +319,7 @@ Jika indikator menunjukkan:
 
 > dependency gagal,
 
-leader perlu:
+pemimpin perlu:
 
 > intervensi.
 
@@ -357,7 +357,7 @@ Jika resource tidak tersedia:
 
 ## 13. Jangan mendelegasikan masalah yang belum jelas
 
-Leader belum memahami:
+Pemimpin belum memahami:
 
 > objective.
 
@@ -389,11 +389,11 @@ Chapter 21–24 relevan di sini.
 
 ## 14. Accountability tidak hilang
 
-Ketika leader mendelegasikan:
+Ketika pemimpin mendelegasikan:
 
 > orang lain menjalankan pekerjaan.
 
-Tetapi leader tetap memiliki:
+Tetapi pemimpin tetap memiliki:
 
 > management responsibility
 
@@ -443,7 +443,7 @@ Contoh:
 
 > staf senior diminta memimpin rapat lintas unit.
 
-Leader memberi:
+Pemimpin memberi:
 
 - outcome;
 - authority;
@@ -497,11 +497,11 @@ Dan:
 
 Ketika tekanan meningkat:
 
-> leader cenderung mengambil kembali semua pekerjaan.
+> pemimpin cenderung mengambil kembali semua pekerjaan.
 
 Padahal:
 
-> kapasitas leader juga terbatas.
+> kapasitas pemimpin juga terbatas.
 
 Gunakan pertanyaan:
 
@@ -519,7 +519,7 @@ Kemudian:
 
 Ini menjaga:
 
-> bandwidth leader.
+> bandwidth pemimpin.
 
 ## 19. Delegation failure bukan selalu people problem
 
@@ -536,7 +536,7 @@ Periksa:
 - skill belum cukup?
 - workload terlalu tinggi?
 - deadline tidak realistis?
-- leader terlalu sering mengubah arah?
+- pemimpin terlalu sering mengubah arah?
 
 Gunakan:
 
@@ -657,7 +657,7 @@ Dan preference bukan selalu:
 :::
 
 ::: caution Hati-hati
-**Checkpoint tidak otomatis micromanagement.** Yang perlu dilihat adalah frekuensi, purpose, level detail, dan apakah leader tetap menghormati authority yang sudah diberikan.
+**Checkpoint tidak otomatis micromanagement.** Yang perlu dilihat adalah frekuensi, purpose, level detail, dan apakah pemimpin tetap menghormati authority yang sudah diberikan.
 :::
 
 ::: warning Risiko
@@ -665,17 +665,17 @@ Delegasi tanpa clarity dapat menciptakan kegagalan yang kemudian keliru disebut 
 :::
 
 ::: danger Batas
-Delegasi tidak memindahkan kewajiban yang secara hukum, governance, atau kewenangan formal memang tetap melekat pada role leader. Jangan menggunakan delegasi untuk menghindari accountability.
+Delegasi tidak memindahkan kewajiban yang secara hukum, governance, atau kewenangan formal memang tetap melekat pada role pemimpin. Jangan menggunakan delegasi untuk menghindari accountability.
 :::
 
 ::: success Green Note
-**Carry forward:** Setelah pekerjaan dibagi, leader perlu melihat konsekuensi yang mungkin muncul dua langkah kemudian. Itu menjadi fokus Chapter 37 — Melihat Dua Langkah ke Depan.
+**Carry forward:** Setelah pekerjaan dibagi, pemimpin perlu melihat konsekuensi yang mungkin muncul dua langkah kemudian. Itu menjadi fokus Chapter 37 — Melihat Dua Langkah ke Depan.
 :::
 
 ## Evidence notes
 
 - Delegation, empowerment, and management control literature.
-- Research on leader-member relationships and autonomy.
+- Research on pemimpin-member relationships and autonomy.
 - Research on empowerment and employee decision authority.
 - Management control, accountability, and coordination literature.
 - Leadership development through challenging assignments.
