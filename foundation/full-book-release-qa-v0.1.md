@@ -156,7 +156,7 @@ Verified:
 - Node 22;
 - VitePress build command;
 - Pages artifact path .vitepress/dist;
-- GitHub Actions run #130 completed successfully after fixing the landing-page YAML frontmatter.
+- GitHub Actions run #150 completed successfully on the latest release-gate commit `f944ca540dd629794ffc768ad4c9f027aea87200` (2026-09-21), confirming the VitePress build/deploy workflow still passes after the final runtime-marker sweep. Earlier run #130 also passed after fixing the landing-page YAML frontmatter.
 
 The preceding failed CI run (#128) was traced to an unquoted colon-containing description value in index.md, not to the VitePress configuration or dependency installation.
 
@@ -228,7 +228,7 @@ A final prose-level pass should inspect whether any individual paragraph acciden
 
 **Book status: DRAFT COMPLETE — 44/44 CHAPTERS**
 
-This QA does not declare the manuscript typo-free or publication-ready. The editorial/runtime-marker pass is complete. Remaining release gates are CI on the latest commits, public-site smoke test when externally verifiable, and release version/tag.
+This QA does not declare the manuscript typo-free or publication-ready. The editorial/runtime-marker pass is complete. Remaining release gates are the public-site smoke test when externally verifiable and release version/tag creation. Latest CI is now verified.
 
 ## 12. Final editorial checklist
 
