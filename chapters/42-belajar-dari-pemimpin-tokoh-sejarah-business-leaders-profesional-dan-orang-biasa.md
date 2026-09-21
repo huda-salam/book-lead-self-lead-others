@@ -215,7 +215,7 @@ berbeda dari:
 
 Maka jangan belajar:
 
-> “leader hebat mengambil keputusan cepat.”
+> “pemimpin hebat mengambil keputusan cepat.”
 
 Belajar:
 
@@ -243,7 +243,7 @@ Tetapi ada boundary:
 
 > terlalu banyak direct contact dapat menciptakan noise;
 
-> leader dapat terlalu fokus pada kasus individual;
+> pemimpin dapat terlalu fokus pada kasus individual;
 
 > organisasi dapat kehilangan struktur data.
 
@@ -350,7 +350,7 @@ Dari satu tindakan. Lebih berguna:
 
 Itu lebih dapat dianalisis.
 
-## 9. Business leader: jangan belajar dari quote
+## 9. Business pemimpin: jangan belajar dari quote
 
 Quote sangat mudah dibagikan:
 
@@ -580,7 +580,7 @@ Ini bukan untuk meremehkan kerja keras. Ini untuk:
 
 ## 16. Jangan membuat personality dari behavior
 
-Seorang leader:
+Seorang pemimpin:
 
 > menolak proposal.
 
@@ -851,7 +851,7 @@ Success stories rentan terhadap survivorship bias, halo effect, hindsight, selec
 :::
 
 ::: danger Batas
-Tokoh publik, business leader, profesional, dan orang biasa tetap manusia dengan domain kompetensi dan keterbatasan. Tidak ada kewajiban untuk mengadopsi seluruh pandangan seseorang hanya karena satu behavior-nya layak dipelajari.
+Tokoh publik, business pemimpin, profesional, dan orang biasa tetap manusia dengan domain kompetensi dan keterbatasan. Tidak ada kewajiban untuk mengadopsi seluruh pandangan seseorang hanya karena satu behavior-nya layak dipelajari.
 :::
 
 ## Evidence notes
