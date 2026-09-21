@@ -1,4 +1,6 @@
-# 05 — Positive, Tetapi Tidak Menipu Diri
+# Positive, Tetapi Tidak Menipu Diri
+
+> **Leader capability:** Leader membutuhkan orientasi konstruktif tanpa kehilangan kontak dengan fakta, risiko, dan ketidakpastian.
 
 > **Canonical concept:** SELF.POSITIVE_REALISM  
 > **Related concepts:** SELF.RESILIENCE, LITERACY.DISCIPLINE, SELF.HUMILITY  
@@ -538,6 +540,16 @@ Kalimat yang paling penting:
 > **“Lihat keadaan sebagaimana adanya; pertahankan ruang untuk kemungkinan; lalu pilih tindakan yang masih masuk akal.”**
 
 Itulah positive realism yang ingin dilatih buku ini.
+
+## Red Flags
+
+::: warning Risiko
+Jangan mengubah capability ini menjadi aturan absolut. Leadership selalu membutuhkan penyesuaian terhadap konteks, stakes, authority, evidence, dan dampak terhadap pihak lain.
+:::
+
+::: success Green Note
+**Carry forward:** capability ini harus membantu pembaca melihat situasi lebih jernih, memilih dengan lebih baik, bertindak dengan ownership, lalu belajar dari konsekuensinya.
+:::
 
 ## Evidence notes
 
