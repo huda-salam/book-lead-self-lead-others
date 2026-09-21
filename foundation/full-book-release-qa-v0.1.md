@@ -228,17 +228,17 @@ A final prose-level pass should inspect whether any individual paragraph acciden
 
 **Book status: DRAFT COMPLETE — 44/44 CHAPTERS**
 
-This QA does not declare the manuscript typo-free or publication-ready. The next quality step is a focused editorial pass, not additional chapter architecture.
+This QA does not declare the manuscript typo-free or publication-ready. The next quality step is a focused editorial pass, not additional chapter architecture. A final red-team artifact has been added at `foundation/final-editorial-red-team-v0.1.md`.
 
 ## 12. Final editorial checklist
 
 - [ ] Full prose repetition pass
 - [ ] Indonesian terminology consistency pass
-- [ ] Citation/provenance spot-check across all chapters
+- [ ] Full citation/provenance sweep across all chapters (final red-team found runtime citation placeholders in several early/recent chapters; cleanup started in Ch 2–5, 43–44)
 - [ ] Cross-reference spot-check
 - [ ] Visual callout consistency pass
 - [x] CI VitePress build
 - [x] GitHub Actions build PASS
 - [ ] Public site smoke test
-- [ ] Final red-team
+- [x] Final editorial red-team v0.1 — architecture/boundary pass; prose/citation sweep remains open
 - [ ] Release tag / version
