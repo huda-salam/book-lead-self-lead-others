@@ -1,18 +1,16 @@
 # Mencari Akar Tanpa Terjebak Root Cause
 
-> **Leader capability:** Membedakan gejala, penyebab, kontribusi, mekanisme, dan titik intervensi tanpa mengubah dugaan sebab menjadi kepastian palsu.
+> **Yang dilatih:** Membedakan gejala, penyebab, kontribusi, mekanisme, dan titik intervensi tanpa mengubah dugaan sebab menjadi kepastian palsu.
 
 > **Canonical concept:** PROBLEM.CAUSAL
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
 Ketika sesuatu gagal, kita ingin tahu:
 
 > “Kenapa?”
 
-Pertanyaan itu penting.
-
-Masalahnya muncul ketika kita terlalu cepat merasa sudah menemukan jawabannya.
+Pertanyaan itu penting. Masalahnya muncul ketika kita terlalu cepat merasa sudah menemukan jawabannya.
 
 > “Karena pegawainya kurang disiplin.”
 
@@ -22,15 +20,11 @@ Masalahnya muncul ketika kita terlalu cepat merasa sudah menemukan jawabannya.
 
 > “Karena SOP-nya salah.”
 
-Semua mungkin benar.
-
-Tetapi “mungkin benar” berbeda dengan:
+Semua mungkin benar. Tetapi “mungkin benar” berbeda dengan:
 
 > **“kita punya cukup evidence bahwa faktor ini berkontribusi melalui mekanisme tertentu.”**
 
-Leader tidak membutuhkan kepastian palsu.
-
-Leader membutuhkan penjelasan sebab yang cukup kuat untuk menentukan tindakan.
+Leader tidak membutuhkan kepastian palsu. Leader membutuhkan penjelasan sebab yang cukup kuat untuk menentukan tindakan.
 
 ::: success Green Note
 **Jangan mencari root cause untuk terlihat analitis. Cari causal explanation yang cukup kuat untuk memperbaiki keadaan.**
@@ -40,7 +34,7 @@ Leader membutuhkan penjelasan sebab yang cukup kuat untuk menentukan tindakan.
 Chapter 21 membingkai masalah. Chapter 22 menjaga hipotesis dan alternatif. Chapter 23 menguji pertanyaan yang lebih sulit: “Apa yang sebenarnya menyebabkan outcome ini?”
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 Leader sedang melatih kemampuan untuk:
 
@@ -60,9 +54,7 @@ Kesimpulan:
 
 > “Sistem baru menyebabkan keterlambatan.”
 
-Mungkin.
-
-Tetapi mungkin juga pada saat yang sama:
+Mungkin. Tetapi mungkin juga pada saat yang sama:
 
 - volume transaksi meningkat;
 - pegawai baru mulai bekerja;
@@ -70,17 +62,13 @@ Tetapi mungkin juga pada saat yang sama:
 - integrasi belum selesai;
 - atau target baru diberlakukan.
 
-Urutan waktu adalah informasi.
-
-Bukan bukti kausal yang lengkap.
+Urutan waktu adalah informasi. Bukan bukti kausal yang lengkap.
 
 ## 2. Gunakan timeline
 
 Langkah sederhana:
 
-**Apa yang terjadi sebelum outcome?**
-
-Misalnya:
+**Apa yang terjadi sebelum outcome?** Misalnya:
 
 1. target berubah;
 2. volume pekerjaan naik;
@@ -88,9 +76,7 @@ Misalnya:
 4. sistem diperbarui;
 5. keterlambatan meningkat.
 
-Sekarang kita memiliki beberapa kandidat.
-
-Jangan langsung memilih nomor 4 hanya karena paling terlihat.
+Sekarang kita memiliki beberapa kandidat. Jangan langsung memilih nomor 4 hanya karena paling terlihat.
 
 ## 3. Bedakan symptom, cause, contributor, mechanism
 
@@ -104,9 +90,7 @@ Contoh:
 
 **Mechanism:** setiap laporan harus menunggu dua approval yang tidak tersedia pada hari yang sama.
 
-**Leverage point:** desain approval dapat diubah menjadi risk-based.
-
-Ini jauh lebih berguna daripada:
+**Leverage point:** desain approval dapat diubah menjadi risk-based. Ini jauh lebih berguna daripada:
 
 > “Root cause: birokrasi.”
 
@@ -119,9 +103,7 @@ Bayangkan keterlambatan disebabkan oleh:
 - kapasitas reviewer berkurang;
 - prioritas berubah.
 
-Tidak perlu memaksa semua menjadi satu root cause.
-
-Bisa saja:
+Tidak perlu memaksa semua menjadi satu root cause. Bisa saja:
 
 > beberapa faktor berkontribusi secara bersamaan.
 
@@ -133,11 +115,7 @@ Kebalikan dari oversimplification adalah:
 
 > “Sistemnya kompleks. Tidak ada yang tahu penyebabnya.”
 
-Ini juga tidak membantu.
-
-Kita mungkin tidak tahu seluruh causal structure.
-
-Tetapi mungkin cukup tahu:
+Ini juga tidak membantu. Kita mungkin tidak tahu seluruh causal structure. Tetapi mungkin cukup tahu:
 
 > “Faktor X adalah contributor yang cukup kuat dan dapat kita ubah.”
 
@@ -145,9 +123,7 @@ Itu sudah dapat menjadi titik intervensi.
 
 ## 6. Tanyakan: “Bagaimana faktor ini menghasilkan outcome?”
 
-Ini salah satu pertanyaan paling penting.
-
-Jangan hanya:
+Ini salah satu pertanyaan paling penting. Jangan hanya:
 
 > “Apakah X berkaitan dengan Y?”
 
@@ -159,15 +135,9 @@ Misalnya:
 
 > “Beban kerja tinggi menyebabkan kesalahan.”
 
-Bagaimana?
+Bagaimana? Mungkin:
 
-Mungkin:
-
-**beban tinggi → waktu pemeriksaan berkurang → langkah verifikasi dilewati → error meningkat.**
-
-Sekarang mekanismenya lebih jelas.
-
-Kemudian kita dapat bertanya:
+**beban tinggi → waktu pemeriksaan berkurang → langkah verifikasi dilewati → error meningkat.** Sekarang mekanismenya lebih jelas. Kemudian kita dapat bertanya:
 
 > “Apakah data mendukung setiap bagian rantai itu?”
 
@@ -189,23 +159,17 @@ Atau:
 
 > “Kesalahan meningkat karena sistem memberi informasi yang membingungkan.”
 
-Jangan mencari alternatif hanya untuk terlihat kritis.
-
-Cari alternatif yang:
+Jangan mencari alternatif hanya untuk terlihat kritis. Cari alternatif yang:
 
 > **benar-benar dapat menjelaskan evidence yang sama.**
 
 ## 8. Apa yang akan berbeda jika penyebabnya berbeda?
 
-Ini pertanyaan counterfactual.
-
-Misalnya dua hipotesis:
+Ini pertanyaan counterfactual. Misalnya dua hipotesis:
 
 **H1:** keterlambatan karena kapasitas kurang.
 
-**H2:** keterlambatan karena proses approval.
-
-Jika H1 benar:
+**H2:** keterlambatan karena proses approval. Jika H1 benar:
 
 > menambah kapasitas seharusnya memperbaiki waktu.
 
@@ -217,45 +181,19 @@ Sekarang kita tahu evidence apa yang berguna.
 
 ## 9. Jangan terlalu percaya pada 5 Whys
 
-Bertanya “mengapa?” berulang kali dapat membantu membuka lapisan masalah.
-
-Contoh:
+Bertanya “mengapa?” berulang kali dapat membantu membuka lapisan masalah. Contoh:
 
 > Kenapa laporan terlambat?
 
-Karena verifikasi terlambat.
-
-Kenapa verifikasi terlambat?
-
-Karena reviewer menunggu dokumen.
-
-Kenapa dokumen terlambat?
-
-Karena unit mengumpulkan data manual.
-
-Kenapa manual?
-
-Karena sistem belum terintegrasi.
-
-Itu bisa berguna.
-
-Tetapi hasil akhirnya:
+Karena verifikasi terlambat. Kenapa verifikasi terlambat? Karena reviewer menunggu dokumen. Kenapa dokumen terlambat? Karena unit mengumpulkan data manual. Kenapa manual? Karena sistem belum terintegrasi. Itu bisa berguna. Tetapi hasil akhirnya:
 
 > “sistem belum terintegrasi”
 
-belum otomatis merupakan root cause.
-
-Mungkin integrasi memang bukan pilihan terbaik.
-
-Mungkin masalah sebenarnya desain proses.
-
-Gunakan 5 Whys sebagai **prompt investigasi**, bukan mesin kebenaran kausal.
+belum otomatis merupakan root cause. Mungkin integrasi memang bukan pilihan terbaik. Mungkin masalah sebenarnya desain proses. Gunakan 5 Whys sebagai **prompt investigasi**, bukan mesin kebenaran kausal.
 
 ## 10. Root cause bisa berubah tergantung tujuan
 
-Misalnya sistem lambat.
-
-Untuk tim infrastruktur:
+Misalnya sistem lambat. Untuk tim infrastruktur:
 
 > bottleneck database.
 
@@ -267,9 +205,7 @@ Untuk pengguna:
 
 > transaksi membutuhkan waktu terlalu lama.
 
-Semua dapat benar pada level berbeda.
-
-Leader perlu bertanya:
+Semua dapat benar pada level berbeda. Leader perlu bertanya:
 
 > **“Kausal explanation ini diperlukan untuk keputusan apa?”**
 
@@ -303,15 +239,11 @@ Jangan mengumpulkan evidence yang tidak menjawab keputusan.
 
 ## 12. Leverage point tidak selalu root cause
 
-Kadang penyebab paling awal sulit diubah.
-
-Misalnya:
+Kadang penyebab paling awal sulit diubah. Misalnya:
 
 > volume transaksi memang meningkat.
 
-Kita tidak dapat menghapus pertumbuhan.
-
-Tetapi kita dapat mengubah:
+Kita tidak dapat menghapus pertumbuhan. Tetapi kita dapat mengubah:
 
 > proses verifikasi.
 
@@ -329,9 +261,7 @@ Jika masalah kecil:
 
 > keterlambatan satu hari.
 
-Analisis sederhana mungkin cukup.
-
-Jika masalah besar:
+Analisis sederhana mungkin cukup. Jika masalah besar:
 
 > keselamatan pasien, fraud, kerusakan aset besar, pelanggaran hukum, atau kegagalan sistem kritis;
 
@@ -356,9 +286,7 @@ Hindari:
 
 > “X pasti menyebabkan Y.”
 
-Jika evidence belum cukup.
-
-Gunakan:
+Jika evidence belum cukup. Gunakan:
 
 > “X tampak berkontribusi terhadap Y.”
 
@@ -370,9 +298,7 @@ atau:
 
 > “Kami belum dapat membedakan apakah X atau Z merupakan penyebab utama.”
 
-Bahasa seperti ini bukan kelemahan.
-
-Ini **epistemic discipline**.
+Bahasa seperti ini bukan kelemahan. Ini **epistemic discipline**.
 
 ## 15. Framework kerja
 
@@ -418,34 +344,34 @@ Apa yang berubah setelah evidence baru masuk?
 
 ## 16. Causal Card
 
-**Outcome:**  
+**Outcome:**
 Apa yang ingin dijelaskan?
 
-**Before:**  
+**Before:**
 Apa yang terjadi sebelumnya?
 
-**Candidate:**  
+**Candidate:**
 Apa kemungkinan penyebab?
 
-**Mechanism:**  
+**Mechanism:**
 Bagaimana penyebab itu menghasilkan outcome?
 
-**Alternative:**  
+**Alternative:**
 Apa penjelasan lain?
 
-**Evidence:**  
+**Evidence:**
 Apa bukti untuk/terhadap masing-masing?
 
-**Counterfactual:**  
+**Counterfactual:**
 Apa yang seharusnya berbeda jika hipotesis ini benar?
 
-**Leverage:**  
+**Leverage:**
 Apa yang dapat kita ubah?
 
-**Test:**  
+**Test:**
 Apa yang bisa diuji sekarang?
 
-**Confidence:**  
+**Confidence:**
 Seberapa kuat kesimpulan kita?
 
 ## 17. Contoh: pegawai “tidak disiplin”
@@ -458,9 +384,7 @@ Hipotesis pertama:
 
 > pegawai tidak disiplin.
 
-Turunkan.
-
-Apa observasinya?
+Turunkan. Apa observasinya?
 
 > 5 dari 20 pekerjaan terlambat.
 
@@ -473,9 +397,7 @@ Alternative:
 - skill gap;
 - atau memang eksekusi buruk.
 
-Sekarang kita punya beberapa kemungkinan.
-
-Setelah diperiksa, ternyata:
+Sekarang kita punya beberapa kemungkinan. Setelah diperiksa, ternyata:
 
 > 70% pekerjaan terlambat menunggu approval.
 
@@ -483,11 +405,7 @@ Maka:
 
 > “pegawai tidak disiplin”
 
-tidak lagi menjadi penjelasan utama untuk outcome tersebut.
-
-Ini bukan berarti accountability hilang.
-
-Ini berarti:
+tidak lagi menjadi penjelasan utama untuk outcome tersebut. Ini bukan berarti accountability hilang. Ini berarti:
 
 > **kita mengarahkan accountability ke masalah yang benar.**
 
@@ -497,9 +415,7 @@ Leader kadang menunggu:
 
 > “Kita harus tahu penyebab 100% dulu.”
 
-Tidak selalu.
-
-Jika evidence cukup menunjukkan:
+Tidak selalu. Jika evidence cukup menunjukkan:
 
 > faktor X kemungkinan besar berkontribusi;
 
@@ -509,11 +425,7 @@ dan tindakan terhadap X:
 - reversibel;
 - murah;
 
-kita dapat bergerak sambil belajar.
-
-Causal confidence dan action threshold tidak harus sama.
-
-Keputusan dapat dibuat sebelum causal certainty sempurna.
+kita dapat bergerak sambil belajar. Causal confidence dan action threshold tidak harus sama. Keputusan dapat dibuat sebelum causal certainty sempurna.
 
 ## 19. Latihan: dari label ke mekanisme
 
@@ -577,9 +489,7 @@ Tetapi:
 
 > “Evidence saat ini belum cukup membedakan antara beberapa penjelasan.”
 
-Itu bukan kegagalan analisis.
-
-Itu titik awal untuk mencari evidence yang tepat.
+Itu bukan kegagalan analisis. Itu titik awal untuk mencari evidence yang tepat.
 
 ::: warning Risiko
 Jangan menyebut sesuatu “root cause” hanya karena terdengar final. Label yang terlalu pasti dapat membuat organisasi berhenti mencari penjelasan alternatif.
