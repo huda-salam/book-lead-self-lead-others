@@ -1,16 +1,12 @@
 # Dari Keputusan ke Eksekusi
 
-> **Leader capability:** Mengubah keputusan menjadi tindakan yang memiliki owner, hasil yang jelas, urutan kerja, koordinasi, feedback, dan mekanisme penyesuaian.
+> **Yang dilatih:** Mengubah keputusan menjadi tindakan yang memiliki owner, hasil yang jelas, urutan kerja, koordinasi, feedback, dan mekanisme penyesuaian.
 
 > **Canonical concept:** DECISION.EXECUTION
 
-## Mengapa Ini Penting bagi Leader
+## Mengapa Ini Penting
 
-Rapat selesai.
-
-Keputusan sudah dibuat.
-
-Semua orang berkata:
+Rapat selesai. Keputusan sudah dibuat. Semua orang berkata:
 
 > “Siap.”
 
@@ -28,11 +24,7 @@ Inilah salah satu kesalahan berpikir dalam organisasi:
 
 Padahal:
 
-**Decision ≠ Execution.**
-
-Keputusan memilih arah.
-
-Eksekusi mengubah arah menjadi kenyataan.
+**Decision ≠ Execution.** Keputusan memilih arah. Eksekusi mengubah arah menjadi kenyataan.
 
 ::: success Green Note
 **Keputusan memberi arah. Eksekusi memberi bukti.**
@@ -42,7 +34,7 @@ Eksekusi mengubah arah menjadi kenyataan.
 Chapter 24 membahas memilih. Chapter 25 membahas menerjemahkan pilihan menjadi pekerjaan nyata. Chapter 26 akan membahas apa yang dilakukan ketika hasil tidak sesuai harapan.
 :::
 
-## Kapabilitas yang Sedang Dilatih
+## Yang Sedang Kita Latih
 
 Leader sedang melatih kemampuan untuk:
 
@@ -60,19 +52,7 @@ Kalimat:
 
 > “Kita akan memperbaiki proses.”
 
-belum cukup.
-
-Apa yang berubah?
-
-Siapa?
-
-Kapan?
-
-Dengan sumber daya apa?
-
-Bagaimana kita tahu sudah selesai?
-
-Bandingkan:
+belum cukup. Apa yang berubah? Siapa? Kapan? Dengan sumber daya apa? Bagaimana kita tahu sudah selesai? Bandingkan:
 
 > “Mulai 1 Oktober, Unit A menghapus input ganda pada tahap X. Budi menjadi accountable owner. Minggu pertama digunakan untuk konfigurasi, minggu kedua pilot pada lima transaksi, dan hasil diperiksa Jumat.”
 
@@ -80,9 +60,7 @@ Sekarang keputusan memiliki bentuk operasional.
 
 ## 2. Ubah keputusan menjadi outcome
 
-Jangan mulai dari daftar aktivitas.
-
-Mulai:
+Jangan mulai dari daftar aktivitas. Mulai:
 
 > **“Apa kondisi yang ingin berubah?”**
 
@@ -96,9 +74,7 @@ Tetapi:
 
 > “Petugas dapat menyelesaikan proses X tanpa bantuan pada akhir bulan.”
 
-Pelatihan mungkin menjadi salah satu aktivitas.
-
-Tetapi outcome adalah perubahan yang sebenarnya diinginkan.
+Pelatihan mungkin menjadi salah satu aktivitas. Tetapi outcome adalah perubahan yang sebenarnya diinginkan.
 
 ## 3. Owner harus jelas
 
@@ -106,13 +82,7 @@ Kalimat:
 
 > “Tim IT akan mengurus.”
 
-terlalu kabur.
-
-Siapa yang accountable?
-
-Bukan berarti satu orang melakukan semuanya.
-
-Tetapi seseorang harus jelas sebagai:
+terlalu kabur. Siapa yang accountable? Bukan berarti satu orang melakukan semuanya. Tetapi seseorang harus jelas sebagai:
 
 > **owner hasil.**
 
@@ -137,9 +107,7 @@ Organisasi mudah tertipu oleh aktivitas.
 
 > 80% task selesai.
 
-Tetapi apakah masalahnya bergerak?
-
-Tanyakan:
+Tetapi apakah masalahnya bergerak? Tanyakan:
 
 > “Apa evidence bahwa outcome mulai berubah?”
 
@@ -157,19 +125,13 @@ Yang kedua lebih dekat ke outcome.
 
 ## 5. Dependency sering menjadi bottleneck
 
-Sebuah pekerjaan dapat terlambat bukan karena owner tidak bekerja.
-
-Tetapi karena:
+Sebuah pekerjaan dapat terlambat bukan karena owner tidak bekerja. Tetapi karena:
 
 > menunggu pekerjaan lain.
 
 Misalnya:
 
-**A → B → C → D**
-
-Jika B terlambat, C dan D ikut terlambat.
-
-Maka execution planning perlu melihat:
+**A → B → C → D** Jika B terlambat, C dan D ikut terlambat. Maka execution planning perlu melihat:
 
 - dependency;
 - handoff;
@@ -184,9 +146,7 @@ Ada kecenderungan:
 
 > membuat plan sangat detail sebelum mulai.
 
-Padahal beberapa informasi baru muncul ketika pekerjaan berjalan.
-
-Gunakan:
+Padahal beberapa informasi baru muncul ketika pekerjaan berjalan. Gunakan:
 
 > **minimum viable plan.**
 
@@ -197,11 +157,7 @@ Cukup untuk:
 - menemukan bottleneck;
 - dan belajar.
 
-Kemudian update.
-
-Ini bukan alasan membuat rencana asal-asalan.
-
-Ini pengakuan bahwa:
+Kemudian update. Ini bukan alasan membuat rencana asal-asalan. Ini pengakuan bahwa:
 
 > sebagian uncertainty baru hilang setelah execution dimulai.
 
@@ -229,15 +185,11 @@ Checkpoint memberi kesempatan untuk:
 
 ## 8. Leading versus lagging indicators
 
-Outcome akhir kadang terlambat terlihat.
-
-Misalnya target:
+Outcome akhir kadang terlambat terlihat. Misalnya target:
 
 > menurunkan waktu proses menjadi dua hari.
 
-Kita tidak perlu menunggu satu bulan untuk tahu ada masalah.
-
-Leading indicators mungkin:
+Kita tidak perlu menunggu satu bulan untuk tahu ada masalah. Leading indicators mungkin:
 
 - backlog;
 - waktu antrean;
@@ -251,9 +203,7 @@ Ini membantu leader melihat:
 
 ## 9. Jangan ubah prioritas setiap hari
 
-Execution membutuhkan stabilitas.
-
-Jika hari ini:
+Execution membutuhkan stabilitas. Jika hari ini:
 
 > A paling penting.
 
@@ -269,9 +219,7 @@ Tim akan belajar:
 
 > jangan terlalu serius dengan prioritas.
 
-Tentu keadaan dapat berubah.
-
-Tetapi perubahan prioritas sebaiknya memiliki alasan yang dapat dijelaskan:
+Tentu keadaan dapat berubah. Tetapi perubahan prioritas sebaiknya memiliki alasan yang dapat dijelaskan:
 
 > informasi baru;
 > risiko baru;
@@ -284,27 +232,19 @@ Bukan sekadar:
 
 ## 10. Execution membutuhkan escalation path
 
-Tidak semua hambatan dapat diselesaikan oleh owner.
-
-Contoh:
+Tidak semua hambatan dapat diselesaikan oleh owner. Contoh:
 
 > owner membutuhkan keputusan dari pimpinan.
 
-Jika tidak ada escalation path, pekerjaan berhenti.
-
-Maka sejak awal:
+Jika tidak ada escalation path, pekerjaan berhenti. Maka sejak awal:
 
 > “Jika dependency X belum selesai pada tanggal Y, siapa yang harus diberi tahu?”
 
-Eskalasi bukan tanda kegagalan.
-
-Eskalasi adalah bagian dari desain execution.
+Eskalasi bukan tanda kegagalan. Eskalasi adalah bagian dari desain execution.
 
 ## 11. Adaptasi tanpa menghilangkan commitment
 
-Plan dapat berubah.
-
-Misalnya:
+Plan dapat berubah. Misalnya:
 
 > metode A tidak bekerja.
 
@@ -312,17 +252,13 @@ Mengubah ke:
 
 > metode B
 
-bukan otomatis gagal.
-
-Yang penting:
+bukan otomatis gagal. Yang penting:
 
 > apa tujuan yang masih dipertahankan?
 
 Ini mengulang prinsip Chapter 4 dan 22:
 
-**goal persistence ≠ method rigidity.**
-
-Tetapi hati-hati.
+**goal persistence ≠ method rigidity.** Tetapi hati-hati.
 
 “Adaptasi” juga dapat menjadi nama lain untuk:
 
@@ -376,34 +312,34 @@ Apakah hambatan dapat diselesaikan di level sekarang atau perlu keputusan lebih 
 
 ## 13. Execution Card
 
-**Decision:**  
+**Decision:**
 Apa yang diputuskan?
 
-**Outcome:**  
+**Outcome:**
 Apa kondisi yang ingin berubah?
 
-**Owner:**  
+**Owner:**
 Siapa accountable?
 
-**First action:**  
+**First action:**
 Apa tindakan pertama?
 
-**Deadline:**  
+**Deadline:**
 Kapan?
 
-**Dependencies:**  
+**Dependencies:**
 Apa yang dibutuhkan?
 
-**Checkpoint:**  
+**Checkpoint:**
 Kapan kita berhenti dan memeriksa?
 
-**Leading indicator:**  
+**Leading indicator:**
 Apa sinyal awal?
 
-**Escalation trigger:**  
+**Escalation trigger:**
 Kapan perlu bantuan/keputusan?
 
-**Adaptation rule:**  
+**Adaptation rule:**
 Evidence apa yang dapat membuat kita mengubah metode?
 
 ## 14. Contoh: implementasi sistem baru
@@ -456,41 +392,23 @@ Jangan langsung:
 
 Gunakan diagnosis:
 
-**People?**
+**People?** Skill atau kapasitas?
 
-Skill atau kapasitas?
+**Process?** Alur?
 
-**Process?**
+**Priority?** Terlalu banyak pekerjaan?
 
-Alur?
+**Dependency?** Menunggu pihak lain?
 
-**Priority?**
+**Decision?** Ada keputusan yang belum dibuat?
 
-Terlalu banyak pekerjaan?
+**Resource?** Kekurangan alat/anggaran?
 
-**Dependency?**
-
-Menunggu pihak lain?
-
-**Decision?**
-
-Ada keputusan yang belum dibuat?
-
-**Resource?**
-
-Kekurangan alat/anggaran?
-
-**Assumption?**
-
-Asumsi awal ternyata salah?
-
-Ini mencegah leader menghukum orang untuk masalah sistem.
+**Assumption?** Asumsi awal ternyata salah? Ini mencegah leader menghukum orang untuk masalah sistem.
 
 ## 16. Ketika owner gagal
 
-Ownership tidak berarti owner selalu menjadi penyebab masalah.
-
-Pertama:
+Ownership tidak berarti owner selalu menjadi penyebab masalah. Pertama:
 
 > apa yang menghambat?
 
@@ -529,17 +447,11 @@ bukan post-mortem semata.
 
 ## 18. Latihan: ubah keputusan menjadi execution card
 
-Ambil satu keputusan nyata.
-
-Jika Anda tidak dapat mengisi:
+Ambil satu keputusan nyata. Jika Anda tidak dapat mengisi:
 
 > owner, outcome, first action, dependency, checkpoint, indicator,
 
-mungkin keputusan belum cukup operasional.
-
-Bukan berarti harus ditunda.
-
-Tetapi:
+mungkin keputusan belum cukup operasional. Bukan berarti harus ditunda. Tetapi:
 
 > **operational clarity perlu dilengkapi sebelum execution dimulai.**
 
@@ -553,13 +465,7 @@ Pertanyaan berikutnya:
 
 > “Apa yang berubah?”
 
-Kerja keras adalah input.
-
-Outcome adalah hasil.
-
-Keduanya penting.
-
-Tetapi jangan menukar satu dengan yang lain.
+Kerja keras adalah input. Outcome adalah hasil. Keduanya penting. Tetapi jangan menukar satu dengan yang lain.
 
 ::: warning Risiko
 Execution dapat gagal walaupun semua orang terlihat sibuk. Ukur kemajuan melalui perubahan outcome dan leading indicators yang relevan, bukan volume aktivitas saja.
