@@ -7,7 +7,7 @@
 
 Kita sering baru sadar pentingnya mengatur respons setelah terlanjur mengatakan sesuatu, mengirim pesan, atau mengambil keputusan yang sebenarnya bisa ditunda beberapa menit. Bab ini dimulai dari situ: bukan dari bagaimana menjadi orang yang selalu tenang, tetapi dari bagaimana tetap punya ruang untuk memilih ketika keadaan sedang tidak enak.
 
-::: tip Green Note {class=green-note}
+::: tip Green Note {data-green-note}
 **Lensa kepemimpinan:** Cara kita merespons memang penting. Tetapi kepemimpinan tidak berhenti pada kemampuan menahan reaksi. Kadang kita perlu bicara, menolak, mengambil keputusan, atau mengeskalasi.
 
 ::: info Konteks
@@ -334,7 +334,7 @@ Dalam bab ini, kalimat tersebut adalah prinsip latihan; bukan janji bahwa latiha
 Jangan mengubah capability ini menjadi aturan absolut. Leadership selalu membutuhkan penyesuaian terhadap konteks, stakes, authority, evidence, dan dampak terhadap pihak lain.
 :::
 
-::: tip Green Note {class=green-note}
+::: tip Green Note {data-green-note}
 **Carry forward:** capability ini harus membantu pembaca melihat situasi lebih jernih, memilih dengan lebih baik, bertindak dengan ownership, lalu belajar dari konsekuensinya.
 :::
 
