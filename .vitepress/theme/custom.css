@@ -80,3 +80,10 @@
     padding: 10px 14px;
   }
 }
+
+/* Green Note variant: native VitePress tip container with explicit editorial class */
+:root[data-book-style='sky'] .vp-doc .custom-block.green-note {
+  border-color: rgba(46, 125, 50, 0.24);
+  background: linear-gradient(90deg, rgba(76, 175, 80, 0.11), rgba(76, 175, 80, 0.035));
+}
+
